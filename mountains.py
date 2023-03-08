@@ -1,6 +1,6 @@
-import requests
-from bs4 import BeautifulSoup
+from soup_helper import get_soup
 import json
+from bs4 import BeautifulSoup
 
 BASE_URL = "https://climbnz.org.nz"
 INDEX_PAGE = f"{BASE_URL}/mountains"
@@ -8,9 +8,7 @@ INDEX_PAGE = f"{BASE_URL}/mountains"
 
 def get_index():
     table_selector = ".view-climbnz-mountains tbody tr"
-
-    html = requests.get(INDEX_PAGE).text
-    soup = BeautifulSoup(html, features='lxml')
+    soup = get_soup(INDEX_PAGE)
 
     rows = soup.select(table_selector)
     for row in rows:
@@ -19,8 +17,7 @@ def get_index():
 
 
 def download_mountain(url):
-    html = requests.get(url).text
-    soup = BeautifulSoup(html, features='lxml')
+    soup = get_soup(url)
 
     def maybe_text(el: BeautifulSoup, selector: str):
         el = el.select_one(selector)
@@ -79,7 +76,7 @@ if __name__ == "__main__":
     from multiprocessing import Pool
 
     mountains = None
-    with Pool() as p:
+    with Pool(processes=100) as p:
         mountains = list(p.map(download_mountain, [url for (title, url) in get_index()]))
 
     result = {}
