@@ -59,6 +59,13 @@ def download_mountain(url):
                 'ascent': maybe_text(detail_row, '.ascent'),
             }
 
+    def get_places(mountain: BeautifulSoup):
+        place_els = mountain.select('.view-climbnz-places-in-place tbody tr')
+        for el in place_els:
+            link = el.select_one('a')
+            if not link: continue
+            yield download_mountain(f"{BASE_URL}{link.attrs['href']}")
+
     return {
         'link': url,
         'name': maybe_text(soup, '.page-header'),
@@ -66,6 +73,7 @@ def download_mountain(url):
         'description': maybe_text(soup, '.field-name-field-description'),
         'latlng': get_lat_lng(),
         'routes': list(parse_routes()),
+        'places': list(get_places(soup)),
         'image': get_img()
     }
 
