@@ -15,7 +15,6 @@ def get_index():
         link = row.select_one('td.views-field-title a')
         yield (link.text, f"{BASE_URL}{link.attrs['href']}")
 
-
 def download_mountain(url):
     soup = get_soup(url)
 
@@ -39,6 +38,20 @@ def download_mountain(url):
         return el.attrs['src']
 
     def parse_routes():
+        def maybe_get_image_url(el: BeautifulSoup, route_link: str):
+            has_image = el.select_one('.views-field-field-route-image .glyphicon-picture')
+            if not has_image: return
+
+            soup = get_soup(route_link)
+            img = soup.select_one('.field-name-field-route-image a')
+            if not img:
+                print("Couldn't find image on", route_link, has_image)
+                return
+            return img.attrs['href']
+
+        def maybe_get_pitches(el: BeautifulSoup):
+            pass
+
         route_els = soup.select(
             '.view-climbnz-route-table tbody tr.route-description-row')
 
@@ -46,10 +59,13 @@ def download_mountain(url):
             detail_row = el
             title_row = el.find_previous_sibling()
             name_el = title_row.select_one('.views-field-title')
+            link = f'{BASE_URL}{name_el.select_one("a").attrs["href"]}'
 
+            pitches_el = detail_row.select_one('.pitches table.table tbody')
             yield {
                 'name': name_el.text.strip(),
-                'link': f'{BASE_URL}{name_el.select_one("a").attrs["href"]}',
+                'link': link,
+                'image': maybe_get_image_url(title_row, link),
                 'grade': maybe_text(title_row, '.views-field-field-grade'),
                 'length': maybe_text(title_row, '.views-field-field-length'),
                 'quality': len(title_row.select('.views-field-field-quality span.on')),
