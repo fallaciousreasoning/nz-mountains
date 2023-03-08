@@ -49,8 +49,28 @@ def download_mountain(url):
                 return
             return img.attrs['href']
 
-        def maybe_get_pitches(el: BeautifulSoup):
-            pass
+        def parse_pitches(el: BeautifulSoup):
+            pitch_els = el.select('.pitches table.table tbody tr:nth-child(odd)')
+            for el in pitch_els:
+                detail_row = el.find_next_sibling()
+                description = None
+                if detail_row:
+                    description = maybe_text(detail_row, 'td:nth-child(2)')
+                yield {
+                    'ewbank': maybe_text(el, 'td:nth-child(2)'),
+                    'alpine': maybe_text(el, 'td:nth-child(3)'),
+                    'commitment': maybe_text(el, 'td:nth-child(4)'),
+                    'mtcook': maybe_text(el, 'td:nth-child(5)'),
+                    'aid': maybe_text(el, 'td:nth-child(6)'),
+                    'ice': maybe_text(el, 'td:nth-child(7)'),
+                    'mixed': maybe_text(el, 'td:nth-child(8)'),
+                    'boulder': maybe_text(el, 'td:nth-child(9)'),
+                    'length': maybe_text(el, 'td:nth-child(10)'),
+                    'bolts': maybe_text(el, 'td:nth-child(11)'),
+                    'trad': maybe_text(el, 'td:nth-child(12)') == 'Yes',
+                    'description': description
+                }
+
 
         route_els = soup.select(
             '.view-climbnz-route-table tbody tr.route-description-row')
@@ -61,13 +81,13 @@ def download_mountain(url):
             name_el = title_row.select_one('.views-field-title')
             link = f'{BASE_URL}{name_el.select_one("a").attrs["href"]}'
 
-            pitches_el = detail_row.select_one('.pitches table.table tbody')
             yield {
                 'name': name_el.text.strip(),
                 'link': link,
                 'image': maybe_get_image_url(title_row, link),
                 'grade': maybe_text(title_row, '.views-field-field-grade'),
                 'length': maybe_text(title_row, '.views-field-field-length'),
+                'pitches': list(parse_pitches(detail_row)),
                 'quality': len(title_row.select('.views-field-field-quality span.on')),
                 'bolts':  maybe_text(title_row, '.views-field-field-bolts'),
                 'natural_pro': title_row.select_one('.views-field-field-natural-pro img') is not None,
