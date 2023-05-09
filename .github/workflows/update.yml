@@ -1,0 +1,30 @@
+name: Rescrape
+
+on:
+  schedule:
+    - cron: '0 8 * * MON'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: actions/setup-python@v4
+        with:
+          python-version: 3.8
+          cache: 'pip'
+      - run: pip install -r requirements.txt
+
+      - name: Rescrape
+        run: |
+          python mountains.py
+
+      - name: Commit & Push Changes
+        run: |
+          git config --global user.name "Jay Harris"
+          git config --global user.email "jay.harris@outlook.co.nz"
+          git commit mountains.json -m "[Automated]: Update data"
+          git push
