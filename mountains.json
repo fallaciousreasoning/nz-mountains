@@ -8742,8 +8742,8 @@
 		"places": [],
 		"image": null
 	},
-	"https://climbnz.org.nz/nz/si/fiordland/darran-mountains/apirana-pk": {
-		"link": "https://climbnz.org.nz/nz/si/fiordland/darran-mountains/apirana-pk",
+	"https://climbnz.org.nz/nz/si/darrans/darran-mountains/apirana-pk": {
+		"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/apirana-pk",
 		"name": "Apirana Pk",
 		"altitude": "1946m",
 		"description": "This attractive peak above the upper basin of Moraine Creek has some excellent rock climbing.",
@@ -8832,7 +8832,7 @@
 			}
 		],
 		"places": [],
-		"image": null
+		"image": "https://climbnz.org.nz/sites/default/files/image/Darrans-Apirana-2011.jpeg"
 	},
 	"https://climbnz.org.nz/nz/si/main-divide-of-the-southern-alps/apollo-pk": {
 		"link": "https://climbnz.org.nz/nz/si/main-divide-of-the-southern-alps/apollo-pk",
@@ -14225,7 +14225,7 @@
 		"routes": [],
 		"places": [
 			{
-				"link": "https://climbnz.org.nz/nz/si/fiordland/wick-mountains/mt-belle/milford-road",
+				"link": "https://climbnz.org.nz/nz/si/darrans/wick-mountains/mt-belle/milford-road",
 				"name": "From the Milford Road",
 				"altitude": null,
 				"description": null,
@@ -14233,7 +14233,7 @@
 				"routes": [
 					{
 						"name": "Left-Hand Route",
-						"link": "https://climbnz.org.nz/nz/si/fiordland/wick-mountains/mt-belle/from-the-milford-road/left-hand-route",
+						"link": "https://climbnz.org.nz/nz/si/darrans/wick-mountains/mt-belle/milford-road/left-hand-route",
 						"image": null,
 						"grade": "",
 						"length": "",
@@ -14246,7 +14246,7 @@
 					},
 					{
 						"name": "Original Route",
-						"link": "https://climbnz.org.nz/nz/si/fiordland/wick-mountains/mt-belle/from-the-milford-road/original-route",
+						"link": "https://climbnz.org.nz/nz/si/darrans/wick-mountains/mt-belle/milford-road/original-route",
 						"image": null,
 						"grade": "",
 						"length": "",
@@ -14259,7 +14259,7 @@
 					},
 					{
 						"name": "Homer Tunnel to Mt Belle",
-						"link": "https://climbnz.org.nz/nz/si/fiordland/wick-mountains/mt-belle/from-the-milford-road/homer-tunnel-mt-belle",
+						"link": "https://climbnz.org.nz/nz/si/darrans/wick-mountains/mt-belle/milford-road/homer-tunnel-mt-belle",
 						"image": null,
 						"grade": "",
 						"length": "",
@@ -14275,7 +14275,7 @@
 				"image": "https://climbnz.org.nz/sites/default/files/image/Belle.JPG"
 			},
 			{
-				"link": "https://climbnz.org.nz/nz/si/fiordland/wick-mountains/mt-belle/south-face",
+				"link": "https://climbnz.org.nz/nz/si/darrans/wick-mountains/mt-belle/south-face",
 				"name": "South Face",
 				"altitude": null,
 				"description": "The south face of Mt Belle has a number of short rock routes.",
@@ -14283,7 +14283,7 @@
 				"routes": [
 					{
 						"name": "Not for Vegetarians",
-						"link": "https://climbnz.org.nz/nz/si/fiordland/wick-mountains/mt-belle/south-face/not-vegetarians",
+						"link": "https://climbnz.org.nz/nz/si/darrans/wick-mountains/mt-belle/south-face/not-vegetarians",
 						"image": null,
 						"grade": "14",
 						"length": "",
@@ -14296,7 +14296,7 @@
 					},
 					{
 						"name": "Orange Ripple",
-						"link": "https://climbnz.org.nz/nz/si/fiordland/wick-mountains/mt-belle/south-face/orange-ripple",
+						"link": "https://climbnz.org.nz/nz/si/darrans/wick-mountains/mt-belle/south-face/orange-ripple",
 						"image": null,
 						"grade": "17",
 						"length": "",
@@ -14309,7 +14309,7 @@
 					},
 					{
 						"name": "Biggs Hudson",
-						"link": "https://climbnz.org.nz/nz/si/fiordland/wick-mountains/mt-belle/south-face/biggs-hudson",
+						"link": "https://climbnz.org.nz/nz/si/darrans/wick-mountains/mt-belle/south-face/biggs-hudson",
 						"image": null,
 						"grade": "16",
 						"length": "",
@@ -14322,7 +14322,7 @@
 					},
 					{
 						"name": "Price Scott",
-						"link": "https://climbnz.org.nz/nz/si/fiordland/wick-mountains/mt-belle/south-face/price-scott",
+						"link": "https://climbnz.org.nz/nz/si/darrans/wick-mountains/mt-belle/south-face/price-scott",
 						"image": null,
 						"grade": "17",
 						"length": "",
@@ -16027,8 +16027,8 @@
 		"places": [],
 		"image": null
 	},
-	"https://climbnz.org.nz/nz/si/aoraki/main-divide/brodrick-pk": {
-		"link": "https://climbnz.org.nz/nz/si/aoraki/main-divide/brodrick-pk",
+	"https://climbnz.org.nz/nz/si/aoraki-tai-poutini/main-divide/brodrick-pk": {
+		"link": "https://climbnz.org.nz/nz/si/aoraki-tai-poutini/main-divide/brodrick-pk",
 		"name": "Brodrick Pk",
 		"altitude": "2669m",
 		"description": null,
@@ -16039,7 +16039,7 @@
 		"routes": [
 			{
 				"name": "From Whymper Saddle",
-				"link": "https://climbnz.org.nz/nz/si/aoraki/main-divide/brodrick-pk/whymper-saddle",
+				"link": "https://climbnz.org.nz/nz/si/aoraki-tai-poutini/main-divide/brodrick-pk/whymper-saddle",
 				"image": null,
 				"grade": "",
 				"length": "",
@@ -16052,7 +16052,7 @@
 			},
 			{
 				"name": "South West Ridge",
-				"link": "https://climbnz.org.nz/nz/si/aoraki/main-divide/brodrick-pk/south-west-ridge",
+				"link": "https://climbnz.org.nz/nz/si/aoraki-tai-poutini/main-divide/brodrick-pk/south-west-ridge",
 				"image": null,
 				"grade": "",
 				"length": "",
@@ -16065,7 +16065,7 @@
 			},
 			{
 				"name": "Loves Last (South Face)",
-				"link": "https://climbnz.org.nz/nz/si/aoraki/main-divide/brodrick-pk/loves-last-south-face",
+				"link": "https://climbnz.org.nz/nz/si/aoraki-tai-poutini/main-divide/brodrick-pk/loves-last-south-face",
 				"image": null,
 				"grade": "4-",
 				"length": "",
@@ -16078,7 +16078,7 @@
 			},
 			{
 				"name": "South East Ridge",
-				"link": "https://climbnz.org.nz/nz/si/aoraki/main-divide/brodrick-pk/south-east-ridge",
+				"link": "https://climbnz.org.nz/nz/si/aoraki-tai-poutini/main-divide/brodrick-pk/south-east-ridge",
 				"image": null,
 				"grade": "2-",
 				"length": "",
@@ -16091,7 +16091,7 @@
 			},
 			{
 				"name": "Main Divide",
-				"link": "https://climbnz.org.nz/nz/si/aoraki/main-divide/brodrick-pk/main-divide",
+				"link": "https://climbnz.org.nz/nz/si/aoraki-tai-poutini/main-divide/brodrick-pk/main-divide",
 				"image": null,
 				"grade": "2-",
 				"length": "",
@@ -16104,7 +16104,7 @@
 			},
 			{
 				"name": "From Whataroa Saddle",
-				"link": "https://climbnz.org.nz/nz/si/aoraki/main-divide/brodrick-pk/whataroa-saddle",
+				"link": "https://climbnz.org.nz/nz/si/aoraki-tai-poutini/main-divide/brodrick-pk/whataroa-saddle",
 				"image": null,
 				"grade": "",
 				"length": "",
@@ -18443,7 +18443,7 @@
 		"routes": [
 			{
 				"name": "Original Route",
-				"link": "https://climbnz.org.nz/nz/si/fiordland/darran-mountains/mt-christina/original-route",
+				"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/mt-christina/original-route",
 				"image": null,
 				"grade": "",
 				"length": "",
@@ -18456,7 +18456,7 @@
 			},
 			{
 				"name": "Skyline Buttress",
-				"link": "https://climbnz.org.nz/nz/si/fiordland/darran-mountains/mt-christina/skyline-buttress",
+				"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/mt-christina/skyline-buttress",
 				"image": null,
 				"grade": "",
 				"length": "",
@@ -18469,7 +18469,7 @@
 			},
 			{
 				"name": "The European Connection",
-				"link": "https://climbnz.org.nz/nz/si/fiordland/darran-mountains/mt-christina/european-connection",
+				"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/mt-christina/european-connection",
 				"image": null,
 				"grade": "20",
 				"length": "",
@@ -18482,7 +18482,7 @@
 			},
 			{
 				"name": "South West Face",
-				"link": "https://climbnz.org.nz/nz/si/fiordland/darran-mountains/mt-christina/south-west-face",
+				"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/mt-christina/south-west-face",
 				"image": null,
 				"grade": "",
 				"length": "",
@@ -18495,7 +18495,7 @@
 			},
 			{
 				"name": "South West Ridge",
-				"link": "https://climbnz.org.nz/nz/si/fiordland/darran-mountains/mt-christina/south-west-ridge",
+				"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/mt-christina/south-west-ridge",
 				"image": null,
 				"grade": "",
 				"length": "",
@@ -18508,7 +18508,7 @@
 			},
 			{
 				"name": "South Ridge",
-				"link": "https://climbnz.org.nz/nz/si/fiordland/darran-mountains/mt-christina/south-ridge",
+				"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/mt-christina/south-ridge",
 				"image": null,
 				"grade": "",
 				"length": "",
@@ -18521,7 +18521,7 @@
 			},
 			{
 				"name": "East Ridge",
-				"link": "https://climbnz.org.nz/nz/si/fiordland/darran-mountains/mt-christina/east-ridge",
+				"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/mt-christina/east-ridge",
 				"image": null,
 				"grade": "",
 				"length": "",
@@ -18534,7 +18534,7 @@
 			},
 			{
 				"name": "McLeod Route",
-				"link": "https://climbnz.org.nz/nz/si/fiordland/darran-mountains/mt-christina/mcleod-route",
+				"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/mt-christina/mcleod-route",
 				"image": null,
 				"grade": "",
 				"length": "",
@@ -18547,7 +18547,7 @@
 			},
 			{
 				"name": "Brookes Simpson",
-				"link": "https://climbnz.org.nz/nz/si/fiordland/darran-mountains/mt-christina/brookes-simpson",
+				"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/mt-christina/brookes-simpson",
 				"image": null,
 				"grade": "",
 				"length": "",
@@ -18560,7 +18560,7 @@
 			},
 			{
 				"name": "Gordon Hall-Jones Miller",
-				"link": "https://climbnz.org.nz/nz/si/fiordland/darran-mountains/mt-christina/gordon-hall-jones-miller",
+				"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/mt-christina/gordon-hall-jones-miller",
 				"image": null,
 				"grade": "",
 				"length": "",
@@ -18573,7 +18573,7 @@
 			},
 			{
 				"name": "Complete East Ridge",
-				"link": "https://climbnz.org.nz/nz/si/fiordland/darran-mountains/mt-christina/complete-east-ridge",
+				"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/mt-christina/complete-east-ridge",
 				"image": "https://climbnz.org.nz/sites/default/files/routes/54E37AAF-4CB2-4DE5-9161-0B0E1ADA60A2.jpeg",
 				"grade": "3",
 				"length": "",
@@ -18588,8 +18588,8 @@
 		"places": [],
 		"image": "https://climbnz.org.nz/sites/default/files/image/Christina%20High.jpg"
 	},
-	"https://climbnz.org.nz/nz/si/fiordland/darran-mountains/mt-christina-east-pk": {
-		"link": "https://climbnz.org.nz/nz/si/fiordland/darran-mountains/mt-christina-east-pk",
+	"https://climbnz.org.nz/nz/si/darrans/darran-mountains/mt-christina-east-pk": {
+		"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/mt-christina-east-pk",
 		"name": "Mt Christina East Pk",
 		"altitude": "2185m",
 		"description": null,
@@ -18600,7 +18600,7 @@
 		"routes": [
 			{
 				"name": "East Ridge",
-				"link": "https://climbnz.org.nz/nz/si/fiordland/darran-mountains/mt-christina-east-pk/east-ridge",
+				"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/mt-christina-east-pk/east-ridge",
 				"image": null,
 				"grade": "",
 				"length": "",
@@ -18694,8 +18694,8 @@
 		"places": [],
 		"image": "https://climbnz.org.nz/sites/default/files/image/Christina%20Up%20W.jpg"
 	},
-	"https://climbnz.org.nz/nz/si/fiordland/darran-mountains/mt-christina-south-pk": {
-		"link": "https://climbnz.org.nz/nz/si/fiordland/darran-mountains/mt-christina-south-pk",
+	"https://climbnz.org.nz/nz/si/darrans/darran-mountains/mt-christina-south-pk": {
+		"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/mt-christina-south-pk",
 		"name": "Mt Christina South Pk",
 		"altitude": "2060m",
 		"description": null,
@@ -18706,7 +18706,7 @@
 		"routes": [
 			{
 				"name": "South Face",
-				"link": "https://climbnz.org.nz/nz/si/fiordland/darran-mountains/mt-christina-south-pk/south-face",
+				"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/mt-christina-south-pk/south-face",
 				"image": null,
 				"grade": "",
 				"length": "",
@@ -18719,7 +18719,7 @@
 			},
 			{
 				"name": "South West Ridge",
-				"link": "https://climbnz.org.nz/nz/si/fiordland/darran-mountains/mt-christina-south-pk/south-west-ridge",
+				"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/mt-christina-south-pk/south-west-ridge",
 				"image": null,
 				"grade": "",
 				"length": "",
@@ -26549,19 +26549,6 @@
 						"ascent": ""
 					},
 					{
-						"name": "Lachnagar Monster",
-						"link": "https://climbnz.org.nz/nz/si/otago/the-remarkables/lake-alta/lake-alta-slabs/lachnagar-monster",
-						"image": null,
-						"grade": "WI3",
-						"length": "100m",
-						"pitches": [],
-						"quality": 0,
-						"bolts": "",
-						"natural_pro": true,
-						"description": "Up the weakness on the left hand edge of The Fat Lady for three pitches to, \nthe base of a tight squeeze chimney/groove. Up this on thin ice using trad \ngear and into an ice cave. Top-out around a large capstone feature to \nsnowfield above.",
-						"ascent": "Steve Carr, Ruairidh Smith FWA 1998"
-					},
-					{
 						"name": "On General's Orders",
 						"link": "https://climbnz.org.nz/nz/si/otago/the-remarkables/lake-alta/lake-alta-slabs/generals-orders",
 						"image": null,
@@ -26573,6 +26560,19 @@
 						"natural_pro": false,
 						"description": "M3+ 70m. Great turf",
 						"ascent": ""
+					},
+					{
+						"name": "Lachnagar Monster",
+						"link": "https://climbnz.org.nz/nz/si/otago/the-remarkables/lake-alta/lake-alta-slabs/lachnagar-monster",
+						"image": null,
+						"grade": "WI3",
+						"length": "100m",
+						"pitches": [],
+						"quality": 0,
+						"bolts": "",
+						"natural_pro": true,
+						"description": "Up the weakness on the left hand edge of The Fat Lady for three pitches to, \nthe base of a tight squeeze chimney/groove. Up this on thin ice using trad \ngear and into an ice cave. Top-out around a large capstone feature to \nsnowfield above.",
+						"ascent": "Steve Carr, Ruairidh Smith FWA 1998"
 					}
 				],
 				"places": [],
@@ -28178,8 +28178,8 @@
 		"places": [],
 		"image": null
 	},
-	"https://climbnz.org.nz/nz/si/aoraki/main-divide/mt-elie-de-beaumont": {
-		"link": "https://climbnz.org.nz/nz/si/aoraki/main-divide/mt-elie-de-beaumont",
+	"https://climbnz.org.nz/nz/si/aoraki-tai-poutini/main-divide/mt-elie-de-beaumont": {
+		"link": "https://climbnz.org.nz/nz/si/aoraki-tai-poutini/main-divide/mt-elie-de-beaumont",
 		"name": "Mt Elie de Beaumont",
 		"altitude": "3109m",
 		"description": "Mt Elie de Beaumont is the northern-most 3000-metre peak in the Southern Alps Ka Tiritiri O Te Moana.",
@@ -28190,7 +28190,7 @@
 		"routes": [
 			{
 				"name": "Anna Glacier",
-				"link": "https://climbnz.org.nz/nz/si/aoraki/main-divide/mt-elie-de-beaumont/anna-glacier",
+				"link": "https://climbnz.org.nz/nz/si/aoraki-tai-poutini/main-divide/mt-elie-de-beaumont/anna-glacier",
 				"image": null,
 				"grade": "2+",
 				"length": "",
@@ -28203,7 +28203,7 @@
 			},
 			{
 				"name": "South East Ridge",
-				"link": "https://climbnz.org.nz/nz/si/aoraki/main-divide/mt-elie-de-beaumont/south-east-ridge",
+				"link": "https://climbnz.org.nz/nz/si/aoraki-tai-poutini/main-divide/mt-elie-de-beaumont/south-east-ridge",
 				"image": null,
 				"grade": "3-",
 				"length": "",
@@ -28216,7 +28216,7 @@
 			},
 			{
 				"name": "Maximilian Ridge",
-				"link": "https://climbnz.org.nz/nz/si/aoraki/main-divide/mt-elie-de-beaumont/maximilian-ridge",
+				"link": "https://climbnz.org.nz/nz/si/aoraki-tai-poutini/main-divide/mt-elie-de-beaumont/maximilian-ridge",
 				"image": null,
 				"grade": "4+",
 				"length": "",
@@ -28229,7 +28229,7 @@
 			},
 			{
 				"name": "Burton Spur",
-				"link": "https://climbnz.org.nz/nz/si/aoraki/main-divide/mt-elie-de-beaumont/burton-spur",
+				"link": "https://climbnz.org.nz/nz/si/aoraki-tai-poutini/main-divide/mt-elie-de-beaumont/burton-spur",
 				"image": null,
 				"grade": "4+",
 				"length": "",
@@ -28242,7 +28242,7 @@
 			},
 			{
 				"name": "Whymper Spur",
-				"link": "https://climbnz.org.nz/nz/si/aoraki/main-divide/mt-elie-de-beaumont/whymper-spur",
+				"link": "https://climbnz.org.nz/nz/si/aoraki-tai-poutini/main-divide/mt-elie-de-beaumont/whymper-spur",
 				"image": null,
 				"grade": "4",
 				"length": "",
@@ -28255,7 +28255,7 @@
 			},
 			{
 				"name": "Ski Touring",
-				"link": "https://climbnz.org.nz/nz/si/aoraki/main-divide/mt-elie-de-beaumont/ski-touring",
+				"link": "https://climbnz.org.nz/nz/si/aoraki-tai-poutini/main-divide/mt-elie-de-beaumont/ski-touring",
 				"image": null,
 				"grade": "",
 				"length": "",
@@ -29680,6 +29680,104 @@
 				"natural_pro": false,
 				"description": "No recorded ascent, but Stewart Stream provides good access to the south-west face.",
 				"ascent": ""
+			},
+			{
+				"name": "IWC",
+				"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/ben-ohau-range/ferintosh-pk/iwc",
+				"image": "https://climbnz.org.nz/sites/default/files/routes/IWC.jpg",
+				"grade": "12,12,14,17,15,15",
+				"length": "100m",
+				"pitches": [
+					{
+						"ewbank": "12",
+						"alpine": "",
+						"commitment": "",
+						"mtcook": "",
+						"aid": "",
+						"ice": "",
+						"mixed": "",
+						"boulder": "",
+						"length": "50m",
+						"bolts": "2",
+						"trad": true,
+						"description": "Run it out up p1 & 2; easy climbing on solid rock past widely spaced bolt and gear placements up the crest of the striking low-angle arete.  This is the obvious, aesthetic access to the buttress above."
+					},
+					{
+						"ewbank": "12",
+						"alpine": "",
+						"commitment": "",
+						"mtcook": "",
+						"aid": "",
+						"ice": "",
+						"mixed": "",
+						"boulder": "",
+						"length": "50m",
+						"bolts": "2",
+						"trad": true,
+						"description": "Run it out up p1 & 2; easy climbing on solid rock past widely spaced bolt and gear placements up the crest of the striking low-angle arete.  This is the obvious, aesthetic access to the buttress above."
+					},
+					{
+						"ewbank": "14",
+						"alpine": "",
+						"commitment": "",
+						"mtcook": "",
+						"aid": "",
+						"ice": "",
+						"mixed": "",
+						"boulder": "",
+						"length": "0m",
+						"bolts": "",
+						"trad": true,
+						"description": "From the left side of the ledge below the upper fin: climb up and left, around the left side of a large roof, then back right to belay below the enormous right-facing corner.  Some loose rock.  A harder, more direct bolted pitch now exists directly through the overlaps (unclimbed - 2022 summer project) - this pitch ends some meters right of the the P4 corner - an easy walk/traverse away, perhaps best to bump belay across if rope drag promises to be an issue."
+					},
+					{
+						"ewbank": "17",
+						"alpine": "",
+						"commitment": "",
+						"mtcook": "",
+						"aid": "",
+						"ice": "",
+						"mixed": "",
+						"boulder": "",
+						"length": "0m",
+						"bolts": "",
+						"trad": true,
+						"description": "Up the corner crack directly to a cramped belay in a bomb-bay alcove below a huge roof.  Great climbing but needs further cleaning of vegetation."
+					},
+					{
+						"ewbank": "15",
+						"alpine": "",
+						"commitment": "",
+						"mtcook": "",
+						"aid": "",
+						"ice": "",
+						"mixed": "",
+						"boulder": "",
+						"length": "0m",
+						"bolts": "",
+						"trad": true,
+						"description": "Left out of the cave and through the roof via a crack/groove, then trend back right across the slabs (cracks) to gain the large corner against the fin.  Follow this up to belay below a final steep wall."
+					},
+					{
+						"ewbank": "15",
+						"alpine": "",
+						"commitment": "",
+						"mtcook": "",
+						"aid": "",
+						"ice": "",
+						"mixed": "",
+						"boulder": "",
+						"length": "0m",
+						"bolts": "",
+						"trad": true,
+						"description": "Break up the steep wall on the right, dramatic features but surprisingly easy and exhilarating climbing.  Belay on the narrow ridge crest above.  From here, pitch across/down the ridge to a DBA where it steepens..  Rap the fin (closed project - DBAs and occasional protection bolts).  30m raps may be  just adequate to get between rap stations, but no guarantees.  The odd protection bolt between stations exists and may help."
+					}
+				],
+				"quality": 0,
+				"bolts": "4",
+				"natural_pro": true,
+				"description": "On the true left side of the North Branch of Whale Stream, halfway between the forks and Ferintosh Peak, is a striking fin of rock, several pitches high, that eases into a prominent spur above.  IWC climbs 2 pitches up the low angle lower fin, then 4 pitches in the crack / corner systems left of the fin. A meandering trad route, climbed as an enjoyable access route onto the buttress.  The central feature is a huge right-facing corner. Mainly solid rock, would benefit from some further cleaning of vegetation on the crux pitch.",
+				"ascent": "Taichiro Naka, Pablo Borjas Von Bach, Ruari Macfarlane"
 			}
 		],
 		"places": [],
@@ -33262,6 +33360,19 @@
 				"natural_pro": true,
 				"description": "From the ridge north of Great Pinnacle, traverse along eastern slopes to reach the base of a rock rib that climbs directly to summit. Easy rock for two pitches. A pleasant variation to a climb of Great Pinnacle. See also http://www.mountainz.co.nz/content/article/article.php?article=141107_pinnacles.php&direct=nz",
 				"ascent": "Unknown"
+			},
+			{
+				"name": "Ruarimu Express",
+				"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/nga-tohu-pinnacle-ridge/great-pinnacle/ruarimu-express",
+				"image": "https://climbnz.org.nz/sites/default/files/routes/ruarimu%20express_great%20pinnacle_pinnacles%20ridge.png",
+				"grade": "M5",
+				"length": "",
+				"pitches": [],
+				"quality": 0,
+				"bolts": "",
+				"natural_pro": false,
+				"description": "Mixed route up butress / edge of the wall between GP and GG.  Fun conglomerate scratching where the ice runs out.",
+				"ascent": "Greg Biezley, Ruari Macfarlane, 2021"
 			}
 		],
 		"places": [],
@@ -36423,8 +36534,8 @@
 		"places": [],
 		"image": null
 	},
-	"https://climbnz.org.nz/nz/si/aoraki/main-divide/hochstetter-dome": {
-		"link": "https://climbnz.org.nz/nz/si/aoraki/main-divide/hochstetter-dome",
+	"https://climbnz.org.nz/nz/si/aoraki-tai-poutini/main-divide/hochstetter-dome": {
+		"link": "https://climbnz.org.nz/nz/si/aoraki-tai-poutini/main-divide/hochstetter-dome",
 		"name": "Hochstetter Dome",
 		"altitude": "2837m",
 		"description": "",
@@ -36435,7 +36546,7 @@
 		"routes": [
 			{
 				"name": "Standard Traverse",
-				"link": "https://climbnz.org.nz/nz/si/aoraki/main-divide/hochstetter-dome/standard-traverse",
+				"link": "https://climbnz.org.nz/nz/si/aoraki-tai-poutini/main-divide/hochstetter-dome/standard-traverse",
 				"image": null,
 				"grade": "1",
 				"length": "",
@@ -36448,7 +36559,7 @@
 			},
 			{
 				"name": "South Face",
-				"link": "https://climbnz.org.nz/nz/si/aoraki/main-divide/hochstetter-dome/south-face",
+				"link": "https://climbnz.org.nz/nz/si/aoraki-tai-poutini/main-divide/hochstetter-dome/south-face",
 				"image": null,
 				"grade": "2",
 				"length": "",
@@ -36461,7 +36572,7 @@
 			},
 			{
 				"name": "North Face",
-				"link": "https://climbnz.org.nz/nz/si/aoraki/main-divide/hochstetter-dome/north-face",
+				"link": "https://climbnz.org.nz/nz/si/aoraki-tai-poutini/main-divide/hochstetter-dome/north-face",
 				"image": "https://climbnz.org.nz/sites/default/files/route/014.JPG",
 				"grade": "4",
 				"length": "1400m",
@@ -36474,7 +36585,7 @@
 			},
 			{
 				"name": "Ski Touring",
-				"link": "https://climbnz.org.nz/nz/si/aoraki/main-divide/hochstetter-dome/ski-touring",
+				"link": "https://climbnz.org.nz/nz/si/aoraki-tai-poutini/main-divide/hochstetter-dome/ski-touring",
 				"image": null,
 				"grade": "",
 				"length": "",
@@ -39087,6 +39198,19 @@
 				"ascent": "Trevor and Barbara Chinn, Noel Read (up snow slopes from the Callery Valley), December 1962"
 			}
 		],
+		"places": [],
+		"image": null
+	},
+	"https://climbnz.org.nz/node/4914/junction-pk": {
+		"link": "https://climbnz.org.nz/node/4914/junction-pk",
+		"name": "Junction Pk",
+		"altitude": "1882m",
+		"description": null,
+		"latlng": [
+			"-43.245000000000",
+			"171.818000000000"
+		],
+		"routes": [],
 		"places": [],
 		"image": null
 	},
@@ -44964,8 +45088,8 @@
 		"places": [],
 		"image": null
 	},
-	"https://climbnz.org.nz/nz/si/aoraki/main-divide/mt-mannering": {
-		"link": "https://climbnz.org.nz/nz/si/aoraki/main-divide/mt-mannering",
+	"https://climbnz.org.nz/nz/si/aoraki-tai-poutini/main-divide/mt-mannering": {
+		"link": "https://climbnz.org.nz/nz/si/aoraki-tai-poutini/main-divide/mt-mannering",
 		"name": "Mt Mannering",
 		"altitude": "2669m",
 		"description": null,
@@ -44976,7 +45100,7 @@
 		"routes": [
 			{
 				"name": "South West Ridge",
-				"link": "https://climbnz.org.nz/nz/si/aoraki/main-divide/mt-mannering/south-west-ridge",
+				"link": "https://climbnz.org.nz/nz/si/aoraki-tai-poutini/main-divide/mt-mannering/south-west-ridge",
 				"image": null,
 				"grade": "",
 				"length": "",
@@ -44989,7 +45113,7 @@
 			},
 			{
 				"name": "West Face",
-				"link": "https://climbnz.org.nz/nz/si/aoraki/main-divide/mt-mannering/west-face",
+				"link": "https://climbnz.org.nz/nz/si/aoraki-tai-poutini/main-divide/mt-mannering/west-face",
 				"image": null,
 				"grade": "",
 				"length": "",
@@ -45002,7 +45126,7 @@
 			},
 			{
 				"name": "East Rib",
-				"link": "https://climbnz.org.nz/nz/si/aoraki/main-divide/mt-mannering/east-rib",
+				"link": "https://climbnz.org.nz/nz/si/aoraki-tai-poutini/main-divide/mt-mannering/east-rib",
 				"image": null,
 				"grade": "",
 				"length": "",
@@ -47546,7 +47670,7 @@
 		"routes": [
 			{
 				"name": "St Arnaud Range",
-				"link": "https://climbnz.org.nz/nz/si/nelson-lakes/st-arnaud-range/mt-mcrae-and-peak-1915m/st-arnaud-range",
+				"link": "https://climbnz.org.nz/nz/si/nelson-lakes/st-arnaud-range/mt-mcrae-and-pk-1915m/st-arnaud-range",
 				"image": null,
 				"grade": "1",
 				"length": "",
@@ -47559,7 +47683,7 @@
 			},
 			{
 				"name": "Lake Rotoiti Route",
-				"link": "https://climbnz.org.nz/nz/si/nelson-lakes/st-arnaud-range/mt-mcrae-and-peak-1915m/lake-rotoiti-route",
+				"link": "https://climbnz.org.nz/nz/si/nelson-lakes/st-arnaud-range/mt-mcrae-and-pk-1915m/lake-rotoiti-route",
 				"image": null,
 				"grade": "1",
 				"length": "",
@@ -55240,7 +55364,7 @@
 						"quality": 0,
 						"bolts": "",
 						"natural_pro": false,
-						"description": "Reach the West Ridge from Jagged Col. The lowest section of the ridge is trickiest and can be\r\navoided by taking snow slopes on the Jagged Stream side. Once the difficulties are passed, follow\r\nthe rock ridge to the summit.",
+						"description": "Reach the West Ridge from Jagged Col. The lowest section of the ridge is trickiest and can be\navoided by taking snow slopes on the Jagged Stream side. Once the difficulties are passed, follow\nthe rock ridge to the summit.",
 						"ascent": "Bernie McClelland, Ron Ward, Robin Drake, March 1938"
 					},
 					{
@@ -55253,7 +55377,7 @@
 						"quality": 0,
 						"bolts": "",
 						"natural_pro": false,
-						"description": "From Peg Col follow the straightforward ridge to Pt 2344 metres. From here the ridge is a little\r\nmore exposed and involves a short downclimb and traverse along a small ledge to bypass a\r\n10-metre gut. A 10-metre section of loose argillite in the final col requires care before the last\r\nrise to the summit.",
+						"description": "From Peg Col follow the straightforward ridge to Pt 2344 metres. From here the ridge is a little\nmore exposed and involves a short downclimb and traverse along a small ledge to bypass a\n10-metre gut. A 10-metre section of loose argillite in the final col requires care before the last\nrise to the summit.",
 						"ascent": "Dave Hall, Melville (Jim) Glasgow, Thomas (Harry) Scott, Keith Russell, 1950"
 					},
 					{
@@ -55266,7 +55390,7 @@
 						"quality": 0,
 						"bolts": "",
 						"natural_pro": false,
-						"description": "This ridge can be reached from various points between Prop Peak and Peg Col and is mostly\r\nstraightforward. A 15-metre gut at the low point of the ridge can be downclimbed and traversed\r\non a narrow ledge, and a 10-metre section of loose argillite shortly before the summit requires\r\ncare.",
+						"description": "This ridge can be reached from various points between Prop Peak and Peg Col and is mostly\nstraightforward. A 15-metre gut at the low point of the ridge can be downclimbed and traversed\non a narrow ledge, and a 10-metre section of loose argillite shortly before the summit requires\ncare.",
 						"ascent": "Dave Hall, Thomas (Harry) Scott, Keith Russell, Melville (Jim) Glasgow, January 1950"
 					}
 				],
@@ -56894,7 +57018,7 @@
 				"quality": 0,
 				"bolts": "",
 				"natural_pro": false,
-				"description": "Reach the West Ridge from Jagged Col. The lowest section of the ridge is trickiest and can be\navoided by taking snow slopes on the Jagged Stream side. Once the difficulties are passed, follow\nthe rock ridge to the summit.",
+				"description": "Reach the West Ridge from Jagged Col. The lowest section of the ridge is trickiest and can be\r\navoided by taking snow slopes on the Jagged Stream side. Once the difficulties are passed, follow\r\nthe rock ridge to the summit.",
 				"ascent": "Bernie McClelland, Ron Ward, Robin Drake, March 1938"
 			},
 			{
@@ -56907,7 +57031,7 @@
 				"quality": 0,
 				"bolts": "",
 				"natural_pro": false,
-				"description": "From Peg Col follow the straightforward ridge to Pt 2344 metres. From here the ridge is a little\nmore exposed and involves a short downclimb and traverse along a small ledge to bypass a\n10-metre gut. A 10-metre section of loose argillite in the final col requires care before the last\nrise to the summit.",
+				"description": "From Peg Col follow the straightforward ridge to Pt 2344 metres. From here the ridge is a little\r\nmore exposed and involves a short downclimb and traverse along a small ledge to bypass a\r\n10-metre gut. A 10-metre section of loose argillite in the final col requires care before the last\r\nrise to the summit.",
 				"ascent": "Dave Hall, Melville (Jim) Glasgow, Thomas (Harry) Scott, Keith Russell, 1950"
 			},
 			{
@@ -56920,7 +57044,7 @@
 				"quality": 0,
 				"bolts": "",
 				"natural_pro": false,
-				"description": "This ridge can be reached from various points between Prop Peak and Peg Col and is mostly\nstraightforward. A 15-metre gut at the low point of the ridge can be downclimbed and traversed\non a narrow ledge, and a 10-metre section of loose argillite shortly before the summit requires\ncare.",
+				"description": "This ridge can be reached from various points between Prop Peak and Peg Col and is mostly\r\nstraightforward. A 15-metre gut at the low point of the ridge can be downclimbed and traversed\r\non a narrow ledge, and a 10-metre section of loose argillite shortly before the summit requires\r\ncare.",
 				"ascent": "Dave Hall, Thomas (Harry) Scott, Keith Russell, Melville (Jim) Glasgow, January 1950"
 			}
 		],
@@ -57897,6 +58021,19 @@
 		],
 		"places": [],
 		"image": "https://climbnz.org.nz/sites/default/files/image/Red.png"
+	},
+	"https://climbnz.org.nz/node/4914/red-pk": {
+		"link": "https://climbnz.org.nz/node/4914/red-pk",
+		"name": "Red Pk",
+		"altitude": "1853m",
+		"description": null,
+		"latlng": [
+			"-43.247000000000",
+			"171.799000000000"
+		],
+		"routes": [],
+		"places": [],
+		"image": null
 	},
 	"https://climbnz.org.nz/mt-reeves": {
 		"link": "https://climbnz.org.nz/mt-reeves",
@@ -61347,6 +61484,19 @@
 								"natural_pro": true,
 								"description": "From the ridge north of Great Pinnacle, traverse along eastern slopes to reach the base of a rock rib that climbs directly to summit. Easy rock for two pitches. A pleasant variation to a climb of Great Pinnacle. See also http://www.mountainz.co.nz/content/article/article.php?article=141107_pinnacles.php&direct=nz",
 								"ascent": "Unknown"
+							},
+							{
+								"name": "Ruarimu Express",
+								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/nga-tohu-pinnacle-ridge/great-pinnacle/ruarimu-express",
+								"image": "https://climbnz.org.nz/sites/default/files/routes/ruarimu%20express_great%20pinnacle_pinnacles%20ridge.png",
+								"grade": "M5",
+								"length": "",
+								"pitches": [],
+								"quality": 0,
+								"bolts": "",
+								"natural_pro": false,
+								"description": "Mixed route up butress / edge of the wall between GP and GG.  Fun conglomerate scratching where the ice runs out.",
+								"ascent": "Greg Biezley, Ruari Macfarlane, 2021"
 							}
 						],
 						"places": [],
@@ -66269,6 +66419,33 @@
 				],
 				"places": [],
 				"image": "https://climbnz.org.nz/sites/default/files/image/Double_Single%20Cone_1%20opy.jpg"
+			},
+			{
+				"link": "https://climbnz.org.nz/nz/si/otago/the-remarkables/single-cone/east-face",
+				"name": "East Face",
+				"altitude": null,
+				"description": null,
+				"latlng": [
+					"-45.072000000000",
+					"168.810000000000"
+				],
+				"routes": [
+					{
+						"name": "North East Ridge",
+						"link": "https://climbnz.org.nz/nz/si/otago/the-remarkables/single-cone/east-face/north-east-ridge",
+						"image": null,
+						"grade": "2",
+						"length": "",
+						"pitches": [],
+						"quality": 2,
+						"bolts": "",
+						"natural_pro": false,
+						"description": "From the ski car park follow the Wye Creek route until the saddle. From here follow the NE ridgeline to the summit. The final 30m are the hardest and most committing. Once started it's easier to summit and descend the SE ridge/couloir than to bail.",
+						"ascent": "FA: Dave McLeod probably"
+					}
+				],
+				"places": [],
+				"image": "https://climbnz.org.nz/sites/default/files/image/20230429_212426.jpg"
 			}
 		],
 		"image": "https://climbnz.org.nz/sites/default/files/image/Double_Single%20Cone_0%20%281%29%20copy_0.jpg"
@@ -67347,6 +67524,19 @@
 						"latlng": null,
 						"routes": [
 							{
+								"name": "Bring back the cane",
+								"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/christian-principals-crag/bring-back-the-cane",
+								"image": null,
+								"grade": "15",
+								"length": "22m",
+								"pitches": [],
+								"quality": 2,
+								"bolts": "",
+								"natural_pro": true,
+								"description": "Crack to the left of the groove.",
+								"ascent": "Murray Judge, 1998"
+							},
+							{
 								"name": "Sunday School Felching",
 								"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/christian-principals-crag/sunday-school-felching",
 								"image": null,
@@ -67435,19 +67625,6 @@
 								"bolts": "",
 								"natural_pro": true,
 								"description": "",
-								"ascent": "Murray Judge, 1998"
-							},
-							{
-								"name": "Bring back the cane",
-								"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/christian-principals-crag/bring-back-the-cane",
-								"image": null,
-								"grade": "15",
-								"length": "22m",
-								"pitches": [],
-								"quality": 2,
-								"bolts": "",
-								"natural_pro": true,
-								"description": "Crack to the left of the groove.",
 								"ascent": "Murray Judge, 1998"
 							}
 						],
@@ -67987,6 +68164,103 @@
 						"latlng": null,
 						"routes": [
 							{
+								"name": "Psychological Trauma",
+								"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/the-fortress/psychological-trauma",
+								"image": null,
+								"grade": "24",
+								"length": "40m",
+								"pitches": [],
+								"quality": 0,
+								"bolts": "",
+								"natural_pro": true,
+								"description": "The most obvious corner three metres right of Hotline, good moves, the upper wall above the break and arete are loose.",
+								"ascent": "Chris Burtenshaw, Sean Waters, Grant Piper '95"
+							},
+							{
+								"name": "Crackline right of the broken arete",
+								"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/the-fortress/crackline-right-of-the-broken-arete",
+								"image": null,
+								"grade": "13 ,19",
+								"length": "",
+								"pitches": [
+									{
+										"ewbank": "13",
+										"alpine": "",
+										"commitment": "",
+										"mtcook": "",
+										"aid": "",
+										"ice": "",
+										"mixed": "",
+										"boulder": "",
+										"length": "0m",
+										"bolts": "",
+										"trad": false,
+										"description": "19"
+									},
+									{
+										"ewbank": "The second pitch is a 35 metre crack with a short third pitch on the upper buttress (7m).",
+										"alpine": null,
+										"commitment": null,
+										"mtcook": null,
+										"aid": null,
+										"ice": null,
+										"mixed": null,
+										"boulder": null,
+										"length": null,
+										"bolts": null,
+										"trad": false,
+										"description": null
+									}
+								],
+								"quality": 0,
+								"bolts": "",
+								"natural_pro": false,
+								"description": "",
+								"ascent": "Stuart McConney, Brian Davia '95"
+							},
+							{
+								"name": "Scimitar",
+								"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/the-fortress/scimitar",
+								"image": null,
+								"grade": "14 ,21 ,15",
+								"length": "56m",
+								"pitches": [
+									{
+										"ewbank": "14",
+										"alpine": "",
+										"commitment": "",
+										"mtcook": "",
+										"aid": "",
+										"ice": "",
+										"mixed": "",
+										"boulder": "",
+										"length": "20m",
+										"bolts": "1",
+										"trad": true,
+										"description": "21"
+									},
+									{
+										"ewbank": "15",
+										"alpine": "",
+										"commitment": "",
+										"mtcook": "",
+										"aid": "",
+										"ice": "",
+										"mixed": "",
+										"boulder": "",
+										"length": "15m",
+										"bolts": "",
+										"trad": true,
+										"description": null
+									}
+								],
+								"quality": 2,
+								"bolts": "1",
+								"natural_pro": true,
+								"description": "",
+								"ascent": "Murray Judge '94"
+							},
+							{
 								"name": "Banana Split",
 								"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/the-fortress/banana-split",
 								"image": null,
@@ -68108,103 +68382,6 @@
 								"natural_pro": true,
 								"description": "The long groove to the right of HTJ",
 								"ascent": "Tony Pine, Murray Judge '98"
-							},
-							{
-								"name": "Psychological Trauma",
-								"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/the-fortress/psychological-trauma",
-								"image": null,
-								"grade": "24",
-								"length": "40m",
-								"pitches": [],
-								"quality": 0,
-								"bolts": "",
-								"natural_pro": true,
-								"description": "The most obvious corner three metres right of Hotline, good moves, the upper wall above the break and arete are loose.",
-								"ascent": "Chris Burtenshaw, Sean Waters, Grant Piper '95"
-							},
-							{
-								"name": "Crackline right of the broken arete",
-								"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/the-fortress/crackline-right-of-the-broken-arete",
-								"image": null,
-								"grade": "13 ,19",
-								"length": "",
-								"pitches": [
-									{
-										"ewbank": "13",
-										"alpine": "",
-										"commitment": "",
-										"mtcook": "",
-										"aid": "",
-										"ice": "",
-										"mixed": "",
-										"boulder": "",
-										"length": "0m",
-										"bolts": "",
-										"trad": false,
-										"description": "19"
-									},
-									{
-										"ewbank": "The second pitch is a 35 metre crack with a short third pitch on the upper buttress (7m).",
-										"alpine": null,
-										"commitment": null,
-										"mtcook": null,
-										"aid": null,
-										"ice": null,
-										"mixed": null,
-										"boulder": null,
-										"length": null,
-										"bolts": null,
-										"trad": false,
-										"description": null
-									}
-								],
-								"quality": 0,
-								"bolts": "",
-								"natural_pro": false,
-								"description": "",
-								"ascent": "Stuart McConney, Brian Davia '95"
-							},
-							{
-								"name": "Scimitar",
-								"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/the-fortress/scimitar",
-								"image": null,
-								"grade": "14 ,21 ,15",
-								"length": "56m",
-								"pitches": [
-									{
-										"ewbank": "14",
-										"alpine": "",
-										"commitment": "",
-										"mtcook": "",
-										"aid": "",
-										"ice": "",
-										"mixed": "",
-										"boulder": "",
-										"length": "20m",
-										"bolts": "1",
-										"trad": true,
-										"description": "21"
-									},
-									{
-										"ewbank": "15",
-										"alpine": "",
-										"commitment": "",
-										"mtcook": "",
-										"aid": "",
-										"ice": "",
-										"mixed": "",
-										"boulder": "",
-										"length": "15m",
-										"bolts": "",
-										"trad": true,
-										"description": null
-									}
-								],
-								"quality": 2,
-								"bolts": "1",
-								"natural_pro": true,
-								"description": "",
-								"ascent": "Murray Judge '94"
 							}
 						],
 						"places": [],
@@ -68217,32 +68394,6 @@
 						"description": "That obvious classic looking thing on the right of the main cliffs",
 						"latlng": null,
 						"routes": [
-							{
-								"name": "Dogfish",
-								"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/orange-wall/dogfish",
-								"image": null,
-								"grade": "15",
-								"length": "31m",
-								"pitches": [],
-								"quality": 0,
-								"bolts": "2",
-								"natural_pro": true,
-								"description": "Past two bolts and up a thin crack.",
-								"ascent": "Wayo Carson '94"
-							},
-							{
-								"name": "Sardine",
-								"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/orange-wall/sardine",
-								"image": null,
-								"grade": "15",
-								"length": "31m",
-								"pitches": [],
-								"quality": 0,
-								"bolts": "",
-								"natural_pro": true,
-								"description": "",
-								"ascent": "Murray Judge '94"
-							},
 							{
 								"name": "What's Up Doc?",
 								"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/pinnacles-hut-area/orange-wall/whats-up-doc",
@@ -68372,6 +68523,32 @@
 								"natural_pro": true,
 								"description": "The groove right of Orange Roughy.",
 								"ascent": "Murray Judge '94"
+							},
+							{
+								"name": "Dogfish",
+								"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/orange-wall/dogfish",
+								"image": null,
+								"grade": "15",
+								"length": "31m",
+								"pitches": [],
+								"quality": 0,
+								"bolts": "2",
+								"natural_pro": true,
+								"description": "Past two bolts and up a thin crack.",
+								"ascent": "Wayo Carson '94"
+							},
+							{
+								"name": "Sardine",
+								"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/orange-wall/sardine",
+								"image": null,
+								"grade": "15",
+								"length": "31m",
+								"pitches": [],
+								"quality": 0,
+								"bolts": "",
+								"natural_pro": true,
+								"description": "",
+								"ascent": "Murray Judge '94"
 							}
 						],
 						"places": [],
@@ -68385,147 +68562,6 @@
 						"latlng": null,
 						"routes": [],
 						"places": [
-							{
-								"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/the-pinnacles/hut-pinnacle",
-								"name": "Hut Pinnacle",
-								"altitude": "980m",
-								"description": "The nearest pinnacle (slab of rock)\u00a0behind the hut",
-								"latlng": null,
-								"routes": [
-									{
-										"name": "Eh",
-										"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/the-pinnacles/hut-pinnacle/eh",
-										"image": null,
-										"grade": "22",
-										"length": "23m",
-										"pitches": [],
-										"quality": 1,
-										"bolts": "8",
-										"natural_pro": false,
-										"description": "",
-										"ascent": "Murray Judge '94"
-									},
-									{
-										"name": "Frisky",
-										"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/the-pinnacles/hut-pinnacle/frisky",
-										"image": null,
-										"grade": "19",
-										"length": "",
-										"pitches": [],
-										"quality": 0,
-										"bolts": "9",
-										"natural_pro": false,
-										"description": "",
-										"ascent": "Murray Judge '98"
-									},
-									{
-										"name": "Foxy",
-										"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/the-pinnacles/hut-pinnacle/foxy",
-										"image": null,
-										"grade": "22",
-										"length": "",
-										"pitches": [],
-										"quality": 0,
-										"bolts": "9",
-										"natural_pro": false,
-										"description": "",
-										"ascent": "Tom Riley '98"
-									},
-									{
-										"name": "Zesty",
-										"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/the-pinnacles/hut-pinnacle/zesty",
-										"image": null,
-										"grade": "23",
-										"length": "25m",
-										"pitches": [],
-										"quality": 0,
-										"bolts": "7",
-										"natural_pro": false,
-										"description": "a fine climb on small holds.",
-										"ascent": "Murray Judge '95"
-									},
-									{
-										"name": "Feisty",
-										"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/the-pinnacles/hut-pinnacle/feisty",
-										"image": null,
-										"grade": "25",
-										"length": "25m",
-										"pitches": [],
-										"quality": 0,
-										"bolts": "8",
-										"natural_pro": false,
-										"description": "another fine climb on small holds.",
-										"ascent": "Wayo Carson '95"
-									},
-									{
-										"name": "Bart's Climb",
-										"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/the-pinnacles/hut-pinnacle/barts-climb",
-										"image": null,
-										"grade": "12",
-										"length": "",
-										"pitches": [],
-										"quality": 0,
-										"bolts": "5",
-										"natural_pro": false,
-										"description": "On the slanting pinnacle up to the right.",
-										"ascent": "Geoff McLennon '95"
-									},
-									{
-										"name": "High Step",
-										"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/the-pinnacles/hut-pinnacle/high-step",
-										"image": null,
-										"grade": "20",
-										"length": "",
-										"pitches": [],
-										"quality": 0,
-										"bolts": "7",
-										"natural_pro": false,
-										"description": "",
-										"ascent": "Tim Green '95."
-									},
-									{
-										"name": "Strong",
-										"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/the-pinnacles/hut-pinnacle/strong",
-										"image": null,
-										"grade": "16",
-										"length": "22m",
-										"pitches": [],
-										"quality": 0,
-										"bolts": "6",
-										"natural_pro": false,
-										"description": "",
-										"ascent": "Murray Judge '94"
-									},
-									{
-										"name": "Silent",
-										"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/the-pinnacles/hut-pinnacle/silent",
-										"image": null,
-										"grade": "17",
-										"length": "22m",
-										"pitches": [],
-										"quality": 1,
-										"bolts": "6",
-										"natural_pro": false,
-										"description": "",
-										"ascent": "Murray Judge '94"
-									},
-									{
-										"name": "Type",
-										"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/the-pinnacles/hut-pinnacle/type",
-										"image": null,
-										"grade": "18",
-										"length": "23m",
-										"pitches": [],
-										"quality": 1,
-										"bolts": "5",
-										"natural_pro": false,
-										"description": "",
-										"ascent": "Murray Judge '94"
-									}
-								],
-								"places": [],
-								"image": "https://climbnz.org.nz/sites/default/files/image/somers_hut.jpg"
-							},
 							{
 								"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/the-pinnacles/east-pinnacle",
 								"name": "East Pinnacle",
@@ -68937,6 +68973,147 @@
 								],
 								"places": [],
 								"image": "https://climbnz.org.nz/sites/default/files/image/somers_central.gif"
+							},
+							{
+								"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/the-pinnacles/hut-pinnacle",
+								"name": "Hut Pinnacle",
+								"altitude": "980m",
+								"description": "The nearest pinnacle (slab of rock)\u00a0behind the hut",
+								"latlng": null,
+								"routes": [
+									{
+										"name": "Frisky",
+										"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/the-pinnacles/hut-pinnacle/frisky",
+										"image": null,
+										"grade": "19",
+										"length": "",
+										"pitches": [],
+										"quality": 0,
+										"bolts": "9",
+										"natural_pro": false,
+										"description": "",
+										"ascent": "Murray Judge '98"
+									},
+									{
+										"name": "Foxy",
+										"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/the-pinnacles/hut-pinnacle/foxy",
+										"image": null,
+										"grade": "22",
+										"length": "",
+										"pitches": [],
+										"quality": 0,
+										"bolts": "9",
+										"natural_pro": false,
+										"description": "",
+										"ascent": "Tom Riley '98"
+									},
+									{
+										"name": "Zesty",
+										"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/the-pinnacles/hut-pinnacle/zesty",
+										"image": null,
+										"grade": "23",
+										"length": "25m",
+										"pitches": [],
+										"quality": 0,
+										"bolts": "7",
+										"natural_pro": false,
+										"description": "a fine climb on small holds.",
+										"ascent": "Murray Judge '95"
+									},
+									{
+										"name": "Feisty",
+										"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/the-pinnacles/hut-pinnacle/feisty",
+										"image": null,
+										"grade": "25",
+										"length": "25m",
+										"pitches": [],
+										"quality": 0,
+										"bolts": "8",
+										"natural_pro": false,
+										"description": "another fine climb on small holds.",
+										"ascent": "Wayo Carson '95"
+									},
+									{
+										"name": "Bart's Climb",
+										"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/the-pinnacles/hut-pinnacle/barts-climb",
+										"image": null,
+										"grade": "12",
+										"length": "",
+										"pitches": [],
+										"quality": 0,
+										"bolts": "5",
+										"natural_pro": false,
+										"description": "On the slanting pinnacle up to the right.",
+										"ascent": "Geoff McLennon '95"
+									},
+									{
+										"name": "High Step",
+										"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/the-pinnacles/hut-pinnacle/high-step",
+										"image": null,
+										"grade": "20",
+										"length": "",
+										"pitches": [],
+										"quality": 0,
+										"bolts": "7",
+										"natural_pro": false,
+										"description": "",
+										"ascent": "Tim Green '95."
+									},
+									{
+										"name": "Strong",
+										"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/the-pinnacles/hut-pinnacle/strong",
+										"image": null,
+										"grade": "16",
+										"length": "22m",
+										"pitches": [],
+										"quality": 0,
+										"bolts": "6",
+										"natural_pro": false,
+										"description": "",
+										"ascent": "Murray Judge '94"
+									},
+									{
+										"name": "Silent",
+										"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/the-pinnacles/hut-pinnacle/silent",
+										"image": null,
+										"grade": "17",
+										"length": "22m",
+										"pitches": [],
+										"quality": 1,
+										"bolts": "6",
+										"natural_pro": false,
+										"description": "",
+										"ascent": "Murray Judge '94"
+									},
+									{
+										"name": "Type",
+										"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/the-pinnacles/hut-pinnacle/type",
+										"image": null,
+										"grade": "18",
+										"length": "23m",
+										"pitches": [],
+										"quality": 1,
+										"bolts": "5",
+										"natural_pro": false,
+										"description": "",
+										"ascent": "Murray Judge '94"
+									},
+									{
+										"name": "Eh",
+										"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/the-pinnacles/hut-pinnacle/eh",
+										"image": null,
+										"grade": "22",
+										"length": "23m",
+										"pitches": [],
+										"quality": 1,
+										"bolts": "8",
+										"natural_pro": false,
+										"description": "",
+										"ascent": "Murray Judge '94"
+									}
+								],
+								"places": [],
+								"image": "https://climbnz.org.nz/sites/default/files/image/somers_hut.jpg"
 							}
 						],
 						"image": null
@@ -81671,6 +81848,19 @@
 		"latlng": [
 			"-44.360930050000",
 			"168.411395620000"
+		],
+		"routes": [],
+		"places": [],
+		"image": null
+	},
+	"https://climbnz.org.nz/node/4914/mt-torlesse": {
+		"link": "https://climbnz.org.nz/node/4914/mt-torlesse",
+		"name": "Mt Torlesse",
+		"altitude": "1961m",
+		"description": null,
+		"latlng": [
+			"-43.255000000000",
+			"171.822000000000"
 		],
 		"routes": [],
 		"places": [],
