@@ -67524,6 +67524,45 @@
 						"latlng": null,
 						"routes": [
 							{
+								"name": "Corporal Punishment",
+								"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/christian-principals-crag/corporal-punishment",
+								"image": null,
+								"grade": "16",
+								"length": "22m",
+								"pitches": [],
+								"quality": 1,
+								"bolts": "",
+								"natural_pro": true,
+								"description": "The right ar\u00eate, tending R at the top.",
+								"ascent": "Tom Riley, 1998"
+							},
+							{
+								"name": "The Staircase",
+								"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/christian-principals-crag/the-staircase",
+								"image": null,
+								"grade": "17",
+								"length": "31m",
+								"pitches": [],
+								"quality": 1,
+								"bolts": "",
+								"natural_pro": true,
+								"description": "Starts up the groove capped by a small roof and takes the roof at a small bush on the right.",
+								"ascent": "Chris Burtenshaw, 1995"
+							},
+							{
+								"name": "Six of the Best",
+								"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/christian-principals-crag/six-of-the-best",
+								"image": null,
+								"grade": "17",
+								"length": "",
+								"pitches": [],
+								"quality": 0,
+								"bolts": "",
+								"natural_pro": true,
+								"description": "",
+								"ascent": "Murray Judge, 1998"
+							},
+							{
 								"name": "Bring back the cane",
 								"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/christian-principals-crag/bring-back-the-cane",
 								"image": null,
@@ -67587,45 +67626,6 @@
 								"natural_pro": true,
 								"description": "Takes the left hand of the two prominent ribs in the centre of the crag.",
 								"ascent": "Sean Waters 1995"
-							},
-							{
-								"name": "Corporal Punishment",
-								"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/christian-principals-crag/corporal-punishment",
-								"image": null,
-								"grade": "16",
-								"length": "22m",
-								"pitches": [],
-								"quality": 1,
-								"bolts": "",
-								"natural_pro": true,
-								"description": "The right ar\u00eate, tending R at the top.",
-								"ascent": "Tom Riley, 1998"
-							},
-							{
-								"name": "The Staircase",
-								"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/christian-principals-crag/the-staircase",
-								"image": null,
-								"grade": "17",
-								"length": "31m",
-								"pitches": [],
-								"quality": 1,
-								"bolts": "",
-								"natural_pro": true,
-								"description": "Starts up the groove capped by a small roof and takes the roof at a small bush on the right.",
-								"ascent": "Chris Burtenshaw, 1995"
-							},
-							{
-								"name": "Six of the Best",
-								"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/christian-principals-crag/six-of-the-best",
-								"image": null,
-								"grade": "17",
-								"length": "",
-								"pitches": [],
-								"quality": 0,
-								"bolts": "",
-								"natural_pro": true,
-								"description": "",
-								"ascent": "Murray Judge, 1998"
 							}
 						],
 						"places": [],
@@ -67638,6 +67638,45 @@
 						"description": "100 metres up the hill above\u00a0 Christian Principals Crag\u00a0 is a short crag with two prominent ribs in the middle.",
 						"latlng": null,
 						"routes": [
+							{
+								"name": "Saveloy Heavan",
+								"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/the-meat-grinder-wall/saveloy-heavan",
+								"image": null,
+								"grade": "14",
+								"length": "15m",
+								"pitches": [],
+								"quality": 0,
+								"bolts": "",
+								"natural_pro": true,
+								"description": "",
+								"ascent": ""
+							},
+							{
+								"name": "Beef Flavoured Sausages",
+								"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/the-meat-grinder-wall/beef-flavoured-sausages",
+								"image": null,
+								"grade": "13",
+								"length": "15m",
+								"pitches": [],
+								"quality": 1,
+								"bolts": "",
+								"natural_pro": true,
+								"description": "",
+								"ascent": ""
+							},
+							{
+								"name": "Porno Star",
+								"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/the-meat-grinder-wall/porno-star",
+								"image": null,
+								"grade": "15",
+								"length": "15m",
+								"pitches": [],
+								"quality": 1,
+								"bolts": "",
+								"natural_pro": true,
+								"description": "Four metres to the right, takes a broad arete with a groove.",
+								"ascent": "Sean Waters '95"
+							},
 							{
 								"name": "A Springtime Festival in Autumn",
 								"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/the-meat-grinder-wall/a-springtime-festival-in-autumn",
@@ -67704,45 +67743,6 @@
 								"ascent": ""
 							},
 							{
-								"name": "Saveloy Heavan",
-								"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/the-meat-grinder-wall/saveloy-heavan",
-								"image": null,
-								"grade": "14",
-								"length": "15m",
-								"pitches": [],
-								"quality": 0,
-								"bolts": "",
-								"natural_pro": true,
-								"description": "",
-								"ascent": ""
-							},
-							{
-								"name": "Beef Flavoured Sausages",
-								"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/the-meat-grinder-wall/beef-flavoured-sausages",
-								"image": null,
-								"grade": "13",
-								"length": "15m",
-								"pitches": [],
-								"quality": 1,
-								"bolts": "",
-								"natural_pro": true,
-								"description": "",
-								"ascent": ""
-							},
-							{
-								"name": "Porno Star",
-								"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/the-meat-grinder-wall/porno-star",
-								"image": null,
-								"grade": "15",
-								"length": "15m",
-								"pitches": [],
-								"quality": 1,
-								"bolts": "",
-								"natural_pro": true,
-								"description": "Four metres to the right, takes a broad arete with a groove.",
-								"ascent": "Sean Waters '95"
-							},
-							{
 								"name": "Beyond Beef",
 								"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/the-meat-grinder-wall/beyond-beef",
 								"image": null,
@@ -67766,6 +67766,19 @@
 						"description": "On the ridge above the West Pinnacle (Left of\u00a0the Far Side Crag).",
 						"latlng": null,
 						"routes": [
+							{
+								"name": "Scuttle",
+								"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/fog-buttress/scuttle",
+								"image": null,
+								"grade": "13",
+								"length": "",
+								"pitches": [],
+								"quality": 0,
+								"bolts": "",
+								"natural_pro": false,
+								"description": "Takes the arete to the right. Sean Waters '95",
+								"ascent": ""
+							},
 							{
 								"name": "Terrible Tales of Teenage Angst",
 								"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/fog-buttress/terrible-tales-of-teenage-angst",
@@ -67829,19 +67842,6 @@
 								"bolts": "",
 								"natural_pro": false,
 								"description": "Takes a small arete on the lower half of the wall to a ledge. Chris \nBurtenshaw '95",
-								"ascent": ""
-							},
-							{
-								"name": "Scuttle",
-								"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/fog-buttress/scuttle",
-								"image": null,
-								"grade": "13",
-								"length": "",
-								"pitches": [],
-								"quality": 0,
-								"bolts": "",
-								"natural_pro": false,
-								"description": "Takes the arete to the right. Sean Waters '95",
 								"ascent": ""
 							}
 						],
@@ -68395,6 +68395,32 @@
 						"latlng": null,
 						"routes": [
 							{
+								"name": "Dogfish",
+								"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/orange-wall/dogfish",
+								"image": null,
+								"grade": "15",
+								"length": "31m",
+								"pitches": [],
+								"quality": 0,
+								"bolts": "2",
+								"natural_pro": true,
+								"description": "Past two bolts and up a thin crack.",
+								"ascent": "Wayo Carson '94"
+							},
+							{
+								"name": "Sardine",
+								"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/orange-wall/sardine",
+								"image": null,
+								"grade": "15",
+								"length": "31m",
+								"pitches": [],
+								"quality": 0,
+								"bolts": "",
+								"natural_pro": true,
+								"description": "",
+								"ascent": "Murray Judge '94"
+							},
+							{
 								"name": "What's Up Doc?",
 								"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/pinnacles-hut-area/orange-wall/whats-up-doc",
 								"image": null,
@@ -68522,32 +68548,6 @@
 								"bolts": "",
 								"natural_pro": true,
 								"description": "The groove right of Orange Roughy.",
-								"ascent": "Murray Judge '94"
-							},
-							{
-								"name": "Dogfish",
-								"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/orange-wall/dogfish",
-								"image": null,
-								"grade": "15",
-								"length": "31m",
-								"pitches": [],
-								"quality": 0,
-								"bolts": "2",
-								"natural_pro": true,
-								"description": "Past two bolts and up a thin crack.",
-								"ascent": "Wayo Carson '94"
-							},
-							{
-								"name": "Sardine",
-								"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/orange-wall/sardine",
-								"image": null,
-								"grade": "15",
-								"length": "31m",
-								"pitches": [],
-								"quality": 0,
-								"bolts": "",
-								"natural_pro": true,
-								"description": "",
 								"ascent": "Murray Judge '94"
 							}
 						],
@@ -68982,32 +68982,6 @@
 								"latlng": null,
 								"routes": [
 									{
-										"name": "Frisky",
-										"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/the-pinnacles/hut-pinnacle/frisky",
-										"image": null,
-										"grade": "19",
-										"length": "",
-										"pitches": [],
-										"quality": 0,
-										"bolts": "9",
-										"natural_pro": false,
-										"description": "",
-										"ascent": "Murray Judge '98"
-									},
-									{
-										"name": "Foxy",
-										"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/the-pinnacles/hut-pinnacle/foxy",
-										"image": null,
-										"grade": "22",
-										"length": "",
-										"pitches": [],
-										"quality": 0,
-										"bolts": "9",
-										"natural_pro": false,
-										"description": "",
-										"ascent": "Tom Riley '98"
-									},
-									{
 										"name": "Zesty",
 										"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/the-pinnacles/hut-pinnacle/zesty",
 										"image": null,
@@ -69110,6 +69084,32 @@
 										"natural_pro": false,
 										"description": "",
 										"ascent": "Murray Judge '94"
+									},
+									{
+										"name": "Frisky",
+										"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/the-pinnacles/hut-pinnacle/frisky",
+										"image": null,
+										"grade": "19",
+										"length": "",
+										"pitches": [],
+										"quality": 0,
+										"bolts": "9",
+										"natural_pro": false,
+										"description": "",
+										"ascent": "Murray Judge '98"
+									},
+									{
+										"name": "Foxy",
+										"link": "https://climbnz.org.nz/nz/si/canterbury/inland-canterbury/mt-somers/the-pinnacles/hut-pinnacle/foxy",
+										"image": null,
+										"grade": "22",
+										"length": "",
+										"pitches": [],
+										"quality": 0,
+										"bolts": "9",
+										"natural_pro": false,
+										"description": "",
+										"ascent": "Tom Riley '98"
 									}
 								],
 								"places": [],
