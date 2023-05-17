@@ -113,6 +113,20 @@ def download_mountain(url):
         'image': get_img()
     }
 
+def all_places(places, depth=0):
+    for place in places:
+        yield place, depth
+
+        if 'places' in place:
+            for subplace_depth in all_places(place['places'], depth+1):
+                yield subplace_depth
+
+def get_sub_place_links(places):
+    subplaces = set()
+    for place, depth in all_places(places):
+        if depth > 0:
+            subplaces.add(place['link'])
+    return subplaces
 
 if __name__ == "__main__":
     mountains = {}
@@ -122,6 +136,10 @@ if __name__ == "__main__":
     mountains = None
     with Pool(processes=100) as p:
         mountains = list(p.map(download_mountain, [url for (title, url) in get_index()]))
+
+    # Some subplaces are listed at the top level, so we remove them.
+    subplace_links = get_sub_place_links(mountains)
+    mountains = [mountain for mountain in mountains if mountain['link'] not in subplace_links]
 
     result = {}
     for mountain in mountains:
