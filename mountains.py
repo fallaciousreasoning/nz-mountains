@@ -31,11 +31,12 @@ def download_mountain(url):
 
         return [c.strip() for c in el.text.split(',')]
 
-    def get_img():
-        el = soup.select_one('.field-name-field-image img')
-        if not el:
-            return None
-        return el.attrs['src']
+    def get_imgs():
+        return [{
+                'src': el.attrs['src'],
+                'height': el.attrs['height'],
+                'width': el.attrs['width']
+            } for el in soup.select('.field-name-field-image img')]
 
     def parse_routes():
         def maybe_get_image_url(el: BeautifulSoup, route_link: str):
@@ -102,6 +103,7 @@ def download_mountain(url):
             if not link: continue
             yield download_mountain(f"{BASE_URL}{link.attrs['href']}")
 
+    images = get_imgs()
     return {
         'link': url,
         'name': maybe_text(soup, '.page-header'),
@@ -110,7 +112,8 @@ def download_mountain(url):
         'latlng': get_lat_lng(),
         'routes': list(parse_routes()),
         'places': list(get_places(soup)),
-        'image': get_img()
+        'image': images[0]['src'] if images else None,
+        'images': images
     }
 
 def all_places(places, depth=0):
