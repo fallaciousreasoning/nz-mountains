@@ -3846,6 +3846,20 @@
 		"image": null,
 		"images": []
 	},
+	"https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/barrier-range/pt-2124": {
+		"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/barrier-range/pt-2124",
+		"name": "Pt 2124",
+		"altitude": "2124m",
+		"description": null,
+		"latlng": [
+			"-44.099985000000",
+			"169.701101000000"
+		],
+		"routes": [],
+		"places": [],
+		"image": null,
+		"images": []
+	},
 	"https://climbnz.org.nz/nz/si/aspiring/west-wanaka-mountains/pt-2127": {
 		"link": "https://climbnz.org.nz/nz/si/aspiring/west-wanaka-mountains/pt-2127",
 		"name": "Pt 2127",
@@ -4064,6 +4078,19 @@
 				"natural_pro": false,
 				"description": "A good viewpoint above Monument Hut. Follow the track south of hut, struggle \nthough the beech forest, then scramble to the peak.",
 				"ascent": "Tom Brodrick and others 1890"
+			},
+			{
+				"name": "Honey Badger",
+				"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/barrier-range/pt-2143/honey-badger",
+				"image": "https://climbnz.org.nz/sites/default/files/route/honeybadger.jpg",
+				"grade": "WI4",
+				"length": "",
+				"pitches": [],
+				"quality": 0,
+				"bolts": "",
+				"natural_pro": false,
+				"description": "Honey Badger can be found in a secluded gully system draining the east side of Pt 2143m. Head up the first fan downstream of Monument Hut and continue up the gully to approximately the 1200m contour. The lower part of the climb is not readily visible. Climb four long pitches, WI3\u2013WI4 with a solid WI4 crux. The best descent is to abseil the route.",
+				"ascent": "Jamie Vinton-Boot, Paul Hersey, August 2011"
 			}
 		],
 		"places": [],
@@ -8337,7 +8364,7 @@
 						"quality": 0,
 						"bolts": "",
 						"natural_pro": false,
-						"description": "A prominent route parallel to the East Ridge.  A right side variant of the Atkinson/Hall line exists, finishing on Middle Peak. \r\nSveticic Slavko Miroslav, Mar 1990.",
+						"description": "A prominent route parallel to the East Ridge.  A right side variant of the Atkinson/Hall line exists, finishing on Middle Peak. \nSveticic Slavko Miroslav, Mar 1990.",
 						"ascent": "Bill Atkinson, Rob Hall, Sep 1979."
 					},
 					{
@@ -8350,7 +8377,7 @@
 						"quality": 0,
 						"bolts": "",
 						"natural_pro": false,
-						"description": "Follows a prominent gully up through the rock buttress in a direct fall line from Middle Peak. Approach via the snow field under the Atkinson/Hall route, and then traverse right beneath the rock buttress. The gully involves steep climbing. At the top of the gully there's a natural exit (hidden from view) out to a short snow slope. Follow it's left edge to a final rock wall just right of the Middle Peak apex (where this climb temporarily joined Boogie til you Puke), but then ice formations should lead up through the rock - traversing you out leftwards to finish on  the rib immediately left of Middle Peak.  If there is no ice use the rock (grade 17) finish of the aforementioned route or come up with another solution.\r\nThe first ascent took 3 winter bivvys.",
+						"description": "Follows a prominent gully up through the rock buttress in a direct fall line from Middle Peak. Approach via the snow field under the Atkinson/Hall route, and then traverse right beneath the rock buttress. The gully involves steep climbing. At the top of the gully there's a natural exit (hidden from view) out to a short snow slope. Follow it's left edge to a final rock wall just right of the Middle Peak apex (where this climb temporarily joined Boogie til you Puke), but then ice formations should lead up through the rock - traversing you out leftwards to finish on  the rib immediately left of Middle Peak.  If there is no ice use the rock (grade 17) finish of the aforementioned route or come up with another solution.\nThe first ascent took 3 winter bivvys.",
 						"ascent": "Bill McLeod, Peter Dickson, Jul 1991."
 					},
 					{
@@ -8363,7 +8390,7 @@
 						"quality": 0,
 						"bolts": "",
 						"natural_pro": false,
-						"description": "Ascend mixed ground of icefields and rock ribs between the large gully on the left of the face and the Jones Route.  The rock crux is\r\nat the top.",
+						"description": "Ascend mixed ground of icefields and rock ribs between the large gully on the left of the face and the Jones Route.  The rock crux is\nat the top.",
 						"ascent": "Murray Ball, Nick Cradock, Neal Whiston, Nov 1983."
 					},
 					{
@@ -9240,7 +9267,7 @@
 						"quality": 0,
 						"bolts": "",
 						"natural_pro": false,
-						"description": "A prominent route parallel to the East Ridge.  A right side variant of the Atkinson/Hall line exists, finishing on Middle Peak. \nSveticic Slavko Miroslav, Mar 1990.",
+						"description": "A prominent route parallel to the East Ridge.  A right side variant of the Atkinson/Hall line exists, finishing on Middle Peak. \r\nSveticic Slavko Miroslav, Mar 1990.",
 						"ascent": "Bill Atkinson, Rob Hall, Sep 1979."
 					},
 					{
@@ -9253,7 +9280,7 @@
 						"quality": 0,
 						"bolts": "",
 						"natural_pro": false,
-						"description": "Follows a prominent gully up through the rock buttress in a direct fall line from Middle Peak. Approach via the snow field under the Atkinson/Hall route, and then traverse right beneath the rock buttress. The gully involves steep climbing. At the top of the gully there's a natural exit (hidden from view) out to a short snow slope. Follow it's left edge to a final rock wall just right of the Middle Peak apex (where this climb temporarily joined Boogie til you Puke), but then ice formations should lead up through the rock - traversing you out leftwards to finish on  the rib immediately left of Middle Peak.  If there is no ice use the rock (grade 17) finish of the aforementioned route or come up with another solution.\nThe first ascent took 3 winter bivvys.",
+						"description": "Follows a prominent gully up through the rock buttress in a direct fall line from Middle Peak. Approach via the snow field under the Atkinson/Hall route, and then traverse right beneath the rock buttress. The gully involves steep climbing. At the top of the gully there's a natural exit (hidden from view) out to a short snow slope. Follow it's left edge to a final rock wall just right of the Middle Peak apex (where this climb temporarily joined Boogie til you Puke), but then ice formations should lead up through the rock - traversing you out leftwards to finish on  the rib immediately left of Middle Peak.  If there is no ice use the rock (grade 17) finish of the aforementioned route or come up with another solution.\r\nThe first ascent took 3 winter bivvys.",
 						"ascent": "Bill McLeod, Peter Dickson, Jul 1991."
 					},
 					{
@@ -9266,7 +9293,7 @@
 						"quality": 0,
 						"bolts": "",
 						"natural_pro": false,
-						"description": "Ascend mixed ground of icefields and rock ribs between the large gully on the left of the face and the Jones Route.  The rock crux is\nat the top.",
+						"description": "Ascend mixed ground of icefields and rock ribs between the large gully on the left of the face and the Jones Route.  The rock crux is\r\nat the top.",
 						"ascent": "Murray Ball, Nick Cradock, Neal Whiston, Nov 1983."
 					},
 					{
@@ -14917,11 +14944,11 @@
 		"image": null,
 		"images": []
 	},
-	"https://climbnz.org.nz/nz/si/otago/barrier-range/belfry-pk": {
-		"link": "https://climbnz.org.nz/nz/si/otago/barrier-range/belfry-pk",
+	"https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/barrier-range/belfry-pk": {
+		"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/barrier-range/belfry-pk",
 		"name": "Belfry Pk",
 		"altitude": "2246m",
-		"description": "TBA",
+		"description": null,
 		"latlng": [
 			"-44.080830142550",
 			"169.754315246750"
@@ -14929,29 +14956,29 @@
 		"routes": [
 			{
 				"name": "East Face",
-				"link": "https://climbnz.org.nz/nz/si/otago/barrier-range/belfry-pk/east-face",
+				"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/barrier-range/belfry-pk/east-face",
 				"image": null,
-				"grade": "2",
+				"grade": "II 2",
 				"length": "",
 				"pitches": [],
 				"quality": 0,
 				"bolts": "",
 				"natural_pro": false,
-				"description": "An intriguing problem from the North Temple valley, but appears to be \nclimbable by approaching from the north east. An alternative approach from \nGunsight Pass leads on to low quality rock 400m distant from the summit.",
+				"description": "An intriguing problem from the North Temple valley, but appears to be climbable by approaching from the north-east. An alternative approach from Gunsight Pass leads on to low quality rock 400m distant from the summit.",
 				"ascent": "First ascent unknown"
 			},
 			{
-				"name": "From the South Temple",
-				"link": "https://climbnz.org.nz/nz/si/otago/barrier-range/belfry-pk/south-temple",
+				"name": "West Ramp",
+				"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/barrier-range/belfry-pk/west-ramp",
 				"image": null,
-				"grade": "2",
+				"grade": "II 2",
 				"length": "",
 				"pitches": [],
 				"quality": 0,
 				"bolts": "",
 				"natural_pro": false,
-				"description": "Beginning near the head of the South Temple Valley, easy southern snowslopes \nlead to a basin west of the peak, and culminate in a steep rock needle , \nfirst ascended by an Easter trip of North Otago climbers.",
-				"ascent": "Carol Ayers, Ruth Berry, Tom Guthrie, Ray Slater, Rod Williams, Roy Winsley, Easter 1948"
+				"description": "Begin near the head of the South Temple valley, where scree slopes lead to a basin west of the peak and culminate in a steep rock needle. First ascended by an Easter trip of North Otago climbers. Lack of snow cover may make accessing the summit difficult.",
+				"ascent": "Carol Ayers, Ruth Berry, Tom Guthrie, Ray Slater, Rod Williams, Roy Winsley, March 1948"
 			}
 		],
 		"places": [],
@@ -23775,7 +23802,7 @@
 						"quality": 0,
 						"bolts": "",
 						"natural_pro": false,
-						"description": "Just across from Homer Hut climb tussock slopes to the left-hand gully, moving up right to the second gully and the snowfields above. The ridge itself is a pleasant scramble over loose blocks to the summit.\nDescending the lower bluffs can be difficult in snow or at night.",
+						"description": "Just across from Homer Hut climb tussock slopes to the left-hand gully, moving up right to the second gully and the snowfields above. The ridge itself is a pleasant scramble over loose blocks to the summit.\r\nDescending the lower bluffs can be difficult in snow or at night.",
 						"ascent": "George Moir, Ken Roberts, Bob Sinclair, January 1923"
 					},
 					{
@@ -23788,7 +23815,7 @@
 						"quality": 0,
 						"bolts": "",
 						"natural_pro": false,
-						"description": "This is the gully on the left of the Lindsay Stewart Buttress, 1500m to the summit. The first section to the shoulder of the Lindsay Stewart Buttress is around 65 to 80 degrees and conditions dictate whether it is climbable as this is where unconsolidated snow can lie, and without protection becomes a voyage of the damned. From the shoulder up to the Cul de sac is lower angled, around 50-60 degrees and requires a \u2018grind it down\u2019 attitude. These pitches could be simul-climbed by a confident party. In the cul de sac there are two to three more technical pitches before the final gully to the summit.\nIt is one of the great classic climbs in New Zealand and rivals a lot of similar routes in the Aoraki/Mt Cook area for comparable steepness and length. Most parties pitching all the route could expect to bivvy somewhere. Stories of climbers ending up near the top without bivvy gear and shivering away a winters\u2019 night are common, and in the style of the first ascent. There are no easy descent routes that could be attempted in the dark. However if the Crosscut Bluff descent is in good condition, avalanche wise and there is a full moon it could almost be pleasant.\nThe first section was climbed by Doug Warren and Ken Calder in 1973. Merv English solo to the shoulder, Bill McLeod soloed the full route in a day from Homer hut.",
+						"description": "This is the gully on the left of the Lindsay Stewart Buttress, 1500m to the summit. The first section to the shoulder of the Lindsay Stewart Buttress is around 65 to 80 degrees and conditions dictate whether it is climbable as this is where unconsolidated snow can lie, and without protection becomes a voyage of the damned. From the shoulder up to the Cul de sac is lower angled, around 50-60 degrees and requires a \u2018grind it down\u2019 attitude. These pitches could be simul-climbed by a confident party. In the cul de sac there are two to three more technical pitches before the final gully to the summit.\r\nIt is one of the great classic climbs in New Zealand and rivals a lot of similar routes in the Aoraki/Mt Cook area for comparable steepness and length. Most parties pitching all the route could expect to bivvy somewhere. Stories of climbers ending up near the top without bivvy gear and shivering away a winters\u2019 night are common, and in the style of the first ascent. There are no easy descent routes that could be attempted in the dark. However if the Crosscut Bluff descent is in good condition, avalanche wise and there is a full moon it could almost be pleasant.\r\nThe first section was climbed by Doug Warren and Ken Calder in 1973. Merv English solo to the shoulder, Bill McLeod soloed the full route in a day from Homer hut.",
 						"ascent": "Geoff Gabites, Nigel Perry, Duncan Ritchie, Calum Hudson, June 1982"
 					},
 					{
@@ -23967,7 +23994,7 @@
 				"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/mt-crosscut/mt-crosscut-middle-pk",
 				"name": "Mt Crosscut Middle Pk",
 				"altitude": "2250m",
-				"description": "Just across from Homer Hut.",
+				"description": null,
 				"latlng": [
 					"-44.765700000000",
 					"168.030800000000"
@@ -24058,12 +24085,12 @@
 						"quality": 0,
 						"bolts": "",
 						"natural_pro": false,
-						"description": "First traverse of all four peaks by Austin Brookes and Archie Simpson in 1964.",
-						"ascent": "TN Beckett, Gordon Speden, Hallum Smith, E Rich, Dec 1936."
+						"description": "Climb the bluffs above Homer Hut and traverse the snowfields, then climb to the East Peak.",
+						"ascent": "T N Beckett, Gordon Speden, Hallum Smith, E Rich, December 1936"
 					},
 					{
-						"name": "East Ridge",
-						"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/mt-crosscut/mt-crosscut-east-pk/east-ridge",
+						"name": "South East Ridge",
+						"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/mt-crosscut/mt-crosscut-east-pk/south-east-ridge",
 						"image": null,
 						"grade": "",
 						"length": "",
@@ -24071,19 +24098,71 @@
 						"quality": 0,
 						"bolts": "",
 						"natural_pro": false,
-						"description": "At the head of Cirque Creek climb straight up, climb left, up again, then traverse right and up to the col at the base of East Ridge which is followed to the summit of the East Peak.",
-						"ascent": "Bill Gordon, Ralph Miller, Bill Blee, 1955."
+						"description": "At the head of Cirque Creek climb straight up, climb left, up again, then traverse right and up to the col at the base of the South East Ridge which is followed to the summit of the East Peak.",
+						"ascent": "Bill Gordon, Ralph Miller, Bill Blee, January 1955"
 					}
 				],
-				"places": [],
-				"image": "https://climbnz.org.nz/sites/default/files/image/D164_0.jpg",
-				"images": [
+				"places": [
 					{
-						"src": "https://climbnz.org.nz/sites/default/files/image/D164_0.jpg",
-						"height": "408",
-						"width": "251"
+						"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/mt-crosscut/mt-crosscut-east-pk/east-face",
+						"name": "East Face",
+						"altitude": null,
+						"description": null,
+						"latlng": null,
+						"routes": [
+							{
+								"name": "Marian Buttress",
+								"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/mt-crosscut/mt-crosscut-east-pk/east-face/marian-buttress",
+								"image": null,
+								"grade": "",
+								"length": "",
+								"pitches": [],
+								"quality": 0,
+								"bolts": "",
+								"natural_pro": false,
+								"description": "The prominent buttress seen from the lake. Good climbing, albeit with some poor rock lower down.",
+								"ascent": "Harold Jacobs, Murray Jones, 23 December 1965"
+							},
+							{
+								"name": "East Face Direct",
+								"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/mt-crosscut/mt-crosscut-east-pk/east-face/east-face-direct",
+								"image": null,
+								"grade": "",
+								"length": "",
+								"pitches": [],
+								"quality": 0,
+								"bolts": "",
+								"natural_pro": false,
+								"description": "Cross the broad ledge, but before reaching the buttress climb the East Face to the East Peak of Crosscut. The first ascent party gained the east ridge just past the top of the Marian Buttress. A later party (Moore and Bennett, 1973) climbed the left side of the face to about half height, traversed a sloping ledge and continued up the right side of the face to a prominent gendarme on the north east ridge.",
+								"ascent": "Ron Dickie, Ken Hamilton, Noel Wilson, February 1968"
+							},
+							{
+								"name": "North East Ridge",
+								"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/mt-crosscut/mt-crosscut-east-pk/east-face/north-east-ridge",
+								"image": null,
+								"grade": "",
+								"length": "",
+								"pitches": [],
+								"quality": 0,
+								"bolts": "",
+								"natural_pro": false,
+								"description": "Instead of traversing across the broad ledge, climb straight up a snow-field on to the North East Ridge of Mt Crosscut. This ridge leads to to the East Peak, although the first ascent party climbed to the Middle Pk.",
+								"ascent": "Ralph Miller, Bob Cuthill, Lloyd Warburton, Duncan Wilson, Gerry Hall-Jones, 1955"
+							}
+						],
+						"places": [],
+						"image": "https://climbnz.org.nz/sites/default/files/image/Mt%20Crosscut%20East%20Face.jpg",
+						"images": [
+							{
+								"src": "https://climbnz.org.nz/sites/default/files/image/Mt%20Crosscut%20East%20Face.jpg",
+								"height": "2481",
+								"width": "3721"
+							}
+						]
 					}
-				]
+				],
+				"image": null,
+				"images": []
 			},
 			{
 				"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/mt-crosscut/west-face",
@@ -24151,63 +24230,6 @@
 				"places": [],
 				"image": null,
 				"images": []
-			},
-			{
-				"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/mt-crosscut/east-face",
-				"name": "East Face",
-				"altitude": null,
-				"description": null,
-				"latlng": null,
-				"routes": [
-					{
-						"name": "Marian Buttress",
-						"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/mt-crosscut/east-face/marian-buttress",
-						"image": null,
-						"grade": "",
-						"length": "",
-						"pitches": [],
-						"quality": 0,
-						"bolts": "",
-						"natural_pro": false,
-						"description": "The prominent buttress seen from the lake. Good climbing with some poor rock lower down.",
-						"ascent": "Harold Jacobs, Murray Jones, 23 December 1965"
-					},
-					{
-						"name": "East Face",
-						"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/mt-crosscut/east-face/east-face",
-						"image": null,
-						"grade": "",
-						"length": "",
-						"pitches": [],
-						"quality": 0,
-						"bolts": "",
-						"natural_pro": false,
-						"description": "Right up a snow-field to the East Ridge of Crosscut.",
-						"ascent": "Ralph Miller, Bob Cuthill, Lloyd Warburton, Duncan Wilson, Gerry Hall-Jones, 1955."
-					},
-					{
-						"name": "East Face Direct",
-						"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/mt-crosscut/east-face/east-face-direct",
-						"image": null,
-						"grade": "",
-						"length": "",
-						"pitches": [],
-						"quality": 0,
-						"bolts": "",
-						"natural_pro": false,
-						"description": "Take the East Face to the East Peak of Crosscut.",
-						"ascent": "Ron Dickie, Ken Hamilton, Noel Wilson, Feb 1968."
-					}
-				],
-				"places": [],
-				"image": "https://climbnz.org.nz/sites/default/files/image/Crosscut.jpg",
-				"images": [
-					{
-						"src": "https://climbnz.org.nz/sites/default/files/image/Crosscut.jpg",
-						"height": "636",
-						"width": "900"
-					}
-				]
 			},
 			{
 				"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/mt-crosscut/upper-cirque-wall",
@@ -37282,72 +37304,91 @@
 		"image": null,
 		"images": []
 	},
-	"https://climbnz.org.nz/nz/si/westland/hooker-range/mt-hooker": {
-		"link": "https://climbnz.org.nz/nz/si/westland/hooker-range/mt-hooker",
+	"https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/hooker-range/mt-hooker": {
+		"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/hooker-range/mt-hooker",
 		"name": "Mt Hooker",
 		"altitude": "2640m",
-		"description": "Mt Hooker is a superb massif flanked on three sides by extensive glaciers. An impressively steep north face dominates the view from the upper Otoko River. Hooker is readily visible from the Haast and West Coast highways, and provides a powerful attraction for climbers who want to experience climbing west of the Main Divide. From the west, rapid approach can be made up the Otoko Valley to reach the junction with Jack Creek, or further on the Upper Otoko Pass. Access can also be gained from the east by crossing the Landsborough River and Solution Range or from the south by traveling up the Landsborough and Clarke Valleys. Climbing parties require a minimum of one and a half days to reach Mt Hooker from the west or south.",
+		"description": "Mt Hooker is a superb massif flanked on three sides by extensive glaciers. An impressively steep north face dominates the view from the upper \u014ctoko River. The first ascent by Samuel and Cyril Turner is shrouded in mystery, as Samuel Turner died before he was able to record the details of the ascent. However, the secretary of the Alpine Club at the time was satisfied that they had indeed climbed the peak, after corroboration from deer cullers working in the area. It is likely they climbed it from Marks Flat. Hooker is readily visible from the Haast and West Coast highways, and provides a powerful attraction for climbers who want to experience climbing west of the Main Divide.",
 		"latlng": [
 			"-43.829709681700",
 			"169.673377994000"
 		],
 		"routes": [
 			{
-				"name": "From Jack Creek",
-				"link": "https://climbnz.org.nz/nz/si/westland/hooker-range/mt-hooker/jack-creek",
+				"name": "North West Ridge",
+				"link": "https://climbnz.org.nz/nz/si/westland/hooker-range/mt-hooker/north-west-ridge",
 				"image": null,
-				"grade": "",
+				"grade": "II 2",
 				"length": "",
 				"pitches": [],
 				"quality": 0,
 				"bolts": "",
 				"natural_pro": false,
-				"description": "Formerly provided reasonable access to the mountain, but recent windfall is \nreported to have created havoc in the forested section of the creek making it \nnear impassable. Beyond the end of the stream, cross the Jack Glacier to \nconnect with a broad ridge which leads up to the west peak of Mt Hooker. \nAscent to the higher eastern peak is accomplished by traversing across the \neast slope and up a snow chute.",
+				"description": "Climb the spur between Marks Flat and Murdock Creek to gain the extensive Hooker Glacier. Sidle the western summit on the \u014ctoko side at about 2450m, across snowfields to an ar\u00eate leading to the higher eastern peak. The ridge from the low to high peak has also been traversed on the ridge crest by Bruce Jenkinson and company in the 1960s but is significantly more difficult (III, 3+).",
 				"ascent": "Samuel Turner, Cyril Turner, December 1928"
+			},
+			{
+				"name": "South Ridge",
+				"link": "https://climbnz.org.nz/nz/si/westland/hooker-range/mt-hooker/south-ridge",
+				"image": null,
+				"grade": "III 3+",
+				"length": "",
+				"pitches": [],
+				"quality": 0,
+				"bolts": "",
+				"natural_pro": false,
+				"description": "A route leads from the Hooker Glacier directly to the high peak. Begin the climb on the western side of the ridge to get some easy height before gaining the ridge. Follow mixed ground up the ridge to reach loose schist and move carefully to the summit snowfield.",
+				"ascent": "Dave Innes, Bruce Robertson, Peter Foster, Laurie Kennedy, January 1968"
 			},
 			{
 				"name": "South East Ridge",
 				"link": "https://climbnz.org.nz/nz/si/westland/hooker-range/mt-hooker/south-east-ridge",
 				"image": null,
-				"grade": "4",
+				"grade": "V 4",
 				"length": "",
 				"pitches": [],
-				"quality": 0,
+				"quality": 1,
 				"bolts": "",
 				"natural_pro": false,
-				"description": "Several parties attempted to climb the mountain from the Lower Otoko Pass \nbefore it was completed in 1962. Note that early accounts describe this as \nthe North East Ridge! A broad shelf leads across the east face until \ncrevasses force the route up onto the summit pyramid. A large gendarme at \nabout 2500m which deterred several parties is turned on the Clarke side to \nreach the east peak. A difficult pinnacled ridge leading to the summit \nrequires down climbing on tension at a couple of points to reach the final \nsharp cheval ridge. Plenty of exposure!\n\nNow I had a decision problem. I hated to give up, but there seemed no way \nout. The way down was difficult enough and we could not afford any more \nmishaps. The others however did not follow up my overtures of defeat, but \nseemed still hopeful that we could pull something out of the box. They sent \nup my jersey for I was feeling cold in the shade (or was it fright), and I \nconsidered the problem some more. Through the window I could see that there \nwas not any prospect on the Otoko side, while the only way on my side was \nvertically down. So that way it would have to be. Perhaps on the sloping \nshelves of rubble below me, we could find a way around underneath the \npinnacle.\n\nPaul Bieleski, New Zealand Alpine Journal, 1962.",
-				"ascent": "Paul Bieleski, G.A.Carr, Bruce Jenkinson, A.G.Nelson, January 1962"
+				"description": "Several parties attempted to climb the mountain from Lower \u014ctoko Pass before it was completed in 1962. Note that early accounts describe this as the North East Ridge. A broad shelf leads across the east face until crevasses force the route up onto the summit pyramid. A large gendarme at about 2500m, which deterred several parties, is turned on the Marks Flat side to reach the east peak. A difficult, pinnacled ridge leading to the summit requires down climbing on tension at a couple of points to reach the final sharp cheval ridge. Plenty of exposure!",
+				"ascent": "Paul Bieleski, G A Carr, Bruce Jenkinson, A G Nelson, January 1962"
 			},
 			{
-				"name": "South Face",
-				"link": "https://climbnz.org.nz/nz/si/westland/hooker-range/mt-hooker/south-face",
+				"name": "Hersey Vinton-Boot",
+				"link": "https://climbnz.org.nz/nz/si/westland/hooker-range/mt-hooker/hersey-vinton-boot",
 				"image": null,
-				"grade": "3+",
+				"grade": "V 6  20",
 				"length": "",
 				"pitches": [],
 				"quality": 0,
 				"bolts": "",
 				"natural_pro": false,
-				"description": "A route leads from the Hooker Glacier directly to the high peak. Follow mixed \nground up the spur to reach loose schist and move carefully to the summit \nsnowfield.",
-				"ascent": "Dave Innes, Bruce Robertson, Peter Foster, Laurie Kennedy, January 1968"
+				"description": "Begin at about 1750m on the \u014ctoko Glacier and climb weaknesses on the lower north face, trending left to finish on the big shelf on the south-west ridge. The upper buttress remains unclimbed. Steep, difficult climbing on somewhat friable rock, a difficult climb.",
+				"ascent": "Shelley Hersey, Jamie Vinton-Boot, April 2012"
 			},
 			{
-				"name": "From Marks Flat",
-				"link": "https://climbnz.org.nz/nz/si/westland/hooker-range/mt-hooker/marks-flat",
+				"name": "From Jack Creek",
+				"link": "https://climbnz.org.nz/nz/si/westland/hooker-range/mt-hooker/jack-creek",
 				"image": null,
-				"grade": "2+",
+				"grade": "III 2",
 				"length": "",
 				"pitches": [],
 				"quality": 0,
 				"bolts": "",
 				"natural_pro": false,
-				"description": "The southern snowslopes from Marks Flat and Murdock Creek provides rapid \naccess to the upper slopes. Climb around the western summit at about 2450m, \nsidle across the north slope snowfield to an ar\u00eate leading to the higher \neastern peak. A lengthy one day climb requiring over 1700m of height gain.",
-				"ascent": "Marion Scott, Dora de Beer, Joe Fleurty, Chris Pope, April 1937"
+				"description": "From the bushline in Jack Creek, ascend the spur on the true right and cross the Jack Glacier to connect with the Hooker Glacier and the North West Ridge route to the low peak of Mt Hooker. Ascent of the higher eastern peak is accomplished by traversing across the \u014ctoko slopes and up the summit pyramid.",
+				"ascent": "Bruce Popplewell, Brian Stephenson, January 1965"
 			}
 		],
 		"places": [],
-		"image": null,
-		"images": []
+		"image": "https://climbnz.org.nz/sites/default/files/image/Mt%20Hooker%202003.jpeg",
+		"images": [
+			{
+				"src": "https://climbnz.org.nz/sites/default/files/image/Mt%20Hooker%202003.jpeg",
+				"height": "953",
+				"width": "1397"
+			}
+		]
 	},
 	"https://climbnz.org.nz/nz/si/lewis-pass-harper-pass/glynn-wye-range/hooligan": {
 		"link": "https://climbnz.org.nz/nz/si/lewis-pass-harper-pass/glynn-wye-range/hooligan",
@@ -54631,32 +54672,32 @@
 		"image": null,
 		"images": []
 	},
-	"https://climbnz.org.nz/nz/si/otago/barrier-range/pakeke-pk": {
-		"link": "https://climbnz.org.nz/nz/si/otago/barrier-range/pakeke-pk",
+	"https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/barrier-range/pakeke-pk": {
+		"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/barrier-range/pakeke-pk",
 		"name": "Pakeke Pk",
 		"altitude": "2237m",
-		"description": "TBA",
+		"description": null,
 		"latlng": [
 			"-44.096812054100",
 			"169.707144614970"
 		],
 		"routes": [
 			{
-				"name": "From the South Temple",
-				"link": "https://climbnz.org.nz/nz/si/otago/barrier-range/pakeke-pk/south-temple",
+				"name": "North Ridge",
+				"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/barrier-range/pakeke-pk/north-ridge",
 				"image": null,
-				"grade": "1",
+				"grade": "II 1+",
 				"length": "",
 				"pitches": [],
 				"quality": 0,
 				"bolts": "",
 				"natural_pro": false,
-				"description": "From the Temple-Ahuriri Saddle, traverse to the south passing 2190m, to reach \nthe summit.",
+				"description": "From the Temple-Ahuriri Saddle traverse to the south, passing Pt 2190m, to reach the summit.",
 				"ascent": "First ascent unknown"
 			},
 			{
 				"name": "The Fend",
-				"link": "https://climbnz.org.nz/nz/si/otago/barrier-range/pakeke-pk/fend",
+				"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/barrier-range/pakeke-pk/fend",
 				"image": "https://climbnz.org.nz/sites/default/files/route/fend.jpg",
 				"grade": "3",
 				"length": "",
@@ -54668,30 +54709,30 @@
 				"ascent": "Paul Hersey, Mat Woods, November 2006"
 			},
 			{
-				"name": "Chess Geeks Grade",
-				"link": "https://climbnz.org.nz/nz/si/otago/barrier-range/pakeke-pk/chess-geeks-grade",
+				"name": "Chess Geeks",
+				"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/barrier-range/pakeke-pk/chess-geeks",
 				"image": "https://climbnz.org.nz/sites/default/files/route/chess.jpg",
-				"grade": "3+",
+				"grade": "III 4  14",
 				"length": "",
 				"pitches": [],
 				"quality": 0,
 				"bolts": "",
 				"natural_pro": false,
-				"description": "Aim for a right tending ledge system that leads to a slab in the centre of \nthe face. An eight pitch rock climb plus simul climb on reasonable rock, crux \ngrade 14. Exit to NW by careful climbing on the tricky summit ridge.",
+				"description": "Aim for a right-tending ledge system that leads to a slab in the centre of the south-east face. An eight-pitch rock climb plus simul-climbing on reasonable rock, crux grade 14. To descend, head straight down the steep notch on the other side of the summit ridge for one pitch or abseil, then traverse left across broken rock and drop back into the valley south of Pk 2124m.",
 				"ascent": "Dannie Baille, Paul Hersey, February 2007"
 			},
 			{
-				"name": "Hangups Need Company (North-East Face)",
-				"link": "https://climbnz.org.nz/nz/si/otago/barrier-range/pakeke-pk/hangups-need-company-north-east-face",
+				"name": "Hangups Need Company",
+				"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/barrier-range/pakeke-pk/hangups-need-company",
 				"image": null,
-				"grade": "2",
+				"grade": "II 2",
 				"length": "",
 				"pitches": [],
 				"quality": 0,
 				"bolts": "",
 				"natural_pro": false,
-				"description": "a line up the centre of the face on stable rock, with plenty of good holds for hands and feet",
-				"ascent": "Ross Cullen, 2012"
+				"description": "From the Temple\u2013Ahuriri Saddle, traverse scree slopes to the base of the north-east face of Pakeke Peak. Climb the steep slope, angling towards a shallow gully that reaches the summit ridge about 50m west of the summit. Descend the same way.",
+				"ascent": "Ross Cullen, April 2012"
 			}
 		],
 		"places": [],
@@ -58062,39 +58103,39 @@
 				"name": "West Face",
 				"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/barrier-range/rabbiters-pk/west-face",
 				"image": null,
-				"grade": "1",
+				"grade": "II 2",
 				"length": "",
 				"pitches": [],
 				"quality": 0,
 				"bolts": "",
 				"natural_pro": false,
-				"description": "Follow a streambed from the South Huxley, cross the scree slope and scramble \nup the steeper rock to the summit.",
+				"description": "Follow the open streambed from the South Huxley just upstream of South Huxley Bivvy, grind up the scree slopes and scramble up the steeper rock to the summit.",
 				"ascent": "First ascent unknown"
 			},
 			{
-				"name": "North Face from lower Hopkins Valley",
-				"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/barrier-range/rabbiters-pk/north-face-lower-hopkins-valley",
+				"name": "East Face",
+				"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/barrier-range/rabbiters-pk/east-face",
 				"image": null,
-				"grade": "2",
+				"grade": "II 2",
 				"length": "",
 				"pitches": [],
-				"quality": 0,
+				"quality": 1,
 				"bolts": "",
 				"natural_pro": false,
-				"description": "One of the more accessible routes in the Southern Alps. Drive your 4WD to the \nbase of the slope and choose a route up through the scattered beech forest \nand tussock. Cross onto the snowslopes and onwards in a westerly direction to \nthe southern summit. A superb spot with views from Mt Aspiring to Malte Brun.",
-				"ascent": "Christopher Johnson, Harry Stevenson and Lyn Stevenson close to the summit January 1938"
+				"description": "Rabbiters Peak has been recognised since the 1930s for the very fine view that it commands, from Mts Earnslaw and Aspiring to Hooker and Aoraki. Use the spur running south-east of Pt 1556m to gain the basin east of Rabbiters Peak and from here amble up tussock slopes towards the summit, which is reached by a final rock scramble.",
+				"ascent": "Christopher Johnson, Harry Stevenson, Lyn Stevenson, January 1938"
 			},
 			{
 				"name": "East Ridge",
 				"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/barrier-range/rabbiters-pk/east-ridge",
 				"image": null,
-				"grade": "2",
+				"grade": "II 2",
 				"length": "",
 				"pitches": [],
 				"quality": 0,
 				"bolts": "",
 				"natural_pro": false,
-				"description": "Either along the ridge from Rams Head, or from the bush edge in the North \nTemple, climb the steep tussock slopes to the crest of the ridge, then follow \nthe ridge west to reach the summit. Rocky sections along the ridge can be \nturned on the north side.",
+				"description": "Either along the ridge from Rams Head, or from the bush edge in the North Temple, climb the steep tussock slopes to the crest of the ridge, then follow the ridge west to reach the summit. Rocky sections along the ridge can be turned on the north side. Cross the permanent snowfield (not marked on some topomaps) and climb a final pitch of steep and loose rock to the summit.",
 				"ascent": "First ascent unknown"
 			},
 			{
@@ -58109,19 +58150,6 @@
 				"natural_pro": false,
 				"description": "Ascend the steep cirque wall at the head of the valley then strike up towards \nthe permanent snowfield. Follow a line up through the bluffs to the low peak. \nThe high peak is approximately 400m further north across easy snowfields.",
 				"ascent": "First ascent unknown"
-			},
-			{
-				"name": "Honey Badger",
-				"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/barrier-range/rabbiters-pk/honey-badger",
-				"image": "https://climbnz.org.nz/sites/default/files/route/honeybadger.jpg",
-				"grade": "WI4",
-				"length": "",
-				"pitches": [],
-				"quality": 0,
-				"bolts": "",
-				"natural_pro": false,
-				"description": "Honey Badger can be found in a secluded gully system on the east side of \nRabbiter\u2019s Peak. The lower part of the route is not visible in the picture \nabove. Climb four long pitches, WI3-4. The best descent is to abseil the \nroute.",
-				"ascent": "Jamie Vinton-Boot, Paul Hersey, August 2011"
 			}
 		],
 		"places": [],
@@ -58204,28 +58232,28 @@
 			}
 		]
 	},
-	"https://climbnz.org.nz/nz/si/otago/barrier-range/ram-hill": {
-		"link": "https://climbnz.org.nz/nz/si/otago/barrier-range/ram-hill",
+	"https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/barrier-range/ram-hill": {
+		"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/barrier-range/ram-hill",
 		"name": "Ram Hill",
 		"altitude": "1368m",
-		"description": "TBA",
+		"description": null,
 		"latlng": [
 			"-44.095000000000",
 			"169.820000000000"
 		],
 		"routes": [
 			{
-				"name": "From the Temple carpark",
-				"link": "https://climbnz.org.nz/nz/si/otago/barrier-range/ram-hill/temple-carpark",
+				"name": "From the Temple Roadend",
+				"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/barrier-range/ram-hill/temple-roadend",
 				"image": null,
-				"grade": "1",
+				"grade": "I 1",
 				"length": "",
 				"pitches": [],
 				"quality": 0,
 				"bolts": "",
 				"natural_pro": false,
-				"description": "Park your car at the Temple carpark, and follow the signposts up the southern \njowl of the ram's head.",
-				"ascent": ""
+				"description": "From the Temple carpark follow the signposts up the southern jowl of the ram\u2019s head and cross the neck to reach the topknot.",
+				"ascent": "First ascent unknown"
 			}
 		],
 		"places": [],
@@ -59681,7 +59709,7 @@
 						"quality": 0,
 						"bolts": "",
 						"natural_pro": false,
-						"description": "Map K33\r\nAfter good snowfalls it is possible to skin up the Otira Valley (from the foot bridge at least) to the base of the Otira Slide, the large snow slope that descends from the summit of Low Peak on Mount Rolleston. 90 minutes to 2 hours travel time to the base of the slide. It is important to assess the avalanche potential of this route. Most climbers will be ascending on foot for the steeper section above here. On descent, stay away from the Goldney Ridge (true right) side as the cornice here can be dangerous.",
+						"description": "Map K33\nAfter good snowfalls it is possible to skin up the Otira Valley (from the foot bridge at least) to the base of the Otira Slide, the large snow slope that descends from the summit of Low Peak on Mount Rolleston. 90 minutes to 2 hours travel time to the base of the slide. It is important to assess the avalanche potential of this route. Most climbers will be ascending on foot for the steeper section above here. On descent, stay away from the Goldney Ridge (true right) side as the cornice here can be dangerous.",
 						"ascent": ""
 					}
 				],
@@ -60753,8 +60781,8 @@
 						"images": []
 					},
 					{
-						"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/t%C5%ABkino-skifield/margarets-leap",
-						"name": "Margarets Leap",
+						"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/t%C5%ABkino-skifield/margarets-leap-winter",
+						"name": "Margarets Leap (winter)",
 						"altitude": "1850m",
 						"description": "The very prominent cirque that can be seen from the car park.  This crag has the most accessible ice climbing in the country in June & July.  The cirque is significantly overhanging, and offers challenges for the most serious rock and ice climbers.",
 						"latlng": [
@@ -60764,7 +60792,7 @@
 						"routes": [
 							{
 								"name": "The Curtain",
-								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/t%C5%ABkino-skifield/margarets-leap/curtain",
+								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/t%C5%ABkino-skifield/margarets-leap-winter/curtain",
 								"image": null,
 								"grade": "WI2",
 								"length": "50m",
@@ -60777,7 +60805,7 @@
 							},
 							{
 								"name": "The Shroud",
-								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/t%C5%ABkino-skifield/margarets-leap/shroud",
+								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/t%C5%ABkino-skifield/margarets-leap-winter/shroud",
 								"image": null,
 								"grade": "",
 								"length": "",
@@ -60787,6 +60815,131 @@
 								"natural_pro": false,
 								"description": "In cold winters two impressive and apparently unclimbed free-hanging icicles \nform down the overhanging cliff left of the Curtain. The icicle\nimmediately right of the Curtain is about 40m high. The stupendous main \nicicle is perhaps 60m high, 10m in girth and hangs free by four or five \nmetres. Further left again on a sunnier aspect is a steep drainage line that \nwould make another hard route.",
 								"ascent": ""
+							},
+							{
+								"name": "Comedy of Errors",
+								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/t%C5%ABkino-skifield/margarets-leap-winter/comedy-errors",
+								"image": "https://climbnz.org.nz/sites/default/files/routes/Comedy%20of%20Errors%20%282%29.jpg",
+								"grade": "M5,M7,M8",
+								"length": "40m",
+								"pitches": [
+									{
+										"ewbank": "",
+										"alpine": "",
+										"commitment": "",
+										"mtcook": "",
+										"aid": "",
+										"ice": "",
+										"mixed": "M5",
+										"boulder": "",
+										"length": "10m",
+										"bolts": "5",
+										"trad": false,
+										"description": "Start in the groove just left of the main icefall, look for the first bolt around head-height. Tricky mantle at the first ledge leads up to double ring anchor."
+									},
+									{
+										"ewbank": "",
+										"alpine": "",
+										"commitment": "",
+										"mtcook": "",
+										"aid": "",
+										"ice": "",
+										"mixed": "M7",
+										"boulder": "",
+										"length": "20m",
+										"bolts": "8",
+										"trad": false,
+										"description": "Up vertical face (M5+) to the base of the ice-choked roof crack. There is a lower-off maillon on the final bolt before the roof - wildly overhanging moves on good hooks! Double ring belay on the snowy ledge."
+									},
+									{
+										"ewbank": "",
+										"alpine": "",
+										"commitment": "",
+										"mtcook": "",
+										"aid": "",
+										"ice": "",
+										"mixed": "M8",
+										"boulder": "",
+										"length": "10m",
+										"bolts": "4",
+										"trad": false,
+										"description": "Burly moves off the ledge lead to thin climbing following the slabby crack. Fully bolted pitch but you will need to build a trad anchor well back from the lip (take a long cordalette)."
+									}
+								],
+								"quality": 3,
+								"bolts": "17",
+								"natural_pro": false,
+								"description": "The first multi-pitch mixed route at Margaret's! Something for everyone, the first 1.5 pitches are relatively beginner-friendly. Note bolts are painted black to reduce visual impact. \r\nDescent: You can climb the first 1.5 pitches ground up and lower off a maillon before the crux (M5+ to here). If you climb through the roof you will need to second the route or down-aid and clean. 30m rap from the second anchor to ground. The third pitch can easily be accessed from the top.",
+								"ascent": "P1-2 Edwin Sheppard 2018-2019. P3 Edwin Sheppard and Romain Albert 2021."
+							},
+							{
+								"name": "Can I Play With Madness",
+								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/t%C5%ABkino-skifield/margarets-leap-winter/can-i-play-madness",
+								"image": null,
+								"grade": "M5,M6,M7",
+								"length": "40m",
+								"pitches": [
+									{
+										"ewbank": "",
+										"alpine": "",
+										"commitment": "",
+										"mtcook": "",
+										"aid": "",
+										"ice": "",
+										"mixed": "M5",
+										"boulder": "",
+										"length": "10m",
+										"bolts": "5",
+										"trad": true,
+										"description": "Place a screw in the ice at the start, climb up bolted crack then leftwards traverse to the double ring anchors."
+									},
+									{
+										"ewbank": "",
+										"alpine": "",
+										"commitment": "",
+										"mtcook": "",
+										"aid": "",
+										"ice": "",
+										"mixed": "M6",
+										"boulder": "",
+										"length": "20m",
+										"bolts": "7",
+										"trad": true,
+										"description": "Straight up vertical wall above the belay, then rising traverse through steep blocky ground to join the righthand side of the large icicle (M6+). Double ring belay in the cave above."
+									},
+									{
+										"ewbank": "",
+										"alpine": "",
+										"commitment": "",
+										"mtcook": "",
+										"aid": "",
+										"ice": "",
+										"mixed": "M7",
+										"boulder": "",
+										"length": "10m",
+										"bolts": "",
+										"trad": true,
+										"description": "Pure trad pitch, climbed on pre-placed gear. There is a sling and biner anchor at the top of the groove, placed 2021."
+									}
+								],
+								"quality": 2,
+								"bolts": "12",
+								"natural_pro": true,
+								"description": "Up the groove left of Comedy of Errors then p2 heads up steep rock to the hanging icicle. Safety note: don't climb pitch 2 if the rock isn't well frozen together. \r\nGear: P1-2 couple ice screws and a rack of draws. P3: Wires, cams and a couple of pitons. \r\nDescent: 30m rap to ground from the top of P2.",
+								"ascent": "P1-2 Edwin Sheppard and Prajot Sabnis 2021. P3 Edwin Sheppard and Romain Albert 2021 (on pre-placed gear)."
+							},
+							{
+								"name": "Scottishish",
+								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/t%C5%ABkino-skifield/margarets-leap-winter/scottishish",
+								"image": "https://climbnz.org.nz/sites/default/files/routes/Scottishish.jpg",
+								"grade": "M3",
+								"length": "25m",
+								"pitches": [],
+								"quality": 1,
+								"bolts": "",
+								"natural_pro": true,
+								"description": "Trad mixed climbing up the buttress right of the shroud. Build a trad anchor below the final headwall then escape to the gully on the right. \r\nGear: Wires, small-med cams, couple of pitons.",
+								"ascent": "Edwin Sheppard and Shaun Brown 2021"
 							}
 						],
 						"places": [],
@@ -61446,6 +61599,19 @@
 								"natural_pro": false,
 								"description": "On the right side of the buttress.",
 								"ascent": ""
+							},
+							{
+								"name": "Bootsplosion",
+								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/whangaehu-valley/buttons-buttress/bootsplosion",
+								"image": "https://climbnz.org.nz/sites/default/files/routes/Button_s%20Buttress%2004-07-2020%20Romain%20on%20Bootsplosion%20WI4.jpg",
+								"grade": "WI4",
+								"length": "30m",
+								"pitches": [],
+								"quality": 0,
+								"bolts": "",
+								"natural_pro": false,
+								"description": "A thin, wandering ice line starting at the bottom-right of the main face (right-hand line on the topo).",
+								"ascent": "Romain Albert and Edwin Sheppard 2020."
 							}
 						],
 						"places": [
@@ -61467,8 +61633,14 @@
 								]
 							}
 						],
-						"image": null,
-						"images": []
+						"image": "https://climbnz.org.nz/sites/default/files/image/Buttons%20Buttress%20topo%202020.jpg",
+						"images": [
+							{
+								"src": "https://climbnz.org.nz/sites/default/files/image/Buttons%20Buttress%20topo%202020.jpg",
+								"height": "2475",
+								"width": "3710"
+							}
+						]
 					}
 				],
 				"image": "https://climbnz.org.nz/sites/default/files/image/Whangaehu%20Valley.jpg",
@@ -79816,11 +79988,11 @@
 		"image": null,
 		"images": []
 	},
-	"https://climbnz.org.nz/nz/si/aoraki/fox-range/torres-pk": {
-		"link": "https://climbnz.org.nz/nz/si/aoraki/fox-range/torres-pk",
+	"https://climbnz.org.nz/nz/si/aoraki-tai-poutini/fox-range/torres-pk": {
+		"link": "https://climbnz.org.nz/nz/si/aoraki-tai-poutini/fox-range/torres-pk",
 		"name": "Torres Pk",
 		"altitude": "3160m",
-		"description": "Tba",
+		"description": null,
 		"latlng": [
 			"-43.559971000000",
 			"170.146461000000"
@@ -79828,129 +80000,142 @@
 		"routes": [
 			{
 				"name": "Torres-Tasman Col",
-				"link": "https://climbnz.org.nz/nz/si/aoraki/fox-range/torres-pk/torres-tasman-col",
+				"link": "https://climbnz.org.nz/nz/si/aoraki-tai-poutini/fox-range/torres-pk/torres-tasman-col",
 				"image": null,
-				"grade": "4",
+				"grade": "V 4",
 				"length": "",
 				"pitches": [],
 				"quality": 0,
 				"bolts": "",
 				"natural_pro": false,
-				"description": "A short route of steep snow and ice, which unfortunately tends to act as a funnel for any rubbish falling from the surrounding slopes.",
-				"ascent": "Rob Rainsbury, John Visser, Jan 1971 (Descended"
+				"description": "A short route of steep snow and ice, which unfortunately tends to act as a funnel for any rubbish falling from the surrounding slopes. Used as a descent by the first party. Stay away.",
+				"ascent": "Rob Rainsbury, John Visser, January 1971"
 			},
 			{
-				"name": "North East Face",
-				"link": "https://climbnz.org.nz/nz/si/aoraki/fox-range/torres-pk/north-east-face",
+				"name": "North West Ridge",
+				"link": "https://climbnz.org.nz/nz/si/aoraki-tai-poutini/fox-range/torres-pk/north-west-ridge",
 				"image": null,
-				"grade": "5",
-				"length": "",
-				"pitches": [],
-				"quality": 0,
-				"bolts": "",
-				"natural_pro": false,
-				"description": "From the Abel Janszoon Glacier ascend steep, loose rock and steep snowfields (which may not exist later in summer) reaching the ridge 200m west of the summit.",
-				"ascent": "Bill Denz, Geoff Gabites, Mike Perry, Aug 1977."
-			},
-			{
-				"name": "North East Couloir",
-				"link": "https://climbnz.org.nz/nz/si/aoraki/fox-range/torres-pk/north-east-couloir",
-				"image": null,
-				"grade": "3+",
-				"length": "",
-				"pitches": [],
-				"quality": 0,
-				"bolts": "",
-				"natural_pro": false,
-				"description": "A steep, but relatively straightforward route involving 200m of snow, a 70m leftward traverse, and then a couloir to the summit ridge.",
-				"ascent": "Alan Berry, J M Davie, Hugh Tyndale-Biscoe, I R Wood, Jan 1954 (Descended)."
-			},
-			{
-				"name": "West Ridge",
-				"link": "https://climbnz.org.nz/nz/si/aoraki/fox-range/torres-pk/west-ridge",
-				"image": null,
-				"grade": "4",
+				"grade": "III 3+",
 				"length": "",
 				"pitches": [],
 				"quality": 1,
 				"bolts": "",
 				"natural_pro": false,
-				"description": "Access onto the ridge varies. Starting from Katies Col ascents have been made on the northern side of the lower buttress (the first ascent in 1907) and up the ridge itself from the col. The best routes, though, involve skirting round onto the snowfields above the Balfour Glacier and either ascending a snowslope onto the ridge above the first step or ascending the first prominent rib falling south-west from the ridge. Then follow the winding ar\u00eate and rock steps to the summit.",
-				"ascent": "Alex Graham, Henry Newton, Ebenezer Teichelmann, Feb 1907."
-			},
-			{
-				"name": "Left Rib",
-				"link": "https://climbnz.org.nz/nz/si/aoraki/fox-range/torres-pk/left-rib",
-				"image": null,
-				"grade": "3+",
-				"length": "",
-				"pitches": [],
-				"quality": 0,
-				"bolts": "",
-				"natural_pro": false,
-				"description": "Ascend the glacier on the Katies Col side of the rib until confronted by a 200m rock step. Climb the step near the crest (crux) and follow the snow ar\u00eate to the summit. \r\nA variant, Torres Forres, follows the same general line but takes an ice gully above and left of the suspended snowfield, rejoining the main route above.",
-				"ascent": "Alan Berry, J M H Davie, I R Wood, Hugh Tyndale-Biscoe, Jan 1954."
-			},
-			{
-				"name": "Lost in Translation",
-				"link": "https://climbnz.org.nz/nz/si/aoraki/fox-range/torres-pk/lost-translation",
-				"image": "https://climbnz.org.nz/sites/default/files/route/lit.jpg",
-				"grade": "WI5 M5",
-				"length": "",
-				"pitches": [],
-				"quality": 0,
-				"bolts": "",
-				"natural_pro": false,
-				"description": "WI4, WI3+, WI3+, WI5, WI3, M5",
-				"ascent": "Daniel Joll, Alex Corpas, 2012"
+				"description": "Access onto the ridge varies. Starting from Katies Col, ascents have been made on the northern side of the lower buttress (the first ascent in 1907) and up the ridge itself from the col. The easiest routes, though, involve skirting round onto the snowfields above the Balfour Glacier and either ascending a snow slope onto the ridge above the first step, or ascending the first prominent rib falling south-west from the ridge. Then follow the winding ar\u00eate and rock steps to the summit.",
+				"ascent": "Alex Graham, Henry Newton, Ebenezer Teichelmann, February 1907"
 			},
 			{
 				"name": "Degrees of Illness",
-				"link": "https://climbnz.org.nz/nz/si/aoraki/fox-range/torres-pk/degrees-illness",
+				"link": "https://climbnz.org.nz/nz/si/aoraki-tai-poutini/fox-range/torres-pk/degrees-illness",
 				"image": "https://climbnz.org.nz/sites/default/files/route/P1000482.jpg",
-				"grade": "III 4 4",
+				"grade": "III 4+",
 				"length": "",
 				"pitches": [],
 				"quality": 0,
 				"bolts": "",
 				"natural_pro": false,
-				"description": "The south face of the west rib, from the Balfour Glacier. Six pitches to the ridgeline. First two pitches are the crux with vertical bulges, then progressively easier climbing to the top.",
-				"ascent": "Brendan Maggs"
+				"description": "Begins from the upper true right of the large snowfield before the West Rib, from the Balfour Glacier. Ice bulges on the first two pitches provide the crux, and then the climbing is progressively easier. A satisfying sixth pitch takes a narrow, right-trending ledge through the  steep headwall. Tops out low on the West Ridge.",
+				"ascent": "Brendan Maggs, Kirill Talanine, August 2012"
+			},
+			{
+				"name": "Torres Forres",
+				"link": "https://climbnz.org.nz/nz/si/aoraki-tai-poutini/fox-range/torres-pk/torres-forres",
+				"image": null,
+				"grade": "IV 4",
+				"length": "",
+				"pitches": [],
+				"quality": 0,
+				"bolts": "",
+				"natural_pro": false,
+				"description": "Gain the suspended snowfield left of the West Rib, starting from the upper left corner of the snowfield. The gully turns right to join the top of the West Rib.",
+				"ascent": "Guy McKinnon, Mark Scott, John Taylor, February 1997"
+			},
+			{
+				"name": "West Rib",
+				"link": "https://climbnz.org.nz/nz/si/aoraki-tai-poutini/fox-range/torres-pk/west-rib",
+				"image": null,
+				"grade": "IV 3+",
+				"length": "",
+				"pitches": [],
+				"quality": 0,
+				"bolts": "",
+				"natural_pro": false,
+				"description": "This is the second rib across from Katies Col, with the distinctive notch near the base that is commonly used for access to the Balfour Neve. Ascend the glacier on the Katies Col side of the rib until confronted by a 200m rock step. Climb the step near the crest (crux) and follow the snow ar\u00eate to the summit.",
+				"ascent": "Alan Berry, J M H Davie, I R Wood, Hugh Tyndale-Biscoe, January 1954"
 			}
 		],
 		"places": [
 			{
-				"link": "https://climbnz.org.nz/nz/si/aoraki/fox-range/torres-peak/north-face",
-				"name": "North Face",
+				"link": "https://climbnz.org.nz/nz/si/aoraki-tai-poutini/fox-range/torres-pk/north-east-face",
+				"name": "North East Face",
 				"altitude": null,
-				"description": "Accessed from the Abel Janszoon Glacier, Fox Neve.",
+				"description": null,
 				"latlng": null,
 				"routes": [
 					{
-						"name": "Red Rib",
-						"link": "https://climbnz.org.nz/nz/si/aoraki/fox-range/torres-peak/north-face/red-rib",
+						"name": "Southern Traverse",
+						"link": "https://climbnz.org.nz/nz/si/aoraki-tai-poutini/fox-range/torres-pk/north-east-face/southern-traverse",
 						"image": null,
-						"grade": "4-",
+						"grade": "VI 5",
 						"length": "",
 						"pitches": [],
 						"quality": 0,
 						"bolts": "",
 						"natural_pro": false,
-						"description": "The obvious rib, next to the North East Couloir consisting of a buttress of good rock, with a 20m gendarme 1/3 of the way up.",
-						"ascent": "A Abrahams, J Hough, M Kirby, C Schaap, Mar 1968."
+						"description": "Climbs the first five pitches of God\u2019s Zone and (due to warm conditions on the day) another seven pitches initially via ice further right and then a traverse left to a rock buttress on the upper half of the face.",
+						"ascent": "Pat Gray, Alastair McDowell, September 2021"
 					},
 					{
-						"name": "Coberger Route",
-						"link": "https://climbnz.org.nz/nz/si/aoraki/fox-range/torres-peak/north-face/coberger-route",
+						"name": "God\u2019s Zone",
+						"link": "https://climbnz.org.nz/nz/si/aoraki-tai-poutini/fox-range/torres-pk/north-east-face/god%E2%80%99s-zone",
 						"image": null,
-						"grade": "3+",
+						"grade": "VI 6+     M4",
 						"length": "",
 						"pitches": [],
 						"quality": 0,
 						"bolts": "",
 						"natural_pro": false,
-						"description": "Further west another route ascends the bluffs from the snowfields above the Abel Janszoon Glacier.",
-						"ascent": "Oscar & A Coberger, Jan 1950."
+						"description": "A steep sustained route packed full of quality technical climbing. The ice runnels are hard to spot from the glacier, so it may require a \u2018we\u2019ll go and see\u2019 attitude. The rock is good, and retreat would be possible off rock gear. Start at the top of the snowfield in the middle of the face. There were two bivvies on the first ascent. The route is longer and more sustained than most routes on the south face of Hicks. There is a lot of good-looking unclimbed terrain further left.",
+						"ascent": "Craig Jefferies, Alan Uren, July 2004"
+					},
+					{
+						"name": "Land Bridge",
+						"link": "https://climbnz.org.nz/nz/si/aoraki-tai-poutini/fox-range/torres-pk/north-east-face/land-bridge",
+						"image": null,
+						"grade": "V 5",
+						"length": "",
+						"pitches": [],
+						"quality": 0,
+						"bolts": "",
+						"natural_pro": false,
+						"description": "From the Abel Janszoon Glacier, ascend steep, loose rock and steep snowfields (which may not exist later in summer) to reach the ridge 200m west of the summit.",
+						"ascent": "Bill Denz, Geoff Gabites, Mike Perry, August 1977"
+					},
+					{
+						"name": "North East Couloir",
+						"link": "https://climbnz.org.nz/nz/si/aoraki-tai-poutini/fox-range/torres-pk/north-east-face/north-east-couloir",
+						"image": null,
+						"grade": "IV 3+",
+						"length": "",
+						"pitches": [],
+						"quality": 0,
+						"bolts": "",
+						"natural_pro": false,
+						"description": "A relatively straightforward route involving 200m of snow, a 70m leftward traverse, and then a couloir to the summit ridge. Bill Denz commented it was one of the best and quickest ways up or down Torres. A good descent route, usually involving two abseils and downclimbing. The first party on the route used it as a descent.",
+						"ascent": "Alan Berry, J M Davie, Hugh Tyndale-Biscoe, I R Wood, January 1954"
+					},
+					{
+						"name": "Red Rib",
+						"link": "https://climbnz.org.nz/nz/si/aoraki-tai-poutini/fox-range/torres-pk/north-east-face/red-rib",
+						"image": null,
+						"grade": "III 4",
+						"length": "",
+						"pitches": [],
+						"quality": 0,
+						"bolts": "",
+						"natural_pro": false,
+						"description": "Start up the low ridge that separates the north-east face and the north face, up the rib above, then cross the gully to the left to finish up the Red Rib \u2013 next to the North East Couloir. Both rock sections consist of good rock, with a 20m gendarme a third of the way up.",
+						"ascent": "A Abrahams, J Hough, M Kirby, C Schaap, March 1968"
 					}
 				],
 				"places": [],
@@ -79958,63 +80143,101 @@
 				"images": []
 			},
 			{
-				"link": "https://climbnz.org.nz/nz/si/aoraki/fox-range/torres-peak/south-face",
-				"name": "South Face",
+				"link": "https://climbnz.org.nz/nz/si/aoraki-tai-poutini/fox-range/torres-pk/north-face",
+				"name": "North Face",
 				"altitude": null,
-				"description": "From the Balfour Neve",
+				"description": "The apex of this face is at about 3000m on the west ridge.",
 				"latlng": null,
 				"routes": [
 					{
-						"name": "Left Side",
-						"link": "https://climbnz.org.nz/nz/si/aoraki/fox-range/torres-peak/south-face/left-side",
+						"name": "Coberger Route",
+						"link": "https://climbnz.org.nz/nz/si/aoraki-tai-poutini/fox-range/torres-pk/north-face/coberger-route",
 						"image": null,
-						"grade": "4",
+						"grade": "III 3+",
 						"length": "",
 						"pitches": [],
 						"quality": 0,
 						"bolts": "",
 						"natural_pro": false,
-						"description": "From the Balfour N\u00e9v\u00e9, snowslopes and gullies on the lower half of the buttress lead up through rotten rock. Cut left through the rotten rock band onto the ice crest leading to the summit.",
-						"ascent": "Dave Bamford, John Nankervis, Ian Whitehouse, Brin Williman, Jan 1980."
+						"description": "This route ascends the bluffs from the snowfields above the Abel Janszoon Glacier and joins the Red Rib.",
+						"ascent": "Anton Coberger, Oscar Coberger, January 1950"
+					}
+				],
+				"places": [],
+				"image": null,
+				"images": []
+			},
+			{
+				"link": "https://climbnz.org.nz/nz/si/aoraki-tai-poutini/fox-range/torres-pk/south-face",
+				"name": "South Face",
+				"altitude": null,
+				"description": null,
+				"latlng": null,
+				"routes": [
+					{
+						"name": "Lost in Translation",
+						"link": "https://climbnz.org.nz/nz/si/aoraki/fox-range/torres-peak/south-face/lost-translation",
+						"image": "https://climbnz.org.nz/sites/default/files/route/lit.jpg",
+						"grade": "IV 6+    WI5 M5",
+						"length": "",
+						"pitches": [],
+						"quality": 0,
+						"bolts": "",
+						"natural_pro": false,
+						"description": "This route is on the south side of the West Rib, starting just left of a prominent snow and ice gully, and topping out at a prominent point at the lower end of the level section on the West Rib. Six steep pitches of iced and mixed climbing (WI4, WI3+, WI3+, WI5, WI3, M5). Descend the lower West Rib route.",
+						"ascent": "Alex Corpas, Daniel Joll, June 2012"
 					},
 					{
-						"name": "The Man From Head Office Who Found It Harder To Get Off (formerly Central Gully)",
-						"link": "https://climbnz.org.nz/nz/si/aoraki/fox-range/torres-peak/south-face/man-head-office-who-found-it-harder-get-formerly",
+						"name": "Left Buttress",
+						"link": "https://climbnz.org.nz/nz/si/aoraki/fox-range/torres-peak/south-face/left-buttress",
 						"image": null,
-						"grade": "4",
+						"grade": "V 4",
 						"length": "",
 						"pitches": [],
 						"quality": 0,
 						"bolts": "",
 						"natural_pro": false,
-						"description": "Ascend the major gully that separates the Left and Right ribs. A series of ice steps in the lower part of the gully are followed by snow and ice slopes leading right onto the Torres-Tasman Ridge near the summit of Torres.",
-						"ascent": "Dave Bamford, Russell Braddock, Andy Harris, John Nankervis, Oct 1983."
+						"description": "Begin up the base of the prominent snow and ice gully about 250m right of the access gully at the base of the West Rib, and then move right across a diagonal snow slope to gain the buttress. Climb up through mixed ground and then cut left through a rotten rock band onto the snow and ice crest of the upper West Rib, which is followed to the summit.",
+						"ascent": "Dave Bamford, John Nankervis, Ian Whitehouse, Brin Williman, January 1980"
 					},
 					{
-						"name": "The Direct Harder To Get Off Than Get Up (formerly Central Gully Variation)",
-						"link": "https://climbnz.org.nz/nz/si/aoraki/fox-range/torres-peak/south-face/direct-harder-get-get-formerly-central-gully-variation",
+						"name": "The Man from Head Office Who Found It Harder to Get Off Than to Get Up Direct",
+						"link": "https://climbnz.org.nz/nz/si/aoraki/fox-range/torres-peak/south-face/man-head-office-who-found-it-harder-get-get-direct",
 						"image": null,
-						"grade": "5",
+						"grade": "V 5",
 						"length": "",
 						"pitches": [],
 						"quality": 0,
 						"bolts": "",
 						"natural_pro": false,
-						"description": "Ascend the gully as for the Harder To Get Off Than Get Up Route, and then break left and climb steep ice directly to the summit.",
-						"ascent": "Russell Braddock, Andy Harris, Sep 1984."
+						"description": "Ascend the major gully as for The Man from Head Office and then break left and climb steep ice directly to the summit.",
+						"ascent": "Russell Braddock, Andy Harris, September 1984"
 					},
 					{
-						"name": "Right Rib",
-						"link": "https://climbnz.org.nz/nz/si/aoraki/fox-range/torres-peak/south-face/right-rib",
+						"name": "The Man from Head Office Who Found It Harder to Get Off Than to Get Up",
+						"link": "https://climbnz.org.nz/nz/si/aoraki/fox-range/torres-peak/south-face/man-head-office-who-found-it-harder-get-get",
 						"image": null,
-						"grade": "4",
+						"grade": "V 4",
 						"length": "",
 						"pitches": [],
 						"quality": 0,
 						"bolts": "",
 						"natural_pro": false,
-						"description": "From the Balfour N\u00e9v\u00e9, start up steep rock in the centre of the rib, which after three rope lengths eases back and leads on to a snow and ice rib curving up to the Tasman-Torres ridge.",
-						"ascent": "Dave Bamford, Keith Woodford, Dec 1978."
+						"description": "Ascend the major gully that separates the left and right buttresses, beginning directly below the summit. A series of ice steps in the lower part of the gully are followed by snow and ice slopes leading right onto the Torres-Tasman Ridge near the summit of Torres.",
+						"ascent": "Dave Bamford, Russell Braddock, Andy Harris, John Nankervis, October 1983"
+					},
+					{
+						"name": "Right Buttress",
+						"link": "https://climbnz.org.nz/nz/si/aoraki/fox-range/torres-peak/south-face/right-buttress",
+						"image": null,
+						"grade": "V 4",
+						"length": "",
+						"pitches": [],
+						"quality": 0,
+						"bolts": "",
+						"natural_pro": false,
+						"description": "Start up steep rock in the centre of the buttress, which after three rope lengths eases back and leads on to a snow and ice rib curving up to the Tasman-Torres ridge.",
+						"ascent": "Dave Bamford, Keith Woodford, December 1978"
 					}
 				],
 				"places": [],
