@@ -27089,13 +27089,26 @@
 						"natural_pro": false,
 						"description": "5 pitches. Starts up a large snow gully for approximately\r\n100m to where real climbing begins. Follow slabs\r\ninitially then follow more featured mixed ground before\r\ntraversing left to top out south of the summit of Double\r\nCone.",
 						"ascent": "Andy Mills, Rupert Gardiner, 2006."
+					},
+					{
+						"name": "Triple Cone Traverse",
+						"link": "https://climbnz.org.nz/nz/si/otago/the-remarkables/double-cone/west-face/triple-cone-traverse",
+						"image": "https://climbnz.org.nz/sites/default/files/routes/Screen%20Shot%202023-06-11%20at%202.03.18%20PM.png",
+						"grade": "3     M3",
+						"length": "1000m",
+						"pitches": [],
+						"quality": 0,
+						"bolts": "",
+						"natural_pro": false,
+						"description": "A fun, moderate tour of the West Face, this alpine route follows a distinct weakness which ramps diagonally across the face in a north to south direction. It\u2019s a good introduction to the west faces of both Double and Single Cone, providing easy access to the upper pitches of any of the routes on the faces.  The route traverses almost 1 kilometre across the face and ascends about 250m of vertical. The most efficient way to climb it would be un-roped, but there is significant exposure above some moves, especially above Double Cone\u2019s lower rock band. Roped simul-climbing technique is ideal to cover the moderate ground in relative safety.",
+						"ascent": "Steve Skelton, Craig Jeffries 10 June 2023"
 					}
 				],
 				"places": [],
-				"image": "https://climbnz.org.nz/sites/default/files/image/Double%20Cone_1.jpg",
+				"image": "https://climbnz.org.nz/sites/default/files/image/Double%20Cone_1_0.jpg",
 				"images": [
 					{
-						"src": "https://climbnz.org.nz/sites/default/files/image/Double%20Cone_1.jpg",
+						"src": "https://climbnz.org.nz/sites/default/files/image/Double%20Cone_1_0.jpg",
 						"height": "516",
 						"width": "835"
 					},
@@ -60940,6 +60953,19 @@
 								"natural_pro": true,
 								"description": "Trad mixed climbing up the buttress right of the shroud. Build a trad anchor below the final headwall then escape to the gully on the right. \r\nGear: Wires, small-med cams, couple of pitons.",
 								"ascent": "Edwin Sheppard and Shaun Brown 2021"
+							},
+							{
+								"name": "Closed project",
+								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/t%C5%ABkino-skifield/margarets-leap-winter/closed-project",
+								"image": null,
+								"grade": "",
+								"length": "30m",
+								"pitches": [],
+								"quality": 0,
+								"bolts": "13",
+								"natural_pro": false,
+								"description": "Bolted Mixed line to the right of Mixed Metaphor.",
+								"ascent": ""
 							}
 						],
 						"places": [],
@@ -78241,19 +78267,6 @@
 				"bolts": "",
 				"natural_pro": true,
 				"description": "Super rock one loose section in middle of face. Head up center buttress to the impressive head wall. 10 pitches, Crux 19. One pitch with super hand jams. \r\nClimbs to spot height 2520 South of Nuns Veil.",
-				"ascent": ""
-			},
-			{
-				"name": "5 O'Clock Shaddow",
-				"link": "https://climbnz.org.nz/nz/si/aoraki/liebig-range/nuns-veil/5-oclock-shaddow",
-				"image": "https://climbnz.org.nz/sites/default/files/routes/Nuns_0.jpg",
-				"grade": "16",
-				"length": "150m",
-				"pitches": [],
-				"quality": 0,
-				"bolts": "",
-				"natural_pro": true,
-				"description": "Up the face trending slightly right decent the gully North of the summit. Great rock.",
 				"ascent": ""
 			}
 		],
