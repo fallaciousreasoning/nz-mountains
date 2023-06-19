@@ -2658,16 +2658,30 @@
 		"image": null,
 		"images": []
 	},
-	"https://climbnz.org.nz/nz/si/aspiring/blue-river/pt-1956": {
-		"link": "https://climbnz.org.nz/nz/si/aspiring/blue-river/pt-1956",
-		"name": "Pt 1956",
+	"https://climbnz.org.nz/nz/si/aspiring/blue-river/pt-1956-leven-pk": {
+		"link": "https://climbnz.org.nz/nz/si/aspiring/blue-river/pt-1956-leven-pk",
+		"name": "Pt 1956 (Leven Pk)",
 		"altitude": "1956m",
 		"description": null,
 		"latlng": [
 			"-44.132432860000",
 			"169.157274240000"
 		],
-		"routes": [],
+		"routes": [
+			{
+				"name": "Ore Creek Route",
+				"link": "https://climbnz.org.nz/nz/si/aspiring/blue-river/pt-1956-leven-pk/ore-creek-route",
+				"image": null,
+				"grade": "II 2",
+				"length": "",
+				"pitches": [],
+				"quality": 0,
+				"bolts": "",
+				"natural_pro": false,
+				"description": "Tramp to the head of Ore Stream, via routes 13E and 13.20 (in pending 2023 Tititea Aspiring Guidebook). These provide a circuitous route onto this impressive peak at the head of Leven Stream. Sidle the flank west under Peak 1938m and cross the Leven \u2013 Blue divide at the north-western end before pinnacles. Climb down or abseil a slab into a snow gully above Leven Stream. Traverse a snowfield until a snow lead allows access back towards the summit ridge past the pinnacles. A rock step at the top is tricky. From here it is a scramble along to the peak.",
+				"ascent": "Nick Shearer, Neil Sloan, January 2023"
+			}
+		],
 		"places": [],
 		"image": null,
 		"images": []
@@ -9817,19 +9831,6 @@
 				"ascent": "Evan Wilson, Jim Wilson, Andy Anderson, January 1931"
 			},
 			{
-				"name": "Thompsons Track",
-				"link": "https://climbnz.org.nz/nz/si/canterbury/arrowsmith-range/mt-arrowsmith/thompsons-track",
-				"image": "https://climbnz.org.nz/sites/default/files/route/Thompsons%20Track.jpg",
-				"grade": "3",
-				"length": "",
-				"pitches": [],
-				"quality": 1,
-				"bolts": "",
-				"natural_pro": false,
-				"description": "Right-hand side of Ashburton Face. Snow and ice climb with several short \nmixed sections. FA: unknown. Kyle Walters, Michael Eatson October 2018.",
-				"ascent": ""
-			},
-			{
 				"name": "Ashburton Face",
 				"link": "https://climbnz.org.nz/nz/si/canterbury/arrowsmith-range/mt-arrowsmith/ashburton-face",
 				"image": null,
@@ -9841,6 +9842,19 @@
 				"natural_pro": false,
 				"description": "This is a snow and ice climb up a broad snow face followed by one of a number of gullies to the\r\nsummit of Mt Arrowsmith. From the moraines at the head of the Hakatere River climb to the\r\nschrund at the bottom of the Ashburton Face. Climb a short, steep section alongside a steep\r\nrock rib to gain the slope above. Climb until a small ar\u00eate is reached, and from here either go left\r\nto snow slopes and gullies that join the South West Ridge, or head up steeper rock directly to\r\nthe summit. Usually in condition only from late winter to early summer, and subject to rock fall.",
 				"ascent": "Don Cowie, Jim Clark, November 1958"
+			},
+			{
+				"name": "Thompsons Track",
+				"link": "https://climbnz.org.nz/nz/si/canterbury/arrowsmith-range/mt-arrowsmith/thompsons-track",
+				"image": "https://climbnz.org.nz/sites/default/files/route/Thompsons%20Track.jpg",
+				"grade": "3",
+				"length": "",
+				"pitches": [],
+				"quality": 1,
+				"bolts": "",
+				"natural_pro": false,
+				"description": "Right-hand side of Ashburton Face. Snow and ice climb with several short \nmixed sections. FA: unknown. Kyle Walters, Michael Eatson October 2018.",
+				"ascent": ""
 			},
 			{
 				"name": "East Ridge",
@@ -26719,7 +26733,7 @@
 						"quality": 0,
 						"bolts": "",
 						"natural_pro": false,
-						"description": "WI4+. Mostly climbed on snow and\r\nice up low angle rock slabs. Finish up\r\nleft ending slopes to exit at the top of\r\nPetit Couloir.",
+						"description": "WI4+. Mostly climbed on snow and ice up low angle rock slabs. When reaching the final snowfield beneath the summit headwall, move rightwards over the rock spine towards the top of the Petit Couloir.",
 						"ascent": "Steve Carr, Andy Macfarlane, 2000."
 					},
 					{
@@ -26778,7 +26792,7 @@
 						"name": "Breaking in Brett",
 						"link": "https://climbnz.org.nz/nz/si/otago/the-remarkables/double-cone/west-face/breaking-brett",
 						"image": null,
-						"grade": "19   ,      ,      ,      ,",
+						"grade": "19,,,,",
 						"length": "",
 						"pitches": [
 							{
@@ -26793,7 +26807,7 @@
 								"length": "0m",
 								"bolts": "",
 								"trad": true,
-								"description": "8 pitches. Start directly under the large overhanging\nroof system right of Consolation Prize. Up nice hand\nand finger cracks to the base of a wide off width. From\nhere the route moves left under a roof for an excellent\nslab pitch of grade 19. Small Camalots and wires under\na couple of loose flakes protect the initial moves, then\nmove onto well protected excellent rock and traverse\naround the overhanging roofs to exit approximately10m\nhigher on the Ikon approach ledge than the first pitch of\nConsolation Prize. From here move up and right aiming\nfor the nice finger crack near to the ar\u00eate."
+								"description": "8 pitches. Start directly under the large overhanging roof system right of Consolation Prize. Up nice hand and finger cracks to the base of a wide off width. From here the route moves left under a roof for an excellent slab pitch of grade 19. Small Camalots and wires under a couple of loose flakes protect the initial moves, then move onto well protected excellent rock and traverse around the overhanging roofs to exit approximately10m higher on the Ikon approach ledge than the first pitch of Consolation Prize. From here move up and right aiming for the nice finger crack near to the ar\u00eate."
 							},
 							{
 								"ewbank": "",
@@ -26807,7 +26821,7 @@
 								"length": "0m",
 								"bolts": "",
 								"trad": true,
-								"description": "Pitch 4 is the\nsame as pitch 3 for Consolation Prize."
+								"description": "Pitch 4 is the same as pitch 3 for Consolation Prize."
 							},
 							{
 								"ewbank": "",
@@ -26821,7 +26835,7 @@
 								"length": "0m",
 								"bolts": "",
 								"trad": false,
-								"description": "Pitch 5 takes the\nleft hand slab. Climb this until gear, or nerves, run out\nthen move right into the easy corner, which is followed\nto a belay stance on a ledge - where you should see the\ngreat looking crack system of pitch 6."
+								"description": "Pitch 5 takes the left hand slab. Climb this until gear, or nerves, run out then move right into the easy corner, which is followed to a belay stance on a ledge - where you should see the great looking crack system of pitch 6."
 							},
 							{
 								"ewbank": "",
@@ -26835,7 +26849,7 @@
 								"length": "0m",
 								"bolts": "",
 								"trad": true,
-								"description": "Climb this corner\nsystem starting on the left hand side. Consolation Prize\ntook the right hand turf filled crack and exited up and\nleft. Breaking in Brett exits up and right to a ledge. From\nhere continue up easy loose rock to the base of the pinnacle\npitch. Climb to the half banged in piton (leave it in\nplace) and traverse left to place a #1 Camalot then run it\nout to the top. Be careful not to fall off through this section.\nYou can avoid this pitch by traversing left around the\ntriangle; however it\u2019s a good one if you feel comfortable\non run out grade 18."
+								"description": "Climb this corner system starting on the left hand side. Consolation Prize took the right hand turf filled crack and exited up and left. Breaking in Brett exits up and right to a ledge. From here continue up easy loose rock to the base of the pinnacle pitch. Climb to the half banged in piton (leave it in place) and traverse left to place a #1 Camalot then run it out to the top. Be careful not to fall off through this section. You can avoid this pitch by traversing left around the triangle; however it\u2019s a good one if you feel comfortable on run out grade 18."
 							},
 							{
 								"ewbank": "",
@@ -26849,13 +26863,13 @@
 								"length": "0m",
 								"bolts": "",
 								"trad": false,
-								"description": "From here, climb straight up and\nyou should see the last pitch going up through a small\nroof. Climb this then follow the ar\u00eate direct to the summit\nof Double Cone."
+								"description": "From here, climb straight up and you should see the last pitch going up through a small roof. Climb this then follow the ar\u00eate direct to the summit of Double Cone."
 							}
 						],
 						"quality": 0,
 						"bolts": "",
 						"natural_pro": true,
-						"description": "8 pitches. Start directly under the large overhanging\r\nroof system right of Consolation Prize. Up nice hand\r\nand finger cracks to the base of a wide off width. From\r\nhere the route moves left under a roof for an excellent\r\nslab pitch of grade 19. Small Camalots and wires under\r\na couple of loose flakes protect the initial moves, then\r\nmove onto well protected excellent rock and traverse\r\naround the overhanging roofs to exit approximately10m\r\nhigher on the Ikon approach ledge than the first pitch of\r\nConsolation Prize. From here move up and right aiming\r\nfor the nice finger crack near to the ar\u00eate.",
+						"description": "8 pitches. Start directly under the large overhanging roof system right of Consolation Prize. Up nice hand and finger cracks to the base of a wide off width. From here the route moves left under a roof for an excellent slab pitch of grade 19. Small Camalots and wires under a couple of loose flakes protect the initial moves, then move onto well protected excellent rock and traverse around the overhanging roofs to exit approximately10m higher on the Ikon approach ledge than the first pitch of Consolation Prize. From here move up and right aiming for the nice finger crack near to the ar\u00eate.",
 						"ascent": "Brett Gilmore, Daniel Joll, 2011."
 					},
 					{
@@ -27100,7 +27114,7 @@
 						"quality": 0,
 						"bolts": "",
 						"natural_pro": false,
-						"description": "A fun, moderate tour of the West Face, this alpine route follows a distinct weakness which ramps diagonally across the face in a north to south direction. It\u2019s a good introduction to the west faces of both Double and Single Cone, providing easy access to the upper pitches of any of the routes on the faces.  The route traverses almost 1 kilometre across the face and ascends about 250m of vertical. The most efficient way to climb it would be un-roped, but there is significant exposure above some moves, especially above Double Cone\u2019s lower rock band. Roped simul-climbing technique is ideal to cover the moderate ground in relative safety.",
+						"description": "A fun, moderate tour of the West Face, this alpine route follows a distinct weakness which ramps diagonally across the face in a north to south direction. It\u2019s a good introduction to the west faces of both Double and Single Cone, providing easy access to the upper pitches of any of the routes on the faces.  The route traverses almost 1 kilometre across the face and ascends about 250m of vertical. There is significant exposure above some moves, especially above Double Cone\u2019s lower rock band. Roped simul-climbing technique is ideal to cover the moderate ground in relative safety. \r\n\r\nConditions on the face will dictate its difficulty. If snow is well consolidated the climbing can be moderate, with lots of 45 -70 degree snow slope traversing and few easy (M1) moves through rock bands (aside from the Martyr exit). However in some conditions, such as powder snow on rock, the traverse may be a little more difficult.\r\n\r\nThe route starts at the southern end of the main rock band which guards the base of the west face. The base of the angling ramp should be obvious, and can be seen from Queenstown. The ramp traverses right (south) above the lower rock band, traversing across the gullies and ridgelines of Double Cone\u2019s West Face. When in doubt, usually go low. At the far end of Double Cone\u2019s southwest ridge (Chasing Shadows) the west face of Singe Cone and its broad snow fields comes into view. From here, (see alternative finish) drop down approximately 20m in elevation and continue south, just under the steeper terrain of the face\u2019s upper rock band. The ramp continues to the ridge which separates Single Cone\u2019s west and south face, and just before this ridge is a legible right tending corner which is the last pitch of Martyr. This pitch is a fun, well protected, 60m pitch with a couple of M3 moves. Descent may require a single rap off Singe Cone\u2019s east face. \r\n\r\nAlternative Finish: A perhaps easier finish and shortened version of the route would be to not continue the traverse across the west face of Singe Cone and instead, ascend the snow slopes to the grand col, which is reportedly less technical than Martyr exit.",
 						"ascent": "Steve Skelton, Craig Jeffries 10 June 2023"
 					}
 				],
@@ -36460,14 +36474,14 @@
 				"name": "North Rib",
 				"link": "https://climbnz.org.nz/nz/si/aoraki/main-divide/mt-hicks/north-rib",
 				"image": null,
-				"grade": "4- 15",
+				"grade": "VI 4  15",
 				"length": "",
 				"pitches": [],
 				"quality": 0,
 				"bolts": "",
-				"natural_pro": false,
-				"description": "Also known as the Biscuit Tin route. From the access route over Harper Saddle \nto the upper La Perouse N\u00e9v\u00e9, ascend good rock on the face to the right of \nthe rib. The rib steepens towards the top (crux 14/15). Then follow a \nflattening ridge for 250m to join the top of the couloir on the Curtain \nRoute.",
-				"ascent": "Peter Gough, P Barry, D Drake, Aat Vervoorn, Nov 1969."
+				"natural_pro": true,
+				"description": "Also known as the Biscuit Tin route. From the access route over Harper Saddle to the upper La Perouse n\u00e9v\u00e9, ascend good rock on the face to the right of the rib, following the line of least resistance onto the rib itself. The rib steepens towards the top (crux 14/15). Then follow a flattening ridge for 250m to join the top of the couloir on the Curtain Route.",
+				"ascent": "Peter Gough, P Barry, D Drake, Aat Vervoorn, November 1969"
 			},
 			{
 				"name": "Red Wall",
@@ -40256,9 +40270,9 @@
 		"routes": [
 			{
 				"name": "South Ridge",
-				"link": "https://climbnz.org.nz/nz/si/fiordland/darran-mountains/karetai-pk/south-ridge",
+				"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/karetai-pk/south-ridge",
 				"image": null,
-				"grade": "I   14",
+				"grade": "II   14",
 				"length": "200m",
 				"pitches": [],
 				"quality": 0,
@@ -40529,9 +40543,9 @@
 						"pitches": [],
 						"quality": 1,
 						"bolts": "",
-						"natural_pro": false,
-						"description": "4 pitches of climbing on the Northern side of the East Face. Chimney pitch \ninvolved hanging packs from harnesses and grunting and sliding.\n\"(Chimney) Would probably only get 5.8 in Yosemite.\" -Neil\nFun climb, well protected.",
-						"ascent": "Kyle Walter"
+						"natural_pro": true,
+						"description": "Four pitches of climbing on the northern side of the East Face. The chimney pitch involved hanging packs from harnesses and grunting and sliding and \u201cwould probably only get 5.8 in Yosemite\u201d according to Neil. Fun climb, well protected.",
+						"ascent": "Kyle Walter, Neil Warrington, February 2018"
 					}
 				],
 				"places": [],
@@ -40781,7 +40795,7 @@
 								"length": "60m",
 								"bolts": "",
 								"trad": true,
-								"description": "P1: up and left across slab to red stripe. Up this then slightly right at compact face to find good gear. Then back left passing Grey dyke and bongo flakes to good belay standing on flakes."
+								"description": "Up and left across slab to red stripe. Up this then slightly right at compact face to find good gear. Then back left passing Grey dyke and bongo flakes to good belay standing on flakes."
 							},
 							{
 								"ewbank": "21",
@@ -40795,7 +40809,7 @@
 								"length": "60m",
 								"bolts": "",
 								"trad": true,
-								"description": "P2: directly above belay and then through bulge to the right. Good gear then straight up and slightly left following the jugs and great gear. Trend right into red corner and then onto ledge for good belay."
+								"description": "Directly above belay and then through bulge to the right. Good gear then straight up and slightly left following the jugs and great gear. Trend right into red corner and then onto ledge for good belay."
 							},
 							{
 								"ewbank": "20",
@@ -40809,7 +40823,7 @@
 								"length": "60m",
 								"bolts": "",
 								"trad": true,
-								"description": "P3: climb fun easy red rock tending right to red bulge. Arrange gear and launch up the overhang on great holds. Belay on spike."
+								"description": "Climb fun easy red rock tending right to red bulge. Arrange gear and launch up the overhang on great holds. Belay on spike."
 							},
 							{
 								"ewbank": "21",
@@ -40823,7 +40837,7 @@
 								"length": "20m",
 								"bolts": "",
 								"trad": true,
-								"description": "P4: short pitch up second red bulge. Good wires protect the crux. Great holds the whole way."
+								"description": "A short pitch up second red bulge. Good wires protect the crux. Great holds the whole way."
 							},
 							{
 								"ewbank": "19",
@@ -40837,7 +40851,7 @@
 								"length": "50m",
 								"bolts": "",
 								"trad": false,
-								"description": "P5: step left from belay and climb short red corner directly. After this angle eases but good quality rock for the rest of the pitch. Spike belay on big ledge."
+								"description": "Step left from belay and climb short red corner directly. After this angle eases but good quality rock for the rest of the pitch. Spike belay on big ledge."
 							},
 							{
 								"ewbank": "21",
@@ -40851,14 +40865,14 @@
 								"length": "50m",
 								"bolts": "",
 								"trad": true,
-								"description": "P6: climb the corner crack and roof between the two pillars.\nClimb up crack trending right. Then straight up to left facing corner. Plug gear at the top of the corner and head way left on wild jug traverse. Mantle up and climb cracks to the ridge line.\nExposed and awesome. Haul the bag if you can on this pitch."
+								"description": "Climb the corner crack and roof between the two pillars. Climb up crack trending right. Then straight up to left facing corner. Plug gear at the top of the corner and head way left on wild jug traverse. Mantle up and climb cracks to the ridge line. Exposed and awesome. Haul the bag if you can on this pitch."
 							}
 						],
 						"quality": 3,
 						"bolts": "",
 						"natural_pro": true,
-						"description": "Climb follows line of red rock 20m left of \u201cparallel lines\u201d. Starting at the toe of the buttress. Single rack plus doubles in the finger sizes. Double ropes useful",
-						"ascent": "Bruce Dowrick & Llewellyn Murdoch Jan 2022"
+						"description": "Follows a line of red rock 20m left of \u201cParallel Lines\u201d. Starting at the toe of the buttress. Single rack plus doubles in the finger sizes. Double ropes useful.",
+						"ascent": "Bruce Dowrick, Llewellyn Murdoch, January 2022"
 					},
 					{
 						"name": "Katabatic Gravity Well",
@@ -41115,7 +41129,7 @@
 				"routes": [
 					{
 						"name": "Up the Garden Path",
-						"link": "https://climbnz.org.nz/nz/si/fiordland/darran-mountains/karetai-pk/housekeeping-crag/garden-path",
+						"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/karetai-pk/housekeeping-crag/garden-path",
 						"image": null,
 						"grade": "19",
 						"length": "22m",
@@ -41128,7 +41142,7 @@
 					},
 					{
 						"name": "Domestic Bliss",
-						"link": "https://climbnz.org.nz/nz/si/fiordland/darran-mountains/karetai-pk/housekeeping-crag/domestic-bliss",
+						"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/karetai-pk/housekeeping-crag/domestic-bliss",
 						"image": null,
 						"grade": "18",
 						"length": "22m",
@@ -41141,7 +41155,7 @@
 					},
 					{
 						"name": "Low Pressure Subalpine Shower System",
-						"link": "https://climbnz.org.nz/nz/si/fiordland/darran-mountains/karetai-pk/housekeeping-crag/low-pressure-subalpine-shower-system",
+						"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/karetai-pk/housekeeping-crag/low-pressure-subalpine-shower-system",
 						"image": null,
 						"grade": "21",
 						"length": "22m",
@@ -41154,7 +41168,7 @@
 					},
 					{
 						"name": "And a Dyke for Dessert",
-						"link": "https://climbnz.org.nz/nz/si/fiordland/darran-mountains/karetai-pk/housekeeping-crag/and-dyke-dessert",
+						"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/karetai-pk/housekeeping-crag/and-dyke-dessert",
 						"image": null,
 						"grade": "22",
 						"length": "22m",
@@ -41167,7 +41181,7 @@
 					},
 					{
 						"name": "Doing the Dishes",
-						"link": "https://climbnz.org.nz/nz/si/fiordland/darran-mountains/karetai-pk/housekeeping-crag/doing-dishes",
+						"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/karetai-pk/housekeeping-crag/doing-dishes",
 						"image": null,
 						"grade": "20",
 						"length": "21m",
@@ -41180,7 +41194,7 @@
 					},
 					{
 						"name": "Beer Battered Orange Roughy",
-						"link": "https://climbnz.org.nz/nz/si/fiordland/darran-mountains/karetai-pk/housekeeping-crag/beer-battered-orange-roughy",
+						"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/karetai-pk/housekeeping-crag/beer-battered-orange-roughy",
 						"image": null,
 						"grade": "23",
 						"length": "21m",
@@ -41193,7 +41207,7 @@
 					},
 					{
 						"name": "Hanging Out the Washing",
-						"link": "https://climbnz.org.nz/nz/si/fiordland/darran-mountains/karetai-pk/housekeeping-crag/hanging-out-washing",
+						"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/karetai-pk/housekeeping-crag/hanging-out-washing",
 						"image": null,
 						"grade": "17",
 						"length": "18m",
@@ -41202,7 +41216,33 @@
 						"bolts": "",
 						"natural_pro": true,
 						"description": "A reasonably committing start off the ledge leads into good bridging in the upper corner.",
-						"ascent": "Rich Thomson, Rich Turner, February 2009"
+						"ascent": "Rich Turner, Rich Thomson, February 2009"
+					},
+					{
+						"name": "Emergency Exit",
+						"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/karetai-pk/housekeeping-crag/emergency-exit",
+						"image": null,
+						"grade": "16",
+						"length": "18m",
+						"pitches": [],
+						"quality": 1,
+						"bolts": "",
+						"natural_pro": true,
+						"description": "The closest climb to the Eyrie.",
+						"ascent": "Rich Thomson, Rich Turner, February 2016"
+					},
+					{
+						"name": "Pooh Corner",
+						"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/karetai-pk/housekeeping-crag/pooh-corner",
+						"image": null,
+						"grade": "20",
+						"length": "12m",
+						"pitches": [],
+						"quality": 1,
+						"bolts": "",
+						"natural_pro": true,
+						"description": "The short, steep corner about 10m right of the Eyrie.",
+						"ascent": "Rich Turner, Rich Thomson, February 2016"
 					}
 				],
 				"places": [],
@@ -43193,14 +43233,14 @@
 				"name": "Allen-Williams",
 				"link": "https://climbnz.org.nz/nz/si/aoraki/main-divide/lendenfeld-pk/allen-williams",
 				"image": null,
-				"grade": "",
+				"grade": "IV 5",
 				"length": "",
 				"pitches": [],
 				"quality": 0,
 				"bolts": "",
 				"natural_pro": false,
-				"description": "Head up the gully to the right of Route 11.120 until you can access a line that leads to a ledge system through the prominent ar\u00eate. Once on the face proper, continue up two more pitches to join Route 11.120.",
-				"ascent": "John Allen, Zane Williams, Nov 1978"
+				"description": "Head up the gully to the right of the West Face Direct route until you can access a line that leads to a ledge system through the prominent ar\u00eate. Once on the face proper, continue up two more pitches to join the Direct.",
+				"ascent": "John Allen, Zane Williams, November 1978"
 			},
 			{
 				"name": "South West Ridge",
@@ -51621,7 +51661,7 @@
 						"name": "Armageddon",
 						"link": "https://climbnz.org.nz/nz/si/darrans/wick-mountains/moirs-mate/mates-little-brother/armageddon",
 						"image": null,
-						"grade": "22 ,28 ,28 ,26",
+						"grade": "22,28,28,26",
 						"length": "95m",
 						"pitches": [
 							{
@@ -51657,7 +51697,7 @@
 						"bolts": "20",
 						"natural_pro": true,
 						"description": "",
-						"ascent": "Derek Thatcher, 2007"
+						"ascent": "Stefan Hadfield, Derek Thatcher, 2007"
 					},
 					{
 						"name": "Revelations",
@@ -63196,6 +63236,48 @@
 								"ascent": "Steven Fortune, Matt Thom, August 2012"
 							},
 							{
+								"name": "Method Man",
+								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/matihao/south-face/method-man",
+								"image": null,
+								"grade": "M5,M7",
+								"length": "60m",
+								"pitches": [
+									{
+										"ewbank": "",
+										"alpine": "",
+										"commitment": "",
+										"mtcook": "",
+										"aid": "",
+										"ice": "",
+										"mixed": "M5",
+										"boulder": "",
+										"length": "40m",
+										"bolts": "",
+										"trad": false,
+										"description": "Follow rightward trending ledges to a belay under the short black roof."
+									},
+									{
+										"ewbank": "",
+										"alpine": "",
+										"commitment": "",
+										"mtcook": "",
+										"aid": "",
+										"ice": "",
+										"mixed": "M7",
+										"boulder": "",
+										"length": "20m",
+										"bolts": "",
+										"trad": false,
+										"description": "Climb through the roof into an overhanging corner, follow the corner through two cruxes"
+									}
+								],
+								"quality": 1,
+								"bolts": "",
+								"natural_pro": false,
+								"description": "Follow rightward trending ledges to a belay under the short black roof.",
+								"ascent": "FA Jacob Kuchler, roped solo, May 2023"
+							},
+							{
 								"name": "Kelpie Yelpie",
 								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/matihao/south-face/kelpie-yelpie",
 								"image": null,
@@ -63220,6 +63302,48 @@
 								"natural_pro": true,
 								"description": "Hard climbing with good gear up crack systems on the right side of the face.",
 								"ascent": "FA Romain Albert and Wayne Marshall, 2021"
+							},
+							{
+								"name": "Ride the Lightning",
+								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/matihao/south-face/ride-lightning",
+								"image": "https://climbnz.org.nz/sites/default/files/routes/20220917_130124.jpg",
+								"grade": "M7,M6",
+								"length": "70m",
+								"pitches": [
+									{
+										"ewbank": "",
+										"alpine": "",
+										"commitment": "",
+										"mtcook": "",
+										"aid": "",
+										"ice": "",
+										"mixed": "M7",
+										"boulder": "",
+										"length": "20m",
+										"bolts": "",
+										"trad": true,
+										"description": "Start directly up the blank slab to the right of 'Rusty Piton Route' and continue into some staunch moves up the steep and fractured face above."
+									},
+									{
+										"ewbank": "",
+										"alpine": "",
+										"commitment": "",
+										"mtcook": "",
+										"aid": "",
+										"ice": "",
+										"mixed": "M6",
+										"boulder": "",
+										"length": "50m",
+										"bolts": "",
+										"trad": true,
+										"description": "Carry on up the low angle terrain above, trend leftward to a stance on a large block below the final headwall, follow the obvious line of weakness to the top."
+									}
+								],
+								"quality": 1,
+								"bolts": "",
+								"natural_pro": true,
+								"description": "Start directly up the blank slab to the right of 'Rusty Piton Route' and continue into some staunch moves up the steep and fractured face above.",
+								"ascent": "FA Jacob Kuchler, Mark Challoner, September 2022"
 							},
 							{
 								"name": "Like Your Mom",
@@ -63301,55 +63425,13 @@
 								"natural_pro": true,
 								"description": "A fun,moderate, two pitch mixed route on good rock.  Pitch 1: M5- Start just \nright of Ultra Right up a short chimney. Continue straight up to an alcove at \nthe base of a overhanging hand crack. #3 C4 fits well here. Pitch 2: M5 Duck \ndown and right around the corner to the base of a left-facing chimney/corner. \n   Climb up corner to the top and walk-off.",
 								"ascent": "Graham Johnson"
-							},
-							{
-								"name": "Ride the Lightning",
-								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/matihao/south-face/ride-lightning",
-								"image": "https://climbnz.org.nz/sites/default/files/routes/20220917_130124.jpg",
-								"grade": "M7,M6",
-								"length": "70m",
-								"pitches": [
-									{
-										"ewbank": "",
-										"alpine": "",
-										"commitment": "",
-										"mtcook": "",
-										"aid": "",
-										"ice": "",
-										"mixed": "M7",
-										"boulder": "",
-										"length": "20m",
-										"bolts": "",
-										"trad": true,
-										"description": "Start directly up the blank slab to the right of 'Rusty Piton Route' and continue into some staunch moves up the steep and fractured face above."
-									},
-									{
-										"ewbank": "",
-										"alpine": "",
-										"commitment": "",
-										"mtcook": "",
-										"aid": "",
-										"ice": "",
-										"mixed": "M6",
-										"boulder": "",
-										"length": "50m",
-										"bolts": "",
-										"trad": true,
-										"description": "Carry on up the low angle terrain above, trend leftward to a stance on a large block below the final headwall, follow the obvious line of weakness to the top."
-									}
-								],
-								"quality": 1,
-								"bolts": "",
-								"natural_pro": true,
-								"description": "Start directly up the blank slab to the right of 'Rusty Piton Route' and continue into some staunch moves up the steep and fractured face above.",
-								"ascent": "Jacob Kuchler, Mark Challoner, 17/9/22"
 							}
 						],
 						"places": [],
-						"image": "https://climbnz.org.nz/sites/default/files/image/Matihao%2015-06-2022%20with%20Rusty%20Piton%20completed.jpg",
+						"image": "https://climbnz.org.nz/sites/default/files/image/20230604_184125.jpg",
 						"images": [
 							{
-								"src": "https://climbnz.org.nz/sites/default/files/image/Matihao%2015-06-2022%20with%20Rusty%20Piton%20completed.jpg",
+								"src": "https://climbnz.org.nz/sites/default/files/image/20230604_184125.jpg",
 								"height": "1056",
 								"width": "2048"
 							}
@@ -66927,8 +67009,8 @@
 						"ascent": "Steve Barratt, Jade Littlewood, 2011."
 					},
 					{
-						"name": "Barrett\u2019s Route",
-						"link": "https://climbnz.org.nz/nz/si/otago/the-remarkables/single-cone/south-face/barrett%E2%80%99s-route",
+						"name": "Barretts Route",
+						"link": "https://climbnz.org.nz/nz/si/otago/the-remarkables/single-cone/south-face/barretts-route",
 						"image": null,
 						"grade": "18",
 						"length": "",
@@ -66936,7 +67018,7 @@
 						"quality": 0,
 						"bolts": "",
 						"natural_pro": true,
-						"description": "5 pitches on the right-hand slabs.\r\ntakes a line to the left of the abseil line used to get to the bottom of the face.",
+						"description": "Five pitches on the right-hand slabs. Takes a line to the left of the abseil line used to get to the bottom of the face.",
 						"ascent": "Steve Barrett, 2012"
 					},
 					{
@@ -70503,17 +70585,46 @@
 						"ascent": "Stephen Skelton, Kester Brown. Feb 2014."
 					},
 					{
-						"name": "A little to the left (?)",
+						"name": "A Little to the Left (?)",
 						"link": "https://climbnz.org.nz/nz/si/fiordland/darran-mountains/taiaroa-pk/petit-dur/little-left",
 						"image": null,
-						"grade": "21",
-						"length": "",
-						"pitches": [],
+						"grade": "21,21",
+						"length": "107m",
+						"pitches": [
+							{
+								"ewbank": "21",
+								"alpine": "",
+								"commitment": "",
+								"mtcook": "",
+								"aid": "",
+								"ice": "",
+								"mixed": "",
+								"boulder": "",
+								"length": "45m",
+								"bolts": "",
+								"trad": true,
+								"description": "From the ledge, climb the obvious weaknesses to a right-leaning slab. Belay at the top of this."
+							},
+							{
+								"ewbank": "21",
+								"alpine": "",
+								"commitment": "",
+								"mtcook": "",
+								"aid": "",
+								"ice": "",
+								"mixed": "",
+								"boulder": "",
+								"length": "62m",
+								"bolts": "",
+								"trad": true,
+								"description": "Climb corner then step left onto steep slab, pull bulge, then step right to join the top pitch of Armenian Direct."
+							}
+						],
 						"quality": 1,
 						"bolts": "",
 						"natural_pro": true,
-						"description": "To begin either traverse in from above via the steep slabs to a gain a \nprominent ledge or rope up from below  to add another pitch.\nP1: (21) 45m - From ledge climb obvious weakness's to right leaning slab to \nbelay at the top of this\nP2: (21) 62m - Climb corner then step left onto steep slab, pull bulge then \nstep right to join top pitch of Armenian Direct",
-						"ascent": "Greg Jack, Jean Tompkins & Troy Mattingley. Feb 2014."
+						"description": "To begin, either traverse in from above via the steep slabs to a gain a prominent ledge, or rope up from below to add another pitch.\nP1: (21) 45m - \nP2: (21) 62m -",
+						"ascent": "Greg Jack, Jean Tompkins, Troy Mattingley, February 2014"
 					}
 				],
 				"places": [],
@@ -78317,8 +78428,8 @@
 						"ascent": "Asher March, Ed Sheppard Dec 2017"
 					},
 					{
-						"name": "5 O'Clock Shaddow",
-						"link": "https://climbnz.org.nz/nz/si/aoraki/liebig-range/nuns-veil/west-face/5-oclock-shaddow",
+						"name": "Five O\u2019Clock Shadow",
+						"link": "https://climbnz.org.nz/nz/si/aoraki/liebig-range/nuns-veil/west-face/five-o%E2%80%99clock-shadow",
 						"image": "https://climbnz.org.nz/sites/default/files/routes/Nuns_2.jpg",
 						"grade": "16",
 						"length": "150m",
@@ -78326,8 +78437,8 @@
 						"quality": 0,
 						"bolts": "",
 						"natural_pro": true,
-						"description": "Head up the face trending slightly right to summit spot height 2285.  Descend the gully North of the summit. Great rock quality.",
-						"ascent": "Asher March, Ed Sheppard Dec 2017"
+						"description": "Head up the face trending slightly right to summit on Pt 2285.  Descend the gully north of the summit. Great rock quality.",
+						"ascent": "Asher March, Ed Sheppard, December 2017"
 					}
 				],
 				"places": [],
