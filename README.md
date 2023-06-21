@@ -20,3 +20,7 @@ python mountains.py
 ```
 
 Output is in `mountains.json` 
+
+## Attribution
+
+All data comes from [https://climbnz.org.nz/nz](ClimbNZ) licensed per [https://creativecommons.org/licenses/by-nc-sa/3.0/nz/](Creative Commons CC BY-NC-SA 3.0 NZ)
