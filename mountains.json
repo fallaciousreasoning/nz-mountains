@@ -153,8 +153,8 @@
 		"image": null,
 		"images": []
 	},
-	"https://climbnz.org.nz/nz/ni/manawatu%E2%80%93whanganui/ruahine-range/otupae-range/pt-1435": {
-		"link": "https://climbnz.org.nz/nz/ni/manawatu%E2%80%93whanganui/ruahine-range/otupae-range/pt-1435",
+	"https://climbnz.org.nz/nz/ni/manawatu-whanganui/ruahine-range/otupae-range/pt-1435": {
+		"link": "https://climbnz.org.nz/nz/ni/manawatu-whanganui/ruahine-range/otupae-range/pt-1435",
 		"name": "Pt 1435",
 		"altitude": "1435m",
 		"description": null,
@@ -9831,19 +9831,6 @@
 				"ascent": "Evan Wilson, Jim Wilson, Andy Anderson, January 1931"
 			},
 			{
-				"name": "Ashburton Face",
-				"link": "https://climbnz.org.nz/nz/si/canterbury/arrowsmith-range/mt-arrowsmith/ashburton-face",
-				"image": null,
-				"grade": "3+",
-				"length": "",
-				"pitches": [],
-				"quality": 0,
-				"bolts": "",
-				"natural_pro": false,
-				"description": "This is a snow and ice climb up a broad snow face followed by one of a number of gullies to the\r\nsummit of Mt Arrowsmith. From the moraines at the head of the Hakatere River climb to the\r\nschrund at the bottom of the Ashburton Face. Climb a short, steep section alongside a steep\r\nrock rib to gain the slope above. Climb until a small ar\u00eate is reached, and from here either go left\r\nto snow slopes and gullies that join the South West Ridge, or head up steeper rock directly to\r\nthe summit. Usually in condition only from late winter to early summer, and subject to rock fall.",
-				"ascent": "Don Cowie, Jim Clark, November 1958"
-			},
-			{
 				"name": "Thompsons Track",
 				"link": "https://climbnz.org.nz/nz/si/canterbury/arrowsmith-range/mt-arrowsmith/thompsons-track",
 				"image": "https://climbnz.org.nz/sites/default/files/route/Thompsons%20Track.jpg",
@@ -9855,6 +9842,19 @@
 				"natural_pro": false,
 				"description": "Right-hand side of Ashburton Face. Snow and ice climb with several short \nmixed sections. FA: unknown. Kyle Walters, Michael Eatson October 2018.",
 				"ascent": ""
+			},
+			{
+				"name": "Ashburton Face",
+				"link": "https://climbnz.org.nz/nz/si/canterbury/arrowsmith-range/mt-arrowsmith/ashburton-face",
+				"image": null,
+				"grade": "3+",
+				"length": "",
+				"pitches": [],
+				"quality": 0,
+				"bolts": "",
+				"natural_pro": false,
+				"description": "This is a snow and ice climb up a broad snow face followed by one of a number of gullies to the\r\nsummit of Mt Arrowsmith. From the moraines at the head of the Hakatere River climb to the\r\nschrund at the bottom of the Ashburton Face. Climb a short, steep section alongside a steep\r\nrock rib to gain the slope above. Climb until a small ar\u00eate is reached, and from here either go left\r\nto snow slopes and gullies that join the South West Ridge, or head up steeper rock directly to\r\nthe summit. Usually in condition only from late winter to early summer, and subject to rock fall.",
+				"ascent": "Don Cowie, Jim Clark, November 1958"
 			},
 			{
 				"name": "East Ridge",
@@ -18726,6 +18726,188 @@
 		],
 		"routes": [
 			{
+				"name": "The Charismatic Movement Marketing Council",
+				"link": "https://climbnz.org.nz/nz/si/darrans/wick-mountains/charismatic-wall-pt-1655/charismatic-movement-marketing-council",
+				"image": "https://climbnz.org.nz/sites/default/files/routes/B032234B-719A-4C2F-86BF-6CC4F68109C7.jpeg",
+				"grade": "19,12,17,18,20,20,23,19,20,15,16,15",
+				"length": "404m",
+				"pitches": [
+					{
+						"ewbank": "19",
+						"alpine": "",
+						"commitment": "",
+						"mtcook": "",
+						"aid": "",
+						"ice": "",
+						"mixed": "",
+						"boulder": "",
+						"length": "50m",
+						"bolts": "",
+						"trad": true,
+						"description": "From start flake climb straight up and through a short steep corner, moving right to belay in bottom of white left-facing corner."
+					},
+					{
+						"ewbank": "12",
+						"alpine": "",
+						"commitment": "",
+						"mtcook": "",
+						"aid": "",
+						"ice": "",
+						"mixed": "",
+						"boulder": "",
+						"length": "30m",
+						"bolts": "",
+						"trad": true,
+						"description": "Follow white leaning corner to peg belay."
+					},
+					{
+						"ewbank": "17",
+						"alpine": "",
+						"commitment": "",
+						"mtcook": "",
+						"aid": "",
+						"ice": "",
+						"mixed": "",
+						"boulder": "",
+						"length": "30m",
+						"bolts": "",
+						"trad": true,
+						"description": "Straight up obvious weakness then traverse right across slabs to bolt belay."
+					},
+					{
+						"ewbank": "18",
+						"alpine": "",
+						"commitment": "",
+						"mtcook": "",
+						"aid": "",
+						"ice": "",
+						"mixed": "",
+						"boulder": "",
+						"length": "52m",
+						"bolts": "",
+						"trad": true,
+						"description": "Traverse right across slabby wall; follow shallow left-facing groove into a steep corner. Continue up a few steps for belay on Privet Hedge Ledge. The pitch was split due to rope drag.\nPrivet Hedge Ledge: Spacious seating for two with gear. Stunning views, sheltered from space junk, ample protection in flake above."
+					},
+					{
+						"ewbank": "20",
+						"alpine": "",
+						"commitment": "",
+						"mtcook": "",
+						"aid": "",
+						"ice": "",
+						"mixed": "",
+						"boulder": "",
+						"length": "35m",
+						"bolts": "",
+						"trad": true,
+						"description": "Traverse right to a shallow left-facing open-book corner with small roof. Deviousness necessary to protect startling blank traverse low down. Finish on bolt belay."
+					},
+					{
+						"ewbank": "20",
+						"alpine": "",
+						"commitment": "",
+						"mtcook": "",
+						"aid": "",
+						"ice": "",
+						"mixed": "",
+						"boulder": "",
+						"length": "25m",
+						"bolts": "",
+						"trad": true,
+						"description": "Up groove two metres right of belay then step left through steep ground to open corner."
+					},
+					{
+						"ewbank": "23",
+						"alpine": "",
+						"commitment": "",
+						"mtcook": "",
+						"aid": "",
+						"ice": "",
+						"mixed": "",
+						"boulder": "",
+						"length": "45m",
+						"bolts": "",
+						"trad": true,
+						"description": "Up groove above belay onto wall: good gear in crack. Traverse right past bolt (crux) to mantle ledge. Continue up wall on positive ledges to more good gear and fixed peg. A small tensioned pendulum will get you past the crux at 21 / A0."
+					},
+					{
+						"ewbank": "19",
+						"alpine": "",
+						"commitment": "",
+						"mtcook": "",
+						"aid": "",
+						"ice": "",
+						"mixed": "",
+						"boulder": "",
+						"length": "12m",
+						"bolts": "",
+						"trad": true,
+						"description": "Up ar\u00eate to left of corner, then follow groove to a small slab and bolt belay."
+					},
+					{
+						"ewbank": "20",
+						"alpine": "",
+						"commitment": "",
+						"mtcook": "",
+						"aid": "",
+						"ice": "",
+						"mixed": "",
+						"boulder": "",
+						"length": "30m",
+						"bolts": "",
+						"trad": true,
+						"description": "Traverse left under roof thing to where it is breached by a weakness. Up then right to belay under overlap about seven metres above last belay."
+					},
+					{
+						"ewbank": "15",
+						"alpine": "",
+						"commitment": "",
+						"mtcook": "",
+						"aid": "",
+						"ice": "",
+						"mixed": "",
+						"boulder": "",
+						"length": "45m",
+						"bolts": "",
+						"trad": true,
+						"description": "A0,  Follow dirty wet right-tending seam with a few aid moves. Belay as high on the easy ramp as possible."
+					},
+					{
+						"ewbank": "16",
+						"alpine": "",
+						"commitment": "",
+						"mtcook": "",
+						"aid": "",
+						"ice": "",
+						"mixed": "",
+						"boulder": "",
+						"length": "25m",
+						"bolts": "",
+						"trad": true,
+						"description": "Move out left from roof then up broken slabs to belay under gully things."
+					},
+					{
+						"ewbank": "15",
+						"alpine": "",
+						"commitment": "",
+						"mtcook": "",
+						"aid": "",
+						"ice": "",
+						"mixed": "",
+						"boulder": "",
+						"length": "25m",
+						"bolts": "",
+						"trad": true,
+						"description": "Climb right of roofs to grass, sun, places to sit and walk. Belay from rap bolt."
+					}
+				],
+				"quality": 1,
+				"bolts": "",
+				"natural_pro": true,
+				"description": "The face on the truncated spur on the true left, seen from the tunnel portal. Access to the base of the wall is difficult and thickly vegetated, but the quality of the rock on the upper walls is well worth the adventure.\r\n14 pitches. Solid climbing around grade 20; some bolts and fixed gear. A possible bivvy ledge can be found at the top of the 4th pitch. The route was originally climbed over three weeks and involves a tricky approach from the Milford Road.\r\nHaul up on tussock trending right, traversing right 100m below the wall to a flat-looking area with a few trees. A difficult and exposed section of cliff trends up and right to the start of the technical climbing. \r\nPaul Rogers and Gareth Sharp abseiled down the line and climbed the top six or so pitches, placing belay anchors. Paul placed a bolt on lead through the crux section, swearing: 'those f*ckers have sand-bagged me...'\r\nDescent: nine or ten abseils. Pitches five and six would be difficult to retreat from without fixed lines but not impossible. Walking out to Homer via the ridge to Moir would be the best and safest option.",
+				"ascent": "Gwilym Griffith-Jones, Daniel Meecham, February 1994"
+			},
+			{
 				"name": "Uprising",
 				"link": "https://climbnz.org.nz/nz/si/darrans/wick-mountains/charismatic-wall-pt-1655/uprising",
 				"image": "https://climbnz.org.nz/sites/default/files/routes/Uprising%20Topo.jpg",
@@ -18991,186 +19173,17 @@
 				"ascent": "Llewellyn Murdoch & Daniel Joll Feb 2022"
 			},
 			{
-				"name": "The Charismatic Movement Marketing Council",
-				"link": "https://climbnz.org.nz/nz/si/darrans/wick-mountains/charismatic-wall-pt-1655/charismatic-movement-marketing-council",
-				"image": "https://climbnz.org.nz/sites/default/files/routes/B032234B-719A-4C2F-86BF-6CC4F68109C7.jpeg",
-				"grade": "19,12,17,18,20,20,23,19,20,15,16,15",
-				"length": "404m",
-				"pitches": [
-					{
-						"ewbank": "19",
-						"alpine": "",
-						"commitment": "",
-						"mtcook": "",
-						"aid": "",
-						"ice": "",
-						"mixed": "",
-						"boulder": "",
-						"length": "50m",
-						"bolts": "",
-						"trad": true,
-						"description": "From start flake climb straight up and through a short steep corner, moving right to belay in bottom of white left-facing corner."
-					},
-					{
-						"ewbank": "12",
-						"alpine": "",
-						"commitment": "",
-						"mtcook": "",
-						"aid": "",
-						"ice": "",
-						"mixed": "",
-						"boulder": "",
-						"length": "30m",
-						"bolts": "",
-						"trad": true,
-						"description": "Follow white leaning corner to peg belay."
-					},
-					{
-						"ewbank": "17",
-						"alpine": "",
-						"commitment": "",
-						"mtcook": "",
-						"aid": "",
-						"ice": "",
-						"mixed": "",
-						"boulder": "",
-						"length": "30m",
-						"bolts": "",
-						"trad": true,
-						"description": "Straight up obvious weakness then traverse right across slabs to bolt belay."
-					},
-					{
-						"ewbank": "18",
-						"alpine": "",
-						"commitment": "",
-						"mtcook": "",
-						"aid": "",
-						"ice": "",
-						"mixed": "",
-						"boulder": "",
-						"length": "52m",
-						"bolts": "",
-						"trad": true,
-						"description": "Traverse right across slabby wall; follow shallow left-facing groove into a steep corner. Continue up a few steps for belay on Privet Hedge Ledge. The pitch was split due to rope drag.\nPrivet Hedge Ledge: Spacious seating for two with gear. Stunning views, sheltered from space junk, ample protection in flake above."
-					},
-					{
-						"ewbank": "20",
-						"alpine": "",
-						"commitment": "",
-						"mtcook": "",
-						"aid": "",
-						"ice": "",
-						"mixed": "",
-						"boulder": "",
-						"length": "35m",
-						"bolts": "",
-						"trad": true,
-						"description": "Traverse right to a shallow left-facing open-book corner with small roof. Deviousness necessary to protect startling blank traverse low down. Finish on bolt belay."
-					},
-					{
-						"ewbank": "20",
-						"alpine": "",
-						"commitment": "",
-						"mtcook": "",
-						"aid": "",
-						"ice": "",
-						"mixed": "",
-						"boulder": "",
-						"length": "25m",
-						"bolts": "",
-						"trad": true,
-						"description": "Up groove two metres right of belay then step left through steep ground to open corner."
-					},
-					{
-						"ewbank": "23",
-						"alpine": "",
-						"commitment": "",
-						"mtcook": "",
-						"aid": "",
-						"ice": "",
-						"mixed": "",
-						"boulder": "",
-						"length": "45m",
-						"bolts": "",
-						"trad": true,
-						"description": "Up groove above belay onto wall: good gear in crack. Traverse right past bolt (crux) to mantle ledge. Continue up wall on positive ledges to more good gear and fixed peg. A small tensioned pendulum will get you past the crux at 21 / A0."
-					},
-					{
-						"ewbank": "19",
-						"alpine": "",
-						"commitment": "",
-						"mtcook": "",
-						"aid": "",
-						"ice": "",
-						"mixed": "",
-						"boulder": "",
-						"length": "12m",
-						"bolts": "",
-						"trad": true,
-						"description": "Up ar\u00eate to left of corner, then follow groove to a small slab and bolt belay."
-					},
-					{
-						"ewbank": "20",
-						"alpine": "",
-						"commitment": "",
-						"mtcook": "",
-						"aid": "",
-						"ice": "",
-						"mixed": "",
-						"boulder": "",
-						"length": "30m",
-						"bolts": "",
-						"trad": true,
-						"description": "Traverse left under roof thing to where it is breached by a weakness. Up then right to belay under overlap about seven metres above last belay."
-					},
-					{
-						"ewbank": "15",
-						"alpine": "",
-						"commitment": "",
-						"mtcook": "",
-						"aid": "",
-						"ice": "",
-						"mixed": "",
-						"boulder": "",
-						"length": "45m",
-						"bolts": "",
-						"trad": true,
-						"description": "A0,  Follow dirty wet right-tending seam with a few aid moves. Belay as high on the easy ramp as possible."
-					},
-					{
-						"ewbank": "16",
-						"alpine": "",
-						"commitment": "",
-						"mtcook": "",
-						"aid": "",
-						"ice": "",
-						"mixed": "",
-						"boulder": "",
-						"length": "25m",
-						"bolts": "",
-						"trad": true,
-						"description": "Move out left from roof then up broken slabs to belay under gully things."
-					},
-					{
-						"ewbank": "15",
-						"alpine": "",
-						"commitment": "",
-						"mtcook": "",
-						"aid": "",
-						"ice": "",
-						"mixed": "",
-						"boulder": "",
-						"length": "25m",
-						"bolts": "",
-						"trad": true,
-						"description": "Climb right of roofs to grass, sun, places to sit and walk. Belay from rap bolt."
-					}
-				],
-				"quality": 1,
-				"bolts": "",
+				"name": "Seven Nation Army",
+				"link": "https://climbnz.org.nz/nz/si/darrans/wick-mountains/charismatic-wall-pt-1655/seven-nation-army",
+				"image": "https://climbnz.org.nz/sites/default/files/route/resized_p3090196.jpg",
+				"grade": "20",
+				"length": "",
+				"pitches": [],
+				"quality": 0,
+				"bolts": "7",
 				"natural_pro": true,
-				"description": "The face on the truncated spur on the true left, seen from the tunnel portal. Access to the base of the wall is difficult and thickly vegetated, but the quality of the rock on the upper walls is well worth the adventure.\r\n14 pitches. Solid climbing around grade 20; some bolts and fixed gear. A possible bivvy ledge can be found at the top of the 4th pitch. The route was originally climbed over three weeks and involves a tricky approach from the Milford Road.\r\nHaul up on tussock trending right, traversing right 100m below the wall to a flat-looking area with a few trees. A difficult and exposed section of cliff trends up and right to the start of the technical climbing. \r\nPaul Rogers and Gareth Sharp abseiled down the line and climbed the top six or so pitches, placing belay anchors. Paul placed a bolt on lead through the crux section, swearing: 'those f*ckers have sand-bagged me...'\r\nDescent: nine or ten abseils. Pitches five and six would be difficult to retreat from without fixed lines but not impossible. Walking out to Homer via the ridge to Moir would be the best and safest option.",
-				"ascent": "Gwilym Griffith-Jones, Daniel Meecham, February 1994"
+				"description": "The striking shoot or \u2018white stripe\u2019 of a slip visible from Chasm Crag carpark to the right of the Charismatic Wall, off of Pk 1665. Thirteen pitches. Start up vegetated slabs with no natural protection, but the rock quality improves, with sharp white quartz and good edges. Two bolts were placed on lead to protect the second pitch, where there was insufficient natural protection, and about five more bolts on the descent for rappelling.",
+				"ascent": "Charlie Long, Mike Buchanan, March 2014"
 			}
 		],
 		"places": [],
@@ -19234,8 +19247,8 @@
 				"quality": 0,
 				"bolts": "",
 				"natural_pro": true,
-				"description": "12 pitches.\nScramble up large left leaning ramp until it steepens\n1,2: continue up ramp until it tops out\n3: straight up corner then flake system towards base of snow field (17)\n4,5: scramble around snowfield to base of upper wall\n6: easy climbing up wall aiming towards long clean corner\n7: continue up towards shallow groove below corner, hanging belay left of the \nbase of groove (19)\n8: traverse right and move up groove to awesome belay ledge at base of corner \n(crux)\n9: up corner, moving onto arete via big flake (18)\n10-12: continue up, aiming for rib leading to summit.\nScramble to summit\n\nExcellent clean rock on upper half of face, good pro. Lots of potential for \nmore lines, especially easier ones on the rh side of the face.",
-				"ascent": "Sam Waetford Kyle Walter Feb 2016"
+				"description": "Excellent clean rock on the upper half of the face, good pro. Lots of potential for more lines, especially easier ones on the right-hand side of the face. Scramble up the large left-leaning ramp until it steepens.\r\nP1\u20132: continue up ramp until it tops out\r\nP3: straight up corner then flake system towards base of snow field (17)\r\nP4\u20135: scramble around snowfield to base of upper wall\r\nP6: easy climbing up wall aiming towards long clean corner\r\nP7: continue up towards shallow groove below corner, hanging belay left of the base of groove (19)\r\nP8: traverse right and move up groove to awesome belay ledge at base of corner (20, crux)\r\nP9: up corner, moving onto arete via big flake (18)\r\nP10\u201312: continue up, aiming for rib leading to summit.\r\nScramble to summit",
+				"ascent": "Sam Waetford, Kyle Walter, February 2016"
 			}
 		],
 		"places": [],
@@ -21854,442 +21867,6 @@
 						"width": "1747"
 					}
 				]
-			},
-			{
-				"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/mt-onslow",
-				"name": "Mt Onslow",
-				"altitude": "2203m",
-				"description": "Part of the Cloudy Pk, rock climbing area.",
-				"latlng": [
-					"-43.451299000000",
-					"170.780582000000"
-				],
-				"routes": [
-					{
-						"name": "Onomatopoeia",
-						"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/mt-onslow/onomatopoeia",
-						"image": null,
-						"grade": "3 17",
-						"length": "250m",
-						"pitches": [],
-						"quality": 0,
-						"bolts": "",
-						"natural_pro": true,
-						"description": "On the prominent buttress leading directly to the true summit of Mt Onslow \n(2310m), located at the head of the valley on the right of Cloudy Stream \nvalley, about 30 min walk upstream from the usual camp site.",
-						"ascent": "Chris Burtenshaw, Martyn Clark, 1993"
-					},
-					{
-						"name": "Creature Comfort",
-						"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/mt-onslow/creature-comfort",
-						"image": null,
-						"grade": "20 ,20 ,21 ,20 ,19 ,14",
-						"length": "230m",
-						"pitches": [
-							{
-								"ewbank": "20",
-								"alpine": "",
-								"commitment": "",
-								"mtcook": "",
-								"aid": "",
-								"ice": "",
-								"mixed": "",
-								"boulder": "",
-								"length": "40m",
-								"bolts": "6",
-								"trad": true,
-								"description": "Move right to short corner, up this a few metres to 1st bolt on wall. Move onto face and climb seams passing another bolt. The seams angle slightly left and the route follows that line up the face. Passing a bolt in dark juggy rock, then another above a small ledge. From there the route goes straight up passing two more bolts, directly to belay bolts beneath 1st overhang. 6B, few extra runners can be used."
-							},
-							{
-								"ewbank": "20",
-								"alpine": "",
-								"commitment": "",
-								"mtcook": "",
-								"aid": "",
-								"ice": "",
-								"mixed": "",
-								"boulder": "",
-								"length": "40m",
-								"bolts": "5",
-								"trad": true,
-								"description": "Straight up past 2 bolts to obvious feature on the overhang. Slightly left-wards line up past a bolt and up to the \u2018Witches Hat\u2019. Straight up face to bolt then step left and up to V shaped ledge. Up right to bolt, then straight up through overhang to belay bolts beneath overhang."
-							},
-							{
-								"ewbank": "21",
-								"alpine": "",
-								"commitment": "",
-								"mtcook": "",
-								"aid": "",
-								"ice": "",
-								"mixed": "",
-								"boulder": "",
-								"length": "30m",
-								"bolts": "1",
-								"trad": true,
-								"description": "Move left up to bolt on face above overhang. Onto face and up to crack for runners, then move left and climb up to gain two seams heading up the face tending slightly right. Towards the top the left seam stops and the right seam becomes a crack. Belay bolts on ledge above this. Ample natural pro on face."
-							},
-							{
-								"ewbank": "20",
-								"alpine": "",
-								"commitment": "",
-								"mtcook": "",
-								"aid": "",
-								"ice": "",
-								"mixed": "",
-								"boulder": "",
-								"length": "45m",
-								"bolts": "3",
-								"trad": true,
-								"description": "Step left around corner onto face. Follow obvious left- wards rising traverse past 2B. Then up face tending slightly L, about ten metres to a bolt above a small ledge. Continue up same line to belay bolts in V shaped stance."
-							},
-							{
-								"ewbank": "19",
-								"alpine": "",
-								"commitment": "",
-								"mtcook": "",
-								"aid": "",
-								"ice": "",
-								"mixed": "",
-								"boulder": "",
-								"length": "45m",
-								"bolts": "2",
-								"trad": true,
-								"description": "Move left to bolt, then up seams to ledge. Directly up face past another bolt. Then tend slightly left- wards up face on juggy rock to belay bolts on major ledge."
-							},
-							{
-								"ewbank": "14",
-								"alpine": "",
-								"commitment": "",
-								"mtcook": "",
-								"aid": "",
-								"ice": "",
-								"mixed": "",
-								"boulder": "",
-								"length": "30m",
-								"bolts": "",
-								"trad": true,
-								"description": "Climb juggy wall to gain corner about ten metres up. Follow up corner and over bulges. The angle eases above bulges. Final belay bolt is in the corner when level with terrace on right."
-							}
-						],
-						"quality": 0,
-						"bolts": "17",
-						"natural_pro": true,
-						"description": "On the Onslow Wall, left of Onslow Buttress.\nClimb scree to its highest point on the left of the face, then up the left \nside of a gully to reach\nbelay bolts. Six sustained pitches on the central part of the face, with some \nbolts.",
-						"ascent": "Bill McLeod, Martyn Clark, 1992"
-					},
-					{
-						"name": "Sky-Lab",
-						"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/mt-onslow/sky-lab",
-						"image": null,
-						"grade": "15 ,16 ,20 ,24 ,10",
-						"length": "165m",
-						"pitches": [
-							{
-								"ewbank": "15",
-								"alpine": "",
-								"commitment": "",
-								"mtcook": "",
-								"aid": "",
-								"ice": "",
-								"mixed": "",
-								"boulder": "",
-								"length": "30m",
-								"bolts": "",
-								"trad": true,
-								"description": "Start just right of gully, climb up then move right onto face and up. Face is sound, few runners. Up easy ground tending a little left to belay bolts on main ledge."
-							},
-							{
-								"ewbank": "16",
-								"alpine": "",
-								"commitment": "",
-								"mtcook": "",
-								"aid": "",
-								"ice": "",
-								"mixed": "",
-								"boulder": "",
-								"length": "30m",
-								"bolts": "1",
-								"trad": true,
-								"description": "From belay on ledge move right to belay bolts on face. Route climbs straight up from face belay. A bolt on the face is passed on its left. Up and right to gain the left- facing corner where cracks take runners. Up and right round corner, up to belay bolts beneath overhang."
-							},
-							{
-								"ewbank": "20",
-								"alpine": "",
-								"commitment": "",
-								"mtcook": "",
-								"aid": "",
-								"ice": "",
-								"mixed": "",
-								"boulder": "",
-								"length": "45m",
-								"bolts": "4",
-								"trad": true,
-								"description": "Climb overhang past 2B. Continue up left- facing corner (1B near top). Then up and tending right towards big left- facing corner. 1B in this corner marks the point to traverse right around onto face. Then up to belay bolts."
-							},
-							{
-								"ewbank": "24",
-								"alpine": "",
-								"commitment": "",
-								"mtcook": "",
-								"aid": "",
-								"ice": "",
-								"mixed": "",
-								"boulder": "",
-								"length": "48m",
-								"bolts": "11",
-								"trad": true,
-								"description": "Sustained. 11B. Straight up to 1st bolt. Above 1st bolt is a cam placement, then move left up to 2nd bolt. left and up to the 3rd bolt, then straight up face passing bolts. There are two wire placements at obvious points where bolts are spaced. At top of pitch move left to belay bolts. Use nut pick to remove wires."
-							},
-							{
-								"ewbank": "10",
-								"alpine": "",
-								"commitment": "",
-								"mtcook": "",
-								"aid": "",
-								"ice": "",
-								"mixed": "",
-								"boulder": "",
-								"length": "12m",
-								"bolts": "",
-								"trad": true,
-								"description": "Climb easy face straight up to belay bolts on top."
-							}
-						],
-						"quality": 1,
-						"bolts": "16",
-						"natural_pro": true,
-						"description": "Three moderate pitches to reach a stunning full rope-length on the smooth \ndiamond-shaped\nslab, with just one jug at about two-thirds height. Then a short final pitch \nto reach abseil bolts.\nTake plenty of quickdraws.",
-						"ascent": "Bill McLeod, David Newstead, 1992"
-					},
-					{
-						"name": "Onslow Buttress",
-						"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/mt-onslow/onslow-buttress",
-						"image": null,
-						"grade": "14 ,16 ,15 ,15 ,6 ,16 ,16 ,13 ,12",
-						"length": "",
-						"pitches": [
-							{
-								"ewbank": "14",
-								"alpine": "",
-								"commitment": "",
-								"mtcook": "",
-								"aid": "",
-								"ice": "",
-								"mixed": "",
-								"boulder": "",
-								"length": "0m",
-								"bolts": "",
-								"trad": true,
-								"description": "Start a little right of the toe of the buttress and scramble up a bit to gain the crest. Straightforward climbing with spaced gear to reach a large platform with an old bolt station."
-							},
-							{
-								"ewbank": "16",
-								"alpine": "",
-								"commitment": "",
-								"mtcook": "",
-								"aid": "",
-								"ice": "",
-								"mixed": "",
-								"boulder": "",
-								"length": "0m",
-								"bolts": "",
-								"trad": true,
-								"description": "Nice climbing protected by microcams, with a committing move to the right after about 20 metres."
-							},
-							{
-								"ewbank": "15",
-								"alpine": "",
-								"commitment": "",
-								"mtcook": "",
-								"aid": "",
-								"ice": "",
-								"mixed": "",
-								"boulder": "",
-								"length": "0m",
-								"bolts": "",
-								"trad": true,
-								"description": "Continue up the right side, moving back to the  crest for the belay."
-							},
-							{
-								"ewbank": "15",
-								"alpine": "",
-								"commitment": "",
-								"mtcook": "",
-								"aid": "",
-								"ice": "",
-								"mixed": "",
-								"boulder": "",
-								"length": "0m",
-								"bolts": "",
-								"trad": true,
-								"description": "Continue up the right side of the buttress."
-							},
-							{
-								"ewbank": "6",
-								"alpine": "",
-								"commitment": "",
-								"mtcook": "",
-								"aid": "",
-								"ice": "",
-								"mixed": "",
-								"boulder": "",
-								"length": "0m",
-								"bolts": "",
-								"trad": true,
-								"description": "Gain the lower-angled area and scramble a full pitch with no protection."
-							},
-							{
-								"ewbank": "16",
-								"alpine": "",
-								"commitment": "",
-								"mtcook": "",
-								"aid": "",
-								"ice": "",
-								"mixed": "",
-								"boulder": "",
-								"length": "0m",
-								"bolts": "",
-								"trad": true,
-								"description": "Belay under the overhang just right of the buttress and pull through on good holds. Nice climbing with good microcams."
-							},
-							{
-								"ewbank": "16",
-								"alpine": "",
-								"commitment": "",
-								"mtcook": "",
-								"aid": "",
-								"ice": "",
-								"mixed": "",
-								"boulder": "",
-								"length": "0m",
-								"bolts": "",
-								"trad": true,
-								"description": "Climb out left on to steep broken ground with good gear and protection, then above the ledge move up through big blocks on the right."
-							},
-							{
-								"ewbank": "13",
-								"alpine": "",
-								"commitment": "",
-								"mtcook": "",
-								"aid": "",
-								"ice": "",
-								"mixed": "",
-								"boulder": "",
-								"length": "0m",
-								"bolts": "",
-								"trad": true,
-								"description": "Broken ground with steeper sections and scrambling intermingled."
-							},
-							{
-								"ewbank": "12",
-								"alpine": "",
-								"commitment": "",
-								"mtcook": "",
-								"aid": "",
-								"ice": "",
-								"mixed": "",
-								"boulder": "",
-								"length": "0m",
-								"bolts": "",
-								"trad": true,
-								"description": "Mostly scrambling with a couple of steeper sections leading to the final top out on the pinnacle summit."
-							}
-						],
-						"quality": 1,
-						"bolts": "",
-						"natural_pro": true,
-						"description": "Start a little right of the toe of the buttress and scramble up a bit to gain the crest. Straightforward climbing with spaced gear to reach a large platform with an old bolt station.",
-						"ascent": "Francis Main, Lindsay Main, 2015"
-					},
-					{
-						"name": "North East Ridge",
-						"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/mt-onslow/north-east-ridge",
-						"image": null,
-						"grade": "3-",
-						"length": "",
-						"pitches": [],
-						"quality": 0,
-						"bolts": "",
-						"natural_pro": false,
-						"description": "The first ascent was made from Broadleaf Hut. Once on the ridge the final 400 metres of rock\nare steep and tricky.",
-						"ascent": "Cuthbert Denham, Jack Pattle, April 1936"
-					}
-				],
-				"places": [],
-				"image": "https://climbnz.org.nz/sites/default/files/image/Onslow%20Buttress%20topo.jpg",
-				"images": [
-					{
-						"src": "https://climbnz.org.nz/sites/default/files/image/Onslow%20Buttress%20topo.jpg",
-						"height": "798",
-						"width": "900"
-					}
-				]
-			},
-			{
-				"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/ferrar-pk",
-				"name": "Ferrar Pk",
-				"altitude": "2225m",
-				"description": "Part of Cloudy Pk rock climbing area.\nFirst climbed by Bryan Barrer and Frank Askin, December 1931.",
-				"latlng": [
-					"-43.469453780000",
-					"170.786877600000"
-				],
-				"routes": [
-					{
-						"name": "Zero the Hero",
-						"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/ferrar-pk/zero-hero",
-						"image": null,
-						"grade": "14",
-						"length": "",
-						"pitches": [],
-						"quality": 0,
-						"bolts": "",
-						"natural_pro": true,
-						"description": "Climb left of the large chimney on the slabby north-west aspect of the peak.",
-						"ascent": "Peter Dickson (solo)"
-					},
-					{
-						"name": "Central Chimney",
-						"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/ferrar-pk/central-chimney",
-						"image": null,
-						"grade": "",
-						"length": "",
-						"pitches": [],
-						"quality": 0,
-						"bolts": "",
-						"natural_pro": true,
-						"description": "Climb the large chimney.",
-						"ascent": "Matt Gilchrist, Tawny Wagstaff, April 2010"
-					},
-					{
-						"name": "Bring Your Daughter to the Slaughter",
-						"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/ferrar-pk/bring-your-daughter-slaughter",
-						"image": null,
-						"grade": "10",
-						"length": "",
-						"pitches": [],
-						"quality": 0,
-						"bolts": "",
-						"natural_pro": true,
-						"description": "Keep right of the chimney.",
-						"ascent": "Peter Dickson (solo), 1992"
-					},
-					{
-						"name": "South Ridge",
-						"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/ferrar-pk/south-ridge",
-						"image": null,
-						"grade": "",
-						"length": "",
-						"pitches": [],
-						"quality": 0,
-						"bolts": "",
-						"natural_pro": false,
-						"description": "The first ascent was \u2018a hen-cackle\u2019 \u2013 the climbers were aiming for Cloudy Peak.",
-						"ascent": "Bryan Barrer, Frank Askin, 26 December 1931"
-					}
-				],
-				"places": [],
-				"image": null,
-				"images": []
 			},
 			{
 				"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/cloudy-pk/lower-valley-crags",
@@ -25568,15 +25145,15 @@
 			},
 			{
 				"name": "Bestowed",
-				"link": "https://climbnz.org.nz/nz/si/canterbury/naumann-range/dasler-pinnacles/bestowed",
+				"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/naumann-range/dasler-pinnacles/bestowed",
 				"image": null,
 				"grade": "14",
-				"length": "",
+				"length": "210m",
 				"pitches": [],
 				"quality": 0,
 				"bolts": "",
-				"natural_pro": false,
-				"description": "Begin between two snow patches (approx. 200m north of Bedazzled) at base of \ncliff left side, climb slightly right, onto a large triangle buttress (good \nrest spot) on the face, into a corner chute and up to reach the ridge between \ntwo spikes. 210m. Grade 12 up to buttress, 14 above buttress.",
+				"natural_pro": true,
+				"description": "Begin between two snow patches (approx. 200m north of Bedazzled) at base of cliff left side, climb slightly right, onto a large triangle buttress (good rest spot) on the face, into a corner chute and up to reach the ridge between two spikes. Grade 12 up to buttress, 14 above buttress.",
 				"ascent": "Kevin Hammond, January 2004"
 			},
 			{
@@ -27646,19 +27223,6 @@
 						"ascent": ""
 					},
 					{
-						"name": "On General's Orders",
-						"link": "https://climbnz.org.nz/nz/si/otago/the-remarkables/lake-alta/lake-alta-slabs/generals-orders",
-						"image": null,
-						"grade": "",
-						"length": "",
-						"pitches": [],
-						"quality": 0,
-						"bolts": "",
-						"natural_pro": false,
-						"description": "M3+ 70m. Great turf",
-						"ascent": ""
-					},
-					{
 						"name": "Lachnagar Monster",
 						"link": "https://climbnz.org.nz/nz/si/otago/the-remarkables/lake-alta/lake-alta-slabs/lachnagar-monster",
 						"image": null,
@@ -27670,6 +27234,19 @@
 						"natural_pro": true,
 						"description": "Up the weakness on the left hand edge of The Fat Lady for three pitches to, \nthe base of a tight squeeze chimney/groove. Up this on thin ice using trad \ngear and into an ice cave. Top-out around a large capstone feature to \nsnowfield above.",
 						"ascent": "Steve Carr, Ruairidh Smith FWA 1998"
+					},
+					{
+						"name": "On General's Orders",
+						"link": "https://climbnz.org.nz/nz/si/otago/the-remarkables/lake-alta/lake-alta-slabs/generals-orders",
+						"image": null,
+						"grade": "",
+						"length": "",
+						"pitches": [],
+						"quality": 0,
+						"bolts": "",
+						"natural_pro": false,
+						"description": "M3+ 70m. Great turf",
+						"ascent": ""
 					}
 				],
 				"places": [],
@@ -31082,6 +30659,73 @@
 			"173.652095790000"
 		],
 		"routes": [],
+		"places": [],
+		"image": null,
+		"images": []
+	},
+	"https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/ferrar-pk": {
+		"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/ferrar-pk",
+		"name": "Ferrar Pk",
+		"altitude": "2225m",
+		"description": "Part of Cloudy Pk rock climbing area.\nFirst climbed by Bryan Barrer and Frank Askin, December 1931.",
+		"latlng": [
+			"-43.469453780000",
+			"170.786877600000"
+		],
+		"routes": [
+			{
+				"name": "Zero the Hero",
+				"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/ferrar-pk/zero-hero",
+				"image": null,
+				"grade": "14",
+				"length": "",
+				"pitches": [],
+				"quality": 0,
+				"bolts": "",
+				"natural_pro": true,
+				"description": "Climb left of the large chimney on the slabby north-west aspect of the peak.",
+				"ascent": "Peter Dickson"
+			},
+			{
+				"name": "Central Chimney",
+				"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/ferrar-pk/central-chimney",
+				"image": null,
+				"grade": "",
+				"length": "",
+				"pitches": [],
+				"quality": 0,
+				"bolts": "",
+				"natural_pro": true,
+				"description": "Climb the large chimney.",
+				"ascent": "Matt Gilchrist, Tawny Wagstaff, April 2010"
+			},
+			{
+				"name": "Bring Your Daughter to the Slaughter",
+				"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/ferrar-pk/bring-your-daughter-slaughter",
+				"image": null,
+				"grade": "10",
+				"length": "",
+				"pitches": [],
+				"quality": 0,
+				"bolts": "",
+				"natural_pro": true,
+				"description": "Keep right of the chimney.",
+				"ascent": "Peter Dickson, 1992"
+			},
+			{
+				"name": "South Ridge",
+				"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/ferrar-pk/south-ridge",
+				"image": null,
+				"grade": "",
+				"length": "",
+				"pitches": [],
+				"quality": 0,
+				"bolts": "",
+				"natural_pro": false,
+				"description": "The first ascent was \u2018a hen-cackle\u2019 \u2013 the climbers were aiming for Cloudy Peak.",
+				"ascent": "Bryan Barrer, Frank Askin, 26 December 1931"
+			}
+		],
 		"places": [],
 		"image": null,
 		"images": []
@@ -46256,8 +45900,8 @@
 			}
 		]
 	},
-	"https://climbnz.org.nz/nz/ni/manawatu%E2%80%93whanganui/ruahine-range/hikurangi-range/mangaweka": {
-		"link": "https://climbnz.org.nz/nz/ni/manawatu%E2%80%93whanganui/ruahine-range/hikurangi-range/mangaweka",
+	"https://climbnz.org.nz/nz/ni/manawatu-whanganui/ruahine-range/hikurangi-range/mangaweka": {
+		"link": "https://climbnz.org.nz/nz/ni/manawatu-whanganui/ruahine-range/hikurangi-range/mangaweka",
 		"name": "Mangaweka",
 		"altitude": "1731m",
 		"description": null,
@@ -54533,6 +54177,375 @@
 		"image": null,
 		"images": []
 	},
+	"https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/mt-onslow": {
+		"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/mt-onslow",
+		"name": "Mt Onslow",
+		"altitude": "2203m",
+		"description": "Part of the Cloudy Pk, rock climbing area.",
+		"latlng": [
+			"-43.451299000000",
+			"170.780582000000"
+		],
+		"routes": [
+			{
+				"name": "Onomatopoeia",
+				"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/mt-onslow/onomatopoeia",
+				"image": null,
+				"grade": "3 17",
+				"length": "250m",
+				"pitches": [],
+				"quality": 0,
+				"bolts": "",
+				"natural_pro": true,
+				"description": "On the prominent buttress leading directly to the true summit of Mt Onslow \n(2310m), located at the head of the valley on the right of Cloudy Stream \nvalley, about 30 min walk upstream from the usual camp site.",
+				"ascent": "Chris Burtenshaw, Martyn Clark, 1993"
+			},
+			{
+				"name": "Creature Comfort",
+				"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/mt-onslow/creature-comfort",
+				"image": null,
+				"grade": "20,20,21,20,19,14",
+				"length": "230m",
+				"pitches": [
+					{
+						"ewbank": "20",
+						"alpine": "",
+						"commitment": "",
+						"mtcook": "",
+						"aid": "",
+						"ice": "",
+						"mixed": "",
+						"boulder": "",
+						"length": "40m",
+						"bolts": "6",
+						"trad": true,
+						"description": "Move right to short corner, up this a few metres to 1st bolt on wall. Move onto face and climb seams passing another bolt. The seams angle slightly left and the route follows that line up the face. Passing a bolt in dark juggy rock, then another above a small ledge. From there the route goes straight up passing two more bolts, directly to belay bolts beneath 1st overhang. 6B, few extra runners can be used."
+					},
+					{
+						"ewbank": "20",
+						"alpine": "",
+						"commitment": "",
+						"mtcook": "",
+						"aid": "",
+						"ice": "",
+						"mixed": "",
+						"boulder": "",
+						"length": "40m",
+						"bolts": "5",
+						"trad": true,
+						"description": "Straight up past 2 bolts to obvious feature on the overhang. Slightly left-wards line up past a bolt and up to the \u2018Witches Hat\u2019. Straight up face to bolt then step left and up to V shaped ledge. Up right to bolt, then straight up through overhang to belay bolts beneath overhang."
+					},
+					{
+						"ewbank": "21",
+						"alpine": "",
+						"commitment": "",
+						"mtcook": "",
+						"aid": "",
+						"ice": "",
+						"mixed": "",
+						"boulder": "",
+						"length": "30m",
+						"bolts": "1",
+						"trad": true,
+						"description": "Move left up to bolt on face above overhang. Onto face and up to crack for runners, then move left and climb up to gain two seams heading up the face tending slightly right. Towards the top the left seam stops and the right seam becomes a crack. Belay bolts on ledge above this. Ample natural pro on face."
+					},
+					{
+						"ewbank": "20",
+						"alpine": "",
+						"commitment": "",
+						"mtcook": "",
+						"aid": "",
+						"ice": "",
+						"mixed": "",
+						"boulder": "",
+						"length": "45m",
+						"bolts": "3",
+						"trad": true,
+						"description": "Step left around corner onto face. Follow obvious left- wards rising traverse past 2B. Then up face tending slightly L, about ten metres to a bolt above a small ledge. Continue up same line to belay bolts in V shaped stance."
+					},
+					{
+						"ewbank": "19",
+						"alpine": "",
+						"commitment": "",
+						"mtcook": "",
+						"aid": "",
+						"ice": "",
+						"mixed": "",
+						"boulder": "",
+						"length": "45m",
+						"bolts": "2",
+						"trad": true,
+						"description": "Move left to bolt, then up seams to ledge. Directly up face past another bolt. Then tend slightly left- wards up face on juggy rock to belay bolts on major ledge."
+					},
+					{
+						"ewbank": "14",
+						"alpine": "",
+						"commitment": "",
+						"mtcook": "",
+						"aid": "",
+						"ice": "",
+						"mixed": "",
+						"boulder": "",
+						"length": "30m",
+						"bolts": "",
+						"trad": true,
+						"description": "Climb juggy wall to gain corner about ten metres up. Follow up corner and over bulges. The angle eases above bulges. Final belay bolt is in the corner when level with terrace on right."
+					}
+				],
+				"quality": 0,
+				"bolts": "17",
+				"natural_pro": true,
+				"description": "On the Onslow Wall, left of Onslow Buttress. Climb scree to its highest point on the left of the face, then up the left side of a gully to reach belay bolts. Six sustained pitches on the central part of the face, with some bolts.",
+				"ascent": "Bill McLeod, Martyn Clark, 1992"
+			},
+			{
+				"name": "Sky-Lab",
+				"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/mt-onslow/sky-lab",
+				"image": null,
+				"grade": "15 ,16 ,20 ,24 ,10",
+				"length": "165m",
+				"pitches": [
+					{
+						"ewbank": "15",
+						"alpine": "",
+						"commitment": "",
+						"mtcook": "",
+						"aid": "",
+						"ice": "",
+						"mixed": "",
+						"boulder": "",
+						"length": "30m",
+						"bolts": "",
+						"trad": true,
+						"description": "Start just right of gully, climb up then move right onto face and up. Face is sound, few runners. Up easy ground tending a little left to belay bolts on main ledge."
+					},
+					{
+						"ewbank": "16",
+						"alpine": "",
+						"commitment": "",
+						"mtcook": "",
+						"aid": "",
+						"ice": "",
+						"mixed": "",
+						"boulder": "",
+						"length": "30m",
+						"bolts": "1",
+						"trad": true,
+						"description": "From belay on ledge move right to belay bolts on face. Route climbs straight up from face belay. A bolt on the face is passed on its left. Up and right to gain the left- facing corner where cracks take runners. Up and right round corner, up to belay bolts beneath overhang."
+					},
+					{
+						"ewbank": "20",
+						"alpine": "",
+						"commitment": "",
+						"mtcook": "",
+						"aid": "",
+						"ice": "",
+						"mixed": "",
+						"boulder": "",
+						"length": "45m",
+						"bolts": "4",
+						"trad": true,
+						"description": "Climb overhang past 2B. Continue up left- facing corner (1B near top). Then up and tending right towards big left- facing corner. 1B in this corner marks the point to traverse right around onto face. Then up to belay bolts."
+					},
+					{
+						"ewbank": "24",
+						"alpine": "",
+						"commitment": "",
+						"mtcook": "",
+						"aid": "",
+						"ice": "",
+						"mixed": "",
+						"boulder": "",
+						"length": "48m",
+						"bolts": "11",
+						"trad": true,
+						"description": "Sustained. 11B. Straight up to 1st bolt. Above 1st bolt is a cam placement, then move left up to 2nd bolt. left and up to the 3rd bolt, then straight up face passing bolts. There are two wire placements at obvious points where bolts are spaced. At top of pitch move left to belay bolts. Use nut pick to remove wires."
+					},
+					{
+						"ewbank": "10",
+						"alpine": "",
+						"commitment": "",
+						"mtcook": "",
+						"aid": "",
+						"ice": "",
+						"mixed": "",
+						"boulder": "",
+						"length": "12m",
+						"bolts": "",
+						"trad": true,
+						"description": "Climb easy face straight up to belay bolts on top."
+					}
+				],
+				"quality": 1,
+				"bolts": "16",
+				"natural_pro": true,
+				"description": "Three moderate pitches to reach a stunning full rope-length on the smooth \ndiamond-shaped\nslab, with just one jug at about two-thirds height. Then a short final pitch \nto reach abseil bolts.\nTake plenty of quickdraws.",
+				"ascent": "Bill McLeod, David Newstead, 1992"
+			},
+			{
+				"name": "Onslow Buttress",
+				"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/mt-onslow/onslow-buttress",
+				"image": null,
+				"grade": "14 ,16 ,15 ,15 ,6 ,16 ,16 ,13 ,12",
+				"length": "",
+				"pitches": [
+					{
+						"ewbank": "14",
+						"alpine": "",
+						"commitment": "",
+						"mtcook": "",
+						"aid": "",
+						"ice": "",
+						"mixed": "",
+						"boulder": "",
+						"length": "0m",
+						"bolts": "",
+						"trad": true,
+						"description": "Start a little right of the toe of the buttress and scramble up a bit to gain the crest. Straightforward climbing with spaced gear to reach a large platform with an old bolt station."
+					},
+					{
+						"ewbank": "16",
+						"alpine": "",
+						"commitment": "",
+						"mtcook": "",
+						"aid": "",
+						"ice": "",
+						"mixed": "",
+						"boulder": "",
+						"length": "0m",
+						"bolts": "",
+						"trad": true,
+						"description": "Nice climbing protected by microcams, with a committing move to the right after about 20 metres."
+					},
+					{
+						"ewbank": "15",
+						"alpine": "",
+						"commitment": "",
+						"mtcook": "",
+						"aid": "",
+						"ice": "",
+						"mixed": "",
+						"boulder": "",
+						"length": "0m",
+						"bolts": "",
+						"trad": true,
+						"description": "Continue up the right side, moving back to the  crest for the belay."
+					},
+					{
+						"ewbank": "15",
+						"alpine": "",
+						"commitment": "",
+						"mtcook": "",
+						"aid": "",
+						"ice": "",
+						"mixed": "",
+						"boulder": "",
+						"length": "0m",
+						"bolts": "",
+						"trad": true,
+						"description": "Continue up the right side of the buttress."
+					},
+					{
+						"ewbank": "6",
+						"alpine": "",
+						"commitment": "",
+						"mtcook": "",
+						"aid": "",
+						"ice": "",
+						"mixed": "",
+						"boulder": "",
+						"length": "0m",
+						"bolts": "",
+						"trad": true,
+						"description": "Gain the lower-angled area and scramble a full pitch with no protection."
+					},
+					{
+						"ewbank": "16",
+						"alpine": "",
+						"commitment": "",
+						"mtcook": "",
+						"aid": "",
+						"ice": "",
+						"mixed": "",
+						"boulder": "",
+						"length": "0m",
+						"bolts": "",
+						"trad": true,
+						"description": "Belay under the overhang just right of the buttress and pull through on good holds. Nice climbing with good microcams."
+					},
+					{
+						"ewbank": "16",
+						"alpine": "",
+						"commitment": "",
+						"mtcook": "",
+						"aid": "",
+						"ice": "",
+						"mixed": "",
+						"boulder": "",
+						"length": "0m",
+						"bolts": "",
+						"trad": true,
+						"description": "Climb out left on to steep broken ground with good gear and protection, then above the ledge move up through big blocks on the right."
+					},
+					{
+						"ewbank": "13",
+						"alpine": "",
+						"commitment": "",
+						"mtcook": "",
+						"aid": "",
+						"ice": "",
+						"mixed": "",
+						"boulder": "",
+						"length": "0m",
+						"bolts": "",
+						"trad": true,
+						"description": "Broken ground with steeper sections and scrambling intermingled."
+					},
+					{
+						"ewbank": "12",
+						"alpine": "",
+						"commitment": "",
+						"mtcook": "",
+						"aid": "",
+						"ice": "",
+						"mixed": "",
+						"boulder": "",
+						"length": "0m",
+						"bolts": "",
+						"trad": true,
+						"description": "Mostly scrambling with a couple of steeper sections leading to the final top out on the pinnacle summit."
+					}
+				],
+				"quality": 1,
+				"bolts": "",
+				"natural_pro": true,
+				"description": "Start a little right of the toe of the buttress and scramble up a bit to gain the crest. Straightforward climbing with spaced gear to reach a large platform with an old bolt station.",
+				"ascent": "Francis Main, Lindsay Main, 2015"
+			},
+			{
+				"name": "North East Ridge",
+				"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/mt-onslow/north-east-ridge",
+				"image": null,
+				"grade": "3-",
+				"length": "",
+				"pitches": [],
+				"quality": 0,
+				"bolts": "",
+				"natural_pro": false,
+				"description": "The first ascent was made from Broadleaf Hut. Once on the ridge the final 400 metres of rock\r\nare steep and tricky.",
+				"ascent": "Cuthbert Denham, Jack Pattle, April 1936"
+			}
+		],
+		"places": [],
+		"image": "https://climbnz.org.nz/sites/default/files/image/Onslow%20Buttress%20topo.jpg",
+		"images": [
+			{
+				"src": "https://climbnz.org.nz/sites/default/files/image/Onslow%20Buttress%20topo.jpg",
+				"height": "798",
+				"width": "900"
+			}
+		]
+	},
 	"https://climbnz.org.nz/nz/si/canterbury/jollie-range/outlaw-pk": {
 		"link": "https://climbnz.org.nz/nz/si/canterbury/jollie-range/outlaw-pk",
 		"name": "Outlaw Pk",
@@ -59938,7 +59951,7 @@
 						"bolts": "",
 						"natural_pro": true,
 						"description": "A pair of diamond-shaped faces to the climber's right of Central Direct - in between Westweg and Headstone Gully.\r\nWould be surprised if they hadn't been climbed before - the faces are visible from the base of the Central Direct buttress. No claims of FA being made... but it deserved a mention even if just to point people toward the great climbing up that side.\r\n\r\nExcellent rock, and not just by AP standards!\r\nSplitter cracks!\r\nHand and foot jams!\r\nWould give it two stars but might get snapped at.\r\nGood fun on good crack.\r\n\r\nApproach as for Central Direct, but head climbers' right past the base of the buttress and scramble to the base of the faces. Hoover up the crack in the centre of the diamond-shaped face at grade ~15-16. Soloed on ascent but looked like it would eat up gear - small nuts, cams 0.5-1, potentially 2-3 in a short section of crack but here the angle has eased off. Continue up and over the top of the diamond and traverse left into the second face. This unfortunately misses the bottom of the second face, however to be fair it looks thin and difficult to protect.\r\n\r\nContinue up on more cracks (~14-15) until you meet and continue up the Philly-Rolly ridge to summit.",
-						"ascent": "SC GL, 20 March 2021"
+						"ascent": "SC, GL, 20 March 2021"
 					},
 					{
 						"name": "Headstone Gully",
@@ -60122,8 +60135,8 @@
 		"image": null,
 		"images": []
 	},
-	"https://climbnz.org.nz/nz/ni/manawatu%E2%80%93whanganui/ruahine-range/mokai-patea-range/rongotea": {
-		"link": "https://climbnz.org.nz/nz/ni/manawatu%E2%80%93whanganui/ruahine-range/mokai-patea-range/rongotea",
+	"https://climbnz.org.nz/nz/ni/manawatu-whanganui/ruahine-range/mokai-patea-range/rongotea": {
+		"link": "https://climbnz.org.nz/nz/ni/manawatu-whanganui/ruahine-range/mokai-patea-range/rongotea",
 		"name": "Rongotea",
 		"altitude": "1568m",
 		"description": null,
@@ -60665,7 +60678,7 @@
 						"quality": 0,
 						"bolts": "",
 						"natural_pro": false,
-						"description": "Perhaps the most obvious ice route on Ruapehu, as it can be clearly seen from Turoa\u2019s High Flyer chairlift. This 20\u201335m formation (depending on the depth of the snowpack) is consistently vertical and provides excellent steep water ice. It is a popular instruction venue as\r\nit is just a five minute walk from the top of the M\u00f6venpick chairlift.\r\nBe careful at the top, where good ice frequently mutates into near-vertical mush. Often, water runs inside the pillar and there can be a dangerous hole at the top; if you fell in you would end up on the inside of the ice, which would be bad.\r\nLeft and right of the main flow are two other good routes, shorter and not quite so steep.",
+						"description": "Perhaps the most obvious ice route on Ruapehu, as it can be clearly seen from Turoa\u2019s High Flyer chairlift. This 20\u201335m formation (depending on the depth of the snowpack) is consistently vertical and provides excellent steep water ice. It is a popular instruction venue as\nit is just a five minute walk from the top of the M\u00f6venpick chairlift.\nBe careful at the top, where good ice frequently mutates into near-vertical mush. Often, water runs inside the pillar and there can be a dangerous hole at the top; if you fell in you would end up on the inside of the ice, which would be bad.\nLeft and right of the main flow are two other good routes, shorter and not quite so steep.",
 						"ascent": "Most likely first climbed by Massey climbers"
 					},
 					{
@@ -60922,7 +60935,7 @@
 								"quality": 3,
 								"bolts": "17",
 								"natural_pro": false,
-								"description": "The first multi-pitch mixed route at Margaret's! Something for everyone, the first 1.5 pitches are relatively beginner-friendly. Note bolts are painted black to reduce visual impact. \r\nDescent: You can climb the first 1.5 pitches ground up and lower off a maillon before the crux (M5+ to here). If you climb through the roof you will need to second the route or down-aid and clean. 30m rap from the second anchor to ground. The third pitch can easily be accessed from the top.",
+								"description": "The first multi-pitch mixed route at Margaret's! Something for everyone, the first 1.5 pitches are relatively beginner-friendly. Note bolts are painted black to reduce visual impact. \nDescent: You can climb the first 1.5 pitches ground up and lower off a maillon before the crux (M5+ to here). If you climb through the roof you will need to second the route or down-aid and clean. 30m rap from the second anchor to ground. The third pitch can easily be accessed from the top.",
 								"ascent": "P1-2 Edwin Sheppard 2018-2019. P3 Edwin Sheppard and Romain Albert 2021."
 							},
 							{
@@ -60978,7 +60991,7 @@
 								"quality": 2,
 								"bolts": "12",
 								"natural_pro": true,
-								"description": "Up the groove left of Comedy of Errors then p2 heads up steep rock to the hanging icicle. Safety note: don't climb pitch 2 if the rock isn't well frozen together. \r\nGear: P1-2 couple ice screws and a rack of draws. P3: Wires, cams and a couple of pitons. \r\nDescent: 30m rap to ground from the top of P2.",
+								"description": "Up the groove left of Comedy of Errors then p2 heads up steep rock to the hanging icicle. Safety note: don't climb pitch 2 if the rock isn't well frozen together. \nGear: P1-2 couple ice screws and a rack of draws. P3: Wires, cams and a couple of pitons. \nDescent: 30m rap to ground from the top of P2.",
 								"ascent": "P1-2 Edwin Sheppard and Prajot Sabnis 2021. P3 Edwin Sheppard and Romain Albert 2021 (on pre-placed gear)."
 							},
 							{
@@ -60991,7 +61004,7 @@
 								"quality": 1,
 								"bolts": "",
 								"natural_pro": true,
-								"description": "Trad mixed climbing up the buttress right of the shroud. Build a trad anchor below the final headwall then escape to the gully on the right. \r\nGear: Wires, small-med cams, couple of pitons.",
+								"description": "Trad mixed climbing up the buttress right of the shroud. Build a trad anchor below the final headwall then escape to the gully on the right. \nGear: Wires, small-med cams, couple of pitons.",
 								"ascent": "Edwin Sheppard and Shaun Brown 2021"
 							},
 							{
@@ -61405,108 +61418,82 @@
 								"width": "900"
 							}
 						]
-					}
-				],
-				"image": "https://climbnz.org.nz/sites/default/files/image/Locations%20Dec%202015%201.JPG",
-				"images": [
-					{
-						"src": "https://climbnz.org.nz/sites/default/files/image/Locations%20Dec%202015%201.JPG",
-						"height": "541",
-						"width": "900"
 					},
 					{
-						"src": "https://climbnz.org.nz/sites/default/files/image/Locations%20Dec%202015%202.JPG",
-						"height": "576",
-						"width": "900"
-					},
-					{
-						"src": "https://climbnz.org.nz/sites/default/files/image/Locations%20Dec%202015%203.JPG",
-						"height": "636",
-						"width": "721"
-					}
-				]
-			},
-			{
-				"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/whangaehu-valley",
-				"name": "Whangaehu Valley",
-				"altitude": null,
-				"description": "tba",
-				"latlng": null,
-				"routes": [
-					{
-						"name": "The last great Exodus of the decade",
-						"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/whangaehu-valley/last-great-exodus-decade",
-						"image": "https://climbnz.org.nz/sites/default/files/routes/Whangaehu%20Valley%20Hut%20Bluff%20The%20last%20great%20exodus%20of%20the%20decade_0.jpg",
-						"grade": "19,17",
-						"length": "65m",
-						"pitches": [
-							{
-								"ewbank": "19",
-								"alpine": "",
-								"commitment": "",
-								"mtcook": "",
-								"aid": "",
-								"ice": "",
-								"mixed": "",
-								"boulder": "",
-								"length": "35m",
-								"bolts": "2",
-								"trad": false,
-								"description": "Pitch-1 19, 2 bolts, small and mid size gear, From the base move right towards a obvious off width chimney, start just before move up tend rightwards towards chimney passed a horizontal break then up to gain ledge then traverse left for roughly 10m towards a arete, move around to a stance then move upwards following a crack system to belay ledge.\n2 bolts just before belay,"
-							},
-							{
-								"ewbank": "17",
-								"alpine": "",
-								"commitment": "",
-								"mtcook": "",
-								"aid": "",
-								"ice": "",
-								"mixed": "",
-								"boulder": "",
-								"length": "30m",
-								"bolts": "3",
-								"trad": false,
-								"description": "Pitch-2 17 30m  has 3 bolts to start with from belay follow up the weakness past 3 bolts nice climbing then onward to the top easier as you go up.\nfrom top belay scramble out on the first assent hut was used as runner and belay"
-							}
-						],
-						"quality": 1,
-						"bolts": "5",
-						"natural_pro": false,
-						"description": "Long time coming to completion first started in 2010 when hut re cladding project started but taken a while to clean loose and bolt but then trying to fine someone to be brave enough to walk in and climb it!\r\nThis is a 2 pitch climb of 60m  bolted belays and has 5 bolts on it wires small mid cams size gear and is the first highest multi pitch rock route in the north island.\r\nIt starts out the back of the hut from the fixed hut guide wire on the up hill side climb down to a set of rap bolts safer to use a fixed line off hut anchor wire you can reach the bottom just with 2 60m ropes or it is two rappels with a single 60m via a bolt belay at the end of 1st pitch.  \r\nAlternatively you can either scramble down round from the east side then go round the buttress which is the Bog route!\r\nthe first bit a little sketchy for gear but goes there could be a more direct start but ran out of bolts at the time needs a bolt unless you brave!",
-						"ascent": "FFA Richard Knott, Grant Piper 31/12/2019"
-					}
-				],
-				"places": [
-					{
-						"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/whangaehu-valley/hut-bluff",
-						"name": "Hut Bluff",
-						"altitude": "2000m",
-						"description": "The steep rock bluff that the hut sits on has been top-roped, and possibly led, although details are sketchy.",
-						"latlng": [
-							"-39.282629510000",
-							"175.588731770000"
-						],
+						"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/t%C5%ABkino-skifield/whangaehu-bluff",
+						"name": "Whangaehu Bluff",
+						"altitude": null,
+						"description": null,
+						"latlng": null,
 						"routes": [
 							{
+								"name": "The last great Exodus of the decade",
+								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/t%C5%ABkino-skifield/whangaehu-bluff/last-great-exodus-decade",
+								"image": "https://climbnz.org.nz/sites/default/files/routes/Whangaehu%20Valley%20Hut%20Bluff%20The%20last%20great%20exodus%20of%20the%20decade_0.jpg",
+								"grade": "19,17",
+								"length": "65m",
+								"pitches": [
+									{
+										"ewbank": "19",
+										"alpine": "",
+										"commitment": "",
+										"mtcook": "",
+										"aid": "",
+										"ice": "",
+										"mixed": "",
+										"boulder": "",
+										"length": "35m",
+										"bolts": "2",
+										"trad": false,
+										"description": "Pitch-1 19, 2 bolts, small and mid size gear, From the base move right towards a obvious off width chimney, start just before move up tend rightwards towards chimney passed a horizontal break then up to gain ledge then traverse left for roughly 10m towards a arete, move around to a stance then move upwards following a crack system to belay ledge.\n2 bolts just before belay,"
+									},
+									{
+										"ewbank": "17",
+										"alpine": "",
+										"commitment": "",
+										"mtcook": "",
+										"aid": "",
+										"ice": "",
+										"mixed": "",
+										"boulder": "",
+										"length": "30m",
+										"bolts": "3",
+										"trad": false,
+										"description": "Pitch-2 17 30m  has 3 bolts to start with from belay follow up the weakness past 3 bolts nice climbing then onward to the top easier as you go up.\nfrom top belay scramble out on the first assent hut was used as runner and belay"
+									}
+								],
+								"quality": 1,
+								"bolts": "5",
+								"natural_pro": false,
+								"description": "Long time coming to completion first started in 2010 when hut re cladding project started but taken a while to clean loose and bolt but then trying to fine someone to be brave enough to walk in and climb it!\r\nThis is a 2 pitch climb of 60m  bolted belays and has 5 bolts on it wires small mid cams size gear and is the first highest multi pitch rock route in the north island.\r\nIt starts out the back of the hut from the fixed hut guide wire on the up hill side climb down to a set of rap bolts safer to use a fixed line off hut anchor wire you can reach the bottom just with 2 60m ropes or it is two rappels with a single 60m via a bolt belay at the end of 1st pitch.  \r\nAlternatively you can either scramble down round from the east side then go round the buttress which is the Bog route!\r\nthe first bit a little sketchy for gear but goes there could be a more direct start but ran out of bolts at the time needs a bolt unless you brave!",
+								"ascent": "FFA Richard Knott, Grant Piper 31/12/2019"
+							},
+							{
 								"name": "Bog Route",
-								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/whangaehu-valley/hut-bluff/bog-route",
+								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/t%C5%ABkino-skifield/whangaehu-bluff/bog-route",
 								"image": null,
-								"grade": "",
+								"grade": "WI2",
 								"length": "",
 								"pitches": [],
 								"quality": 0,
 								"bolts": "",
 								"natural_pro": false,
-								"description": "Sneaks around the Hut Bluff below and just east of the hut. The toilet once formed the top belay, but is no longer so useful since it was moved.",
+								"description": "Sneaks around the Whangaehu Bluff below and just east of the hut. The toilet once formed the top belay, but is no longer so useful since it was moved.",
 								"ascent": ""
 							}
 						],
 						"places": [],
-						"image": null,
-						"images": []
+						"image": "https://climbnz.org.nz/sites/default/files/image/Whangaehu%20Valley.jpg",
+						"images": [
+							{
+								"src": "https://climbnz.org.nz/sites/default/files/image/Whangaehu%20Valley.jpg",
+								"height": "600",
+								"width": "900"
+							}
+						]
 					},
 					{
-						"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/whangaehu-valley/student-bluff",
+						"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/t%C5%ABkino-skifield/student-bluff",
 						"name": "Student Bluff",
 						"altitude": "2040m",
 						"description": "This line of small bluffs is about 500m east of and level with Whangaehu Hut. The routes were originally developed by Ray Button, with others, and used for instruction by OPC.",
@@ -61520,7 +61507,7 @@
 						"images": []
 					},
 					{
-						"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/whangaehu-valley/lower-bluffs",
+						"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/t%C5%ABkino-skifield/lower-bluffs",
 						"name": "Lower Bluffs",
 						"altitude": null,
 						"description": "The gorge below Whangaehu Hut has climbing potential on both sides, but only two routes are known to have been climbed.",
@@ -61531,7 +61518,7 @@
 						"routes": [
 							{
 								"name": "Glenn\u2019s Line",
-								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/whangaehu-valley/lower-bluffs/glenn%E2%80%99s-line",
+								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/t%C5%ABkino-skifield/lower-bluffs/glenn%E2%80%99s-line",
 								"image": null,
 								"grade": "WI2",
 								"length": "",
@@ -61544,7 +61531,7 @@
 							},
 							{
 								"name": "Beisley / Grierson Line",
-								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/whangaehu-valley/lower-bluffs/beisley-grierson-line",
+								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/t%C5%ABkino-skifield/lower-bluffs/beisley-grierson-line",
 								"image": null,
 								"grade": "WI3,WI3",
 								"length": "",
@@ -61590,35 +61577,7 @@
 						"images": []
 					},
 					{
-						"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/whangaehu-valley/the-clocktower",
-						"name": "The Clocktower",
-						"altitude": "2480m",
-						"description": "This is the rock spike on the ridge below Matihao, between the Whangaehu and Mangatoetoenui Glaciers.",
-						"latlng": [
-							"-39.275719860000",
-							"175.578732490000"
-						],
-						"routes": [
-							{
-								"name": "Wobbly Ticker",
-								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/whangaehu-valley/the-clocktower/wobbly-ticker",
-								"image": null,
-								"grade": "",
-								"length": "",
-								"pitches": [],
-								"quality": 0,
-								"bolts": "",
-								"natural_pro": false,
-								"description": "From Whangaehu Hut, follow the ridge between the Whangaehu and\nMangatoetoenui Glaciers. The last step on the south side can be tricky. It\u2019s also possible to reach the tower by cutting around and up snow slopes on the Mangatoetoenui side of the ridge.",
-								"ascent": ""
-							}
-						],
-						"places": [],
-						"image": null,
-						"images": []
-					},
-					{
-						"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/whangaehu-valley/buttons-buttress",
+						"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/t%C5%ABkino-skifield/buttons-buttress",
 						"name": "Buttons Buttress",
 						"altitude": "2450m",
 						"description": "This is the large bluff on the left edge of the Mangatoetoenui Glacier, about 150m below the Summit Plateau. Ray Button climbed three routes in 1983 with pupils on an advanced ice-climbing course: two on the front face of the buttress, and another slightly further up the gully on the south side.",
@@ -61629,7 +61588,7 @@
 						"routes": [
 							{
 								"name": "Beetroot Boys",
-								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/whangaehu-valley/buttons-buttress/beetroot-boys",
+								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/t%C5%ABkino-skifield/buttons-buttress/beetroot-boys",
 								"image": null,
 								"grade": "",
 								"length": "25m",
@@ -61642,7 +61601,7 @@
 							},
 							{
 								"name": "Wall of Silence",
-								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/whangaehu-valley/buttons-buttress/wall-silence",
+								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/t%C5%ABkino-skifield/buttons-buttress/wall-silence",
 								"image": null,
 								"grade": "",
 								"length": "30m",
@@ -61655,7 +61614,7 @@
 							},
 							{
 								"name": "Radiant Energy",
-								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/whangaehu-valley/buttons-buttress/radiant-energy",
+								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/t%C5%ABkino-skifield/buttons-buttress/radiant-energy",
 								"image": null,
 								"grade": "",
 								"length": "30m",
@@ -61668,7 +61627,7 @@
 							},
 							{
 								"name": "Bootsplosion",
-								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/whangaehu-valley/buttons-buttress/bootsplosion",
+								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/t%C5%ABkino-skifield/buttons-buttress/bootsplosion",
 								"image": "https://climbnz.org.nz/sites/default/files/routes/Button_s%20Buttress%2004-07-2020%20Romain%20on%20Bootsplosion%20WI4.jpg",
 								"grade": "WI4",
 								"length": "30m",
@@ -61682,7 +61641,7 @@
 						],
 						"places": [
 							{
-								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/whangaehu-valley/buttons-buttress/button-buttress",
+								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/t%C5%ABkino-skifield/buttons-buttress/button-buttress",
 								"name": "Button Buttress",
 								"altitude": null,
 								"description": "Nth. of Clock Tower",
@@ -61709,12 +61668,22 @@
 						]
 					}
 				],
-				"image": "https://climbnz.org.nz/sites/default/files/image/Whangaehu%20Valley.jpg",
+				"image": "https://climbnz.org.nz/sites/default/files/image/Locations%20Dec%202015%201.JPG",
 				"images": [
 					{
-						"src": "https://climbnz.org.nz/sites/default/files/image/Whangaehu%20Valley.jpg",
-						"height": "600",
+						"src": "https://climbnz.org.nz/sites/default/files/image/Locations%20Dec%202015%201.JPG",
+						"height": "541",
 						"width": "900"
+					},
+					{
+						"src": "https://climbnz.org.nz/sites/default/files/image/Locations%20Dec%202015%202.JPG",
+						"height": "576",
+						"width": "900"
+					},
+					{
+						"src": "https://climbnz.org.nz/sites/default/files/image/Locations%20Dec%202015%203.JPG",
+						"height": "636",
+						"width": "721"
 					}
 				]
 			},
@@ -64069,6 +64038,34 @@
 						"width": "640"
 					}
 				]
+			},
+			{
+				"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/clocktower",
+				"name": "The Clocktower",
+				"altitude": "2480m",
+				"description": "This is the rock spike on the ridge below Matihao, between the Whangaehu and Mangatoetoenui Glaciers.",
+				"latlng": [
+					"-39.275719860000",
+					"175.578732490000"
+				],
+				"routes": [
+					{
+						"name": "Wobbly Ticker",
+						"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/clocktower/wobbly-ticker",
+						"image": null,
+						"grade": "",
+						"length": "",
+						"pitches": [],
+						"quality": 0,
+						"bolts": "",
+						"natural_pro": false,
+						"description": "From Whangaehu Hut, follow the ridge between the Whangaehu and\nMangatoetoenui Glaciers. The last step on the south side can be tricky. It\u2019s also possible to reach the tower by cutting around and up snow slopes on the Mangatoetoenui side of the ridge.",
+						"ascent": ""
+					}
+				],
+				"places": [],
+				"image": null,
+				"images": []
 			}
 		],
 		"image": "https://climbnz.org.nz/sites/default/files/image/Mt%20Ruapehu%20summit%2C%20Tongariro%20Np%2C%20Photo%20Paul%20Grimwood.jpg",
@@ -66888,8 +66885,8 @@
 						"quality": 0,
 						"bolts": "",
 						"natural_pro": false,
-						"description": "9 pitches. Start up a right facing gully system which leads\r\ninto a series of short mixed corners. Follow this via steep\r\nsnow/ice tending left towards ridge line. Exit via the upper\r\nheadwall.",
-						"ascent": "Daniel Joll, Rupert Gardiner, Kevin Barrett, 2011."
+						"description": "Nine pitches. Start up a right-facing gully system which leads into a series of short mixed corners. Follow this via steep snow/ice tending left towards ridge line. Exit via the upper headwall.",
+						"ascent": "Daniel Joll, Rupert Gardiner, Kevin Barrett, 2011"
 					},
 					{
 						"name": "Alejandro El Bicho Le Gusta Sexo Duro",
@@ -67096,8 +67093,8 @@
 						"quality": 0,
 						"bolts": "",
 						"natural_pro": true,
-						"description": "Start up the flake of Big Bouncing Boulders, before continuing\r\nup and slightly left on steep ground where the\r\noriginal line tends right. Climb featured slabs right and\r\nthrough two steep steps before straightening and angling\r\nup to the ridge.",
-						"ascent": "Ben Dare solo, 2012."
+						"description": "Start up the flake of Big Bouncing Boulders, before continuing up and slightly left on steep ground where the original line tends right. Climb featured slabs right and through two steep steps before straightening and angling up to the ridge.",
+						"ascent": "Ben Dare, 2012"
 					},
 					{
 						"name": "Big Bouncing Boulders",
@@ -67109,8 +67106,8 @@
 						"quality": 0,
 						"bolts": "",
 						"natural_pro": true,
-						"description": "Start up the flake of Big Bouncing Boulders, before continuing\r\nup and slightly left on steep ground where the\r\noriginal line tends right. Climb featured slabs right and\r\nthrough two steep steps before straightening and angling\r\nup to the ridge.",
-						"ascent": "Danny Murphy, Ben Dare, 2012."
+						"description": "Start up the flake of Big Bouncing Boulders, before continuing up and slightly left on steep ground where the original line tends right. Climb featured slabs right and through two steep steps before straightening and angling up to the ridge.",
+						"ascent": "Danny Murphy, Ben Dare, 2012"
 					},
 					{
 						"name": "Easy Shanking",
@@ -73746,8 +73743,8 @@
 			}
 		]
 	},
-	"https://climbnz.org.nz/nz/ni/manawatu%E2%80%93whanganui/ruahine-range/te-atuaoparapara": {
-		"link": "https://climbnz.org.nz/nz/ni/manawatu%E2%80%93whanganui/ruahine-range/te-atuaoparapara",
+	"https://climbnz.org.nz/nz/ni/manawatu-whanganui/ruahine-range/te-atuaoparapara": {
+		"link": "https://climbnz.org.nz/nz/ni/manawatu-whanganui/ruahine-range/te-atuaoparapara",
 		"name": "Te Atuaoparapara",
 		"altitude": "1687m",
 		"description": null,
@@ -81464,8 +81461,8 @@
 		"image": null,
 		"images": []
 	},
-	"https://climbnz.org.nz/nz/ni/manawatu%E2%80%93whanganui/ruahine-range/ngamoko-range/tunupo": {
-		"link": "https://climbnz.org.nz/nz/ni/manawatu%E2%80%93whanganui/ruahine-range/ngamoko-range/tunupo",
+	"https://climbnz.org.nz/nz/ni/manawatu-whanganui/ruahine-range/ngamoko-range/tunupo": {
+		"link": "https://climbnz.org.nz/nz/ni/manawatu-whanganui/ruahine-range/ngamoko-range/tunupo",
 		"name": "Tunupo",
 		"altitude": "1568m",
 		"description": null,
