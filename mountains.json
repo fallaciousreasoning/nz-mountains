@@ -12248,7 +12248,7 @@
 						"name": "Forgotten Silver",
 						"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/barrier-knob/north-east-face/forgotten-silver",
 						"image": null,
-						"grade": "16 ,18 ,20",
+						"grade": "16,18,20",
 						"length": "125m",
 						"pitches": [
 							{
@@ -12298,7 +12298,7 @@
 						"bolts": "21",
 						"natural_pro": true,
 						"description": "From single belay ring trend left up easy slabs past 2 bolts. Gradually diagonal back right and up ever steppening scallopped wall past lots of bolts to belay.An awsome pitch on perfect rock.",
-						"ascent": "Mark Watson & Kristen Foley 2007"
+						"ascent": "Mark Watson, Kristen Foley, 2007"
 					},
 					{
 						"name": "Utu",
@@ -25158,7 +25158,7 @@
 			},
 			{
 				"name": "Forgotten",
-				"link": "https://climbnz.org.nz/nz/si/canterbury/naumann-range/dasler-pinnacles/forgotten",
+				"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/naumann-range/dasler-pinnacles/forgotten",
 				"image": null,
 				"grade": "12",
 				"length": "",
@@ -25166,7 +25166,7 @@
 				"quality": 0,
 				"bolts": "",
 				"natural_pro": false,
-				"description": "Begin about 50 metres to the left of Bedazzled and follow a fairly straight \nline of slabs directly to the North Ridge, always left of Fly on Little Wing, \nFinish about 100 metres north of the summit. About grade 12 with limited \nprotection.",
+				"description": "Begin about 50 metres to the left of Bedazzled and follow a fairly straight \r\nline of slabs directly to the North Ridge, always left of Fly on Little Wing, \r\nFinish about 100 metres north of the summit. About grade 12 with limited \r\nprotection.",
 				"ascent": "Nick Cradock, Martin Hawes, February 2010"
 			},
 			{
@@ -27223,19 +27223,6 @@
 						"ascent": ""
 					},
 					{
-						"name": "Lachnagar Monster",
-						"link": "https://climbnz.org.nz/nz/si/otago/the-remarkables/lake-alta/lake-alta-slabs/lachnagar-monster",
-						"image": null,
-						"grade": "WI3",
-						"length": "100m",
-						"pitches": [],
-						"quality": 0,
-						"bolts": "",
-						"natural_pro": true,
-						"description": "Up the weakness on the left hand edge of The Fat Lady for three pitches to, \nthe base of a tight squeeze chimney/groove. Up this on thin ice using trad \ngear and into an ice cave. Top-out around a large capstone feature to \nsnowfield above.",
-						"ascent": "Steve Carr, Ruairidh Smith FWA 1998"
-					},
-					{
 						"name": "On General's Orders",
 						"link": "https://climbnz.org.nz/nz/si/otago/the-remarkables/lake-alta/lake-alta-slabs/generals-orders",
 						"image": null,
@@ -27247,6 +27234,19 @@
 						"natural_pro": false,
 						"description": "M3+ 70m. Great turf",
 						"ascent": ""
+					},
+					{
+						"name": "Lachnagar Monster",
+						"link": "https://climbnz.org.nz/nz/si/otago/the-remarkables/lake-alta/lake-alta-slabs/lachnagar-monster",
+						"image": null,
+						"grade": "WI3",
+						"length": "100m",
+						"pitches": [],
+						"quality": 0,
+						"bolts": "",
+						"natural_pro": true,
+						"description": "Up the weakness on the left hand edge of The Fat Lady for three pitches to, \nthe base of a tight squeeze chimney/groove. Up this on thin ice using trad \ngear and into an ice cave. Top-out around a large capstone feature to \nsnowfield above.",
+						"ascent": "Steve Carr, Ruairidh Smith FWA 1998"
 					}
 				],
 				"places": [],
@@ -75199,7 +75199,7 @@
 						"quality": 0,
 						"bolts": "",
 						"natural_pro": false,
-						"description": "P1, Climb the obvious iced up gut. It can be difficult to find a belay at the \r\nend of the first 60m pitch, especially in big snow years. A snow stake may \r\nprove useful; a pink Tricam too. Otherwise it may be desirable for the second \r\nto simul-climb the first, easy snow slopes so the second can reach a large \r\nblock at the top of the first icefall (large cams).\r\n\r\nP2-3, The initial, narrow, often iced up choke of the climb (P1-2) is where \r\nthe main challenges lie, but the upper section can be climbed several \r\ndifferent ways to make it easier or more challenging. From the first broad \r\nsnowfield above the choke, the original route moves left up a short-mixed \r\nstep to gain another broad snowfield. The original rout continues up this \r\nsnowfield, but above this step, on the left wall there are two mixed lines \r\nthat continue to the top at around M4.\r\n\r\nAlternatively:\r\n\r\n From the top of the initial ice gully one can deviate to the right to a great \r\nbelay below a large chockstone roof feature. This roof can be passed via a \r\ncommitting but well protected move at about M4 to gain the upper snow field. \r\nIt can be easier in big snow years.\r\n\r\nP4, The upper headwall is split into three lines; the furthest right is the \r\noriginal easy ramble out, the central line (Coffee\u2019d Up) rarely forms and \r\nwhen it does, generally climbs at about M4, which can be unprotectable near \r\nthe top. The furthest left line climbs at about M3, is usually well protected \r\nbut often requires an exciting, sugar snow mantel to finish.",
+						"description": "P1, Climb the obvious iced up gut. It can be difficult to find a belay at the \r\nend of the first 60m pitch, especially in big snow years. A snow stake may \r\nprove useful; a pink Tricam too. Otherwise it may be desirable for the second \r\nto simul-climb the first, easy snow slopes so the second can reach a large \r\nblock at the top of the first icefall (large cams).\r\n\r\nP2-3, The initial, narrow, often iced up choke of the climb (P1-2) is where \r\nthe main challenges lie, but the upper section can be climbed several \r\ndifferent ways to make it easier or more challenging. From the first broad \r\nsnowfield above the choke, the original route moves left up a short-mixed \r\nstep to gain another broad snowfield. The original rout continues up this \r\nsnowfield, but above this step, on the left wall there are two mixed lines \r\nthat continue to the top at around M4.\r\n\r\nAlternatively:\r\n\r\n From the top of the initial ice gully one can deviate to the right to a great \r\nbelay below a large chockstone roof feature. This roof can be passed via a \r\ncommitting but well protected move at about M4 to gain the upper snow field. \r\nIt can be easier in big snow years.\r\n\r\nP4, The upper headwall is split into three lines; the furthest right is the \r\noriginal easy ramble out, the central line (Coffee\u2019d Up) rarely forms and \r\nwhen it does, generally climbs at about M4, which can be unprotectable near \r\nthe top. The furthest left line climbs at about M3, is usually well protected \r\nbut often requires an exciting, sugar snow mantel to finish.\r\n\r\nThe start of this route is unsafe in warm conditions.",
 						"ascent": "Andy Mills, Rupert Gardiner"
 					},
 					{
@@ -75231,7 +75231,7 @@
 					{
 						"name": "Fringe Encounter",
 						"link": "https://climbnz.org.nz/nz/si/otago/the-remarkables/telecom-tower/los-indignados-wall/fringe-encounter",
-						"image": null,
+						"image": "https://climbnz.org.nz/sites/default/files/routes/Fringe%20Encounter_1.jpg",
 						"grade": "M4",
 						"length": "150m",
 						"pitches": [],
@@ -75460,6 +75460,19 @@
 						"natural_pro": false,
 						"description": "",
 						"ascent": "Jonno Clarke, Danny Murphy 2012"
+					},
+					{
+						"name": "Fried Potato",
+						"link": "https://climbnz.org.nz/nz/si/otago/the-remarkables/telecom-tower/los-indignados-wall/fried-potato",
+						"image": "https://climbnz.org.nz/sites/default/files/routes/InkedTTower_LIM4_c.jpg",
+						"grade": "M6",
+						"length": "",
+						"pitches": [],
+						"quality": 0,
+						"bolts": "",
+						"natural_pro": false,
+						"description": "Alternate Start to Golden Potato or Coddiwomple. Take the direct line through the overhanging corner. You may want a durable jacket to survive and awkward shoulder jams",
+						"ascent": "James Warren, Michael lehmann, Lucy Chen"
 					},
 					{
 						"name": "Overdrive",
@@ -75785,7 +75798,7 @@
 						"width": "900"
 					},
 					{
-						"src": "https://climbnz.org.nz/sites/default/files/image/TTower_LIM4_c.jpg",
+						"src": "https://climbnz.org.nz/sites/default/files/image/InkedTTower_LIM4_c.jpg",
 						"height": "900",
 						"width": "832"
 					},
