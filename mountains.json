@@ -1119,8 +1119,8 @@
 				"name": "Centrespire",
 				"link": "https://climbnz.org.nz/nz/si/fiordland/merrie-range/pt-1619/centrespire",
 				"image": "https://climbnz.org.nz/sites/default/files/routes/20200329_170445.jpg",
-				"grade": "",
-				"length": "",
+				"grade": "15",
+				"length": "140m",
 				"pitches": [],
 				"quality": 0,
 				"bolts": "",
@@ -3444,7 +3444,7 @@
 		"routes": [],
 		"places": [
 			{
-				"link": "https://climbnz.org.nz/nz/si/otago/barrier-range/pk-2070/grasshopper-wall",
+				"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/barrier-range/pt-2070/grasshopper-wall",
 				"name": "Grasshopper Wall",
 				"altitude": null,
 				"description": "Forty minutes upstream of the South Temple hut cross to the true left of stream and begin ascending the small side stream toward 2070m. 400 m after leaving the South Temple climb onto the spur on the true right and ascend the spur through tussock and Dracophyllum until the continuous scree band is reached. Traverse north for 30 minutes, crossing one gully to reach the grassy basin at 1400m with small waterfall nearby. Four to five hours from roadend to bivi site. 30 minute climb from bivi site to the nearest part of the wall and 90 minutes to the north end.",
@@ -3452,7 +3452,7 @@
 				"routes": [
 					{
 						"name": "Hitting The Wall",
-						"link": "https://climbnz.org.nz/nz/si/otago/barrier-range/pk-2070/grasshopper-wall/hitting-wall",
+						"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/barrier-range/pt-2070/grasshopper-wall/hitting-wall",
 						"image": null,
 						"grade": "15",
 						"length": "",
@@ -3460,12 +3460,12 @@
 						"quality": 0,
 						"bolts": "",
 						"natural_pro": false,
-						"description": "Climb the series of prominent ascending buttresses at north end of the wall. \nStart at the toe of the first buttress and climb three shortish pitches on \nexcellent quartz striped rock, about grade 12. Walk across to next buttress \nand continue climbing for two pitches to top of final buttress. Grade 15 \nfinal moves at top can be reversed, then descend down gully on north side.",
+						"description": "Climb the series of prominent ascending buttresses at north end of the wall. Start at the toe of the first buttress and climb three shortish pitches on excellent quartz striped rock, about grade 12. Walk across to next buttress and continue climbing for two pitches to top of final buttress. Grade 15 final moves at top can be reversed, then descend down gully on north side.",
 						"ascent": "Ross Cullen, Geoff Gabites, January 2006"
 					},
 					{
 						"name": "Knees Up",
-						"link": "https://climbnz.org.nz/nz/si/otago/barrier-range/pk-2070/grasshopper-wall/knees",
+						"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/barrier-range/pt-2070/grasshopper-wall/knees",
 						"image": null,
 						"grade": "16",
 						"length": "",
@@ -3473,12 +3473,12 @@
 						"quality": 0,
 						"bolts": "",
 						"natural_pro": false,
-						"description": "Ascend the chimney shaped buttress on left side of face. Begin by climbing \nthe shallow corner in centre of buttress on clean, solid rock, grade 16. \nFirst four pitches more taxing than are later pitches. The buttress narrows \nat the top and the final few metres can be bypassed on the left. Nine pitches \nat a pleasant angle, on mainly good rock.",
+						"description": "Ascend the chimney shaped buttress on left side of face. Begin by climbing the shallow corner in centre of buttress on clean, solid rock, grade 16. First four pitches more taxing than are later pitches. The buttress narrows at the top and the final few metres can be bypassed on the left. Nine pitches at a pleasant angle, on mainly good rock.",
 						"ascent": "Ross Cullen, Bill McLeod, March 2005"
 					},
 					{
 						"name": "Diamond",
-						"link": "https://climbnz.org.nz/nz/si/otago/barrier-range/pk-2070/grasshopper-wall/diamond",
+						"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/barrier-range/pt-2070/grasshopper-wall/diamond",
 						"image": null,
 						"grade": "15",
 						"length": "",
@@ -3486,12 +3486,12 @@
 						"quality": 0,
 						"bolts": "",
 						"natural_pro": false,
-						"description": "Commence by climbing the pedestal 30 metres to the north of the central crack \nin the face. Climb directly towards the summit ridge passing on left of \ngroove at mid-height and on left of block near summit ridge. Nine pitches of \nexcellent climbing on quartz veined rock. Traverse to the north over 2070m \nthen descend easy slopes. Crux grade 15 in the middle of the climb.",
+						"description": "Commence by climbing the pedestal 30 metres to the north of the central crack in the face. Climb directly towards the summit ridge passing on left of groove at mid-height and on left of block near summit ridge. Nine pitches of excellent climbing on quartz veined rock. Traverse to the north over 2070m then descend easy slopes. Crux grade 15 in the middle of the climb.",
 						"ascent": "Ross Cullen, Bill McLeod, January 2004"
 					},
 					{
 						"name": "Slice of Heaven",
-						"link": "https://climbnz.org.nz/nz/si/otago/barrier-range/pk-2070/grasshopper-wall/slice-heaven",
+						"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/barrier-range/pt-2070/grasshopper-wall/slice-heaven",
 						"image": null,
 						"grade": "16",
 						"length": "",
@@ -3499,12 +3499,12 @@
 						"quality": 0,
 						"bolts": "",
 						"natural_pro": false,
-						"description": "An excellent four pitch climb on the steep reddish upper pillar. Ascend the \nnarrow gully between the two pillars to gain access. Climb centre of the face \nfor two pitches then pass the bulging nose on it\u2019s right side. Grade 16. \nContinue straight up. Nice. An easy twenty metre scramble to reach straight \nforward north facing scree gully descent.",
+						"description": "An excellent four pitch climb on the steep reddish upper pillar. Ascend the narrow gully between the two pillars to gain access. Climb centre of the face for two pitches then pass the bulging nose on its right side. Grade 16. Continue straight up. Nice. An easy 20m scramble to reach a straightforward north-facing scree gully descent.",
 						"ascent": "Ross Cullen, Bill McLeod, November 2005"
 					},
 					{
 						"name": "Flying Jib",
-						"link": "https://climbnz.org.nz/nz/si/otago/barrier-range/pk-2070/grasshopper-wall/flying-jib",
+						"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/barrier-range/pt-2070/grasshopper-wall/flying-jib",
 						"image": null,
 						"grade": "14",
 						"length": "",
@@ -3512,12 +3512,12 @@
 						"quality": 0,
 						"bolts": "",
 						"natural_pro": false,
-						"description": "A four pitch climb on the gray right side buttress. Climb centre of face for \ntwo pitches. Then follow a corner a little to the left to avoid flakes on \nface. Move back to the centre and finish straight up. Relaxed climbing. Grade \n14. Down climb 15 metres on ledges to gain the narrow north facing descent \ngully. This gully required one easy abseil near top.",
+						"description": "A four pitch climb on the gray right side buttress. Climb centre of face for two pitches. Then follow a corner a little to the left to avoid flakes on face. Move back to the centre and finish straight up. Relaxed climbing. Grade 14. Down climb 15m on ledges to gain the narrow north facing descent gully. This gully required one easy abseil near top.",
 						"ascent": "Ross Cullen, Bill McLeod, November 2005"
 					},
 					{
 						"name": "Two Wrongs Make A Right",
-						"link": "https://climbnz.org.nz/nz/si/otago/barrier-range/pk-2070/grasshopper-wall/two-wrongs-make-right",
+						"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/barrier-range/pt-2070/grasshopper-wall/two-wrongs-make-right",
 						"image": null,
 						"grade": "15",
 						"length": "",
@@ -3525,8 +3525,8 @@
 						"quality": 0,
 						"bolts": "",
 						"natural_pro": false,
-						"description": "This climbed a rib which juts into the scree down and to the R of Grasshopper \nWall. 5 pitches. There may be a couple of additional pitches possible around \na couple of gendarmes. Pitch 2 scuttled around the left side of the rib, but \nreally needs a direct continuation. Grade 15. We downclimbed pitch 5 and \nabseiled 20m to a walkoff on the lefthand side of rib.",
-						"ascent": "Alan Hill & Hamish Reid, February 2006"
+						"description": "This climbed a rib which juts into the scree down and to the right of Grasshopper Wall. Five pitches. There may be a couple of additional pitches possible around a couple of gendarmes. Pitch 2 scuttled around the left side of the rib, but really needs a direct continuation. Grade 15. We down climbed pitch 5 and abseiled 20m to a walk off on the left-hand side of rib.",
+						"ascent": "Alan Hill, Hamish Reid, February 2006"
 					}
 				],
 				"places": [],
@@ -9831,19 +9831,6 @@
 				"ascent": "Evan Wilson, Jim Wilson, Andy Anderson, January 1931"
 			},
 			{
-				"name": "Thompsons Track",
-				"link": "https://climbnz.org.nz/nz/si/canterbury/arrowsmith-range/mt-arrowsmith/thompsons-track",
-				"image": "https://climbnz.org.nz/sites/default/files/route/Thompsons%20Track.jpg",
-				"grade": "3",
-				"length": "",
-				"pitches": [],
-				"quality": 1,
-				"bolts": "",
-				"natural_pro": false,
-				"description": "Right-hand side of Ashburton Face. Snow and ice climb with several short \nmixed sections. FA: unknown. Kyle Walters, Michael Eatson October 2018.",
-				"ascent": ""
-			},
-			{
 				"name": "Ashburton Face",
 				"link": "https://climbnz.org.nz/nz/si/canterbury/arrowsmith-range/mt-arrowsmith/ashburton-face",
 				"image": null,
@@ -9855,6 +9842,19 @@
 				"natural_pro": false,
 				"description": "This is a snow and ice climb up a broad snow face followed by one of a number of gullies to the\r\nsummit of Mt Arrowsmith. From the moraines at the head of the Hakatere River climb to the\r\nschrund at the bottom of the Ashburton Face. Climb a short, steep section alongside a steep\r\nrock rib to gain the slope above. Climb until a small ar\u00eate is reached, and from here either go left\r\nto snow slopes and gullies that join the South West Ridge, or head up steeper rock directly to\r\nthe summit. Usually in condition only from late winter to early summer, and subject to rock fall.",
 				"ascent": "Don Cowie, Jim Clark, November 1958"
+			},
+			{
+				"name": "Thompsons Track",
+				"link": "https://climbnz.org.nz/nz/si/canterbury/arrowsmith-range/mt-arrowsmith/thompsons-track",
+				"image": "https://climbnz.org.nz/sites/default/files/route/Thompsons%20Track.jpg",
+				"grade": "3",
+				"length": "",
+				"pitches": [],
+				"quality": 1,
+				"bolts": "",
+				"natural_pro": false,
+				"description": "Right-hand side of Ashburton Face. Snow and ice climb with several short \nmixed sections. FA: unknown. Kyle Walters, Michael Eatson October 2018.",
+				"ascent": ""
 			},
 			{
 				"name": "East Ridge",
@@ -11705,8 +11705,8 @@
 		],
 		"routes": [
 			{
-				"name": "Christmas cracker",
-				"link": "https://climbnz.org.nz/mt-balloon/christmas-cracker",
+				"name": "Christmas Cracker",
+				"link": "https://climbnz.org.nz/nz/si/darrans/wick-mountains/mt-balloon/christmas-cracker",
 				"image": "https://climbnz.org.nz/sites/default/files/routes/20221224_063802.jpg",
 				"grade": "23",
 				"length": "",
@@ -11714,7 +11714,7 @@
 				"quality": 0,
 				"bolts": "",
 				"natural_pro": false,
-				"description": "Attain the saddle 1273 via a tussock and scrub climb in the Roaring Burn cirque. From there a rocky and exposed scramble up the North ridge. The rock is solid initially but the quality deteriorates with progress towards the top.",
+				"description": "Attain the saddle at Pt 1273m via a tussock and scrub climb in the Roaring Burn cirque. From there a rocky and exposed scramble up the North Ridge. The rock is solid initially but the quality deteriorates with progress towards the top.",
 				"ascent": ""
 			}
 		],
@@ -12304,7 +12304,7 @@
 						"name": "Utu",
 						"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/barrier-knob/north-east-face/utu",
 						"image": null,
-						"grade": "25 ,22 ,24",
+						"grade": "25,22,24",
 						"length": "110m",
 						"pitches": [
 							{
@@ -12319,7 +12319,7 @@
 								"length": "30m",
 								"bolts": "5",
 								"trad": true,
-								"description": "Start at single belay ring. Up right facing flake. Step left to bolt and climb upto thin crimping and tricky footwork. Move right to wire placements, back left and up past bolt. Trend right on easy ground to belay."
+								"description": "Start at single belay ring. Up right facing flake. Step left to bolt and climb up to thin crimping and tricky footwork. Move right to wire placements, back left and up past bolt. Trend right on easy ground to belay."
 							},
 							{
 								"ewbank": "22",
@@ -12353,8 +12353,8 @@
 						"quality": 1,
 						"bolts": "19",
 						"natural_pro": true,
-						"description": "Start at single belay ring. Up right facing flake. Step left to bolt and climb upto thin crimping and tricky footwork. Move right to wire placements, back left and up past bolt. Trend right on easy ground to belay.",
-						"ascent": "Mark Watson & Kristen Foley 2007"
+						"description": "Start at single belay ring. Up right facing flake. Step left to bolt and climb up to thin crimping and tricky footwork. Move right to wire placements, back left and up past bolt. Trend right on easy ground to belay.",
+						"ascent": "Mark Watson, Kristen Foley, 2007"
 					},
 					{
 						"name": "Poi E",
@@ -21220,7 +21220,7 @@
 				]
 			},
 			{
-				"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/cloudy-peak/hourglass-centre-walls",
+				"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/cloudy-pk/hourglass-centre-walls",
 				"name": "Hourglass & Centre Walls",
 				"altitude": "1500m",
 				"description": "The big wall, on the lower west side of Cloudy Pk.\nIt is now possible to abseil down the Hourglass Wall following the line of Sharp Shooter, using a single 60m rope.\nGo to the top of the small gully to find the top rap station, the finds it\u2019s way onto a large flat ledge, and then down the right side of the gully.\nAt the bottom of the the gully the descent route follows the Sharpshooter line.\nAt the 5-6 pitch change, the rap station is 10m right of the belay station.\nAt the 3-4 pitch change, go rightwards, there is a marker made of webbing, the rap station is just below that.",
@@ -21228,7 +21228,7 @@
 				"routes": [
 					{
 						"name": "Demondim",
-						"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/cloudy-peak/hourglass-centre-walls/demondim",
+						"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/cloudy-pk/hourglass-centre-walls/demondim",
 						"image": null,
 						"grade": "24",
 						"length": "150m",
@@ -21236,12 +21236,12 @@
 						"quality": 0,
 						"bolts": "",
 						"natural_pro": true,
-						"description": "Centre Wall",
+						"description": "Start 100m left of the main corner below the Great Prow. Four pitches to the big ledge through the main overhang. Some bolts and bolt belays.",
 						"ascent": "Martyn Clark, Bill McLeod, 1992"
 					},
 					{
 						"name": "Unbeliever",
-						"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/cloudy-peak/hourglass-centre-walls/unbeliever",
+						"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/cloudy-pk/hourglass-centre-walls/unbeliever",
 						"image": null,
 						"grade": "22",
 						"length": "180m",
@@ -21254,7 +21254,7 @@
 					},
 					{
 						"name": "Sharp Shooter",
-						"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/cloudy-peak/hourglass-centre-walls/sharp-shooter",
+						"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/cloudy-pk/hourglass-centre-walls/sharp-shooter",
 						"image": "https://climbnz.org.nz/sites/default/files/routes/8CF29EE3-D9E9-4FD1-9487-092F2E4AFD74.jpeg",
 						"grade": "17,21,20,19,19,22,20,21,19,18,19,10",
 						"length": "350m",
@@ -21436,7 +21436,7 @@
 					},
 					{
 						"name": "Mission to Mercury",
-						"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/cloudy-peak/hourglass-centre-walls/mission-mercury",
+						"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/cloudy-pk/hourglass-centre-walls/mission-mercury",
 						"image": "https://climbnz.org.nz/sites/default/files/routes/Hourglass_0.jpg",
 						"grade": "12,18,18,21,16,18,22,18",
 						"length": "352m",
@@ -21557,12 +21557,12 @@
 						"quality": 0,
 						"bolts": "57",
 						"natural_pro": true,
-						"description": "A mixed bolted and trad climb that runs up the left side of the Hourglass Wall.\r\nDescent, 1 walk off, the ledge rightward to the scree around the base of the Hourglass wall.\r\nOr 2 Abseil the pitch 7 & 8; then pick up the pitch 5/ 6 change of The Whole 9 Yards,  and straight down to the base of the Hourglass Wall.",
-						"ascent": "Anna Brooke, Grant Piper, Ed Machado, Jonathan Tye, ?/2022"
+						"description": "A mixed bolted and trad climb that runs up the left side of the Hourglass Wall.\r\nTo descend, either walk off the ledge rightward to the scree around the base of the Hourglass Wall; or abseil the pitch 7 & 8; then pick up the pitch 5/ 6 change of The Whole 9 Yards,  and straight down to the base of the Hourglass Wall.",
+						"ascent": "Anna Brooke, Grant Piper, Ed Machado, Jonathan Tye, 2022"
 					},
 					{
 						"name": "Mission Impossible",
-						"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/cloudy-peak/hourglass-centre-walls/mission-impossible",
+						"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/cloudy-pk/hourglass-centre-walls/mission-impossible",
 						"image": null,
 						"grade": "17",
 						"length": "325m",
@@ -21570,12 +21570,12 @@
 						"quality": 0,
 						"bolts": "",
 						"natural_pro": true,
-						"description": "Hourglass Wall",
+						"description": "Eight pitches on the left of the wall. The first four climb up to and through the big roof; the route then follows the prominent diagonal up and right, easier climbing but few runners.",
 						"ascent": "Marty Beare, Lindsay Main, 1981"
 					},
 					{
 						"name": "Mission Accomplished",
-						"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/cloudy-peak/hourglass-centre-walls/mission-accomplished",
+						"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/cloudy-pk/hourglass-centre-walls/mission-accomplished",
 						"image": null,
 						"grade": "19",
 						"length": "300m",
@@ -21583,12 +21583,12 @@
 						"quality": 1,
 						"bolts": "",
 						"natural_pro": true,
-						"description": "This direct finish to the previous route makes a more sustained climb. Move left onto the face\r\nand up for four pitches, once the diagonal is reached.",
+						"description": "This direct finish to the previous route makes a more sustained climb. Move left onto the face and up for four pitches, once the diagonal is reached.",
 						"ascent": "Steve Elder, Bill McLeod, 1990"
 					},
 					{
 						"name": "The Whole Nine Yards",
-						"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/cloudy-peak/hourglass-centre-walls/whole-nine-yards",
+						"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/cloudy-pk/hourglass-centre-walls/whole-nine-yards",
 						"image": "https://climbnz.org.nz/sites/default/files/routes/CloudyPkandcamp.jpgR_.jpg",
 						"grade": "13,18,17,19,21,19,17,17",
 						"length": "330m",
@@ -21714,7 +21714,7 @@
 					},
 					{
 						"name": "Fiddler on the Roof",
-						"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/cloudy-peak/hourglass-centre-walls/fiddler-roof",
+						"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/cloudy-pk/hourglass-centre-walls/fiddler-roof",
 						"image": "https://climbnz.org.nz/sites/default/files/route/DSC00721.jpg",
 						"grade": "20",
 						"length": "280m",
@@ -21722,12 +21722,12 @@
 						"quality": 2,
 						"bolts": "",
 						"natural_pro": true,
-						"description": "The first route through the spectacular overhangs on the left side of the wall. Nine pitches \u2013 the\r\nroof pitch and the wall above are very good. Finish up the Mission Impossible diagonal.",
+						"description": "The first route through the spectacular overhangs on the left side of the wall. Nine pitches \u2013 the roof pitch and the wall above are very good. Finish up the Mission Impossible diagonal.",
 						"ascent": "James Jenkins, Lindsay Main, 1980"
 					},
 					{
 						"name": "Big Dipper",
-						"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/cloudy-peak/hourglass-centre-walls/big-dipper",
+						"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/cloudy-pk/hourglass-centre-walls/big-dipper",
 						"image": null,
 						"grade": "25",
 						"length": "300m",
@@ -21735,12 +21735,12 @@
 						"quality": 0,
 						"bolts": "7",
 						"natural_pro": true,
-						"description": "Tackles the most impressive features on the wall : climb over three sets of overhangs to reach\r\nthe big arch. Through this and across the big roof (crux, bolts) and straight up the wall above.",
+						"description": "Tackles the most impressive features on the wall. Climb over three sets of overhangs to reach the big arch. Through this and across the big roof (crux, bolts) and straight up the wall above.",
 						"ascent": "Bill McLeod, Peter Dickson, 1991"
 					},
 					{
 						"name": "When the Frog Lifts",
-						"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/cloudy-peak/hourglass-centre-walls/when-frog-lifts",
+						"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/cloudy-pk/hourglass-centre-walls/when-frog-lifts",
 						"image": null,
 						"grade": "17",
 						"length": "80m",
@@ -21753,7 +21753,7 @@
 					},
 					{
 						"name": "When the Snow Melts",
-						"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/cloudy-peak/hourglass-centre-walls/when-snow-melts",
+						"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/cloudy-pk/hourglass-centre-walls/when-snow-melts",
 						"image": null,
 						"grade": "21",
 						"length": "300m",
@@ -21761,12 +21761,12 @@
 						"quality": 0,
 						"bolts": "",
 						"natural_pro": true,
-						"description": "\u2018The line of greatest resistance.\u2019 Sustained climbing up to and through the main overhang via\r\ncorner systems at its right-hand end.",
+						"description": "\u2018The line of greatest resistance\u2019.  Sustained climbing up to and through the main overhang via corner systems at its right-hand end.",
 						"ascent": "Peter Dickson, Bill McLeod, 1991"
 					},
 					{
 						"name": "Hourglass Left",
-						"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/cloudy-peak/hourglass-centre-walls/hourglass-left",
+						"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/cloudy-pk/hourglass-centre-walls/hourglass-left",
 						"image": null,
 						"grade": "19",
 						"length": "300m",
@@ -21774,12 +21774,12 @@
 						"quality": 0,
 						"bolts": "",
 						"natural_pro": true,
-						"description": "The big natural line in the centre of the wall. Three good pitches (crux on first pitch) are followed\r\nby uninteresting climbing in loose, vegetated gullies and chimneys.",
+						"description": "The big natural line in the centre of the wall. Three good pitches (crux on first pitch) are followed by uninteresting climbing in loose, vegetated gullies and chimneys.",
 						"ascent": "Marty Beare, Lindsay Main, 1980"
 					},
 					{
 						"name": "Hourglass Right",
-						"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/cloudy-peak/hourglass-centre-walls/hourglass-right",
+						"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/cloudy-pk/hourglass-centre-walls/hourglass-right",
 						"image": null,
 						"grade": "16",
 						"length": "300m",
@@ -21791,8 +21791,8 @@
 						"ascent": "Brent Davis, Brian Fish, 1981"
 					},
 					{
-						"name": "The Hourglass has Turned",
-						"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/cloudy-peak/hourglass-centre-walls/hourglass-has-turned",
+						"name": "The Hourglass Has Turned",
+						"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/cloudy-pk/hourglass-centre-walls/hourglass-has-turned",
 						"image": "https://climbnz.org.nz/sites/default/files/route/Cloudy%20Peak_2.jpg",
 						"grade": "19",
 						"length": "300m",
@@ -21801,11 +21801,11 @@
 						"bolts": "",
 						"natural_pro": true,
 						"description": "Sustained climbing, spaced protection, immaculate rock.\r\n\r\nP1 - 50m (16) Start on right hand edge of overhangs. Up vegetated terrain to \r\nrib and onto face above. Traverse left to belay in second groove. Excavation \r\nof protection was required on this pitch.\r\nP2 - 45m (16) up groove to shallow right corner. Belayed below roof.\r\nP3 - 10m (10) Traversed left, belayed in the 'Hourglass Right' groove.\r\nP4 - 50m (19) Traverse right then straight up through roof. Heading right up \r\nshallow cracks which are fused and rounded higher up.\r\nP5 - 20m (19) Right hand side of shallow recessed corner\r\nP6 - 25m (17) Bridging up twin cracks then step right to corner and up to \r\nlarge ledge.\r\nP7 - 30m (18) The sneaky groove through the roof. Traverse left along ledge \r\nto an awkward belay on wall above.\r\nP8 - 50m (17) Traversing right following cracks, through a small corner \r\nchimney then up onto large ledge. Belay in top left corner\r\nP9 - 30m (15) Traverse right then up right leaning crack to scree slope.\r\n\r\nWalked off by traversing right.",
-						"ascent": "Michael Eatson, Tawny Wagstaff. March 2016."
+						"ascent": "Michael Eatson, Tawny Wagstaff, March 2016"
 					},
 					{
 						"name": "The United States in Mind",
-						"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/cloudy-peak/hourglass-centre-walls/united-states-mind",
+						"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/cloudy-pk/hourglass-centre-walls/united-states-mind",
 						"image": null,
 						"grade": "18",
 						"length": "300m",
@@ -21818,7 +21818,7 @@
 					},
 					{
 						"name": "Ytivarg",
-						"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/cloudy-peak/hourglass-centre-walls/ytivarg",
+						"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/cloudy-pk/hourglass-centre-walls/ytivarg",
 						"image": null,
 						"grade": "17",
 						"length": "250m",
@@ -21831,7 +21831,7 @@
 					},
 					{
 						"name": "Slip-sliding Away",
-						"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/cloudy-peak/hourglass-centre-walls/slip-sliding-away",
+						"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/cloudy-pk/hourglass-centre-walls/slip-sliding-away",
 						"image": null,
 						"grade": "15",
 						"length": "200m",
@@ -25132,80 +25132,106 @@
 		"routes": [
 			{
 				"name": "North Ridge",
-				"link": "https://climbnz.org.nz/nz/si/canterbury/naumann-range/dasler-pinnacles/north-ridge",
+				"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/naumann-range/dasler-pinnacles/north-ridge",
 				"image": null,
-				"grade": "2-",
+				"grade": "II 1+",
 				"length": "",
 				"pitches": [],
-				"quality": 0,
+				"quality": 1,
 				"bolts": "",
 				"natural_pro": false,
-				"description": "From Dasler Bivouac scramble up through tussock and scree to a saddle at the \nbase of the ridge. The ridge is excellent quality rock and leads directly to \nthe summit and perhaps the finest viewpoint in the valley. Running shoe \nascents of this route have been made in summer.",
-				"ascent": "Cedric Benzoni, Les Buddicom, A Davies, Jim Dawson, George Edwards, Gordon Edwards, Russell Edwards, Jim Gilkison, Scott Gilkison, B.R.Hill, Christopher Johnson, Doug Knowles, George Palmer, Ernie Smith April 1936"
+				"description": "From Dasler Bivouac scramble up through tussock and scree to a saddle at the base of the ridge. The ridge is excellent quality rock and leads directly to the summit and perhaps the finest viewpoint in the valley. Running shoe ascents of this route have been made in summer.",
+				"ascent": "Cedric Benzoni, Les Buddicom, A Davies, Jim Dawson, George Edwards, Gordon Edwards, Russell Edwards, Jim Gilkison, Scott Gilkison, B R Hill, Christopher Johnson, Doug Knowles, George Palmer, Ernie Smith, April 1936"
 			},
 			{
 				"name": "Bestowed",
 				"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/naumann-range/dasler-pinnacles/bestowed",
 				"image": null,
-				"grade": "14",
+				"grade": "III 5  14",
 				"length": "210m",
 				"pitches": [],
 				"quality": 0,
 				"bolts": "",
 				"natural_pro": true,
-				"description": "Begin between two snow patches (approx. 200m north of Bedazzled) at base of cliff left side, climb slightly right, onto a large triangle buttress (good rest spot) on the face, into a corner chute and up to reach the ridge between two spikes. Grade 12 up to buttress, 14 above buttress.",
+				"description": "Begin between two snow patches at the base of the cliff\u2019s left side. Climb slightly to the right onto a large triangle buttress on the face (good rest spot), into a corner chute and up to reach the ridge between two spikes. Grade 12 up to the buttress, 14 above buttress.",
 				"ascent": "Kevin Hammond, January 2004"
+			},
+			{
+				"name": "Dare-Finnigan",
+				"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/naumann-range/dasler-pinnacles/dare-finnigan",
+				"image": null,
+				"grade": "III 4  12",
+				"length": "",
+				"pitches": [],
+				"quality": 0,
+				"bolts": "",
+				"natural_pro": false,
+				"description": "This line follows a faint rib to the left of the slabs climbed by Forgotten and starts about 50m right of the two snow patches that Bestowed starts between.",
+				"ascent": "Ben Dare, Andrew Finnigan, 2012"
 			},
 			{
 				"name": "Forgotten",
 				"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/naumann-range/dasler-pinnacles/forgotten",
 				"image": null,
-				"grade": "12",
+				"grade": "IV 4  12",
 				"length": "",
 				"pitches": [],
 				"quality": 0,
 				"bolts": "",
 				"natural_pro": false,
-				"description": "Begin about 50 metres to the left of Bedazzled and follow a fairly straight \r\nline of slabs directly to the North Ridge, always left of Fly on Little Wing, \r\nFinish about 100 metres north of the summit. About grade 12 with limited \r\nprotection.",
+				"description": "Begin about 50 metres to the left of Bedazzled and follow a fairly straight line of slabs with limited protection directly to the north ridge, always left of Fly on Little Wing. Finish about 100m north of the summit.",
 				"ascent": "Nick Cradock, Martin Hawes, February 2010"
 			},
 			{
 				"name": "Fly on Little Wing",
-				"link": "https://climbnz.org.nz/nz/si/canterbury/naumann-range/dasler-pinnacles/fly-little-wing",
+				"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/naumann-range/dasler-pinnacles/fly-little-wing",
 				"image": "https://climbnz.org.nz/sites/default/files/route/fly_wing.jpg",
-				"grade": "WI5",
+				"grade": "IV 5    WI4",
 				"length": "",
 				"pitches": [],
 				"quality": 0,
 				"bolts": "",
 				"natural_pro": false,
-				"description": "Andrew Rennie and Tom Lanagan climbed a mixed winter route on the west face \r\nof Dasler Pinnacles. WI4 for the start, a really tough last two pitches and \r\noverall grade 5ish. Winter 2007. Start up the the obvious ice hose left of \r\nthe summer line \u201cBedazzled\u201c, then angle right up an easier snow slope to \r\nreach the big arete at about three quarters of the way up the face. Three \r\npitches of hard mixed climbing up the arete to the summit. The first ascent \r\nparty took 17.5 hours to complete the climb from Daslers Bivouac.",
-				"ascent": "Andrew Rennie and Tom Lanagan 2007"
+				"description": "A mixed winter route on the west face of Dasler Pinnacles. WI4 for the start, a really tough last two pitches and overall grade 5ish. Start up the the obvious ice hose left of the summer line \u201cBedazzled\u201c, then angle right up an easier snow slope to reach the big arete at about three quarters of the way up the face. Three pitches of hard mixed climbing up the arete to the summit. The first ascent party took 17.5 hours to complete the climb from Daslers Bivouac.",
+				"ascent": "Andrew Rennie, Tom Lanagan, 2007"
 			},
 			{
 				"name": "Bedazzled",
-				"link": "https://climbnz.org.nz/nz/si/canterbury/naumann-range/dasler-pinnacles/bedazzled",
+				"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/naumann-range/dasler-pinnacles/bedazzled",
 				"image": null,
-				"grade": "3+",
+				"grade": "III 5  15",
+				"length": "400m",
+				"pitches": [],
+				"quality": 0,
+				"bolts": "",
+				"natural_pro": false,
+				"description": "This route was named in 1995 but climbed as early as 1970. A 400m line on the buttress to the left of the big dark corner on the Pinnacles. The route climbs rock at grade 14\u201315 and ends directly on the summit. Variations exist, including following the arete to the summit.",
+				"ascent": "Bruce Lusher, 1970"
+			},
+			{
+				"name": "Big Corner",
+				"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/naumann-range/dasler-pinnacles/big-corner",
+				"image": null,
+				"grade": "III 4",
 				"length": "",
 				"pitches": [],
 				"quality": 0,
 				"bolts": "",
 				"natural_pro": false,
-				"description": "A second line on the north west face of the Dasler Pinnacles. This recently \nnamed route was climbed as early as 1970. A 400m line on the buttress to the \nleft of the big dark corner on the Pinnacles. The route climbs rock at grade \n14-15 and ends directly on the summit.",
-				"ascent": "Bruce Lusher 1970"
+				"description": "A winter climb that follows the corner until near the top, then breaks off onto easier ground on slabs on the right-hand side.",
+				"ascent": "Steve Fortune, Jaap Overtoom, 2000"
 			},
 			{
 				"name": "Flywheel",
-				"link": "https://climbnz.org.nz/nz/si/canterbury/naumann-range/dasler-pinnacles/flywheel",
+				"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/naumann-range/dasler-pinnacles/flywheel",
 				"image": null,
-				"grade": "3+",
+				"grade": "III 4+  14",
 				"length": "",
 				"pitches": [],
 				"quality": 0,
 				"bolts": "",
 				"natural_pro": false,
-				"description": "This route on the north west faces climbs the tall slab face to the right of \nthe huge black corner on the Pinnacles. At first climb 200 m up centre of \nface to a terrace, move left to within 50 m of the black corner, then 400 m \nof slabs keeping roughly parallel with the corner. The slabs give consistent \ngrade 12-14 climbing.",
+				"description": "This route climbs the tall slab face to the right of the huge black corner on the Pinnacles. At first climb 200m up the centre of the face to a terrace, move left to within 50m of the black corner, then 400m \r\nof slabs keeping roughly parallel with the corner. The slabs give consistent grade 12\u201314 climbing.",
 				"ascent": "Bill McLeod, March 1994"
 			},
 			{
@@ -27859,12 +27885,15 @@
 		"image": null,
 		"images": []
 	},
-	"https://climbnz.org.nz/nz/si/aoraki/la-perouse-glacier/drake-2960m": {
-		"link": "https://climbnz.org.nz/nz/si/aoraki/la-perouse-glacier/drake-2960m",
-		"name": "Drake 2960m",
-		"altitude": null,
+	"https://climbnz.org.nz/nz/si/aoraki-tai-poutini/la-perouse-glacier/drake": {
+		"link": "https://climbnz.org.nz/nz/si/aoraki-tai-poutini/la-perouse-glacier/drake",
+		"name": "Drake",
+		"altitude": "2960m",
 		"description": null,
-		"latlng": null,
+		"latlng": [
+			"-43.569639000000",
+			"170.138556000000"
+		],
 		"routes": [],
 		"places": [],
 		"image": null,
@@ -32679,7 +32708,7 @@
 				"quality": 0,
 				"bolts": "",
 				"natural_pro": false,
-				"description": "Follow a wide crack followed broken by ledges just right of a huge \noverhanging scoop. Stemming crux is through overlaps, grade 15.",
+				"description": "Follow a wide crack followed broken by ledges just right of a huge overhanging scoop. Stemming crux is through overlaps, grade 15.",
 				"ascent": "Shelly Graham, Paul Hersey, November 2005"
 			},
 			{
@@ -32692,7 +32721,7 @@
 				"quality": 0,
 				"bolts": "",
 				"natural_pro": false,
-				"description": "A four pitch climb that begins lower on the face. First pitch is a stunner, \n40 metres of bomber incuts and high steps with just enough gear. One pitch \nscramble to the outlier summit and a 50m abseil to the exit gully.",
+				"description": "A four pitch climb that begins lower on the face. First pitch is a stunner, 40 metres of bomber incuts and high steps with just enough gear. One pitch scramble to the outlier summit and a 50m abseil to the exit gully.",
 				"ascent": "Paul Hersey, Manfred Oswald, November 2005"
 			},
 			{
@@ -47719,7 +47748,7 @@
 		],
 		"places": [
 			{
-				"link": "https://climbnz.org.nz/nz/si/fiordland/darran-mountains/mt-mcpherson/mcpherson-cirque",
+				"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/mt-mcpherson/mcpherson-cirque",
 				"name": "McPherson Cirque",
 				"altitude": null,
 				"description": "The most accessible winter climbs in the Darrans are here.\nA number of rock routes exist on the left side of the Macpherson Cirque around the Homer Face route. All climb up clean rock on interesting and varied terrain to a point just above Talbot\u2019s Ladder. Follow a ramp system on the left side of the waterfalls into the upper cirque then up snow slopes for 100m.\nThe winter routes in the Macpherson Cirque are a short walk from Homer Hut when winter parking restrictions are in force. There isn\u2019t a piece of mountain in the cirque safe from avalanches in the wrong conditions. In 1992 the snowfield near the summit of Mt Macpherson was actively controlled by explosives. The result was a fracture line that ran from near Talbot around to near Talbot\u2019s Ladder on Macpherson. The debris running over the snow surface turned it to ice the consistency of the sword Excalibur. The avalanche almost ran to the road.",
@@ -47741,7 +47770,7 @@
 				],
 				"places": [
 					{
-						"link": "https://climbnz.org.nz/nz/si/fiordland/darran-mountains/mt-mcpherson/mcpherson-cirque/left-hand-buttresses",
+						"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/mt-mcpherson/mcpherson-cirque/left-hand-buttresses",
 						"name": "Left Hand Buttresses",
 						"altitude": null,
 						"description": "This is the large, relatively easy angled slabby face bounding the left hand side of McPherson Cirque. The Winter routes on this face are less exposed to objective danger than those in other parts of the Cirque.\nThe slabby pyramid shaped face between Midnight Cowboy and the Homer Saddle gives good climbing in both Summer and Winter, just pick a line and make it as hard or easy as you want. Worth considering for a shorter day.",
@@ -47824,7 +47853,7 @@
 						]
 					},
 					{
-						"link": "https://climbnz.org.nz/nz/si/fiordland/darran-mountains/mt-mcpherson/mcpherson-cirque/upper-cirque-left-wall",
+						"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/mt-mcpherson/mcpherson-cirque/upper-cirque-left-wall",
 						"name": "Upper Cirque Left Wall",
 						"altitude": null,
 						"description": "This is the East facing cliff on the left hand side of the Upper Cirque, with many prominent icy lines. Climbing on this cliff is very good, but it does catch the sun at times through the day.\nBe wary of snow conditions in the Upper Cirque.",
@@ -47894,7 +47923,7 @@
 						]
 					},
 					{
-						"link": "https://climbnz.org.nz/nz/si/fiordland/darran-mountains/mt-mcpherson/mcpherson-cirque/upper-cirque-central-wall",
+						"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/mt-mcpherson/mcpherson-cirque/upper-cirque-central-wall",
 						"name": "Upper Cirque Central Wall",
 						"altitude": null,
 						"description": "The cliff directly above the lower tier of cliffs, in the centre of the Cirque. This cliff may largely bank out and become snow covered as the season progresses. \nBe very wary of snow conditions in the Upper Cirque.",
@@ -47941,7 +47970,7 @@
 							},
 							{
 								"name": "Crystal Ship",
-								"link": "https://climbnz.org.nz/nz/si/fiordland/darran-mountains/mt-mcpherson/mcpherson-cirque/upper-cirque-central-wall/crystal",
+								"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/mt-mcpherson/mcpherson-cirque/upper-cirque-central-wall/crystal-ship",
 								"image": "https://climbnz.org.nz/sites/default/files/routes/CS2.jpg",
 								"grade": "III-IV, 6-7",
 								"length": "30m",
@@ -47950,7 +47979,7 @@
 								"bolts": "",
 								"natural_pro": false,
 								"description": "A rarely formed, free hanging pillar over cave in middle of upper tier. Formed in the super season of 2015, not often seen in!",
-								"ascent": "Ben Dare, Steven Fortune, 2025"
+								"ascent": "Ben Dare, Steven Fortune, 2015"
 							},
 							{
 								"name": "Freeloading",
@@ -47977,7 +48006,7 @@
 						]
 					},
 					{
-						"link": "https://climbnz.org.nz/nz/si/fiordland/darran-mountains/mt-mcpherson/mcpherson-cirque/main-cliff/lower-tier",
+						"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/mt-mcpherson/mcpherson-cirque/main-cliff-lower-tier",
 						"name": "Main Cliff / Lower Tier",
 						"altitude": null,
 						"description": "This is the steep wall in the middle of the Cirque, rising from the floor of the Cirque, directly ahead as one walks up the McPherson Cirque path from the Homer Tunnel.",
@@ -49606,7 +49635,7 @@
 						"name": "El Braveth",
 						"link": "https://climbnz.org.nz/nz/si/fiordland/wick-mountains/mt-moir/north-face/el-braveth",
 						"image": "https://climbnz.org.nz/sites/default/files/route/El%20Braveth%20topo.jpg",
-						"grade": "19 ,23 ,23 ,23 ,20 ,17",
+						"grade": "19,23,23,23,20,17",
 						"length": "160m",
 						"pitches": [
 							{
@@ -49697,8 +49726,8 @@
 						"quality": 3,
 						"bolts": "18",
 						"natural_pro": true,
-						"description": "Six pitches, mixed protection, crux on fourth pitch. Attempted by various \npeople between 1991 and 2009.\nThe name is an acronym of the first letters of the last names of all involved \nin various stages of the first ascent.",
-						"ascent": "Sarah Adcock, Kester Brown, February 2009"
+						"description": "Six pitches, mixed protection, crux on fourth pitch. Attempted by various people between 1991 and 2009. The name is an acronym of the first letters of the last names of all involved in various stages of the first ascent.",
+						"ascent": "Richard Thomson, Dave Vass, 1991; Paul Rogers, Steve Eastwood, Kane Henderson, 1990s; Sarah Adcock, Kester Brown, February 2009"
 					},
 					{
 						"name": "Project",
@@ -62001,7 +62030,7 @@
 								"bolts": "",
 								"natural_pro": true,
 								"description": "From the ridge north of Great Pinnacle, traverse along eastern slopes to reach the base of a rock rib that climbs directly to summit. Easy rock for two pitches. A pleasant variation to a climb of Great Pinnacle. See also http://www.mountainz.co.nz/content/article/article.php?article=141107_pinnacles.php&direct=nz",
-								"ascent": "Unknown"
+								"ascent": "First ascent unknown"
 							},
 							{
 								"name": "Ruarimu Express",
@@ -66857,8 +66886,8 @@
 		"image": null,
 		"images": []
 	},
-	"https://climbnz.org.nz/nz/si/otago/the-remarkables/single-cone": {
-		"link": "https://climbnz.org.nz/nz/si/otago/the-remarkables/single-cone",
+	"https://climbnz.org.nz/nz/si/queenstown/remarkables/single-cone": {
+		"link": "https://climbnz.org.nz/nz/si/queenstown/remarkables/single-cone",
 		"name": "Single Cone",
 		"altitude": "2319m",
 		"description": "Good ice climbing on the South Face. Mixed climbing on West Face.",
@@ -67254,7 +67283,20 @@
 						"quality": 2,
 						"bolts": "",
 						"natural_pro": false,
-						"description": "From the ski car park follow the Wye Creek route until the saddle. From here follow the NE ridgeline to the summit. The final 30m are the hardest and most committing. Once started it's easier to summit and descend the SE ridge/couloir than to bail.",
+						"description": "From the ski car park follow the Wye Creek route until the saddle. From here follow the NE ridgeline to the summit. The final 30m are the most committing. Once started it's easier to summit and descend the SE ridge/couloir than to bail.",
+						"ascent": "FA: Dave McLeod probably"
+					},
+					{
+						"name": "South East Ridge",
+						"link": "https://climbnz.org.nz/nz/si/otago/the-remarkables/single-cone/east-face/south-east-ridge",
+						"image": null,
+						"grade": "2-",
+						"length": "",
+						"pitches": [],
+						"quality": 3,
+						"bolts": "",
+						"natural_pro": false,
+						"description": "Walk up to Wye Saddle and then head for the south east ridge. Scramble up the ridge aiming for the couloir (note this seems to have some amount of snow year round). At the top of the couloir you'll hit the ridgeline again and find yourself in a very exposed section. From there you can follow some obvious steps and make your way to the summit.",
 						"ascent": "FA: Dave McLeod probably"
 					}
 				],
@@ -68889,8 +68931,8 @@
 		"image": null,
 		"images": []
 	},
-	"https://climbnz.org.nz/nz/si/otago/barrier-range/steeple-pk": {
-		"link": "https://climbnz.org.nz/nz/si/otago/barrier-range/steeple-pk",
+	"https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/barrier-range/steeple-pk": {
+		"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/barrier-range/steeple-pk",
 		"name": "Steeple Pk",
 		"altitude": "2207m",
 		"description": "(L to R) Love Me Love My Zimmerframe, Wandering Flob, Zoe and Weta Prowl.\nFrom the summit an easy decent is down the South ridge to the col between Steeple Peak and Point 2200, before following scree slopes back to camp.",
@@ -68974,8 +69016,8 @@
 				"quality": 0,
 				"bolts": "",
 				"natural_pro": false,
-				"description": "To the R of Weta Prowl, finishing up a flake tucked up against the final \nsteep buttress, to join W Prowl near the top.",
-				"ascent": "Alan Hill, Hamish Reid February 2006"
+				"description": "To the right of Weta Prowl, finishing up a flake tucked up against the final steep buttress, to join Weta Prowl near the top.",
+				"ascent": "Alan Hill, Hamish Reid, February 2006"
 			},
 			{
 				"name": "South Ridge",
@@ -72601,8 +72643,8 @@
 								"quality": 1,
 								"bolts": "",
 								"natural_pro": false,
-								"description": "Follow the obvious rib heading from the Okahu Gorge to the start of the level section of the West Ridge/south crater rim in two pitches. The first contains a bulge at one-third height, the second is the crux. On the fist ascent a groove was entered to the left after an attempt at a direct finish resulted in a large lump of falling ice and a broken hard-hat. The route can be walked off at half-height.",
-								"ascent": "Iain Young, Gger Banks and Alec Heilbron, Oct. 1996."
+								"description": "Follow the obvious rib heading from the Okahu Gorge to the start of the level section of the West Ridge/south crater rim in two pitches. The first contains a bulge at one-third height, the second is the crux. On the first ascent a groove was entered to the left after an attempt at a direct finish resulted in a large lump of falling ice and a broken hard-hat. The route can be walked off at half-height.",
+								"ascent": "Iain Young, Gger Banks, Alec Heilbron, October 1996"
 							},
 							{
 								"name": "Telephone Line",
@@ -72614,8 +72656,8 @@
 								"quality": 1,
 								"bolts": "",
 								"natural_pro": false,
-								"description": "While not the hardest ice line on Mt Taranaki it is certainly one of the longest and most atmospheric. Snow and ice stability on this north facing cliff are very \r\nfickle\u2014best when conditions are lean. From the crater entrance to the Okahu Gorge, descend the gorge, close to West Ridge for about 70m. Iced grooves lead you to larger snow and ice ramps above, surmount the mid cliff to the left. Climb the next ramp, then follow a narrowing steep ramp that takes you left to Headbanger Ledge. The steep upper cliff can be climbed direct to the top of west ridge, or if not in condition, follow HB ledge into the crater.",
-								"ascent": "Iain Young, Dave Bolger. Winter 1998."
+								"description": "While not the hardest ice line on Mt Taranaki it is certainly one of the longest and most atmospheric. Snow and ice stability on this north facing cliff are very fickle \u2013 best when conditions are lean. From the crater entrance to the Okahu Gorge, descend the gorge, close to West Ridge for about 70m. Iced grooves lead you to larger snow and ice ramps above, surmount the mid cliff to the left. Climb the next ramp, then follow a narrowing steep ramp that takes you left to Headbanger Ledge. The steep upper cliff can be climbed direct to the top of west ridge, or if not in condition, follow HB ledge into the crater.",
+								"ascent": "Iain Young, Dave Bolger, Winter 1998"
 							}
 						],
 						"places": [],
@@ -74208,11 +74250,11 @@
 		"image": null,
 		"images": []
 	},
-	"https://climbnz.org.nz/nz/si/otago/the-remarkables/telecom-tower": {
-		"link": "https://climbnz.org.nz/nz/si/otago/the-remarkables/telecom-tower",
+	"https://climbnz.org.nz/nz/si/queenstown/remarkables/telecom-tower": {
+		"link": "https://climbnz.org.nz/nz/si/queenstown/remarkables/telecom-tower",
 		"name": "Telecom Tower",
 		"altitude": "2200m",
-		"description": "This West facing crag offers a large number of short, easily accessible routes of a wide variety of difficulties. There is a long, continuous stretch of buttresses and gullies, which unfold all the way along to Double Cone. These have been split into several sections to help identification. High exposure and great views down to Lake Wakatipu.",
+		"description": "The west facing crags on Telecom Tower form a long, continuous stretch of buttresses and gullies unfolds all the way along to Double Cone. Many short, easily accessible routes with a wide variety of difficulties, high exposure and great views down to Lake Wakatipu.",
 		"latlng": [
 			"-45.062427250000",
 			"168.802013400000"
@@ -74296,7 +74338,7 @@
 				"link": "https://climbnz.org.nz/nz/si/otago/the-remarkables/telecom-tower/second-buttress",
 				"name": "Second Buttress",
 				"altitude": null,
-				"description": "It has two sets of top rope anchors for dry tooling practice.\nNo recorded routes to date. It has potential for several winter\nlines. The rock is quite mossy so will require a bit of\nbrushing before any rock climbs can be enjoyed.",
+				"description": null,
 				"latlng": [
 					"-45.062427250000",
 					"168.802013400000"
@@ -74755,7 +74797,7 @@
 				]
 			},
 			{
-				"link": "https://climbnz.org.nz/nz/si/otago/the-remarkables/telecom-tower/the-bolt-buttress",
+				"link": "https://climbnz.org.nz/nz/si/queenstown/remarkables/telecom-tower/bolt-buttress",
 				"name": "The Bolt Buttress",
 				"altitude": null,
 				"description": "Access from Queens Drive",
@@ -76110,7 +76152,7 @@
 						"quality": 3,
 						"bolts": "5",
 						"natural_pro": true,
-						"description": "Follow line of bolts to the left of Tom Thumb and set a belay under the roof. \nOut through the roof and up to clip the last three bolts of Party Lines 3rd \nvariation.",
+						"description": "Follow line of bolts to the left of Tom Thumb and set a belay under the roof. Out through the roof and up to clip the last three bolts of Party Line\u2019s 3rd variation.",
 						"ascent": "Steve Carr, Simon Kennedy, 2000"
 					},
 					{
@@ -82185,8 +82227,8 @@
 		"image": null,
 		"images": []
 	},
-	"https://climbnz.org.nz/2307": {
-		"link": "https://climbnz.org.nz/2307",
+	"https://climbnz.org.nz/nz/si/queenstown/tapuae-o-uenuku-hector-mountains/mt-t%C5%ABwhakar%C5%8Dria": {
+		"link": "https://climbnz.org.nz/nz/si/queenstown/tapuae-o-uenuku-hector-mountains/mt-t%C5%ABwhakar%C5%8Dria",
 		"name": "Mt T\u016bwhakar\u014dria",
 		"altitude": "2307m",
 		"description": "Tapuae-o-uenuku Hector Mountains",
@@ -82197,7 +82239,7 @@
 		"routes": [
 			{
 				"name": "East Ridge",
-				"link": "https://climbnz.org.nz/2307/east-ridge",
+				"link": "https://climbnz.org.nz/nz/si/queenstown/tapuae-o-uenuku-hector-mountains/mt-t%C5%ABwhakar%C5%8Dria/east-ridge",
 				"image": "https://climbnz.org.nz/sites/default/files/routes/IMG_2978.JPG",
 				"grade": "MC2",
 				"length": "",
@@ -82205,8 +82247,8 @@
 				"quality": 0,
 				"bolts": "",
 				"natural_pro": false,
-				"description": "From Lake Te K\u014dhua head to the saddle between Mt T\u016bwhakar\u014dria and Pt 2178. The East Ridge will take you to a false summit (which is just lower than the true summit). To get to the true summit wrap under the north of the craggy skyline to gain the true summit from the west.\r\nP.S. My head did not crest the summit.",
-				"ascent": "Steve Skelton, March 2020 - Must have been climbed before"
+				"description": "From Lake Te K\u014dhua head to the saddle between Mt T\u016bwhakar\u014dria and Pt 2178. The East Ridge will take you to a false summit (which is just lower than the true summit). To get to the true summit wrap under the north of the craggy skyline to gain the true summit from the west. \r\nP.S. My head did not crest the summit. Must have been climbed before.",
+				"ascent": "Steve Skelton, March 2020"
 			}
 		],
 		"places": [],
@@ -84421,7 +84463,7 @@
 	"https://climbnz.org.nz/nz/si/nelson-lakes/ella-range/mt-watson": {
 		"link": "https://climbnz.org.nz/nz/si/nelson-lakes/ella-range/mt-watson",
 		"name": "Mt Watson",
-		"altitude": null,
+		"altitude": "1871m",
 		"description": null,
 		"latlng": [
 			"-42.007540000000",
