@@ -9831,19 +9831,6 @@
 				"ascent": "Evan Wilson, Jim Wilson, Andy Anderson, January 1931"
 			},
 			{
-				"name": "Ashburton Face",
-				"link": "https://climbnz.org.nz/nz/si/canterbury/arrowsmith-range/mt-arrowsmith/ashburton-face",
-				"image": null,
-				"grade": "3+",
-				"length": "",
-				"pitches": [],
-				"quality": 0,
-				"bolts": "",
-				"natural_pro": false,
-				"description": "This is a snow and ice climb up a broad snow face followed by one of a number of gullies to the\r\nsummit of Mt Arrowsmith. From the moraines at the head of the Hakatere River climb to the\r\nschrund at the bottom of the Ashburton Face. Climb a short, steep section alongside a steep\r\nrock rib to gain the slope above. Climb until a small ar\u00eate is reached, and from here either go left\r\nto snow slopes and gullies that join the South West Ridge, or head up steeper rock directly to\r\nthe summit. Usually in condition only from late winter to early summer, and subject to rock fall.",
-				"ascent": "Don Cowie, Jim Clark, November 1958"
-			},
-			{
 				"name": "Thompsons Track",
 				"link": "https://climbnz.org.nz/nz/si/canterbury/arrowsmith-range/mt-arrowsmith/thompsons-track",
 				"image": "https://climbnz.org.nz/sites/default/files/route/Thompsons%20Track.jpg",
@@ -9855,6 +9842,19 @@
 				"natural_pro": false,
 				"description": "Right-hand side of Ashburton Face. Snow and ice climb with several short \nmixed sections. FA: unknown. Kyle Walters, Michael Eatson October 2018.",
 				"ascent": ""
+			},
+			{
+				"name": "Ashburton Face",
+				"link": "https://climbnz.org.nz/nz/si/canterbury/arrowsmith-range/mt-arrowsmith/ashburton-face",
+				"image": null,
+				"grade": "3+",
+				"length": "",
+				"pitches": [],
+				"quality": 0,
+				"bolts": "",
+				"natural_pro": false,
+				"description": "This is a snow and ice climb up a broad snow face followed by one of a number of gullies to the\r\nsummit of Mt Arrowsmith. From the moraines at the head of the Hakatere River climb to the\r\nschrund at the bottom of the Ashburton Face. Climb a short, steep section alongside a steep\r\nrock rib to gain the slope above. Climb until a small ar\u00eate is reached, and from here either go left\r\nto snow slopes and gullies that join the South West Ridge, or head up steeper rock directly to\r\nthe summit. Usually in condition only from late winter to early summer, and subject to rock fall.",
+				"ascent": "Don Cowie, Jim Clark, November 1958"
 			},
 			{
 				"name": "East Ridge",
@@ -19945,7 +19945,7 @@
 				"images": []
 			},
 			{
-				"link": "https://climbnz.org.nz/nz/si/aoraki/malte-brun-range/beetham-crag-the-lower-cliff-and-the-langdale-buttress/langd",
+				"link": "https://climbnz.org.nz/nz/si/aoraki/malte-brun-range/mt-chudleigh/langdale-buttress",
 				"name": "Langdale Buttress",
 				"altitude": "2300m",
 				"description": "There are some excellent short-medium length rock routes on the Langdale Buttress, situated 2hrs from the Beetham Valley, at the foot of the Mt Chudleigh\u2019s North West Ridge",
@@ -19956,7 +19956,7 @@
 				"routes": [
 					{
 						"name": "Mark Time",
-						"link": "https://climbnz.org.nz/nz/si/aoraki/malte-brun-range/beetham-crag-the-lower-cliff-and-the-langdale-buttress/langd/mark-time",
+						"link": "https://climbnz.org.nz/nz/si/aoraki/malte-brun-range/mt-chudleigh/langdale-buttress/mark-time",
 						"image": null,
 						"grade": "16",
 						"length": "",
@@ -19969,7 +19969,7 @@
 					},
 					{
 						"name": "Tax Returns",
-						"link": "https://climbnz.org.nz/nz/si/aoraki/malte-brun-range/beetham-crag-the-lower-cliff-and-the-langdale-buttress/langd/tax",
+						"link": "https://climbnz.org.nz/nz/si/aoraki/malte-brun-range/mt-chudleigh/langdale-buttress/tax-returns",
 						"image": null,
 						"grade": "20",
 						"length": "25m",
@@ -19982,7 +19982,7 @@
 					},
 					{
 						"name": "Red Rocket",
-						"link": "https://climbnz.org.nz/nz/si/aoraki/malte-brun-range/beetham-crag-the-lower-cliff-and-the-langdale-buttress/langd/red",
+						"link": "https://climbnz.org.nz/nz/si/aoraki/malte-brun-range/mt-chudleigh/langdale-buttress/red-rocket",
 						"image": null,
 						"grade": "17",
 						"length": "25m",
@@ -19995,7 +19995,7 @@
 					},
 					{
 						"name": "Beggar For Punishment",
-						"link": "https://climbnz.org.nz/nz/si/aoraki/malte-brun-range/beetham-crag-the-lower-cliff-and-the-langdale-buttress/langd/beggar",
+						"link": "https://climbnz.org.nz/nz/si/aoraki/malte-brun-range/mt-chudleigh/langdale-buttress/beggar-punishment",
 						"image": null,
 						"grade": "16",
 						"length": "",
@@ -20008,7 +20008,7 @@
 					},
 					{
 						"name": "The Offering",
-						"link": "https://climbnz.org.nz/nz/si/aoraki/malte-brun-range/beetham-crag-the-lower-cliff-and-the-langdale-buttress/langd/offering",
+						"link": "https://climbnz.org.nz/nz/si/aoraki/malte-brun-range/mt-chudleigh/langdale-buttress/offering",
 						"image": "https://climbnz.org.nz/sites/default/files/routes/The%20Offering%20Langdale%20Buttress.jpg",
 						"grade": "16,15,17,18,18",
 						"length": "",
@@ -20064,7 +20064,7 @@
 					},
 					{
 						"name": "Red Right Hand",
-						"link": "https://climbnz.org.nz/nz/si/aoraki/malte-brun-range/beetham-crag-the-lower-cliff-and-the-langdale-buttress/langd/red-right",
+						"link": "https://climbnz.org.nz/nz/si/aoraki/malte-brun-range/mt-chudleigh/langdale-buttress/red-right-hand",
 						"image": null,
 						"grade": "",
 						"length": "",
@@ -20077,7 +20077,7 @@
 					},
 					{
 						"name": "The Big Red Engine",
-						"link": "https://climbnz.org.nz/nz/si/aoraki/malte-brun-range/beetham-crag-the-lower-cliff-and-the-langdale-buttress/langd/big-red",
+						"link": "https://climbnz.org.nz/nz/si/aoraki/malte-brun-range/mt-chudleigh/langdale-buttress/big-red-engine",
 						"image": null,
 						"grade": "17",
 						"length": "",
@@ -30547,13 +30547,13 @@
 				"name": "Chance",
 				"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/ben-ohau-range/ferintosh-pk/chance",
 				"image": "https://climbnz.org.nz/sites/default/files/routes/Inkedchance_LI_0.jpg",
-				"grade": "III 4  14",
+				"grade": "IV 4  14",
 				"length": "350m",
 				"pitches": [],
 				"quality": 0,
 				"bolts": "",
-				"natural_pro": false,
-				"description": "Follow the next major rib right of Fluke. Scramble moraines and snow remnants up towards the base of the peak, with a few steps across Firn snow to the base of the central buttress of the rib. Climb loose rock for the lower/steeper half, following weaknesses close to the crest of the rib, then on quality rock thereafter. Round first tower on left, second on right.  From the top, traverse across several towers along the ridge to the summit.  On FA, 1 hr 25 for Chance, plus 25mins to summit; then descent was circuitous, made via the great ridge to Glentanner peak and down Twin Stream.",
+				"natural_pro": true,
+				"description": "Follow the next major rib right of Fluke. Scramble moraines and snow remnants up towards the base of the peak, with a few steps across Firn snow to the base of the central buttress of the rib. Climb loose blocky rock for the lower/steeper half, following weaknesses close to the crest of the rib, then on quality rock thereafter [On the lower half, much better rock and climbing could be had on the right of the arete, but at a higher grade and with minimal gear].  Above, where the angle eases and the tock improves, round the first tower on the left, and the second on the right.  From the top, traverse across several towers along the ridge to the summit.  On FA, 1 hr 25 for Chance, plus 25mins to summit; then descent was circuitous, made via the great ridge to Glentanner peak and down Twin Stream.",
 				"ascent": "Ruari Macfarlane, February 2021"
 			},
 			{
@@ -30664,8 +30664,21 @@
 				"quality": 0,
 				"bolts": "4",
 				"natural_pro": true,
-				"description": "On the true left side of the North Branch of Whale Stream, halfway between the forks and Ferintosh Peak, is a striking fin of rock, several pitches high, that eases into a prominent spur above.  IWC climbs 2 pitches up the low angle lower fin, then 4 pitches in the crack / corner systems left of the fin. A meandering trad route, climbed as an enjoyable access route onto the buttress.  The central feature is a huge right-facing corner. Mainly solid rock, would benefit from some further cleaning of vegetation on the crux pitch.",
+				"description": "THIS ROUTE AND IT'S BETTER NEIGHBOUR (FREE WILLY) HAVE BEEN MOVED TO THE WHALE STREAM SECTION. SEE WHALE STREAM FOR UP-TO-DATE DESCRIPTIONS. On the true left side of the North Branch of Whale Stream, halfway between the forks and Ferintosh Peak, is a striking fin of rock, several pitches high, that eases into a prominent spur above.  IWC climbs 2 pitches up the low angle lower fin, then 4 pitches in the crack / corner systems left of the fin. A meandering trad route, climbed as an enjoyable access route onto the buttress.  The central feature is a huge right-facing corner. Mainly solid rock, would benefit from some further cleaning of vegetation on the crux pitch.",
 				"ascent": "Taichiro Naka, Pablo Borjas Von Bach, Ruari Macfarlane"
+			},
+			{
+				"name": "Happenstance",
+				"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/ben-ohau-range/ferintosh-pk/happenstance",
+				"image": "https://climbnz.org.nz/sites/default/files/routes/happenstance%20topo_Ferintosh.png",
+				"grade": "IV 4+  17",
+				"length": "300m",
+				"pitches": [],
+				"quality": 0,
+				"bolts": "",
+				"natural_pro": true,
+				"description": "There is rockfall hazard on the lower pitches from the gully on the right, particularly if there is melting snow in the gully. Start with a pitch of 17, taking a narrow crack through a bulge  shortly left of the mouth of the couloir (position the belayer away from the couloir). Crux near the bottom, and in a committing steep pull on a large overhanging block at the top. Continue up into the bottom of the gully, then weave up shallow gullies/ribs on the left until the angle kicks up.  Belay here, traverse right a few meters and climb steeper rock just to the right of the arete, then a traverse pitch rightwards on loose, easy rock leads to overhangs at the base of the obvious clean wall of good red rock forming the right side of the upper third of the rib. Below below these. Start in a steep handcrack just left of a small left facing corner (or choose another; several steep cracks run through the roofs), then straight up (good rock climbing) for a couple of pitches. Continue up blockier aretes and wide cracks to the top of the pinnacle. The ridge is a windy place on a NW day; following the FA, descent was to the North (towards Twin Stream) then a long traverse below the ridge before taking loose ground back up to a col and down exposed snow slopes (avalanche terrain) back into Whale Stream. A traverse to the summit over/around the towers on the ridge should be possible and allow a different descent; ridge travel to the summit is relatively straight forward from the top of Chance.",
+				"ascent": "Andy Hoare, Ruari Macfarlane, Nov 2022"
 			}
 		],
 		"places": [],
@@ -30675,6 +30688,11 @@
 				"src": "https://climbnz.org.nz/sites/default/files/image/SE%2520Face%2520Ferintosh%2520-%2520Route.jpg",
 				"height": "360",
 				"width": "480"
+			},
+			{
+				"src": "https://climbnz.org.nz/sites/default/files/image/20210208_094950.jpg",
+				"height": "3024",
+				"width": "4032"
 			}
 		]
 	},
@@ -37759,8 +37777,8 @@
 				"quality": 0,
 				"bolts": "",
 				"natural_pro": false,
-				"description": "The south east face of Mt Humphries was among the last faces in the valley to \nreceive an ascent. The approach is up a broken snow field to the centre of \nthe face, and the route takes the centre just left of an overhang, trends \nright up a ramp to a vertical corner, then slightly left to complete a \ncentral finish. 400m in height, of which two thirds are on excellent rock \nwhile the top section is a bit scruffy, crux grade 15.",
-				"ascent": "Bill McLeod, 1995"
+				"description": "The south east face of Mt Humphries was among the last faces in the valley to \r\nreceive an ascent. The approach is up a broken snow field to the centre of \r\nthe face, and the route takes the centre just left of an overhang, trends \r\nright up a ramp to a vertical corner, then slightly left to complete a \r\ncentral finish. 400m in height, of which two thirds are on excellent rock \r\nwhile the top section is a bit scruffy, crux grade 15.",
+				"ascent": "Bill McLeod,  January 1995"
 			},
 			{
 				"name": "South Ridge",
@@ -61037,17 +61055,43 @@
 								"ascent": "Edwin Sheppard and Shaun Brown 2021"
 							},
 							{
-								"name": "Closed project",
-								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/t%C5%ABkino-skifield/margarets-leap-winter/closed-project",
+								"name": "Squealing Frenchman",
+								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/t%C5%ABkino-skifield/margarets-leap-winter/squealing-frenchman",
 								"image": null,
-								"grade": "",
+								"grade": "M8",
+								"length": "30m",
+								"pitches": [],
+								"quality": 0,
+								"bolts": "8",
+								"natural_pro": false,
+								"description": "Hard start past a bolt, take some trad, them into the steep face through some icicles.",
+								"ascent": "Jono Clarke"
+							},
+							{
+								"name": "Freak on a leash",
+								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/t%C5%ABkino-skifield/margarets-leap-winter/freak-leash",
+								"image": null,
+								"grade": "M10",
 								"length": "30m",
 								"pitches": [],
 								"quality": 0,
 								"bolts": "13",
 								"natural_pro": false,
-								"description": "Bolted Mixed line to the right of Mixed Metaphor.",
-								"ascent": ""
+								"description": "Steep powerfull climbing Following the obvious line of weakness that cuts right at the top of the roof.",
+								"ascent": "FFA, Jacob kuchler July 2023"
+							},
+							{
+								"name": "Mixed Metaphor",
+								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/t%C5%ABkino-skifield/margarets-leap-winter/mixed-metaphor",
+								"image": null,
+								"grade": "M5,M9",
+								"length": "30m",
+								"pitches": [],
+								"quality": 0,
+								"bolts": "15",
+								"natural_pro": false,
+								"description": "Pumpy technical climbing leads you left out of the roof.",
+								"ascent": "FFA, Jono Clarke, June 2022"
 							}
 						],
 						"places": [],
@@ -61077,6 +61121,11 @@
 								"src": "https://climbnz.org.nz/sites/default/files/image/42%2B43.JPG",
 								"height": "655",
 								"width": "390"
+							},
+							{
+								"src": "https://climbnz.org.nz/sites/default/files/image/20230715_182612.jpg",
+								"height": "3468",
+								"width": "4624"
 							}
 						]
 					},
