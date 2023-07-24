@@ -9831,19 +9831,6 @@
 				"ascent": "Evan Wilson, Jim Wilson, Andy Anderson, January 1931"
 			},
 			{
-				"name": "Thompsons Track",
-				"link": "https://climbnz.org.nz/nz/si/canterbury/arrowsmith-range/mt-arrowsmith/thompsons-track",
-				"image": "https://climbnz.org.nz/sites/default/files/route/Thompsons%20Track.jpg",
-				"grade": "3",
-				"length": "",
-				"pitches": [],
-				"quality": 1,
-				"bolts": "",
-				"natural_pro": false,
-				"description": "Right-hand side of Ashburton Face. Snow and ice climb with several short \nmixed sections. FA: unknown. Kyle Walters, Michael Eatson October 2018.",
-				"ascent": ""
-			},
-			{
 				"name": "Ashburton Face",
 				"link": "https://climbnz.org.nz/nz/si/canterbury/arrowsmith-range/mt-arrowsmith/ashburton-face",
 				"image": null,
@@ -9855,6 +9842,19 @@
 				"natural_pro": false,
 				"description": "This is a snow and ice climb up a broad snow face followed by one of a number of gullies to the\r\nsummit of Mt Arrowsmith. From the moraines at the head of the Hakatere River climb to the\r\nschrund at the bottom of the Ashburton Face. Climb a short, steep section alongside a steep\r\nrock rib to gain the slope above. Climb until a small ar\u00eate is reached, and from here either go left\r\nto snow slopes and gullies that join the South West Ridge, or head up steeper rock directly to\r\nthe summit. Usually in condition only from late winter to early summer, and subject to rock fall.",
 				"ascent": "Don Cowie, Jim Clark, November 1958"
+			},
+			{
+				"name": "Thompsons Track",
+				"link": "https://climbnz.org.nz/nz/si/canterbury/arrowsmith-range/mt-arrowsmith/thompsons-track",
+				"image": "https://climbnz.org.nz/sites/default/files/route/Thompsons%20Track.jpg",
+				"grade": "3",
+				"length": "",
+				"pitches": [],
+				"quality": 1,
+				"bolts": "",
+				"natural_pro": false,
+				"description": "Right-hand side of Ashburton Face. Snow and ice climb with several short \nmixed sections. FA: unknown. Kyle Walters, Michael Eatson October 2018.",
+				"ascent": ""
 			},
 			{
 				"name": "East Ridge",
@@ -13217,7 +13217,7 @@
 						"name": "Rita's Burritos",
 						"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/barrier-knob/north-face/ritas-burritos",
 						"image": null,
-						"grade": "21 ,18 ,20 ,18 ,16 ,16 ,15",
+						"grade": "21,18,20,18,16,16,15",
 						"length": "80m",
 						"pitches": [
 							{
@@ -13322,7 +13322,7 @@
 						"quality": 2,
 						"bolts": "5",
 						"natural_pro": true,
-						"description": "Smooth slab and crack climbing with good natural pro placements. The route \nwas re-bolted 2001. The fifth pitch, completed by Murray Judge and Paul \nRogers, follows a wide crack on the left.",
+						"description": "Smooth slab and crack climbing with good natural pro placements. The route \r\nwas re-bolted 2001. The fifth pitch, completed by Murray Judge and Paul \r\nRogers, follows a wide crack on the left.",
 						"ascent": "Murray Judge, Bronwyn Judge, Jan 1989."
 					},
 					{
@@ -14320,7 +14320,7 @@
 						"name": "Peaking Pete",
 						"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/barrier-pk/south-face/peaking-pete",
 						"image": "https://climbnz.org.nz/sites/default/files/route/Darrans%20Summer%202015-1-2.jpg",
-						"grade": "17 ,17 ,16 A2,19 ,14 ,17 A1,20 A2,17 ,",
+						"grade": "17,17,16 A2,19,14,17 A1,20 A2,17,",
 						"length": "440m",
 						"pitches": [
 							{
@@ -20658,7 +20658,7 @@
 				"quality": 1,
 				"bolts": "",
 				"natural_pro": true,
-				"description": "Left Wall\r\n\u2018The route offers consistent climbing and has a worthwhile feel about \r\nit,\u2019 said one of the first\r\nascentionists. \u2018We were scared pretty much the whole time,\u2019 said the \r\nother. Nine pitches on very\r\ncompact and sparsely protected rock. Belay/abseil bolts.\r\nAccess by scrambling up towards highest rock mound beneath centre of face. \r\nThis is about 100 metres right of the big right-facing corner. Rather than \r\nclimbing to top of the mound, move left about 40 m along ledges to bolt belay \r\non nose of rock.\r\nThe first ascent climbed using all natural gear with the abseil bolts being \r\nadded to the belay stances on the descent, which also helps to mark \r\nwhere the route goes.",
+				"description": "This route on the Left Wall of Cloudy Pk \u2018offers consistent climbing and has a worthwhile feel about it,\u2019 said one of the first ascentionists. \u2018We were scared pretty much the whole time,\u2019 said the other. Nine pitches on very compact and sparsely protected rock. Belay/abseil bolts.\r\nAccess by scrambling up towards highest rock mound beneath centre of face. This is about 100 metres right of the big right-facing corner. Rather than climbing to top of the mound, move left about 40 m along ledges to bolt belay on nose of rock.\r\nThe first ascent climbed using all natural gear with the abseil bolts being added to the belay stances on the descent, which also helps to mark where the route goes.",
 				"ascent": "Peter Dickson, Bill McLeod, 1992"
 			},
 			{
@@ -27419,16 +27419,16 @@
 						"ascent": "George Harris, Murray Jones, Dec 1968."
 					},
 					{
-						"name": "Albertown Direct",
-						"link": "https://climbnz.org.nz/nz/si/main-divide-of-the-southern-alps/douglas-pk/south-face/albertown-direct",
+						"name": "Albert Town Direct",
+						"link": "https://climbnz.org.nz/nz/si/main-divide-of-the-southern-alps/douglas-pk/south-face/albert-town-direct",
 						"image": "https://climbnz.org.nz/sites/default/files/route/albert-town-direct.png",
-						"grade": "IV 5 5+   WI3 M2",
+						"grade": "IV 5    WI3 M3",
 						"length": "",
 						"pitches": [],
 						"quality": 0,
 						"bolts": "",
 						"natural_pro": false,
-						"description": "A creative line that runs up the front face of the central buttress to the central snow ar\u00eate and finishes up the upper Left Hand Gully. Cruxes of WI3 and M3.",
+						"description": "A creative line that runs up the right-hand front face of the central buttress to the central snow ar\u00eate and finishes up the upper Left Hand Gully.",
 						"ascent": "Craig Jefferies, Dave Vass,  July 2003"
 					},
 					{
@@ -46316,7 +46316,7 @@
 			},
 			{
 				"name": "Gong Show!",
-				"link": "https://climbnz.org.nz/nz/si/fiordland/darran-mountains/marian-pk/gong-show",
+				"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/marian-pk/gong-show",
 				"image": null,
 				"grade": "18",
 				"length": "",
@@ -50687,7 +50687,7 @@
 						"name": "Pipe Dreams",
 						"link": "https://climbnz.org.nz/nz/si/fiordland/wick-mountains/moirs-mate/west-face/pipe-dreams",
 						"image": "https://climbnz.org.nz/sites/default/files/route/980723_10153991222036873_3715259168184688434_o.jpeg",
-						"grade": "16 ,18 ,20 ,14 ,21 ,21 ,21 ,18 ,21 ,20",
+						"grade": "16,18,20,14,21,21,21,18,21,20",
 						"length": "302m",
 						"pitches": [
 							{
@@ -50834,7 +50834,7 @@
 						"quality": 3,
 						"bolts": "19",
 						"natural_pro": true,
-						"description": "Right of BAC left of FK\nA high quality route, some sections may have be climbed before.\nRecommend, rap from the top, 30m, 60m, 30m, 60m, 60m, 60m.",
+						"description": "Right of BAC left of FK\r\nA high quality route, some sections may have be climbed before.\r\nRecommend, rap from the top, 30m, 60m, 30m, 60m, 60m, 60m.",
 						"ascent": "Dave Shotwell, Nick Cradock, Jonathan Gillan 2016"
 					},
 					{
@@ -50932,8 +50932,8 @@
 						"quality": 3,
 						"bolts": "25",
 						"natural_pro": true,
-						"description": "The \"Lucky Strike\" of trad climbing. Excellent rock & gear, sustained \r\nclimbing. Topo attached to the climb description.\r\nEquipment: 2x 50m ropes, rack of wires down to #RP, Camalots, C3- #3(blue), \r\ndouble up on 0.5 & 0.75 + 12 draws inc extenders. All belays equipped with \r\nabseil rings.",
-						"ascent": "Murray Ball, Nick Cradock & Dave Shotwell 2013"
+						"description": "The \"Lucky Strike\" of trad climbing. Excellent rock & gear, sustained climbing. Topo attached to the climb description.\r\nEquipment: 2x 50m ropes, rack of wires down to #RP, Camalots, C3- #3(blue), double up on 0.5 & 0.75 + 12 draws inc extenders. All belays equipped with abseil rings.",
+						"ascent": "Murray Ball, Nick Cradock, Dave Shotwell, 2013"
 					},
 					{
 						"name": "Lucky Strike",
@@ -54433,7 +54433,7 @@
 				"name": "Onslow Buttress",
 				"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/mt-onslow/onslow-buttress",
 				"image": null,
-				"grade": "14 ,16 ,15 ,15 ,6 ,16 ,16 ,13 ,12",
+				"grade": "14,16,15,15,6,16,16,13,12",
 				"length": "",
 				"pitches": [
 					{
@@ -77360,7 +77360,7 @@
 						"name": "Reign of Terror",
 						"link": "https://climbnz.org.nz/nz/si/fiordland/llawrenny-peaks/terror-pk/north-face/reign-terror",
 						"image": null,
-						"grade": "16 ,18 ,20 ,18",
+						"grade": "16,18,20,18",
 						"length": "220m",
 						"pitches": [
 							{
@@ -77410,7 +77410,7 @@
 						"bolts": "",
 						"natural_pro": true,
 						"description": "This route ascends 20m right of Terrorfirma",
-						"ascent": "Nick Flyvbjerg, Shelly Malkin 2010"
+						"ascent": "Nick Flyvbjerg, Shelly Malkin, 2010"
 					},
 					{
 						"name": "War on Terror",
@@ -80932,33 +80932,10 @@
 				"bolts": "",
 				"natural_pro": false,
 				"description": "Gain height initially on the western side of the ridge on easy ground, before getting onto the ridge proper around 2050m. Most difficulties are then turned on the east side, with the odd small step climbed direct. Things lay back higher up. A final short scramble then leads to the summit.",
-				"ascent": "Nina Dickerhof, James Thornton April 2022"
+				"ascent": "Nina Dickerhof, James Thornton, April 2022"
 			}
 		],
-		"places": [
-			{
-				"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/main-divide/mt-trent/north-ridge",
-				"name": "North Ridge",
-				"altitude": null,
-				"description": null,
-				"latlng": null,
-				"routes": [],
-				"places": [],
-				"image": null,
-				"images": []
-			},
-			{
-				"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/main-divide/mt-trent/north-ridge-0",
-				"name": "North Ridge",
-				"altitude": null,
-				"description": null,
-				"latlng": null,
-				"routes": [],
-				"places": [],
-				"image": null,
-				"images": []
-			}
-		],
+		"places": [],
 		"image": null,
 		"images": []
 	},
