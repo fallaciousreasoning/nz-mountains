@@ -9831,19 +9831,6 @@
 				"ascent": "Evan Wilson, Jim Wilson, Andy Anderson, January 1931"
 			},
 			{
-				"name": "Ashburton Face",
-				"link": "https://climbnz.org.nz/nz/si/canterbury/arrowsmith-range/mt-arrowsmith/ashburton-face",
-				"image": null,
-				"grade": "3+",
-				"length": "",
-				"pitches": [],
-				"quality": 0,
-				"bolts": "",
-				"natural_pro": false,
-				"description": "This is a snow and ice climb up a broad snow face followed by one of a number of gullies to the\r\nsummit of Mt Arrowsmith. From the moraines at the head of the Hakatere River climb to the\r\nschrund at the bottom of the Ashburton Face. Climb a short, steep section alongside a steep\r\nrock rib to gain the slope above. Climb until a small ar\u00eate is reached, and from here either go left\r\nto snow slopes and gullies that join the South West Ridge, or head up steeper rock directly to\r\nthe summit. Usually in condition only from late winter to early summer, and subject to rock fall.",
-				"ascent": "Don Cowie, Jim Clark, November 1958"
-			},
-			{
 				"name": "Thompsons Track",
 				"link": "https://climbnz.org.nz/nz/si/canterbury/arrowsmith-range/mt-arrowsmith/thompsons-track",
 				"image": "https://climbnz.org.nz/sites/default/files/route/Thompsons%20Track.jpg",
@@ -9855,6 +9842,19 @@
 				"natural_pro": false,
 				"description": "Right-hand side of Ashburton Face. Snow and ice climb with several short \nmixed sections. FA: unknown. Kyle Walters, Michael Eatson October 2018.",
 				"ascent": ""
+			},
+			{
+				"name": "Ashburton Face",
+				"link": "https://climbnz.org.nz/nz/si/canterbury/arrowsmith-range/mt-arrowsmith/ashburton-face",
+				"image": null,
+				"grade": "3+",
+				"length": "",
+				"pitches": [],
+				"quality": 0,
+				"bolts": "",
+				"natural_pro": false,
+				"description": "This is a snow and ice climb up a broad snow face followed by one of a number of gullies to the\r\nsummit of Mt Arrowsmith. From the moraines at the head of the Hakatere River climb to the\r\nschrund at the bottom of the Ashburton Face. Climb a short, steep section alongside a steep\r\nrock rib to gain the slope above. Climb until a small ar\u00eate is reached, and from here either go left\r\nto snow slopes and gullies that join the South West Ridge, or head up steeper rock directly to\r\nthe summit. Usually in condition only from late winter to early summer, and subject to rock fall.",
+				"ascent": "Don Cowie, Jim Clark, November 1958"
 			},
 			{
 				"name": "East Ridge",
