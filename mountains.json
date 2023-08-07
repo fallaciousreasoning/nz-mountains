@@ -1300,8 +1300,8 @@
 						"pitches": [],
 						"quality": 0,
 						"bolts": "",
-						"natural_pro": false,
-						"description": "Easily viewed and accessed from lake 1023 (or ridge to SE).  300 vertical metres, 2 parts.  Follow prominent prow on lower face, then walk right on terrace (possible egress to S) to the upper prow.\r\n  \r\n\"Lowlands\" (lower prow):  Start from very toe of buttress up vegetated groove (or join rib higher up).  Where it steepens to vertical chimney, exciting moves right on clumps of scrub (18?) to a traverse around arete (hand and foot rails) to right, then up to small terrace.  On up buttress to a second large ledge.  Take grassy L angling groove L of crest; partway up break out right across slab (delicate for boots), max 15.  Follow weaknesses left of arete.\r\n\"Highlands\"(upper prow): Starting just right of lowest point of arete, climb white granite flakes to right facing corner, then up on or near crest to a ledge.  From here, easy ground slopes off to the left (optional start).  Climb up left of crest (thin slab to beautiful orange corner) to crux at steep black band on crest.  Face climb this beautiful compact rock on small holds (15) and scramble easily on up crest to ridge and summit.  Scramble off via SE ridge.",
+						"natural_pro": true,
+						"description": "Easily viewed and accessed from lake 1023 (or ridge to SE).  300 vertical metres, 2 parts.  Follow prominent prow on lower face, then walk right on terrace (possible egress to S) to the upper prow.\r\n\"Lowlands\" (lower prow):  Start from very toe of buttress up vegetated groove (or join rib higher up).  Where it steepens to vertical chimney, exciting moves right on clumps of scrub (18?) to a traverse around arete (hand and foot rails) to right, then up to small terrace.  On up buttress to a second large ledge.  Take grassy L angling groove L of crest; partway up break out right across slab (delicate for boots), max 15.  Follow weaknesses left of arete.\r\n\"Highlands\"(upper prow): Starting just right of lowest point of arete, climb white granite flakes to right facing corner, then up on or near crest to a ledge.  From here, easy ground slopes off to the left (optional start).  Climb up left of crest (thin slab to beautiful orange corner) to crux at steep black band on crest.  Face climb this beautiful compact rock on small holds (15) and scramble easily on up crest to ridge and summit.  Scramble off via SE ridge.",
 						"ascent": "Ruari Macfarlane, March 2020"
 					}
 				],
@@ -9794,11 +9794,11 @@
 		"image": null,
 		"images": []
 	},
-	"https://climbnz.org.nz/nz/si/canterbury/arrowsmith-range/mt-arrowsmith": {
-		"link": "https://climbnz.org.nz/nz/si/canterbury/arrowsmith-range/mt-arrowsmith",
+	"https://climbnz.org.nz/nz/si/canterbury-westland-alps/arrowsmith-range/mt-arrowsmith": {
+		"link": "https://climbnz.org.nz/nz/si/canterbury-westland-alps/arrowsmith-range/mt-arrowsmith",
 		"name": "Mt Arrowsmith",
 		"altitude": "2781m",
-		"description": "Mt Arrowsmith was first climbed by Hugh Wright and Jim Murphy in February 1912. They climbed\nfrom the Lawrence Valley but, initially mistaking Couloir Peak for Mt Arrowsmith, they ended up\na considerable distance north of their goal. They managed to climb Mt Arrowsmith after traversing\nfrom near Couloir Peak and climbing the North Ridge to the summit.",
+		"description": "Mt Arrowsmith was first climbed by Hugh Wright and Jim Murphy in February 1912. They climbed from the Lawrence Valley but, initially mistaking Couloir Peak for Mt Arrowsmith, they ended up a considerable distance north of their goal. They managed to climb Mt Arrowsmith after traversing from near Couloir Peak and climbing the North Ridge to the summit.",
 		"latlng": [
 			"-43.356767920000",
 			"170.977799040000"
@@ -9993,14 +9993,71 @@
 				"name": "Methven Dread",
 				"link": "https://climbnz.org.nz/nz/si/canterbury/arrowsmith-range/mt-arrowsmith/methven-dread",
 				"image": "https://climbnz.org.nz/sites/default/files/route/methven%20dread_0.png",
-				"grade": "16",
-				"length": "190m",
-				"pitches": [],
+				"grade": "16,16,14,15",
+				"length": "195m",
+				"pitches": [
+					{
+						"ewbank": "16",
+						"alpine": "",
+						"commitment": "",
+						"mtcook": "",
+						"aid": "",
+						"ice": "",
+						"mixed": "",
+						"boulder": "",
+						"length": "50m",
+						"bolts": "",
+						"trad": true,
+						"description": "Climb out of the 'schrund up left facing corner to obvious hand crack on face. Step right around corner at horizontal feature, then back left to avoid roof.  Belay in diagonal groove."
+					},
+					{
+						"ewbank": "16",
+						"alpine": "",
+						"commitment": "",
+						"mtcook": "",
+						"aid": "",
+						"ice": "",
+						"mixed": "",
+						"boulder": "",
+						"length": "45m",
+						"bolts": "",
+						"trad": true,
+						"description": "Continue along grove aiming for the top right corner of roof to belay."
+					},
+					{
+						"ewbank": "14",
+						"alpine": "",
+						"commitment": "",
+						"mtcook": "",
+						"aid": "",
+						"ice": "",
+						"mixed": "",
+						"boulder": "",
+						"length": "40m",
+						"bolts": "",
+						"trad": true,
+						"description": "Through roof onto face and up to belay in large blocky corner."
+					},
+					{
+						"ewbank": "15",
+						"alpine": "",
+						"commitment": "",
+						"mtcook": "",
+						"aid": "",
+						"ice": "",
+						"mixed": "",
+						"boulder": "",
+						"length": "60m",
+						"bolts": "",
+						"trad": true,
+						"description": "Follow prow to the top."
+					}
+				],
 				"quality": 2,
 				"bolts": "",
-				"natural_pro": false,
-				"description": "A good route and much easier than initially expected. Starts left of the \ncentral slabs.\n\nPitch:\n1. (16, 50m) Climb out of the 'schrund up left facing corner to obvious hand \ncrack on face. Step right around corner at horizontal feature, then back left \nto avoid roof.  Belay in diagonal groove.\n\n2. (16, 45m) Continue along grove aiming for the top right corner of roof to \nbelay.\n\n3. (14, 40m) Through roof onto face and up to belay in large blocky corner.\n\n4. (15, 60m) Follow prow to the top.\n\nPlenty of variation exists.",
-				"ascent": "Michael Eatson, Tawny Wagstaff, Trev Ponting. April 2016."
+				"natural_pro": true,
+				"description": "A good route and much easier than initially expected. Starts left of the central slabs. Plenty of variation exists.",
+				"ascent": "Michael Eatson, Tawny Wagstaff, Trev Ponting, April 2016"
 			}
 		],
 		"places": [],
@@ -14457,8 +14514,8 @@
 						"ascent": "Daniel Joll, Pete Harris"
 					},
 					{
-						"name": "Uren - Skelton",
-						"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/barrier-pk/south-face/uren-skelton",
+						"name": "Uren\u2013Skelton",
+						"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/barrier-pk/south-face/uren%E2%80%93skelton",
 						"image": null,
 						"grade": "19",
 						"length": "",
@@ -14466,7 +14523,7 @@
 						"quality": 1,
 						"bolts": "",
 						"natural_pro": false,
-						"description": "5 0 6 pitches",
+						"description": "Traverse snow ramp quite a ways right until just before the buttress that separates Barrier from Marian forces you down. Start up an obvious crack aiming for a distinct, detached pillar of rock that looks like a thumb. The original ascent attempted to climb a roof below and on the way to this thumb, before being subdued back into the corner. The corner offers four pitches of fun, well protected climbing with a little spice on each pitch. The thumb awaits an ascent if a would-be climber can fight through the well protected roof (25ish). 5\u20136 pitches in total.",
 						"ascent": "Al Uren, Steve Skelton, March 2014"
 					}
 				],
@@ -18925,7 +18982,7 @@
 				"link": "https://climbnz.org.nz/nz/si/darrans/wick-mountains/charismatic-wall-pt-1655/wild-dykes",
 				"image": "https://climbnz.org.nz/sites/default/files/routes/5A9A1CD0-DB56-44CE-B2D0-160A3A126E5F.jpeg",
 				"grade": "21,20,19,18,20,15,17,22,20,18,20,23,21,21,17,16,16",
-				"length": "451m",
+				"length": "453m",
 				"pitches": [
 					{
 						"ewbank": "21",
@@ -18937,9 +18994,9 @@
 						"mixed": "",
 						"boulder": "",
 						"length": "30m",
-						"bolts": "30",
+						"bolts": "3",
 						"trad": true,
-						"description": "21 30m Start on easy slab to a high first bolt head then up via small overhanging nose on trad to bolt on slab. Reach high to jug rail stepping right then up crack to belay. 3 bolts and trad"
+						"description": "Start on easy slab to a high first bolt head then up via small overhanging nose on trad to bolt on slab. Reach high to jug rail stepping right then up crack to belay. 3 bolts and trad"
 					},
 					{
 						"ewbank": "20",
@@ -18953,7 +19010,7 @@
 						"length": "30m",
 						"bolts": "2",
 						"trad": true,
-						"description": "20 30m  Step left off belay to a good cam then up and right following jugs on the dyke. 2 bolts and right traverse to anchor."
+						"description": "Step left off belay to a good cam then up and right following jugs on the dyke. 2 bolts and right traverse to anchor."
 					},
 					{
 						"ewbank": "19",
@@ -18967,7 +19024,7 @@
 						"length": "30m",
 						"bolts": "4",
 						"trad": true,
-						"description": "19 30m Climb straight up past 4 bolts to a tricky move to a jug. After the forth bolt once standing on the face move left and follow an easy crack on the edge of the white dyke up to belay From there easy trad to anchor."
+						"description": "Climb straight up past 4 bolts to a tricky move to a jug. After the forth bolt once standing on the face move left and follow an easy crack on the edge of the white dyke up to belay From there easy trad to anchor."
 					},
 					{
 						"ewbank": "18",
@@ -18981,7 +19038,7 @@
 						"length": "25m",
 						"bolts": "1",
 						"trad": true,
-						"description": "18 25m Climb directly above the belay aiming for a good jug on the face right of the arete ( #2 cam fits in here. ) follow finger crack right of jug up face to a bolt then easy run out up and left to anchor on ledge. Junction of carasmatic marketing movement"
+						"description": "Climb directly above the belay aiming for a good jug on the face right of the arete ( #2 cam fits in here. ) Follow finger crack right of jug up face to a bolt then easy run out up and left to anchor on ledge. Junction of Charismatic Marketing Movement."
 					},
 					{
 						"ewbank": "20",
@@ -18995,7 +19052,7 @@
 						"length": "30m",
 						"bolts": "5",
 						"trad": true,
-						"description": "20 30m climb up and right of belay to bolt. At second bolt climb carefully past hollow flakes. 5 bolts plus gear"
+						"description": "Climb up and right of belay to bolt. At second bolt climb carefully past hollow flakes. 5 bolts plus gear"
 					},
 					{
 						"ewbank": "15",
@@ -19009,7 +19066,7 @@
 						"length": "30m",
 						"bolts": "1",
 						"trad": true,
-						"description": "15 30m 1 bolt trad. Climb up and right following the clean slab to a bolt and friction move below the belay on a large ledge. Attention when rapping this pitch. Rope stretching 30m rap.\r\nBivy Ledge. 2 x 20l water buckets in position. Possible single bivy platforms for 2-3 people. 1 person at the belay and 1-2 people 15m below on a small ledge."
+						"description": "Climb up and right following the clean slab to a bolt and friction move below the belay on a large ledge. Attention when rapping this pitch. Rope stretching 30m rap.\nBivy Ledge: 2 x 20L water buckets in position. Possible single bivy platforms for 2-3 people. 1 person at the belay and 1-2 people 15m below on a small ledge."
 					},
 					{
 						"ewbank": "17",
@@ -19023,7 +19080,7 @@
 						"length": "18m",
 						"bolts": "2",
 						"trad": true,
-						"description": "17 18m Move up and right past two bolts to a hidden corner. Continue up this corner on trad to a ledge 120cm long slings at base of corner to avoid rope drag."
+						"description": "Move up and right past two bolts to a hidden corner. Continue up this corner on trad to a ledge 120cm long slings at base of corner to avoid rope drag."
 					},
 					{
 						"ewbank": "22",
@@ -19037,7 +19094,7 @@
 						"length": "30m",
 						"bolts": "7",
 						"trad": true,
-						"description": "22 30m up and right past two bolts and hard moves under a small roof. Then up past gear and 5 more bolts to belay"
+						"description": "Up and right past two bolts and hard moves under a small roof. Then up past gear and 5 more bolts to belay"
 					},
 					{
 						"ewbank": "20",
@@ -19048,10 +19105,10 @@
 						"ice": "",
 						"mixed": "",
 						"boulder": "",
-						"length": "30m",
+						"length": "25m",
 						"bolts": "8",
 						"trad": true,
-						"description": "20 25m 8 bolts plus gear.\nClimb up and left off belay. Past 3 bolts to crux. Then follow jugs through overlap."
+						"description": "Climb up and left off belay. Past 3 bolts to crux. Then follow jugs through overlap."
 					},
 					{
 						"ewbank": "18",
@@ -19065,7 +19122,7 @@
 						"length": "25m",
 						"bolts": "2",
 						"trad": true,
-						"description": "18 25m head right on ramp for 10m the up left facing corner. Look for bolt out right. Hand traverse out right to easy groove and belay."
+						"description": "Head right on ramp for 10m the up left facing corner. Look for bolt out right. Hand traverse out right to easy groove and belay."
 					},
 					{
 						"ewbank": "20",
@@ -19079,7 +19136,7 @@
 						"length": "25m",
 						"bolts": "4",
 						"trad": true,
-						"description": "20 25m 4 bolts\nHead left off belay down low. Up past two bolts on wild prow. Join the right tending ramp with gear for 10 m and then up left past bolt and up. To easy left traverse To belay. On th\u00e9 ramp if you look up and right you see some of the bolts from the unfinished rap bolted line to the right of the route. Don\u2019t head up and right to the far bolt at the end of the ramp. The pitch heads up and back left to finish in the wet corner directly above the belay of pitch 9.\nThe rap line goes down this corner. 25m rap straight down corner, then 20m rap to reach belay of pitch 9."
+						"description": "Head left off belay down low. Up past two bolts on wild prow. Join the right tending ramp with gear for 10 m and then up left past bolt and up. To easy left traverse To belay. On th\u00e9 ramp if you look up and right you see some of the bolts from the unfinished rap bolted line to the right of the route. Don\u2019t head up and right to the far bolt at the end of the ramp. The pitch heads up and back left to finish in the wet corner directly above the belay of pitch 9.\nThe rap line goes down this corner. 25m rap straight down corner, then 20m rap to reach belay of pitch 9."
 					},
 					{
 						"ewbank": "23",
@@ -19093,7 +19150,7 @@
 						"length": "27m",
 						"bolts": "4",
 						"trad": true,
-						"description": "23 27m 4 bolts plus gear. (Single rack + 2x 0.75&1)\nClimb up hollow flake( be careful) past two bolts. Hard mantle and face above. Climb middle clean crack up and left to jugs at the lip. Up 5m to stance belay.\nAvoid chossy crack and blocks on the right."
+						"description": "Single rack + 2x 0.75&1. Climb up hollow flake( be careful) past two bolts. Hard mantle and face above. Climb middle clean crack up and left to jugs at the lip. Up 5m to stance belay. Avoid chossy crack and blocks on the right."
 					},
 					{
 						"ewbank": "21",
@@ -19107,7 +19164,7 @@
 						"length": "28m",
 						"bolts": "3",
 						"trad": true,
-						"description": "21 28m\n3 bolt plus single rack\nClimb face above belay.then up right trending ramp for 5m. Head up. Place a # 1 then layback up the face past 2 bolts."
+						"description": "Single rack. Climb face above belay.then up right trending ramp for 5m. Head up. Place a # 1 then layback up the face past 2 bolts."
 					},
 					{
 						"ewbank": "21",
@@ -19121,7 +19178,7 @@
 						"length": "28m",
 						"bolts": "5",
 						"trad": true,
-						"description": "21 28m\n5 bolts and gear. Single rack to #3\nClimb out left past dyke. Up slab past 3 bolts. At the 4th bolt stand up and go right up seam/ dyke. Step low at last bolt then up on jugs."
+						"description": "Single rack to #3. Climb out left past dyke. Up slab past 3 bolts. At the 4th bolt stand up and go right up seam/ dyke. Step low at last bolt then up on jugs."
 					},
 					{
 						"ewbank": "17",
@@ -19132,10 +19189,10 @@
 						"ice": "",
 						"mixed": "",
 						"boulder": "",
-						"length": "25m",
+						"length": "27m",
 						"bolts": "5",
 						"trad": true,
-						"description": "17 27m 5 bolts and gear.\nLeave belay to the right and up ramp. Drift slowly right on slabs and overlaps. Wild Dykes joins the unfinished rap bolted project at the last bolt of this pitch.  The final two pitches are shared with this route."
+						"description": "Leave belay to the right and up ramp. Drift slowly right on slabs and overlaps. Wild Dykes joins the unfinished rap bolted project at the last bolt of this pitch. The final two pitches are shared with this route."
 					},
 					{
 						"ewbank": "16",
@@ -19149,7 +19206,7 @@
 						"length": "20m",
 						"bolts": "3",
 						"trad": true,
-						"description": "16 20m 3 bolts and gear.\nUp slab and Onto big flake.At top of flake straight up the face. Belay on the big ledge below the finger crack."
+						"description": "Up slab and onto big flake. At top of flake straight up the face. Belay on the big ledge below the finger crack."
 					},
 					{
 						"ewbank": "16",
@@ -19160,17 +19217,17 @@
 						"ice": "",
 						"mixed": "",
 						"boulder": "",
-						"length": "20m",
+						"length": "25m",
 						"bolts": "",
 						"trad": true,
-						"description": "16 25m 0 bolts. Climb splitter fingers to the summit."
+						"description": "Climb splitter fingers to the summit."
 					}
 				],
 				"quality": 2,
-				"bolts": "86",
+				"bolts": "59",
 				"natural_pro": true,
-				"description": "Wild Dykes\r\n650m , 24 pitches , 23\r\n\r\nRack 10-12 draws , single set nuts, single cams .2,2,3 doubles .3-1.\r\nEstablished ground up over 3.5 days of climbing and five days total on the wall. The route can be rapped with a single 60m rope.\r\n \r\nApproach via the first 7 pitches of Uprising.\r\n \r\nOnce reaching the upper wall move right past uprising along the ledge to a fixed rope. At the base of the route there are singular bivy spots for 3 people. A 20L water bucket is in place 2m above the ring bolt of the fixed line on a small ledge.",
-				"ascent": "Llewellyn Murdoch & Daniel Joll Feb 2022"
+				"description": "650m, 24 pitches, 23\r\nRack 10-12 draws , single set nuts, single cams .2,2,3 doubles .3-1.\r\nEstablished ground up over 3.5 days of climbing and five days total on the wall. The route can be rapped with a single 60m rope.\r\nApproach via the first 7 pitches of Uprising.\r\n \r\nOnce reaching the upper wall move right past uprising along the ledge to a fixed rope. At the base of the route there are singular bivy spots for 3 people. A 20L water bucket is in place 2m above the ring bolt of the fixed line on a small ledge.",
+				"ascent": "Llewellyn Murdoch, Daniel Joll, February 2022"
 			},
 			{
 				"name": "Seven Nation Army",
@@ -19964,7 +20021,7 @@
 						"quality": 0,
 						"bolts": "",
 						"natural_pro": false,
-						"description": "The long blunt arete to the left",
+						"description": "The long blunt arete to the left.",
 						"ascent": "Mark Whetu"
 					},
 					{
@@ -19978,7 +20035,7 @@
 						"bolts": "4",
 						"natural_pro": true,
 						"description": "",
-						"ascent": "AndyTindall jan 2017"
+						"ascent": "AndyTindall, January 2017"
 					},
 					{
 						"name": "Red Rocket",
@@ -19991,7 +20048,7 @@
 						"bolts": "",
 						"natural_pro": true,
 						"description": "",
-						"ascent": "Dave Lewis Jan 2017"
+						"ascent": "Dave Lewis, January 2017"
 					},
 					{
 						"name": "Beggar For Punishment",
@@ -20010,56 +20067,13 @@
 						"name": "The Offering",
 						"link": "https://climbnz.org.nz/nz/si/aoraki/malte-brun-range/mt-chudleigh/langdale-buttress/offering",
 						"image": "https://climbnz.org.nz/sites/default/files/routes/The%20Offering%20Langdale%20Buttress.jpg",
-						"grade": "16,15,17,18,18",
-						"length": "",
-						"pitches": [
-							{
-								"ewbank": "16",
-								"alpine": "",
-								"commitment": "",
-								"mtcook": "",
-								"aid": "",
-								"ice": "",
-								"mixed": "",
-								"boulder": "",
-								"length": "0m",
-								"bolts": "",
-								"trad": false,
-								"description": "15"
-							},
-							{
-								"ewbank": "17",
-								"alpine": "",
-								"commitment": "",
-								"mtcook": "",
-								"aid": "",
-								"ice": "",
-								"mixed": "",
-								"boulder": "",
-								"length": "0m",
-								"bolts": "",
-								"trad": false,
-								"description": "18"
-							},
-							{
-								"ewbank": "18",
-								"alpine": "",
-								"commitment": "",
-								"mtcook": "",
-								"aid": "",
-								"ice": "",
-								"mixed": "",
-								"boulder": "",
-								"length": "0m",
-								"bolts": "",
-								"trad": false,
-								"description": null
-							}
-						],
+						"grade": "16",
+						"length": "150m",
+						"pitches": [],
 						"quality": 0,
-						"bolts": "",
+						"bolts": "10",
 						"natural_pro": false,
-						"description": "\u201cThe Offering\u201d 150m, 16,15, 17,18,18. Langdale Buttress, 10 quickdraws, 1 x 60m rope. Very good to superb quality rock. Scaled, bolted and red pointed by Mt Cook Ski Club.",
+						"description": "Five 30m pitches: 16,15, 17,18,18. Take 10 quickdraws, 1 x 60m rope. Very good to superb quality rock. Scaled, bolted and red pointed by Mt Cook Ski Club.",
 						"ascent": "Mt Cook Ski Club"
 					},
 					{
@@ -20085,8 +20099,8 @@
 						"quality": 0,
 						"bolts": "",
 						"natural_pro": true,
-						"description": "Just to the right of the lowest part of the Langdale Buttress is an obvious ar\u00eate \t\t7 pitches.",
-						"ascent": "Marty Beare, Rob Collister, 1988."
+						"description": "Just to the right of the lowest part of the Langdale Buttress is an obvious ar\u00eate (7 pitches).",
+						"ascent": "Marty Beare, Rob Collister, 1988"
 					}
 				],
 				"places": [],
@@ -20992,7 +21006,7 @@
 				"bolts": "32",
 				"natural_pro": true,
 				"description": "Scramble along base of the face on the left side of the Great Prow. Climb a pitch up an off-width crack and keep moving left until you meet the saddle. The next pitch starts at the top of a small stepped ramp above the saddle point of the saddle.",
-				"ascent": "Grant Piper, Bernie Frankpitt and Greg Low 2021,  equiped, but open for ascent."
+				"ascent": "Grant Piper, Bernie Frankpitt, Greg Low, 2021 (equipped, but open for ascent)"
 			}
 		],
 		"places": [
@@ -22927,7 +22941,7 @@
 		"link": "https://climbnz.org.nz/nz/si/canterbury/arrowsmith-range/couloir-pk",
 		"name": "Couloir Pk",
 		"altitude": "2642m",
-		"description": "After Hugh Wright and Jim Murphy abandoned their attempt in 1912, to make the first ascent of Mt\nArrowsmith, Couloir wasn\u2019t climbed until 1934. There are several options from Lawrence River.\nThe Couloir is the classic route to the summit of Couloir Peak, pioneered by the redoubtable Stan\nConway and Tom Newth and the scene of their legendary 2500-foot fall during a storm on the\ndescent. After their successful climb, an avalanche knocked Tom off his feet, he collided with Stan and\nthey tumbled down the couloir in a long series of arcs, alternately airborne, then pounding into the ice\nas the rope between them became taught and reined in their flight. Eventually the rope coiled around\nTom and the arcing stopped. One last flight saw them clear rocks at the bottom of the couloir before\nhitting the n\u00e9v\u00e9 and rolling to a stop millimetres from the edge of a crevasse. Both were injured, with\nStan having to be evacuated by horse. Despite this, Tom was able to show up for work the next day\nand the incident was glossed over \u2013 although it was more than 20 years before the route was repeated.",
+		"description": "After Hugh Wright and Jim Murphy abandoned their attempt in 1912, to make the first ascent of Mt Arrowsmith, Couloir wasn\u2019t climbed until 1934. There are several options from Lawrence River. The Couloir is the classic route to the summit of Couloir Peak, pioneered by the redoubtable Stan Conway and Tom Newth and the scene of their legendary 2500-foot fall during a storm on the descent. After their successful climb, an avalanche knocked Tom off his feet, he collided with Stan and they tumbled down the couloir in a long series of arcs, alternately airborne, then pounding into the ice as the rope between them became taught and reined in their flight. Eventually the rope coiled around Tom and the arcing stopped. One last flight saw them clear rocks at the bottom of the couloir before hitting the n\u00e9v\u00e9 and rolling to a stop millimetres from the edge of a crevasse. Both were injured, with Stan having to be evacuated by horse. Despite this, Tom was able to show up for work the next day and the incident was glossed over \u2013 although it was more than 20 years before the route was repeated.",
 		"latlng": [
 			"-43.341222000000",
 			"170.989752000000"
@@ -23038,7 +23052,7 @@
 				"quality": 0,
 				"bolts": "",
 				"natural_pro": false,
-				"description": "Direct route on East Face of Couloir Peak (2642m)\n\n From Cameron Hut, allow 5h for the approach, 7h for the climb, and 7h for the \ndescent back to the hut.\n\nApproach \u2013 Up Cameron Glacier past icefall to glacier confluence (1700m). \nTurn left, ascend to 1950m. Then take a right up a steep (50 degree) ice \nslope to eventually arrive at the base of a prominent corner directly below \nthe summit (2300m). Start 10m right of the main corner.\n\nPitch 1 (40m, 16) \u2013 up crack until under roof (20m). Turn the roof by \ntraversing left onto the face (crux). Ascend slabs to belay ledge.  Good \nrock.\nPitch 2 (15m, 15) \u2013 up corner to belay ledge\nPitch 3 (40m, 14) - traverse right out of crack and around ar\u00eate for 10m. \nThen up a series of ledges on quality rock\nPitch 4 (40m, 12) \u2013 follow cracks up to large ledge\nPitch 5 (35m, 10) \u2013 down right into gravel, then ascend loose easy ledges \narriving at a red corner.\nPitch 6 (20m, 12) \u2013 right and up to top ledge up crumbly, difficult to \nprotect, rock. Scary pitch.\nPitch 7 (30m, 15) - traverse left past red corner then up fissure past \ndetached pillar and around corner\nPitch 8 (45m, 12) \u2013 traverse 10m left then directly up. Follow a series of \ncracks to wide ledge.\nPitch 9 (100m, 10) \u2013 Easy scramble up and right. Simul-climb this pitch \ntaking care rope drag doesn\u2019t drop loose rock on partner below.\nPitch 10 (100m, 10) \u2013 Easy scramble.\n From the summit ridge it is a further 100m traverse past af gendarme to the \nsummit (2642m).\n\nDescent \u2013 continue traversing 100m along summit ridge to the SW until at \nsmall col above a steep snow/ice couloir on the TL. Descend this steep \ncouloir at first (a rap may be required) for 250m (vertical) to a wide \nsnowfield. Continue along this 600m to the right staying to the west of the \nridge on easy ground, crossing point 2474, and eventually arriving at Cameron \nCol (2427m). Cross the Col and traverse a further 200m due south across the \nglacier and then carefully turn to descend 700m of steep snow/ice to arrive \nback at the glacier confluence (1700m).",
+				"description": "Direct route on East Face of Couloir Peak (2642m). From Cameron Hut, allow 5h for the approach, 7h for the climb, and 7h for the \r\ndescent back to the hut.\r\nApproach \u2013 Up Cameron Glacier past icefall to glacier confluence (1700m). \r\nTurn left, ascend to 1950m. Then take a right up a steep (50 degree) ice slope to eventually arrive at the base of a prominent corner directly below the summit (2300m). Start 10m right of the main corner.\r\n\r\nPitch 1 (40m, 16) \u2013 up crack until under roof (20m). Turn the roof by \r\ntraversing left onto the face (crux). Ascend slabs to belay ledge.  Good \r\nrock.\r\nPitch 2 (15m, 15) \u2013 up corner to belay ledge\r\nPitch 3 (40m, 14) - traverse right out of crack and around ar\u00eate for 10m. \r\nThen up a series of ledges on quality rock\r\nPitch 4 (40m, 12) \u2013 follow cracks up to large ledge\r\nPitch 5 (35m, 10) \u2013 down right into gravel, then ascend loose easy ledges \r\narriving at a red corner.\r\nPitch 6 (20m, 12) \u2013 right and up to top ledge up crumbly, difficult to \r\nprotect, rock. Scary pitch.\r\nPitch 7 (30m, 15) - traverse left past red corner then up fissure past \r\ndetached pillar and around corner\r\nPitch 8 (45m, 12) \u2013 traverse 10m left then directly up. Follow a series of \r\ncracks to wide ledge.\r\nPitch 9 (100m, 10) \u2013 Easy scramble up and right. Simul-climb this pitch \r\ntaking care rope drag doesn\u2019t drop loose rock on partner below.\r\nPitch 10 (100m, 10) \u2013 Easy scramble.\r\n From the summit ridge it is a further 100m traverse past af gendarme to the \r\nsummit (2642m).\r\n\r\nDescent \u2013 continue traversing 100m along summit ridge to the SW until at \r\nsmall col above a steep snow/ice couloir on the TL. Descend this steep \r\ncouloir at first (a rap may be required) for 250m (vertical) to a wide \r\nsnowfield. Continue along this 600m to the right staying to the west of the \r\nridge on easy ground, crossing point 2474, and eventually arriving at Cameron \r\nCol (2427m). Cross the Col and traverse a further 200m due south across the \r\nglacier and then carefully turn to descend 700m of steep snow/ice to arrive \r\nback at the glacier confluence (1700m).",
 				"ascent": ""
 			}
 		],
@@ -26573,7 +26587,7 @@
 						"name": "Dairy for Life",
 						"link": "https://climbnz.org.nz/nz/si/otago/the-remarkables/double-cone/west-face/dairy-life",
 						"image": "https://climbnz.org.nz/sites/default/files/route/unnamed%20%289%29.jpg",
-						"grade": "18 ,20 ,17 ,16 ,17 ,18 ,",
+						"grade": "18,20,17,16,17,18,",
 						"length": "315m",
 						"pitches": [
 							{
@@ -26678,8 +26692,8 @@
 						"quality": 1,
 						"bolts": "",
 						"natural_pro": true,
-						"description": "Starts 20m left of Old Guard on top of scree ledges. Six pitches of climbing \nwith 100m of scrambling direct to the summit of South Peak of Double Cone.\n\nFull rack of trad gear needed and small gear including RPs is useful. Cams up \nto BD4.",
-						"ascent": "Dean Dunning, Matt Wilkinson, Jan 2nd 2016"
+						"description": "Starts 20m left of Old Guard on top of scree ledges. Six pitches of climbing with 100m of scrambling direct to the summit of South Peak of Double Cone.\r\nFull rack of trad gear needed and small gear including RPs is useful. Cams up to BD4.",
+						"ascent": "Dean Dunning, Matt Wilkinson, 2 January 2016"
 					},
 					{
 						"name": "Old Guard",
@@ -27041,7 +27055,7 @@
 						"quality": 3,
 						"bolts": "",
 						"natural_pro": true,
-						"description": "When a Pilsner is not enough.  This alternate start to Pull me a Pilsner is \nan excellent variation for those wanting to add a bit of difficulty to there \ndays climbing.  Alternatively climb it as a single pitch route after \nfinishing Pull Me  Pilsner.  There is a double bolt belay at the end of the \n12m long overhanging seam.\n\nWhen standing at the base of Pull Me A Pilsner look to your right and you \nwill see the overhanging seam heading up to an arete.  M7 12m\n\n From the first belay continue up the crack to a stance, then continue this \ncrack line on the right of the arete stepping further right at the end of the \ncrack to top out onto the ledge and second pitch belay of Pull Me A Pilsner. \n18m. M4-5  Double bolt chain belay.",
+						"description": "When a Pilsner is not enough.  This alternate start to Pull me a Pilsner is \r\nan excellent variation for those wanting to add a bit of difficulty to their \r\ndays climbing.  Alternatively climb it as a single pitch route after \r\nfinishing Pull Me Pilsner.  There is a double bolt belay at the end of the \r\n12m long overhanging seam.\r\n\r\nWhen standing at the base of Pull Me A Pilsner look to your right and you \r\nwill see the overhanging seam heading up to an arete.  M7 12m\r\n\r\n From the first belay continue up the crack to a stance, then continue this \r\ncrack line on the right of the arete stepping further right at the end of the \r\ncrack to top out onto the ledge and second pitch belay of Pull Me A Pilsner. \r\n18m. M4-5  Double bolt chain belay.",
 						"ascent": "Daniel Joll, Steve Fortune August 2016"
 					},
 					{
@@ -29472,7 +29486,7 @@
 				"quality": 0,
 				"bolts": "",
 				"natural_pro": true,
-				"description": "The West Face, has tonnes of potential for other, harder, routes but it would \nneed bolts as there are few opportunities for gear. The rock is simply \nstunning.",
+				"description": "Goes to the left of the right skyline. It is about grade 16. But on very compact rock with few anchors. The west face has tonnes of potential for other, harder, routes but it would need bolts as there are few opportunities for gear. The rock is simply stunning.",
 				"ascent": "Derek Chinn, Martin Hawes, 2014"
 			},
 			{
@@ -29876,14 +29890,113 @@
 				"name": "Euclidean Geometry",
 				"link": "https://climbnz.org.nz/nz/si/westland/paparoa-range/mt-euclid/euclidean-geometry",
 				"image": "https://climbnz.org.nz/sites/default/files/route/Mt%20Euclid%20Route%20topo.jpg",
-				"grade": "19",
+				"grade": "17,18,19,18,17,14,10",
 				"length": "240m",
-				"pitches": [],
+				"pitches": [
+					{
+						"ewbank": "17",
+						"alpine": "",
+						"commitment": "",
+						"mtcook": "",
+						"aid": "",
+						"ice": "",
+						"mixed": "",
+						"boulder": "",
+						"length": "30m",
+						"bolts": "",
+						"trad": true,
+						"description": "Start up left slanting groove, left of main central gash in buttress. After 20m traverse to pillar on arete and move around corner to belay on small ledge."
+					},
+					{
+						"ewbank": "18",
+						"alpine": "",
+						"commitment": "",
+						"mtcook": "",
+						"aid": "",
+						"ice": "",
+						"mixed": "",
+						"boulder": "",
+						"length": "30m",
+						"bolts": "",
+						"trad": true,
+						"description": "Start up corner, delicately traverse left and up, onto slab up to a belay in corner."
+					},
+					{
+						"ewbank": "19",
+						"alpine": "",
+						"commitment": "",
+						"mtcook": "",
+						"aid": "",
+						"ice": "",
+						"mixed": "",
+						"boulder": "",
+						"length": "32m",
+						"bolts": "",
+						"trad": true,
+						"description": "Climb the corner and chimney through a large protruding flake, mantle and continue up corner to a belay out right on ledge left of roofs."
+					},
+					{
+						"ewbank": "18",
+						"alpine": "",
+						"commitment": "",
+						"mtcook": "",
+						"aid": "",
+						"ice": "",
+						"mixed": "",
+						"boulder": "",
+						"length": "28m",
+						"bolts": "",
+						"trad": true,
+						"description": "Climb the thin face right of belay, trend left using narrow ledges to access best cracks up face. Exit onto grassy ledge using crack out left."
+					},
+					{
+						"ewbank": "17",
+						"alpine": "",
+						"commitment": "",
+						"mtcook": "",
+						"aid": "",
+						"ice": "",
+						"mixed": "",
+						"boulder": "",
+						"length": "40m",
+						"bolts": "",
+						"trad": true,
+						"description": "From grassy ledge climb up the blocky gully to the next grassy ledge.  belay up left. Make sure to bring slings for the chock stones."
+					},
+					{
+						"ewbank": "14",
+						"alpine": "",
+						"commitment": "",
+						"mtcook": "",
+						"aid": "",
+						"ice": "",
+						"mixed": "",
+						"boulder": "",
+						"length": "30m",
+						"bolts": "",
+						"trad": true,
+						"description": "Up a blocky wall to toe of summit ridge. A more direct finish could be done up the prominent pillar and open book corner above pitch 5."
+					},
+					{
+						"ewbank": "10",
+						"alpine": "",
+						"commitment": "",
+						"mtcook": "",
+						"aid": "",
+						"ice": "",
+						"mixed": "",
+						"boulder": "",
+						"length": "50m",
+						"bolts": "",
+						"trad": true,
+						"description": "Scramble up blocky summit ridge to summit of slightly lower peak."
+					}
+				],
 				"quality": 2,
 				"bolts": "",
 				"natural_pro": true,
-				"description": "1) 17, 30m. Start up left slanting groove, left of main central gash in \nbuttress. After 20m traverse to pillar on arete and move around corner to \nbelay on small ledge.\n2) 18, 30m. Start up corner, delicately traverse left and up, onto slab up to \na belay in corner.\n3) 19, 32m. Climb the corner and chimney through a large protruding flake, \nmantle and continue up corner to a belay out right on ledge left of roofs.\n4) 18, 28m. Climb the thin face right of belay, trend left using narrow \nledges to access best cracks up face. Exit onto grassy ledge using crack out \nleft.\n5) 17, 40m. From grassy ledge climb up the blocky gully to the next grassy \nledge.  belay up left. Make sure to bring slings for the chock stones\n6) 14, 30m. Up a blocky wall to toe of summit ridge.\n7) 10, 50m. Scramble up blocky summit ridge to summit of slightly lower peak.\n\nA more direct finish could be done up the prominent pillar and open book \ncorner above pitch 5.",
-				"ascent": "Peter Joynt, Alastair McDowell, Jan 2015"
+				"description": "",
+				"ascent": "Peter Joynt, Alastair McDowell, January 2015"
 			}
 		],
 		"places": [
@@ -36323,8 +36436,8 @@
 						"quality": 0,
 						"bolts": "",
 						"natural_pro": false,
-						"description": "This route seems to have been unaffected by the\r\nrockfall. The usual start is about 20-30m left of the very steep cliff on the left side of the rockfall\r\ngully, but there are a few different versions.\r\nClimb about five pitches of steep terrain to join\r\nRoute 3.47 at an obvious small shelf.",
-						"ascent": "Lionel Clay, Richard Kirk, Aug 1986"
+						"description": "This route seems to have been unaffected by the rockfall. The usual start is about 20-30m left of the very steep cliff on the left side of the rockfall gully, but there are a few different versions. Climb about five pitches of steep terrain to join Route 3.47 at an obvious small shelf.",
+						"ascent": "Lionel Clay, Richard Kirk, August 1986"
 					},
 					{
 						"name": "The Curver Neo-classic",
@@ -38798,11 +38911,11 @@
 		"image": null,
 		"images": []
 	},
-	"https://climbnz.org.nz/nz/si/canterbury/arrowsmith-range/jagged-pk": {
-		"link": "https://climbnz.org.nz/nz/si/canterbury/arrowsmith-range/jagged-pk",
+	"https://climbnz.org.nz/nz/si/canterbury-westland-alps/arrowsmith-range/jagged-pk": {
+		"link": "https://climbnz.org.nz/nz/si/canterbury-westland-alps/arrowsmith-range/jagged-pk",
 		"name": "Jagged Pk",
 		"altitude": "2706m",
-		"description": "Arrowsmith Range",
+		"description": null,
 		"latlng": [
 			"-43.333033890000",
 			"171.010657970000"
@@ -42609,8 +42722,8 @@
 				"pitches": [],
 				"quality": 0,
 				"bolts": "",
-				"natural_pro": false,
-				"description": "Begin from snowfield near the centre of the south face, angling rightward. \nCross a minor snow shute, and climb past the TV slab. Continue up the \nnarrowing ramp to reach the summit ridge. 13 pitches of climbing up to grade \n13, but little protection available. Descent by abseil off the waka taua, \nthen over the low summit and down the east ridge.",
+				"natural_pro": true,
+				"description": "Begin from snowfield near the centre of the south face, angling rightward. Cross a minor snow shute, and climb past the TV slab. Continue up the narrowing ramp to reach the summit ridge. 13 pitches of climbing up to grade 13, but little protection available. Descent by abseil off the waka taua, then over the low summit and down the east ridge.",
 				"ascent": "Ross Cullen, Bill McLeod, December 2002"
 			},
 			{
@@ -49288,7 +49401,10 @@
 		"name": "Mt Moir",
 		"altitude": "1965m",
 		"description": "Mt Moir contains a wealth of classic rock routes on amazing diorite.",
-		"latlng": null,
+		"latlng": [
+			"-44.772670000000",
+			"167.977180000000"
+		],
 		"routes": [
 			{
 				"name": "Original Route",
@@ -49539,14 +49655,43 @@
 						"name": "Vindaloo",
 						"link": "https://climbnz.org.nz/nz/si/fiordland/wick-mountains/mt-moir/moir-slab/vindaloo",
 						"image": "https://climbnz.org.nz/sites/default/files/route/PC140037.JPG",
-						"grade": "22",
+						"grade": "19,22,17",
 						"length": "",
-						"pitches": [],
+						"pitches": [
+							{
+								"ewbank": "19",
+								"alpine": "",
+								"commitment": "",
+								"mtcook": "",
+								"aid": "",
+								"ice": "",
+								"mixed": "",
+								"boulder": "",
+								"length": "0m",
+								"bolts": "2",
+								"trad": true,
+								"description": "Begin about 50 metres down right from the start of Lapland."
+							},
+							{
+								"ewbank": "22",
+								"alpine": "",
+								"commitment": "",
+								"mtcook": "",
+								"aid": "",
+								"ice": "",
+								"mixed": "",
+								"boulder": "",
+								"length": "0m",
+								"bolts": "10",
+								"trad": true,
+								"description": "17"
+							}
+						],
 						"quality": 2,
 						"bolts": "17",
 						"natural_pro": true,
 						"description": "Begin about 50 metres down right from the start of Lapland.",
-						"ascent": "Steve Carr, Murray Judge. Dec 2009"
+						"ascent": "Steve Carr, Murray Judge, December 2009"
 					}
 				],
 				"places": [],
@@ -50460,7 +50605,7 @@
 						"name": "Bowen Allan Corner",
 						"link": "https://climbnz.org.nz/nz/si/fiordland/wick-mountains/moirs-mate/diamond-face/bowen-allan-corner",
 						"image": "https://climbnz.org.nz/sites/default/files/route/Moirsmate-web.jpg",
-						"grade": "16   ,   14   ,   17   ,   12   ,   16   ,   16   ,   17   ,   17",
+						"grade": "16,14,17,12,16,16,17,17",
 						"length": "305m",
 						"pitches": [
 							{
@@ -50579,8 +50724,8 @@
 						"quality": 2,
 						"bolts": "",
 						"natural_pro": true,
-						"description": "Has become a Darrans classic due to the combination of slabs and tussock low \ndown, and stupendous crack and corner climbing higher on the face.",
-						"ascent": "Stu Allan, John Bowen, 1972."
+						"description": "A Darrans classic due to the combination of slabs and tussock low down, and stupendous crack and corner climbing higher on the face.",
+						"ascent": "Stu Allan, John Bowen, 1972"
 					}
 				],
 				"places": [],
@@ -51043,7 +51188,7 @@
 						"quality": 2,
 						"bolts": "",
 						"natural_pro": true,
-						"description": "6 pitches",
+						"description": "A six pitch affair ranging in difficulty from grade 17 to 24. Nick comments that the one grade 24 pitch is an \u2018absolute stunner\u2019 and that a good rack is required.",
 						"ascent": "Dave Shotwell, Nick Cradock, Murray Ball, 2012"
 					}
 				],
@@ -51559,7 +51704,7 @@
 						"name": "Mechanical Failure",
 						"link": "https://climbnz.org.nz/nz/si/darrans/wick-mountains/moirs-mate/mates-little-brother/mechanical-failure",
 						"image": "https://climbnz.org.nz/sites/default/files/route/M%20Failure.jpg",
-						"grade": "18 ,20 ,23 ,18",
+						"grade": "18,20,23,18",
 						"length": "",
 						"pitches": [
 							{
@@ -51623,7 +51768,7 @@
 						"bolts": "21",
 						"natural_pro": true,
 						"description": "Start at the RHS of the crag, right of the arch and after beginning  the scramble up to the Moir ledges. About 15m up above the ledges and back left a bit a bolt and a maililon by a left facing corner mark the start of the climbing. The climb needs cams 00 - 3 (Camalots) and a few wires. Route is rigged to rap.\r\nFollow left facing corner then break left to flakes and cracks to a grassy ledge. DBA",
-						"ascent": "John Entwisle, Chris Burtenshaw and Jonathan Clearwater Feb 2010"
+						"ascent": "John Entwistle, Chris Burtenshaw, Jonathan Clearwater, February 2010"
 					}
 				],
 				"places": [],
@@ -55207,8 +55352,8 @@
 						"quality": 3,
 						"bolts": "",
 						"natural_pro": true,
-						"description": "On the north-west side of Pt 2072, an outlier peak to the west of the main Kaipo Wall.470m wall climbing then 150m cheval section. Mostly grade 14-17 climbing.",
-						"ascent": "Daniel Joll. Steve Fortune, 2012"
+						"description": "On the north-west side of Pt 2072, an outlier peak to the west of the main Kaipo Wall \u2013 470m wall climbing then 150m cheval section. Mostly grade 14-17 climbing.",
+						"ascent": "Daniel Joll, Steve Fortune, 2012"
 					},
 					{
 						"name": "Mist Crystals",
@@ -55221,7 +55366,7 @@
 						"bolts": "",
 						"natural_pro": true,
 						"description": "Great line roughly 100m R of The Kaipo Kid. Awesome face climbing on amazing features, good gear. Traverse epic cheval to descend to the Ngapunatoru.",
-						"ascent": "FFA Olivia Truax, Sam Waetford and Jimmy Finlayson 31/01/2021"
+						"ascent": "Olivia Truax, Sam Waetford, Jimmy Finlayson, 31 January 2021"
 					}
 				],
 				"places": [],
@@ -59649,284 +59794,7 @@
 		],
 		"places": [
 			{
-				"link": "https://climbnz.org.nz/nz/si/arthurs-pass/main-divide/mt-rolleston/mt-rolleston-middle-pk",
-				"name": "Mt Rolleston Middle Pk",
-				"altitude": "2200m",
-				"description": null,
-				"latlng": null,
-				"routes": [
-					{
-						"name": "From Crow Glacier",
-						"link": "https://climbnz.org.nz/nz/si/arthurs-pass/main-divide/mt-rolleston/mt-rolleston-middle-pk/crow-glacier",
-						"image": null,
-						"grade": "2",
-						"length": "",
-						"pitches": [],
-						"quality": 0,
-						"bolts": "",
-						"natural_pro": false,
-						"description": "from the northeastern reaches of the Crow neve. It may be ascended on either its East or West Ridges. The crux in this climb is the glacial ascent from the Crow Valley. Beware of hidden crevasses.",
-						"ascent": ""
-					}
-				],
-				"places": [
-					{
-						"link": "https://climbnz.org.nz/nz/si/main-divide-of-the-southern-alps/mt-rolleston/middle-pk/otira-face",
-						"name": "Otira Face",
-						"altitude": null,
-						"description": "Routes on the 900-metre Otira Face to the Middle Peak of Mt Rolleston are for experienced parties only. More often than not the rock can be quite rotten in zones as determined by the obvious synclined strata!\nVisibility plays a major role in a successful and safe climb of the Otira Face, and if poor could lead to major epics on the Middle Peak routes.\nRoutes on the Otira face of the High Peak are listed separately.",
-						"latlng": null,
-						"routes": [
-							{
-								"name": "Middle Direct",
-								"link": "https://climbnz.org.nz/nz/si/main-divide-of-the-southern-alps/mt-rolleston/middle-pk/otira-face/middle-direct",
-								"image": null,
-								"grade": "2",
-								"length": "",
-								"pitches": [],
-								"quality": 0,
-								"bolts": "",
-								"natural_pro": false,
-								"description": "The arete on the left-hand side of the central gut is the most direct line to Middle Peak. It is a loose, long haul. It has claimed many lives in its short history of ascents. Route finding towards the top of this face tends to be quite messy; nearly everybody manages to concoct an original finish.",
-								"ascent": ""
-							},
-							{
-								"name": "Middle Rib",
-								"link": "https://climbnz.org.nz/nz/si/main-divide-of-the-southern-alps/mt-rolleston/middle-pk/otira-face/middle-rib",
-								"image": null,
-								"grade": "2",
-								"length": "",
-								"pitches": [],
-								"quality": 0,
-								"bolts": "",
-								"natural_pro": false,
-								"description": "The rib is best reached via a slabby ramp from the lower Otira Slide. Join \nthe rotten spur that sweeps around to join the Middle Direct route just below \nthe summit of the Middle Peak.",
-								"ascent": ""
-							}
-						],
-						"places": [],
-						"image": "https://climbnz.org.nz/sites/default/files/image/AP023_1.jpg",
-						"images": [
-							{
-								"src": "https://climbnz.org.nz/sites/default/files/image/AP023_1.jpg",
-								"height": "481",
-								"width": "709"
-							}
-						]
-					}
-				],
-				"image": "https://climbnz.org.nz/sites/default/files/image/AP001_1.jpg",
-				"images": [
-					{
-						"src": "https://climbnz.org.nz/sites/default/files/image/AP001_1.jpg",
-						"height": "442",
-						"width": "709"
-					}
-				]
-			},
-			{
-				"link": "https://climbnz.org.nz/nz/si/arthurs-pass/main-divide/mt-rolleston/mt-rolleston-low-pk",
-				"name": "Mt Rolleston Low Pk",
-				"altitude": "2212m",
-				"description": null,
-				"latlng": [
-					"-42.914414960000",
-					"171.517481800000"
-				],
-				"routes": [
-					{
-						"name": "From Crow Glacier",
-						"link": "https://climbnz.org.nz/nz/si/arthurs-pass/main-divide/mt-rolleston/mt-rolleston-low-pk/crow-glacier",
-						"image": null,
-						"grade": "2",
-						"length": "",
-						"pitches": [],
-						"quality": 0,
-						"bolts": "",
-						"natural_pro": false,
-						"description": "From the northeastern reaches of the Crow neve. It may be ascended on either its East or West Ridges. The crux in this climb is the glacial ascent from the Crow Valley. Beware of hidden crevasses.",
-						"ascent": ""
-					},
-					{
-						"name": "Rome Ridge",
-						"link": "https://climbnz.org.nz/nz/si/arthurs-pass/main-divide/mt-rolleston/mt-rolleston-low-pk/rome-ridge",
-						"image": null,
-						"grade": "2",
-						"length": "",
-						"pitches": [],
-						"quality": 1,
-						"bolts": "",
-						"natural_pro": false,
-						"description": "The classic Rome Ridge route leads to the Low Peak.\nThe ridge is usually and most readily approached by the Coral Track 300m \nnorth of the McGrath Stream bridge.\nIt can also be reached from the upper Bealey Valley, by way of an ugly scree \nadjacent the Bealey bluffs.\nAccess is also possible from the Crow Valley: usually the Avalanche Peak \ntramping route is used to gain access to the ridge and the East Crow Glacier. \nIn avalanche free conditions it is possible to gain the glacier directly by \nclimbing out of the valley head, utilising the narrow gut on the true left.\nAbove the tree-line the ridge is easily climbed, though two prominent \nbuttresses can be of some concern in soft or loose snow conditions. There is \na prominent gap in the ridge below the Low Peak, this requiring a short \nexposed pitch (50m) on either side of the ridge. The last buttress on the \nridge before the gap can be avoided by sidling on the East Crow Glacier (this \nbypass is cut by a bergschrund in mid-summer). The gap may also be approached \nvia the Avalanche Peak joining ridge. The first few pitches of the main ridge \nbeyond the gap are steep and loose, with some exposure towards the Goldney \nGlacier. Once the Low Peak (2212m) is gained, access to the High Peak (2275m) \nis by continuing along the ridge on easier ground, via the Middle Peak. \nMiddle Peak can be avoided by utilising the Crow neve if it is negotiable. \nDescent should be made via the Otira Slide (route 6.3).",
-						"ascent": ""
-					},
-					{
-						"name": "Goldney Ridge",
-						"link": "https://climbnz.org.nz/nz/si/arthurs-pass/main-divide/mt-rolleston/mt-rolleston-low-pk/goldney-ridge",
-						"image": null,
-						"grade": "1",
-						"length": "",
-						"pitches": [],
-						"quality": 0,
-						"bolts": "",
-						"natural_pro": false,
-						"description": "Begins at the top of Arthur\u2019s Pass (920m). Enter the Dobson Nature Walk opposite the memorial, taking the right-hand branch towards the Otira Valley. Where the track nears the scree chutes, bash through the scrub and follow the chutes through the bluffs to the wide open ridge above. The ridge suddenly narrows prior the first massive buttress. Sidle for about 150 metres onto the Bealey River \u00dfank then ascend the steep scree to regain the ridge. Easy travel takes you to the summit of the second buttress. The third can be reached or bypassed on the Otira Valley side, and can involve some steep rock pitches (beware of large cornices in winter). A craggy ridge leads to the head of the Otira Slide icefield. See (route 6.3) for a description beyond here. The Goldney Ridge route is seldom climbed in its entirety as climbers prefer the less time consuming Otira Slide route.",
-						"ascent": ""
-					},
-					{
-						"name": "Otira Slide",
-						"link": "https://climbnz.org.nz/nz/si/arthurs-pass/main-divide/mt-rolleston/mt-rolleston-low-pk/otira-slide",
-						"image": null,
-						"grade": "1",
-						"length": "",
-						"pitches": [],
-						"quality": 1,
-						"bolts": "",
-						"natural_pro": false,
-						"description": "3 The Otira Slide route to MT ROLLESTON (2275m) is the climbers preferred ascent route to join the Goldney Ridge, and is certainly the most used and quickest descent route. From the Otira Valley car-park follow the walking trail towards the head of the valley. After the foot-bridge the trail is less defined, and the entire area is avalanche prone in winter. It takes about 90 min to reach the base of the Otira Slide icefield. (It is unwise to ascend the slide in darkness because of the high avalanche and rockfall risk in this area. Arrive there at first light if anything!) Climb the ice\u00deeld on the true-right, aiming for the wide couloir at its head that joins the Goldney Ridge. Climb the ridge rock, or drop onto the head of the Goldney Glacier and regain the ridge. Move away from the ridge crest, instead opting to climb the steep shallow gully that leads directly to Low Peak (2212m). If in doubt aim for the large solitary orange rock jutting out of the face, Low Peak is directly behind it. (Grade. 1+) An alternative route from the Slide, is to climb directly onto the face between Low and Middle Peaks. An obvious steep gully (Hidden Couloir) joins the ridge between these summits. It is avalanche prone, and contains loose rock. It must be frozen! (Grade. 2-) Once Low Peak is gained and if the Crow neve is not too crevassed, head for the col past Middle Peak, gaining the ridge to High Peak from there. Otherwise climb over Middle Peak. Note : The Otira Slide may be descended in winter on downhill/telemark skis. You must be an extremely competent skier, and have good avalanche assessment skills.",
-						"ascent": "December, 1891 by G.E. Mannering, A.M. Ollivier and W.D. Wood utilising the Goldney Ridge."
-					},
-					{
-						"name": "Bealy Face",
-						"link": "https://climbnz.org.nz/nz/si/arthurs-pass/main-divide/mt-rolleston/mt-rolleston-low-pk/bealy-face",
-						"image": null,
-						"grade": "2",
-						"length": "",
-						"pitches": [],
-						"quality": 0,
-						"bolts": "",
-						"natural_pro": false,
-						"description": "The head of the Bealey River Valley provides a hand-full of diverse/adverse routes onto Low Peak (2212m). All routes are accessed from the upper basin. Gain the Bealey Scree by climbing the tussock slopes true left of the first obvious ravine. Follow a small creek then a fault scarp that traverses under the Goldney Ridge buttress. Sidle out over scree or very steep rock to the base of the climbs. The first route commences on the true right at the base of the long, loose, tortuous gully (400m) that finds its way to the Gap on the Rome Ridge (route 6.1). The arete on its true left is also climbable (beware of avalanches). Further to the true left several routes pick their respective ways up buttressed rock faces for about 300m before intersecting the Goldney Glacier. From here, a multitude of routes may be selected which follow snow or rock ramps to Low Peak (the Goldney Ridge is also easily gained). The easiest route on the face (Chockstone Route) starts underneath a prominent spur joining the Goldney Ridge to the far true left. A narrow gully containing the jammed boulder is climbed, followed by a series of easy scree/snow ramps to join the Goldney Ridge where it merges with Low Peak.",
-						"ascent": ""
-					},
-					{
-						"name": "From the Head of the Bealey River",
-						"link": "https://climbnz.org.nz/nz/si/arthurs-pass/main-divide/mt-rolleston/mt-rolleston-low-pk/head-bealey-river",
-						"image": null,
-						"grade": "1",
-						"length": "",
-						"pitches": [],
-						"quality": 0,
-						"bolts": "",
-						"natural_pro": false,
-						"description": "Approaches from the head of the Bealey River are reached by climbing the slope on the true left of the Bealey River adjacent the start of the black ravine (follow a creek initially). Climb towards, and traverse the fault scarp that sidles west under the Goldney Ridge buttress to meet the huge scree/snow slope. Ascend the couloir that joins the Goldney Ridge between Low Peak and the first ridge buttress (prominent low point). The climb to Low Peak (2212m) is relatively easy going on rock or snow from the ridge.",
-						"ascent": ""
-					},
-					{
-						"name": "OTIRA SLIDE, Ski Touring.",
-						"link": "https://climbnz.org.nz/nz/si/arthurs-pass/main-divide/mt-rolleston/mt-rolleston-low-pk/otira-slide-ski-touring",
-						"image": null,
-						"grade": "",
-						"length": "",
-						"pitches": [],
-						"quality": 0,
-						"bolts": "",
-						"natural_pro": false,
-						"description": "Map K33\nAfter good snowfalls it is possible to skin up the Otira Valley (from the foot bridge at least) to the base of the Otira Slide, the large snow slope that descends from the summit of Low Peak on Mount Rolleston. 90 minutes to 2 hours travel time to the base of the slide. It is important to assess the avalanche potential of this route. Most climbers will be ascending on foot for the steeper section above here. On descent, stay away from the Goldney Ridge (true right) side as the cornice here can be dangerous.",
-						"ascent": ""
-					}
-				],
-				"places": [
-					{
-						"link": "https://climbnz.org.nz/nz/si/main-divide-of-the-southern-alps/mt-rolleston/low-pk/crow-face",
-						"name": "Crow Face",
-						"altitude": null,
-						"description": "The Crow Face rises from the East Crow Glacier to the Low Peak of Mt Rolleston. Most of the routes on the face utilise narrow couloirs, aretes and shelves, and conditions on each vary greatly depending on the season. During winter cornices form on the Rome Ridge over the East Crow, with loose snow avalanches causing some concern.",
-						"latlng": null,
-						"routes": [
-							{
-								"name": "Left Rib",
-								"link": "https://climbnz.org.nz/nz/si/main-divide-of-the-southern-alps/mt-rolleston/low-pk/crow-face/left-rib",
-								"image": null,
-								"grade": "2",
-								"length": "320m",
-								"pitches": [],
-								"quality": 0,
-								"bolts": "",
-								"natural_pro": false,
-								"description": "Can have a difficult start due to bergschrunds and lack of snow ramps. Move left up the ramp to a large gully (sometimes snow filled), then gain the rocky arete joining the South West Ridge of the Low Peak.",
-								"ascent": ""
-							},
-							{
-								"name": "Central-left",
-								"link": "https://climbnz.org.nz/nz/si/main-divide-of-the-southern-alps/mt-rolleston/low-pk/crow-face/central-left",
-								"image": "https://climbnz.org.nz/sites/default/files/route/Route.jpg",
-								"grade": "3-",
-								"length": "",
-								"pitches": [],
-								"quality": 0,
-								"bolts": "",
-								"natural_pro": false,
-								"description": "Sustained neve ice up to join central direct 100m from the top",
-								"ascent": "John Harris, July 2015."
-							},
-							{
-								"name": "Central Direct",
-								"link": "https://climbnz.org.nz/nz/si/main-divide-of-the-southern-alps/mt-rolleston/low-pk/crow-face/central-direct",
-								"image": null,
-								"grade": "2",
-								"length": "400m",
-								"pitches": [],
-								"quality": 1,
-								"bolts": "",
-								"natural_pro": false,
-								"description": "Commences in the same place as Left Rib route, with all the same difficulties. Follow the obvious gully most of the way to the summit; a split near the top allows two different finishes. Rockfall can be a hazard, as is rotten rock top and bottom",
-								"ascent": ""
-							},
-							{
-								"name": "Right Couloir",
-								"link": "https://climbnz.org.nz/nz/si/main-divide-of-the-southern-alps/mt-rolleston/low-pk/crow-face/right-couloir",
-								"image": null,
-								"grade": "2",
-								"length": "250m",
-								"pitches": [],
-								"quality": 0,
-								"bolts": "",
-								"natural_pro": false,
-								"description": "A large bergschrund may cause a desperate move at the bottom on a somewhat smooth slab. Venture up the rib into gully that turns to a narrow steep couloir at the top. Follow Rome Ridge to its summit. Some avalanche danger!",
-								"ascent": ""
-							},
-							{
-								"name": "Right Gully",
-								"link": "https://climbnz.org.nz/nz/si/main-divide-of-the-southern-alps/mt-rolleston/low-pk/crow-face/right-gully",
-								"image": null,
-								"grade": "2",
-								"length": "320m",
-								"pitches": [],
-								"quality": 0,
-								"bolts": "",
-								"natural_pro": false,
-								"description": "The line is in an obvious runnel with a difficult slab start (dependent on the height of the snow ramp). There can be loose rock in the top half of gully; snow or ice fill certainly assists. Join Rome Ridge to the summit.",
-								"ascent": ""
-							}
-						],
-						"places": [],
-						"image": "https://climbnz.org.nz/sites/default/files/image/AP001.jpg",
-						"images": [
-							{
-								"src": "https://climbnz.org.nz/sites/default/files/image/AP001.jpg",
-								"height": "442",
-								"width": "709"
-							}
-						]
-					}
-				],
-				"image": "https://climbnz.org.nz/sites/default/files/image/AP023.jpg",
-				"images": [
-					{
-						"src": "https://climbnz.org.nz/sites/default/files/image/AP023.jpg",
-						"height": "481",
-						"width": "709"
-					},
-					{
-						"src": "https://climbnz.org.nz/sites/default/files/image/AP016.jpg",
-						"height": "463",
-						"width": "709"
-					}
-				]
-			},
-			{
-				"link": "https://climbnz.org.nz/nz/si/main-divide-of-the-southern-alps/mt-rolleston/otira-face",
+				"link": "https://climbnz.org.nz/nz/si/arthurs-pass/main-divide/mt-rolleston/otira-face",
 				"name": "Otira Face",
 				"altitude": null,
 				"description": "For experienced parties, a diversity of routes may be taken up the 900m Otira Face of Mt Rolleston. Some of the routes are very difficult, and more often than not, the rock can be quite rotten in zones as determined by the obvious synclined strata!\nRoutes on the Otira Face of the Middle Peak are listed separately.",
@@ -59937,7 +59805,7 @@
 				"routes": [
 					{
 						"name": "Otira Couloir",
-						"link": "https://climbnz.org.nz/nz/si/main-divide-of-the-southern-alps/mt-rolleston/otira-face/otira-couloir",
+						"link": "https://climbnz.org.nz/nz/si/arthurs-pass/main-divide/mt-rolleston/otira-face/otira-couloir",
 						"image": null,
 						"grade": "2",
 						"length": "",
@@ -59950,7 +59818,7 @@
 					},
 					{
 						"name": "Left Flank",
-						"link": "https://climbnz.org.nz/nz/si/main-divide-of-the-southern-alps/mt-rolleston/otira-face/left-flank",
+						"link": "https://climbnz.org.nz/nz/si/arthurs-pass/main-divide/mt-rolleston/otira-face/left-flank",
 						"image": null,
 						"grade": "2",
 						"length": "",
@@ -59963,7 +59831,7 @@
 					},
 					{
 						"name": "Central Direct",
-						"link": "https://climbnz.org.nz/nz/si/main-divide-of-the-southern-alps/mt-rolleston/otira-face/central-direct",
+						"link": "https://climbnz.org.nz/nz/si/arthurs-pass/main-divide/mt-rolleston/otira-face/central-direct",
 						"image": null,
 						"grade": "2",
 						"length": "",
@@ -59976,7 +59844,7 @@
 					},
 					{
 						"name": "Westweg",
-						"link": "https://climbnz.org.nz/nz/si/main-divide-of-the-southern-alps/mt-rolleston/otira-face/westweg",
+						"link": "https://climbnz.org.nz/nz/si/arthurs-pass/main-divide/mt-rolleston/otira-face/westweg",
 						"image": "https://climbnz.org.nz/sites/default/files/route/IMG_0748%20%282%29_0.JPG",
 						"grade": "15",
 						"length": "150m",
@@ -59985,11 +59853,11 @@
 						"bolts": "",
 						"natural_pro": true,
 						"description": "The Central Direct ridge can be gained on its West side by a 150m long banana shaped corner rising above the snow field. The final 60 meters offers the best climbing on either face of the corner, offering either good rock and poor protection or loose rock and good protection.",
-						"ascent": "FFA Justin Hall & Hamish Castle (25 February 2017)"
+						"ascent": "Justin Hall, Hamish Castle, 25 February 2017"
 					},
 					{
 						"name": "Crocodile Rock",
-						"link": "https://climbnz.org.nz/nz/si/main-divide-of-the-southern-alps/mt-rolleston/otira-face/crocodile-rock",
+						"link": "https://climbnz.org.nz/nz/si/arthurs-pass/main-divide/mt-rolleston/otira-face/crocodile-rock",
 						"image": "https://climbnz.org.nz/sites/default/files/routes/Otira11.jpg",
 						"grade": "15",
 						"length": "300m",
@@ -60002,7 +59870,7 @@
 					},
 					{
 						"name": "Headstone Gully",
-						"link": "https://climbnz.org.nz/nz/si/main-divide-of-the-southern-alps/mt-rolleston/otira-face/headstone-gully",
+						"link": "https://climbnz.org.nz/nz/si/arthurs-pass/main-divide/mt-rolleston/otira-face/headstone-gully",
 						"image": "https://climbnz.org.nz/sites/default/files/route/image14.jpg",
 						"grade": "2+",
 						"length": "250m",
@@ -60041,6 +59909,283 @@
 				"src": "https://climbnz.org.nz/sites/default/files/image/crow%2520glacier%2520icefall-routemark_1_0.jpg",
 				"height": "480",
 				"width": "640"
+			}
+		]
+	},
+	"https://climbnz.org.nz/nz/si/arthurs-pass/main-divide/mt-rolleston-low-pk": {
+		"link": "https://climbnz.org.nz/nz/si/arthurs-pass/main-divide/mt-rolleston-low-pk",
+		"name": "Mt Rolleston Low Pk",
+		"altitude": "2212m",
+		"description": null,
+		"latlng": [
+			"-42.914414960000",
+			"171.517481800000"
+		],
+		"routes": [
+			{
+				"name": "From Crow Glacier",
+				"link": "https://climbnz.org.nz/nz/si/arthurs-pass/main-divide/mt-rolleston-low-pk/crow-glacier",
+				"image": null,
+				"grade": "2",
+				"length": "",
+				"pitches": [],
+				"quality": 0,
+				"bolts": "",
+				"natural_pro": false,
+				"description": "From the northeastern reaches of the Crow neve. It may be ascended on either its East or West Ridges. The crux in this climb is the glacial ascent from the Crow Valley. Beware of hidden crevasses.",
+				"ascent": ""
+			},
+			{
+				"name": "Rome Ridge",
+				"link": "https://climbnz.org.nz/nz/si/arthurs-pass/main-divide/mt-rolleston-low-pk/rome-ridge",
+				"image": null,
+				"grade": "2",
+				"length": "",
+				"pitches": [],
+				"quality": 1,
+				"bolts": "",
+				"natural_pro": false,
+				"description": "The classic Rome Ridge route leads to the Low Peak.\nThe ridge is usually and most readily approached by the Coral Track 300m \nnorth of the McGrath Stream bridge.\nIt can also be reached from the upper Bealey Valley, by way of an ugly scree \nadjacent the Bealey bluffs.\nAccess is also possible from the Crow Valley: usually the Avalanche Peak \ntramping route is used to gain access to the ridge and the East Crow Glacier. \nIn avalanche free conditions it is possible to gain the glacier directly by \nclimbing out of the valley head, utilising the narrow gut on the true left.\nAbove the tree-line the ridge is easily climbed, though two prominent \nbuttresses can be of some concern in soft or loose snow conditions. There is \na prominent gap in the ridge below the Low Peak, this requiring a short \nexposed pitch (50m) on either side of the ridge. The last buttress on the \nridge before the gap can be avoided by sidling on the East Crow Glacier (this \nbypass is cut by a bergschrund in mid-summer). The gap may also be approached \nvia the Avalanche Peak joining ridge. The first few pitches of the main ridge \nbeyond the gap are steep and loose, with some exposure towards the Goldney \nGlacier. Once the Low Peak (2212m) is gained, access to the High Peak (2275m) \nis by continuing along the ridge on easier ground, via the Middle Peak. \nMiddle Peak can be avoided by utilising the Crow neve if it is negotiable. \nDescent should be made via the Otira Slide (route 6.3).",
+				"ascent": ""
+			},
+			{
+				"name": "Goldney Ridge",
+				"link": "https://climbnz.org.nz/nz/si/arthurs-pass/main-divide/mt-rolleston-low-pk/goldney-ridge",
+				"image": null,
+				"grade": "1",
+				"length": "",
+				"pitches": [],
+				"quality": 0,
+				"bolts": "",
+				"natural_pro": false,
+				"description": "Begins at the top of Arthur\u2019s Pass (920m). Enter the Dobson Nature Walk opposite the memorial, taking the right-hand branch towards the Otira Valley. Where the track nears the scree chutes, bash through the scrub and follow the chutes through the bluffs to the wide open ridge above. The ridge suddenly narrows prior the first massive buttress. Sidle for about 150 metres onto the Bealey River \u00dfank then ascend the steep scree to regain the ridge. Easy travel takes you to the summit of the second buttress. The third can be reached or bypassed on the Otira Valley side, and can involve some steep rock pitches (beware of large cornices in winter). A craggy ridge leads to the head of the Otira Slide icefield. See (route 6.3) for a description beyond here. The Goldney Ridge route is seldom climbed in its entirety as climbers prefer the less time consuming Otira Slide route.",
+				"ascent": ""
+			},
+			{
+				"name": "Otira Slide",
+				"link": "https://climbnz.org.nz/nz/si/arthurs-pass/main-divide/mt-rolleston-low-pk/otira-slide",
+				"image": null,
+				"grade": "1",
+				"length": "",
+				"pitches": [],
+				"quality": 1,
+				"bolts": "",
+				"natural_pro": false,
+				"description": "3 The Otira Slide route to MT ROLLESTON (2275m) is the climbers preferred ascent route to join the Goldney Ridge, and is certainly the most used and quickest descent route. From the Otira Valley car-park follow the walking trail towards the head of the valley. After the foot-bridge the trail is less defined, and the entire area is avalanche prone in winter. It takes about 90 min to reach the base of the Otira Slide icefield. (It is unwise to ascend the slide in darkness because of the high avalanche and rockfall risk in this area. Arrive there at first light if anything!) Climb the ice\u00deeld on the true-right, aiming for the wide couloir at its head that joins the Goldney Ridge. Climb the ridge rock, or drop onto the head of the Goldney Glacier and regain the ridge. Move away from the ridge crest, instead opting to climb the steep shallow gully that leads directly to Low Peak (2212m). If in doubt aim for the large solitary orange rock jutting out of the face, Low Peak is directly behind it. (Grade. 1+) An alternative route from the Slide, is to climb directly onto the face between Low and Middle Peaks. An obvious steep gully (Hidden Couloir) joins the ridge between these summits. It is avalanche prone, and contains loose rock. It must be frozen! (Grade. 2-) Once Low Peak is gained and if the Crow neve is not too crevassed, head for the col past Middle Peak, gaining the ridge to High Peak from there. Otherwise climb over Middle Peak. Note : The Otira Slide may be descended in winter on downhill/telemark skis. You must be an extremely competent skier, and have good avalanche assessment skills.",
+				"ascent": "December, 1891 by G.E. Mannering, A.M. Ollivier and W.D. Wood utilising the Goldney Ridge."
+			},
+			{
+				"name": "Bealy Face",
+				"link": "https://climbnz.org.nz/nz/si/arthurs-pass/main-divide/mt-rolleston-low-pk/bealy-face",
+				"image": null,
+				"grade": "2",
+				"length": "",
+				"pitches": [],
+				"quality": 0,
+				"bolts": "",
+				"natural_pro": false,
+				"description": "The head of the Bealey River Valley provides a hand-full of diverse/adverse routes onto Low Peak (2212m). All routes are accessed from the upper basin. Gain the Bealey Scree by climbing the tussock slopes true left of the first obvious ravine. Follow a small creek then a fault scarp that traverses under the Goldney Ridge buttress. Sidle out over scree or very steep rock to the base of the climbs. The first route commences on the true right at the base of the long, loose, tortuous gully (400m) that finds its way to the Gap on the Rome Ridge (route 6.1). The arete on its true left is also climbable (beware of avalanches). Further to the true left several routes pick their respective ways up buttressed rock faces for about 300m before intersecting the Goldney Glacier. From here, a multitude of routes may be selected which follow snow or rock ramps to Low Peak (the Goldney Ridge is also easily gained). The easiest route on the face (Chockstone Route) starts underneath a prominent spur joining the Goldney Ridge to the far true left. A narrow gully containing the jammed boulder is climbed, followed by a series of easy scree/snow ramps to join the Goldney Ridge where it merges with Low Peak.",
+				"ascent": ""
+			},
+			{
+				"name": "From the Head of the Bealey River",
+				"link": "https://climbnz.org.nz/nz/si/arthurs-pass/main-divide/mt-rolleston-low-pk/head-bealey-river",
+				"image": null,
+				"grade": "1",
+				"length": "",
+				"pitches": [],
+				"quality": 0,
+				"bolts": "",
+				"natural_pro": false,
+				"description": "Approaches from the head of the Bealey River are reached by climbing the slope on the true left of the Bealey River adjacent the start of the black ravine (follow a creek initially). Climb towards, and traverse the fault scarp that sidles west under the Goldney Ridge buttress to meet the huge scree/snow slope. Ascend the couloir that joins the Goldney Ridge between Low Peak and the first ridge buttress (prominent low point). The climb to Low Peak (2212m) is relatively easy going on rock or snow from the ridge.",
+				"ascent": ""
+			},
+			{
+				"name": "OTIRA SLIDE, Ski Touring.",
+				"link": "https://climbnz.org.nz/nz/si/arthurs-pass/main-divide/mt-rolleston-low-pk/otira-slide-ski-touring",
+				"image": null,
+				"grade": "",
+				"length": "",
+				"pitches": [],
+				"quality": 0,
+				"bolts": "",
+				"natural_pro": false,
+				"description": "Map K33\r\nAfter good snowfalls it is possible to skin up the Otira Valley (from the foot bridge at least) to the base of the Otira Slide, the large snow slope that descends from the summit of Low Peak on Mount Rolleston. 90 minutes to 2 hours travel time to the base of the slide. It is important to assess the avalanche potential of this route. Most climbers will be ascending on foot for the steeper section above here. On descent, stay away from the Goldney Ridge (true right) side as the cornice here can be dangerous.",
+				"ascent": ""
+			}
+		],
+		"places": [
+			{
+				"link": "https://climbnz.org.nz/nz/si/arthurs-pass/main-divide/mt-rolleston-low-pk/crow-face",
+				"name": "Crow Face",
+				"altitude": null,
+				"description": "The Crow Face rises from the East Crow Glacier to the Low Peak of Mt Rolleston. Most of the routes on the face utilise narrow couloirs, aretes and shelves, and conditions on each vary greatly depending on the season. During winter cornices form on the Rome Ridge over the East Crow, with loose snow avalanches causing some concern.",
+				"latlng": null,
+				"routes": [
+					{
+						"name": "Left Rib",
+						"link": "https://climbnz.org.nz/nz/si/arthurs-pass/main-divide/mt-rolleston-low-pk/crow-face/left-rib",
+						"image": null,
+						"grade": "2",
+						"length": "320m",
+						"pitches": [],
+						"quality": 0,
+						"bolts": "",
+						"natural_pro": false,
+						"description": "Can have a difficult start due to bergschrunds and lack of snow ramps. Move left up the ramp to a large gully (sometimes snow filled), then gain the rocky arete joining the South West Ridge of the Low Peak.",
+						"ascent": ""
+					},
+					{
+						"name": "Central-left",
+						"link": "https://climbnz.org.nz/nz/si/arthurs-pass/main-divide/mt-rolleston-low-pk/crow-face/central-left",
+						"image": "https://climbnz.org.nz/sites/default/files/route/Route.jpg",
+						"grade": "3-",
+						"length": "",
+						"pitches": [],
+						"quality": 0,
+						"bolts": "",
+						"natural_pro": false,
+						"description": "Sustained neve ice up to join central direct 100m from the top",
+						"ascent": "John Harris, July 2015."
+					},
+					{
+						"name": "Central Direct",
+						"link": "https://climbnz.org.nz/nz/si/arthurs-pass/main-divide/mt-rolleston-low-pk/crow-face/central-direct",
+						"image": null,
+						"grade": "2",
+						"length": "400m",
+						"pitches": [],
+						"quality": 1,
+						"bolts": "",
+						"natural_pro": false,
+						"description": "Commences in the same place as Left Rib route, with all the same difficulties. Follow the obvious gully most of the way to the summit; a split near the top allows two different finishes. Rockfall can be a hazard, as is rotten rock top and bottom",
+						"ascent": ""
+					},
+					{
+						"name": "Right Couloir",
+						"link": "https://climbnz.org.nz/nz/si/arthurs-pass/main-divide/mt-rolleston-low-pk/crow-face/right-couloir",
+						"image": null,
+						"grade": "2",
+						"length": "250m",
+						"pitches": [],
+						"quality": 0,
+						"bolts": "",
+						"natural_pro": false,
+						"description": "A large bergschrund may cause a desperate move at the bottom on a somewhat smooth slab. Venture up the rib into gully that turns to a narrow steep couloir at the top. Follow Rome Ridge to its summit. Some avalanche danger!",
+						"ascent": ""
+					},
+					{
+						"name": "Right Gully",
+						"link": "https://climbnz.org.nz/nz/si/arthurs-pass/main-divide/mt-rolleston-low-pk/crow-face/right-gully",
+						"image": null,
+						"grade": "2",
+						"length": "320m",
+						"pitches": [],
+						"quality": 0,
+						"bolts": "",
+						"natural_pro": false,
+						"description": "The line is in an obvious runnel with a difficult slab start (dependent on the height of the snow ramp). There can be loose rock in the top half of gully; snow or ice fill certainly assists. Join Rome Ridge to the summit.",
+						"ascent": ""
+					}
+				],
+				"places": [],
+				"image": "https://climbnz.org.nz/sites/default/files/image/AP001.jpg",
+				"images": [
+					{
+						"src": "https://climbnz.org.nz/sites/default/files/image/AP001.jpg",
+						"height": "442",
+						"width": "709"
+					}
+				]
+			}
+		],
+		"image": "https://climbnz.org.nz/sites/default/files/image/AP023.jpg",
+		"images": [
+			{
+				"src": "https://climbnz.org.nz/sites/default/files/image/AP023.jpg",
+				"height": "481",
+				"width": "709"
+			},
+			{
+				"src": "https://climbnz.org.nz/sites/default/files/image/AP016.jpg",
+				"height": "463",
+				"width": "709"
+			}
+		]
+	},
+	"https://climbnz.org.nz/nz/si/arthurs-pass/main-divide/mt-rolleston-middle-pk": {
+		"link": "https://climbnz.org.nz/nz/si/arthurs-pass/main-divide/mt-rolleston-middle-pk",
+		"name": "Mt Rolleston Middle Pk",
+		"altitude": "2200m",
+		"description": null,
+		"latlng": null,
+		"routes": [
+			{
+				"name": "From Crow Glacier",
+				"link": "https://climbnz.org.nz/nz/si/arthurs-pass/main-divide/mt-rolleston-middle-pk/crow-glacier",
+				"image": null,
+				"grade": "2",
+				"length": "",
+				"pitches": [],
+				"quality": 0,
+				"bolts": "",
+				"natural_pro": false,
+				"description": "from the northeastern reaches of the Crow neve. It may be ascended on either its East or West Ridges. The crux in this climb is the glacial ascent from the Crow Valley. Beware of hidden crevasses.",
+				"ascent": ""
+			}
+		],
+		"places": [
+			{
+				"link": "https://climbnz.org.nz/nz/si/arthurs-pass/main-divide/mt-rolleston-middle-pk/otira-face",
+				"name": "Otira Face",
+				"altitude": null,
+				"description": "Routes on the 900-metre Otira Face to the Middle Peak of Mt Rolleston are for experienced parties only. More often than not the rock can be quite rotten in zones as determined by the obvious synclined strata!\nVisibility plays a major role in a successful and safe climb of the Otira Face, and if poor could lead to major epics on the Middle Peak routes.\nRoutes on the Otira face of the High Peak are listed separately.",
+				"latlng": null,
+				"routes": [
+					{
+						"name": "Middle Direct",
+						"link": "https://climbnz.org.nz/nz/si/arthurs-pass/main-divide/mt-rolleston-middle-pk/otira-face/middle-direct",
+						"image": null,
+						"grade": "2",
+						"length": "",
+						"pitches": [],
+						"quality": 0,
+						"bolts": "",
+						"natural_pro": false,
+						"description": "The arete on the left-hand side of the central gut is the most direct line to Middle Peak. It is a loose, long haul. It has claimed many lives in its short history of ascents. Route finding towards the top of this face tends to be quite messy; nearly everybody manages to concoct an original finish.",
+						"ascent": ""
+					},
+					{
+						"name": "Middle Rib",
+						"link": "https://climbnz.org.nz/nz/si/arthurs-pass/main-divide/mt-rolleston-middle-pk/otira-face/middle-rib",
+						"image": null,
+						"grade": "2",
+						"length": "",
+						"pitches": [],
+						"quality": 0,
+						"bolts": "",
+						"natural_pro": false,
+						"description": "The rib is best reached via a slabby ramp from the lower Otira Slide. Join \nthe rotten spur that sweeps around to join the Middle Direct route just below \nthe summit of the Middle Peak.",
+						"ascent": ""
+					}
+				],
+				"places": [],
+				"image": "https://climbnz.org.nz/sites/default/files/image/AP023_1.jpg",
+				"images": [
+					{
+						"src": "https://climbnz.org.nz/sites/default/files/image/AP023_1.jpg",
+						"height": "481",
+						"width": "709"
+					}
+				]
+			}
+		],
+		"image": "https://climbnz.org.nz/sites/default/files/image/AP001_1.jpg",
+		"images": [
+			{
+				"src": "https://climbnz.org.nz/sites/default/files/image/AP001_1.jpg",
+				"height": "442",
+				"width": "709"
 			}
 		]
 	},
@@ -60512,34 +60657,6 @@
 							"175.564999580000"
 						],
 						"routes": [],
-						"places": [],
-						"image": null,
-						"images": []
-					},
-					{
-						"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/whakapapa/knoll-ridge",
-						"name": "Knoll Ridge",
-						"altitude": "2000m",
-						"description": "In winter, the bluffs behind and below the Knoll Ridge caf\u00e9 are useful for top roping practice. There is another good waterfall (WI2) below Knoll Ridge at grid ref 314134. Watch for skiers jumping off the top.\nIn summer, an excellent buttress sits at about 2000m on the upper ski field, due south from the Knoll Ridge Caf\u00e9\u2009\u2013\u2009and facing more or less south\u2009\u2013\u2009in a corner of the upper Te Heu Heu valley.",
-						"latlng": [
-							"-39.253159080000",
-							"175.564312930000"
-						],
-						"routes": [
-							{
-								"name": "Fat Boys",
-								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/whakapapa/knoll-ridge/fat-boys",
-								"image": null,
-								"grade": "18",
-								"length": "20m",
-								"pitches": [],
-								"quality": 0,
-								"bolts": "",
-								"natural_pro": true,
-								"description": "Follow a crack up through an overlap, and run it out from there to the top. Natural protection. Belay off the Knoll Ridge safety fence.",
-								"ascent": "Mark Sedon, 2000"
-							}
-						],
 						"places": [],
 						"image": null,
 						"images": []
@@ -67058,6 +67175,19 @@
 						"ascent": ""
 					},
 					{
+						"name": "Mixed ambition",
+						"link": "https://climbnz.org.nz/nz/si/otago/the-remarkables/single-cone/south-face/mixed-ambition",
+						"image": "https://climbnz.org.nz/sites/default/files/routes/South%20Face%20Single~2.jpg",
+						"grade": "WI3 M5",
+						"length": "",
+						"pitches": [],
+						"quality": 0,
+						"bolts": "",
+						"natural_pro": false,
+						"description": "From top of touchdown tend right and up to the ridge",
+						"ascent": "James Warren, Nathanael Sage, Jacob Downie  Aug 2018"
+					},
+					{
 						"name": "South Face Classic",
 						"link": "https://climbnz.org.nz/nz/si/otago/the-remarkables/single-cone/south-face/south-face-classic",
 						"image": null,
@@ -67158,8 +67288,8 @@
 						"quality": 0,
 						"bolts": "",
 						"natural_pro": true,
-						"description": "4 pitches. Pitch 1, start up right of the chimney and climb\r\nnice cracks until the slab steepens and gear runs out.\r\nStep right and continue up, more gear appears after 10-\r\n15m, to a double bolt belay. The origin of which is unknown\r\nhowever it appears to be for top-roping on the nice\r\nslab right of this route. Follow ledge system right then\r\nstraight up three more easy pitches to the ridge line.\r\nThis four-pitch route begins on some nice cracks before climbing a slab to an existing double bolt belay, then moves right up a ledge system then to the ridge",
-						"ascent": "Daniel Joll, Paul Angus, 2012."
+						"description": "4 pitches. Pitch 1, start up right of the chimney and climb nice cracks until the slab steepens and gear runs out.\r\nStep right and continue up, more gear appears after 10-15m, to a double bolt belay. The origin of which is unknown however it appears to be for top-roping on the nice slab right of this route. Follow ledge system right then straight up three more easy pitches to the ridge line.\r\nThis four-pitch route begins on some nice cracks before climbing a slab to an existing double bolt belay, then moves right up a ledge system then to the ridge.",
+						"ascent": "Daniel Joll, Paul Angus, 2012"
 					},
 					{
 						"name": "Blame the Rabbit",
@@ -70159,14 +70289,85 @@
 								"name": "The View From Within",
 								"link": "https://climbnz.org.nz/nz/si/fiordland/darran-mountains/mt-syme/madelines-skirt/floating-buttress/view-within",
 								"image": "https://climbnz.org.nz/sites/default/files/routes/P2191834_0.JPG",
-								"grade": "19",
-								"length": "",
-								"pitches": [],
+								"grade": "15,13,18,8,17",
+								"length": "225m",
+								"pitches": [
+									{
+										"ewbank": "15",
+										"alpine": "",
+										"commitment": "",
+										"mtcook": "",
+										"aid": "",
+										"ice": "",
+										"mixed": "",
+										"boulder": "",
+										"length": "40m",
+										"bolts": "",
+										"trad": true,
+										"description": "A wandery pitch to the base of the mega chimney"
+									},
+									{
+										"ewbank": "13",
+										"alpine": "",
+										"commitment": "",
+										"mtcook": "",
+										"aid": "",
+										"ice": "",
+										"mixed": "",
+										"boulder": "",
+										"length": "100m",
+										"bolts": "",
+										"trad": true,
+										"description": "Climb 2-3 pitches of epic chimneying. Little to no protection. But solid belays onto of large chock stones."
+									},
+									{
+										"ewbank": "18",
+										"alpine": "",
+										"commitment": "",
+										"mtcook": "",
+										"aid": "",
+										"ice": "",
+										"mixed": "",
+										"boulder": "",
+										"length": "15m",
+										"bolts": "",
+										"trad": true,
+										"description": "Bridge out of the top of chimney. Short steep hand jam boulder problem to gain belay onto a sofa-sized chock stone."
+									},
+									{
+										"ewbank": "8",
+										"alpine": "",
+										"commitment": "",
+										"mtcook": "",
+										"aid": "",
+										"ice": "",
+										"mixed": "",
+										"boulder": "",
+										"length": "50m",
+										"bolts": "",
+										"trad": true,
+										"description": "Bridge sideways (horizontally) into a deep fold of Madeline's Skirt (the chasm behind the floating buttress). Continue until you find a window looking out through the buttress to the Tutoko River 1000m below."
+									},
+									{
+										"ewbank": "17",
+										"alpine": "",
+										"commitment": "",
+										"mtcook": "",
+										"aid": "",
+										"ice": "",
+										"mixed": "",
+										"boulder": "",
+										"length": "20m",
+										"bolts": "",
+										"trad": true,
+										"description": "Climb inside out crack to the top of the floating buttress. Only grade 12 if you use the wall behind."
+									}
+								],
 								"quality": 3,
 								"bolts": "",
-								"natural_pro": false,
-								"description": "The largest chimney feature in New Zealand, Combined with a bit of caving and a window to view the Tutoko valley from inside the mountain! \r\n1. 40m Grade 15. A wandery pitch to the base of the mega chimney\r\n2. 100m Grade 13. Climb 2-3 pitches on epic chimneying. Little to no protection. But solid belays onto of large chock stones.\r\n3. 15m Grade 18. Bridge out of the top of chimney. Short steep hand jam boulder problem to gain belay onto of sofa sized chock stone\r\n4. 50m horizontal Grade 8. Bridge sideways into a deep fold of Madeline's Skirt (The chasm behind the floating buttress). Continue until you find a window looking out through the buttress to the Tutoko river a 1000m below.\r\n5. 20m Grade 17 (or 12 if you use the wall behind) Climb inside out crack to the top of the floating buttress",
-								"ascent": "FFA Ben Grindle and Jimmy Finlayson 19th Feb 2021"
+								"natural_pro": true,
+								"description": "The largest chimney feature in New Zealand, Combined with a bit of caving and a window to view the Tutoko valley from inside the mountain!",
+								"ascent": "Ben Grindle, Jimmy Finlayson, 19 February 2021"
 							}
 						],
 						"places": [],
@@ -77416,7 +77617,7 @@
 						"name": "War on Terror",
 						"link": "https://climbnz.org.nz/nz/si/fiordland/llawrenny-peaks/terror-pk/north-face/war-terror",
 						"image": null,
-						"grade": "19 ,21 ,18 ,18 ,20",
+						"grade": "19,21,18,18,20",
 						"length": "230m",
 						"pitches": [
 							{
@@ -77448,7 +77649,7 @@
 								"description": "18"
 							},
 							{
-								"ewbank": "Rather than skirting to the left and up the gully there is a variation to this pitch which climbs at grade22 directly up the left side cracks on the obvious steep face. Scarily run out",
+								"ewbank": "Rather than skirting to the left and up the gully there is a variation to this pitch which climbs at grade 22 directly up the left side cracks on the obvious steep face. Scarily run out",
 								"alpine": null,
 								"commitment": null,
 								"mtcook": null,
@@ -81405,7 +81606,7 @@
 		],
 		"places": [
 			{
-				"link": "https://climbnz.org.nz/nz/si/fiordland/darran-mountains/mt-tuhawaiki/rothorn",
+				"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/mt-tuhawaiki/rothorn",
 				"name": "Rothorn",
 				"altitude": "1850m",
 				"description": "The stark, sharp pinnacle at the end of Tuhawaiki's north buttress. Excellent rock.",
@@ -81492,7 +81693,7 @@
 						"bolts": "",
 						"natural_pro": false,
 						"description": "P1 (22)\nP2 (19)\nP3 (19)\nP4 (22)\nP5 (19)",
-						"ascent": "Greg Jack, Jean Tompkins & Troy Mattingley. Feb 2014."
+						"ascent": "Greg Jack, Jean Tompkins, Troy Mattingley. February 2014"
 					},
 					{
 						"name": "Mr Mercedes",
@@ -83845,7 +84046,7 @@
 				"ascent": "First ascent unknown."
 			},
 			{
-				"name": "The Old Man And The Scree",
+				"name": "The Old Man and the Scree",
 				"link": "https://climbnz.org.nz/nz/si/aoraki/mt-cook-range/mt-wakefield/old-man-and-scree",
 				"image": "https://climbnz.org.nz/sites/default/files/route/tomats_0.jpg",
 				"grade": "15",
@@ -83854,8 +84055,8 @@
 				"quality": 0,
 				"bolts": "",
 				"natural_pro": true,
-				"description": "This route is accessed from the first swingbridge\r\non the Hooker valley track, along an old track\r\nthat follows down the true left bank of the\r\nHooker River. Visible from the village is a\r\nprominent scree slope and a series of buttresses\r\nleading to the ridge between Pt 1827m and\r\nPt 1566m. Ascend the scree then aim for the\r\nleft side of the buttress that separates a large\r\nhidden gully from the main scree. Climb slabs\r\nimmediately right of a big corner and finish up\r\nthe chimney. Two 60m pitches (grade 15), sparse\r\nprotection, and loose rock. Walk off the back.\r\nAccording to Trev, it\u2019s a \u2018pretty worthless route\r\nfor the effort to get there.\u2019\r\nSandra Martin, Trevor Streat, Dec 2014",
-				"ascent": "eyore and growly 25th dec 2014"
+				"description": "This route is accessed from the first swingbridge on the Hooker valley track, along an old track that follows down the true left bank of the Hooker River. Visible from the village is a prominent scree slope and a series of buttresses leading to the ridge between Pt 1827m and Pt 1566m. Ascend the scree then aim for the left side of the buttress that separates a large hidden gully from the main scree. Climb slabs immediately right of a big corner and finish up the chimney. Two 60m pitches (grade 15), sparse protection, and loose rock. Walk off the back. According to Trev, it\u2019s a \u2018pretty worthless route for the effort to get there.\u2019\r\nSandra Martin, Trevor Streat, Dec 2014",
+				"ascent": "Eyore and Growly, 25 December 2014"
 			},
 			{
 				"name": "South Ridge",
