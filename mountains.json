@@ -18414,7 +18414,7 @@
 				"quality": 0,
 				"bolts": "",
 				"natural_pro": false,
-				"description": "Please ask for permission before crossing the farmer's land.\r\nPark at the car park before Porters Pass and walk up Kowai River, past the huts to the base of the spur at -43.263081, 171.794887.\r\nFollow this spur up past the big rock and up the scree chute to the ridgeline between Castle Hill Pk and Pt1941.",
+				"description": "Park at the car park before Porters Pass and walk up Kowai River, past the huts to the base of the spur at -43.263081, 171.794887.\r\nFollow this spur up past the big rock and up the scree chute to the ridgeline between Castle Hill Pk and Pt1941.",
 				"ascent": ""
 			},
 			{
@@ -18427,7 +18427,7 @@
 				"quality": 0,
 				"bolts": "",
 				"natural_pro": false,
-				"description": "From the summit of Foggy Peak, follow the ridgeline to Castle Hill Pk",
+				"description": "From the summit of Foggy Peak, follow the ridgeline to Castle Hill Peak",
 				"ascent": ""
 			}
 		],
@@ -27717,7 +27717,7 @@
 						"bolts": "3",
 						"natural_pro": false,
 						"description": "A one pitch direct start to the Pelican. Desperate moves up the angular buttress lead to easier ground above.",
-						"ascent": "Alex Palman, Feb 1996."
+						"ascent": "Alex Palman, February 1996"
 					},
 					{
 						"name": "URGA Memorial Route",
@@ -39416,7 +39416,7 @@
 				"name": "So Called Arthur King",
 				"link": "https://climbnz.org.nz/nz/si/aoraki/malte-brun-range/mt-johnson/so-called-arthur-king",
 				"image": "https://climbnz.org.nz/sites/default/files/route/New%20route%20topo%202%20with%20reference.jpg",
-				"grade": "15 ,16 ,18 ,11 ,15 ,11",
+				"grade": "15,16,18,11,15,11",
 				"length": "245m",
 				"pitches": [
 					{
@@ -39507,8 +39507,8 @@
 				"quality": 1,
 				"bolts": "",
 				"natural_pro": true,
-				"description": "Takes the skyline pillar (as viewed from the confluence of the Reay and \nWalpole Streams in the Reay Valley) via a series of corners and ar\u00eates to \nthe lower North West Ridge of Mt Johnson. Six or seven pitches of generally \ngood quality rock with some exposed climbing, good protection and a really \nnice topout ledge before an easy-angled scramble to point 2235m. Descend by \nheading south along the Northwest Ridge to a col and then dropping down scree \nand easy-angled snow to the upper Reay Valley.\nTo access the route from the upper Reay valley, continue sidling on the true \nright of the Reay Stream until a crossing point is reached a short way above \nan impressive chasm.",
-				"ascent": "Nick Black & Nick Douglas, February 2015"
+				"description": "Takes the skyline pillar (as viewed from the confluence of the Reay and Walpole Streams in the Reay Valley) via a series of corners and ar\u00eates to the lower North West Ridge of Mt Johnson. Six or seven pitches of generally good quality rock with some exposed climbing, good protection and a really nice topout ledge before an easy-angled scramble to point 2235m. \r\nTo access the route from the upper Reay valley, continue sidling on the true right of the Reay Stream until a crossing point is reached a short way above an impressive chasm. \r\nDescend by heading south along the Northwest Ridge to a col and then dropping down scree and easy-angled snow to the upper Reay Valley.",
+				"ascent": "Nick Black, Nick Douglas, February 2015"
 			},
 			{
 				"name": "North West Ridge",
@@ -54911,19 +54911,6 @@
 				"natural_pro": false,
 				"description": "Another route (used by cavers) follows up Bulmer Creek and along a prominent ledge in the limestone bluffs at its head to Bulmer Lake. From here it is fairly good travel on tussock and scree, through Castle Basin to Poverty Basin (campsites and small tarns in each). Continue into a basin east of Replica Hill. Routes can be found through the karst.",
 				"ascent": ""
-			},
-			{
-				"name": "Pipiwharauroa",
-				"link": "https://climbnz.org.nz/nz/si/kahurangi/marino-mountains/mt-owen/pipiwharauroa",
-				"image": "https://climbnz.org.nz/sites/default/files/routes/20190407_180623.jpg",
-				"grade": "24",
-				"length": "35m",
-				"pitches": [],
-				"quality": 0,
-				"bolts": "8",
-				"natural_pro": false,
-				"description": "Steep face to slab. A long standing project, bolted by Chris Butler and Sam Russek in 2008. Named due to the shiny appearance of stainless steel bolts.",
-				"ascent": "Al Mark, April 2019"
 			}
 		],
 		"places": [],
@@ -67443,7 +67430,7 @@
 				]
 			},
 			{
-				"link": "https://climbnz.org.nz/nz/si/otago/the-remarkables/single-cone/east-face",
+				"link": "https://climbnz.org.nz/nz/si/queenstown/remarkables/single-cone/east-face",
 				"name": "East Face",
 				"altitude": null,
 				"description": null,
@@ -67453,8 +67440,21 @@
 				],
 				"routes": [
 					{
+						"name": "South East Ridge",
+						"link": "https://climbnz.org.nz/nz/si/queenstown/remarkables/single-cone/east-face/south-east-ridge",
+						"image": null,
+						"grade": "1+",
+						"length": "",
+						"pitches": [],
+						"quality": 3,
+						"bolts": "",
+						"natural_pro": false,
+						"description": "Head up to Wye Saddle and towards the southeast ridgeline and climb the mild slabs towards a distinct couloir. At the top, you'll need to climb over a pretty exposed section to follow a short ledge to the summit.",
+						"ascent": "FA: Dave McLeod probably"
+					},
+					{
 						"name": "North East Ridge",
-						"link": "https://climbnz.org.nz/nz/si/otago/the-remarkables/single-cone/east-face/north-east-ridge",
+						"link": "https://climbnz.org.nz/nz/si/queenstown/remarkables/single-cone/east-face/north-east-ridge",
 						"image": null,
 						"grade": "2",
 						"length": "",
@@ -67462,30 +67462,30 @@
 						"quality": 2,
 						"bolts": "",
 						"natural_pro": false,
-						"description": "From the ski car park follow the Wye Creek route until the saddle. From here follow the NE ridgeline to the summit. The final 30m are the most committing. Once started it's easier to summit and descend the SE ridge/couloir than to bail.",
+						"description": "Head up to Wye Saddle. From there follow the obvious ridgeline/arete to the summit. The last section can be a bit committing.",
 						"ascent": "FA: Dave McLeod probably"
 					},
 					{
-						"name": "South East Ridge",
-						"link": "https://climbnz.org.nz/nz/si/otago/the-remarkables/single-cone/east-face/south-east-ridge",
+						"name": "North East Alternative",
+						"link": "https://climbnz.org.nz/nz/si/queenstown/remarkables/single-cone/east-face/north-east-alternative",
 						"image": null,
-						"grade": "2-",
+						"grade": "2",
 						"length": "",
 						"pitches": [],
-						"quality": 3,
+						"quality": 1,
 						"bolts": "",
 						"natural_pro": false,
-						"description": "Walk up to Wye Saddle and then head for the south east ridge. Scramble up the ridge aiming for the couloir (note this seems to have some amount of snow year round). At the top of the couloir you'll hit the ridgeline again and find yourself in a very exposed section. From there you can follow some obvious steps and make your way to the summit.",
-						"ascent": "FA: Dave McLeod probably"
+						"description": "Blast your way up the east face following the good snow. Later sections are above some decent bluffs so long slides could have big consequences.",
+						"ascent": ""
 					}
 				],
 				"places": [],
-				"image": "https://climbnz.org.nz/sites/default/files/image/20230429_212426.jpg",
+				"image": "https://climbnz.org.nz/sites/default/files/image/Inked20220906_122045.jpg",
 				"images": [
 					{
-						"src": "https://climbnz.org.nz/sites/default/files/image/20230429_212426.jpg",
-						"height": "1080",
-						"width": "1080"
+						"src": "https://climbnz.org.nz/sites/default/files/image/Inked20220906_122045.jpg",
+						"height": "3000",
+						"width": "4000"
 					}
 				]
 			}
@@ -72096,32 +72096,6 @@
 				"bolts": "",
 				"natural_pro": false,
 				"description": "Starting from Tahurangi Lodge climb initially on the North Ridge to 1800m. Travel west on a rising traverse to the middle of the Flounder at 1950m. Continue west to Minarapa Col at 1860m. It is an obvious break in the ridge above the prominent point of Saw Tooth (1820m). \r\n Traverse Minarapa Valley under the Hammer and climb south-west to 2000m and to the base of the Turtle at 2000m.\r\nGradually descend towards the Big Pyramid 1458m. Passing above the Big Pyramid and beneath a long line of bluffs above the Kahui moss slopes, the route goes just above Turehu Hill (1420m). A lone snow pole stands on the col immediately above Turehu hill.\r\nCross into the Okahu Gorge and gain Hughsons Ledge at 1585m. Gradually climb to Bobs Ridge above Bobs Bluff (1967m). Descend to Skeets Ridge and traverse to Fanthams Peak (1966m). If condition are unsuitable a descent of Bobs Ridge to the Around the Mountain Circuit at 1400m and a climb up to Fanthams Peak may be more appropriate.\r\nFrom the top of Fanthams Peak it is necessary to climb slightly across the head of the Kapuni Gorge, and then to descend gradually to the Policeman (1876m) and to then to Warwick Col between Warwick Castle and Lion Rock. Descend into Organ Pipe Valley and traverse under the bluffs at 1500m to Tahurangi Lodge.\r\nThe best time to undertake the high level circuit is early to late summer. In November and December some of the deeper gorges still have a depth of snow suf\ufb01cient to ease the crossings. After March, however, the scoria on the southern slopes is liable to be frozen, making conditions dif\ufb01cult even for experienced climbers.\r\nTime: 12 hours (in good conditions).",
-				"ascent": ""
-			},
-			{
-				"name": "Humphries Traverse",
-				"link": "https://climbnz.org.nz/nz/ni/taranaki/taranaki-mt-egmont/humphries-traverse",
-				"image": null,
-				"grade": "11",
-				"length": "50m",
-				"pitches": [],
-				"quality": 0,
-				"bolts": "",
-				"natural_pro": false,
-				"description": "Starts from the top end of Humphries Castle at the base of the Nose. Follow the eastern ledge to gain the mossy tussock slopes near mid height of the Castle. Climb the spiny ridge to the high point and abseil off.",
-				"ascent": ""
-			},
-			{
-				"name": "Warwicks Traverse",
-				"link": "https://climbnz.org.nz/nz/ni/taranaki/taranaki-mt-egmont/warwicks-traverse",
-				"image": null,
-				"grade": "11",
-				"length": "80m",
-				"pitches": [],
-				"quality": 1,
-				"bolts": "",
-				"natural_pro": false,
-				"description": "Travel to the bottom of Warwicks Castle. Approach from the AMC via the ridge leading to Sunnyside Wall or descend from Warwicks Col following the South Face. \r\nFrom the eastern-most edge\u2014the lowest point: move 10m to the north and begin ascending steep moss and tussock ledges. Keeping near the edge. (watch for holes and loose boulders), ascend the ridge to gain the wide-open moss field. Central in this area are two large rocks wich could offer a nice lunch or camping spot. \r\nContinue along the narrowing ridge to where the spine becomes jagged and rocky, move along the top of the rocks and descend slightly to the top of El Cap Groove. Sidle along to the southern side of the ridge until it widens out at the top of sunrise. Abseil off here or continue: move along the ridge for 5m past the abseil chain then descend the north side for 3m and squeeze between two large rocks. Step along the blocks and finish with a layback to the south and down the moss slopes. Climbing the last part in reverse to the belay chain provides quick access to the top of Warwicks Castle.",
 				"ascent": ""
 			}
 		],
@@ -84156,7 +84130,7 @@
 				"quality": 0,
 				"bolts": "",
 				"natural_pro": true,
-				"description": "To the (climbers) right of Hug-a-Ginga, starts up the vague crack/slab system \nslanting out right. Gear generally plentiful, climbing very mellow.\n\n-Easy climbing but on sometimes broken rock (14)\n-From the base of the distinctive orange face with multiple vertical cracks, \ntake the rightmost crack (or another, at probably a higher grade) then \ncontinue up balancey slabs on generally good rock to the base of the steep \nheadwall with obvious big cracks (15/16 depending on crack taken at orange \nface)\n-Move to the climbers right around the headwall and climb the slabs to the \ntop of the bulge. From here scramble to the top of the outlier pk (14).\nIf abseiling the route, note rap points carefully on ascent as good ones are \nhard to find (smooth domes of doom)",
+				"description": "To the (climber\u2019s) right of Hug-a-Ginga, starts up the vague crack/slab system slanting out right. Gear generally plentiful, climbing very mellow.\r\n\u2013 Easy climbing but on sometimes broken rock (14).\r\n\u2013 From the base of the distinctive orange face with multiple vertical cracks, take the rightmost crack (or another, at probably a higher grade) then continue up balancey slabs on generally good rock to the base of the steep headwall with obvious big cracks (15/16 depending on crack taken at orange face).\r\n\u2013 Move to the climber\u2019s right around the headwall and climb the slabs to the top of the bulge. \r\n\u2013 From here scramble to the top of the outlier peak (14).\r\nIf abseiling the route, note rap points carefully on ascent as good ones are hard to find (smooth domes of doom).",
 				"ascent": "Sooji Clarkson, Eric Skea, 21 October 2018"
 			}
 		],
