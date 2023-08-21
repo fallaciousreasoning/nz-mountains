@@ -4646,12 +4646,12 @@
 				"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/barrier-range/pt-2200/soft-tahrget",
 				"image": null,
 				"grade": "15",
-				"length": "",
+				"length": "125m",
 				"pitches": [],
 				"quality": 0,
 				"bolts": "",
-				"natural_pro": false,
-				"description": "Start in the notch at lowest point of buttress, climbing up a corner and out \nonto the face. Continue up and through some steep moves to near the ridgeline \nand on excellent rock towards the top. Easy descent towards Steeple peak. \nProtection and rock quality similar to Weta Prowl. 125 m height gain, Grade \n14/15.",
+				"natural_pro": true,
+				"description": "Start in the notch at lowest point of buttress, climbing up a corner and out onto the face. Continue up and through some steep moves to near the ridgeline and on excellent rock towards the top. Easy descent towards Steeple peak. Protection and rock quality similar to Weta Prowl.",
 				"ascent": "Jamie Foxley, February 2005"
 			},
 			{
@@ -6497,8 +6497,8 @@
 			}
 		]
 	},
-	"https://climbnz.org.nz/nz/si/aspiring/wilkin-river/mt-aeolus": {
-		"link": "https://climbnz.org.nz/nz/si/aspiring/wilkin-river/mt-aeolus",
+	"https://climbnz.org.nz/nz/si/aspiring/west-wanaka-mountains/mt-aeolus": {
+		"link": "https://climbnz.org.nz/nz/si/aspiring/west-wanaka-mountains/mt-aeolus",
 		"name": "Mt Aeolus",
 		"altitude": "2283m",
 		"description": "Also known as Oblong on account of its shape. On Topo50 BZ12 the peak is Mt Aeolus at 2283m. On the old NZMS 1 S107 the same peak is called Oblong.",
@@ -6509,7 +6509,7 @@
 		"routes": [
 			{
 				"name": "From Jumboland",
-				"link": "https://climbnz.org.nz/nz/si/aspiring/wilkin-river/mt-aeolus/jumboland",
+				"link": "https://climbnz.org.nz/nz/si/aspiring/west-wanaka-mountains/mt-aeolus/jumboland",
 				"image": null,
 				"grade": "",
 				"length": "",
@@ -9724,8 +9724,8 @@
 		"image": null,
 		"images": []
 	},
-	"https://climbnz.org.nz/nz/si/aspiring/wilkin-river/mt-arne": {
-		"link": "https://climbnz.org.nz/nz/si/aspiring/wilkin-river/mt-arne",
+	"https://climbnz.org.nz/nz/si/aspiring/west-wanaka-mountains/mt-arne": {
+		"link": "https://climbnz.org.nz/nz/si/aspiring/west-wanaka-mountains/mt-arne",
 		"name": "Mt Arne",
 		"altitude": "2011m",
 		"description": null,
@@ -9736,7 +9736,7 @@
 		"routes": [
 			{
 				"name": "South East Ridge.",
-				"link": "https://climbnz.org.nz/nz/si/aspiring/wilkin-river/mt-arne/south-east-ridge",
+				"link": "https://climbnz.org.nz/nz/si/aspiring/west-wanaka-mountains/mt-arne/south-east-ridge",
 				"image": null,
 				"grade": "",
 				"length": "",
@@ -9831,19 +9831,6 @@
 				"ascent": "Evan Wilson, Jim Wilson, Andy Anderson, January 1931"
 			},
 			{
-				"name": "Thompsons Track",
-				"link": "https://climbnz.org.nz/nz/si/canterbury/arrowsmith-range/mt-arrowsmith/thompsons-track",
-				"image": "https://climbnz.org.nz/sites/default/files/route/Thompsons%20Track.jpg",
-				"grade": "3",
-				"length": "",
-				"pitches": [],
-				"quality": 1,
-				"bolts": "",
-				"natural_pro": false,
-				"description": "Right-hand side of Ashburton Face. Snow and ice climb with several short \nmixed sections. FA: unknown. Kyle Walters, Michael Eatson October 2018.",
-				"ascent": ""
-			},
-			{
 				"name": "Ashburton Face",
 				"link": "https://climbnz.org.nz/nz/si/canterbury/arrowsmith-range/mt-arrowsmith/ashburton-face",
 				"image": null,
@@ -9855,6 +9842,19 @@
 				"natural_pro": false,
 				"description": "This is a snow and ice climb up a broad snow face followed by one of a number of gullies to the\r\nsummit of Mt Arrowsmith. From the moraines at the head of the Hakatere River climb to the\r\nschrund at the bottom of the Ashburton Face. Climb a short, steep section alongside a steep\r\nrock rib to gain the slope above. Climb until a small ar\u00eate is reached, and from here either go left\r\nto snow slopes and gullies that join the South West Ridge, or head up steeper rock directly to\r\nthe summit. Usually in condition only from late winter to early summer, and subject to rock fall.",
 				"ascent": "Don Cowie, Jim Clark, November 1958"
+			},
+			{
+				"name": "Thompsons Track",
+				"link": "https://climbnz.org.nz/nz/si/canterbury/arrowsmith-range/mt-arrowsmith/thompsons-track",
+				"image": "https://climbnz.org.nz/sites/default/files/route/Thompsons%20Track.jpg",
+				"grade": "3",
+				"length": "",
+				"pitches": [],
+				"quality": 1,
+				"bolts": "",
+				"natural_pro": false,
+				"description": "Right-hand side of Ashburton Face. Snow and ice climb with several short \nmixed sections. FA: unknown. Kyle Walters, Michael Eatson October 2018.",
+				"ascent": ""
 			},
 			{
 				"name": "East Ridge",
@@ -11231,8 +11231,8 @@
 		"image": null,
 		"images": []
 	},
-	"https://climbnz.org.nz/nz/si/aspiring/mt-awful": {
-		"link": "https://climbnz.org.nz/nz/si/aspiring/mt-awful",
+	"https://climbnz.org.nz/nz/si/aspiring/west-wanaka-mountains/mt-awful": {
+		"link": "https://climbnz.org.nz/nz/si/aspiring/west-wanaka-mountains/mt-awful",
 		"name": "Mt Awful",
 		"altitude": "2192m",
 		"description": "If cute was an acceptable word to use to describe a mountain then Mt Awful would be just that. It is a readily accessible peak with good rock as a bonus.",
@@ -11243,7 +11243,7 @@
 		"routes": [
 			{
 				"name": "North West Ridge",
-				"link": "https://climbnz.org.nz/nz/si/aspiring/mt-awful/north-west-ridge",
+				"link": "https://climbnz.org.nz/nz/si/aspiring/west-wanaka-mountains/mt-awful/north-west-ridge",
 				"image": null,
 				"grade": "II  1+",
 				"length": "",
@@ -11256,7 +11256,7 @@
 			},
 			{
 				"name": "South East Ridge",
-				"link": "https://climbnz.org.nz/nz/si/aspiring/mt-awful/south-east-ridge",
+				"link": "https://climbnz.org.nz/nz/si/aspiring/west-wanaka-mountains/mt-awful/south-east-ridge",
 				"image": null,
 				"grade": "II  2+",
 				"length": "",
@@ -11269,7 +11269,7 @@
 			},
 			{
 				"name": "South West Ridge",
-				"link": "https://climbnz.org.nz/nz/si/aspiring/mt-awful/south-west-ridge",
+				"link": "https://climbnz.org.nz/nz/si/aspiring/west-wanaka-mountains/mt-awful/south-west-ridge",
 				"image": null,
 				"grade": "14",
 				"length": "",
@@ -11291,7 +11291,7 @@
 				"routes": [
 					{
 						"name": "A Very Hungry Weka",
-						"link": "https://climbnz.org.nz/nz/si/aspiring/mt-awful/east-face/a-very-hungry-weka",
+						"link": "https://climbnz.org.nz/nz/si/aspiring/mt-awful/east-face/very-hungry-weka",
 						"image": null,
 						"grade": "III 3  14",
 						"length": "",
@@ -11304,7 +11304,7 @@
 					},
 					{
 						"name": "The Weta Walk",
-						"link": "https://climbnz.org.nz/nz/si/aspiring/mt-awful/east-face/the-weta-walk",
+						"link": "https://climbnz.org.nz/nz/si/aspiring/mt-awful/east-face/weta-walk",
 						"image": null,
 						"grade": "III  4 17",
 						"length": "",
@@ -11317,7 +11317,7 @@
 					},
 					{
 						"name": "A Stitch in Time",
-						"link": "https://climbnz.org.nz/nz/si/aspiring/mt-awful/east-face/a-stitch-in-time",
+						"link": "https://climbnz.org.nz/nz/si/aspiring/mt-awful/east-face/stitch-time",
 						"image": null,
 						"grade": "III  5 18   ,   17   ,   19   ,   18   ,   16   ,   18   ,   21   ,   19   ,      ,",
 						"length": "416m",
@@ -11484,7 +11484,7 @@
 					},
 					{
 						"name": "Summer of Yes",
-						"link": "https://climbnz.org.nz/nz/si/aspiring/mt-awful/east-face/summer-of-yes",
+						"link": "https://climbnz.org.nz/nz/si/aspiring/mt-awful/east-face/summer-yes",
 						"image": "https://climbnz.org.nz/sites/default/files/route/soy.jpg",
 						"grade": "II   21",
 						"length": "190m",
@@ -20858,7 +20858,7 @@
 				"name": "Silver Lining",
 				"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/cloudy-pk/silver-lining",
 				"image": "https://climbnz.org.nz/sites/default/files/route/silverLIningLocation_0.jpg",
-				"grade": "23 ,18 ,16",
+				"grade": "23,18,16",
 				"length": "105m",
 				"pitches": [
 					{
@@ -20907,8 +20907,8 @@
 				"quality": 0,
 				"bolts": "",
 				"natural_pro": true,
-				"description": "A line on the right hand end of the upper wall. Fine splitter cracks up steep \nterrain. After 3 excellent pitches can continue scrambling up SW ridge to the \nsummit, or descend as per SW ridge.",
-				"ascent": "S Fortune, J Grinsted, S Chand, Feb 2017"
+				"description": "A line on the right hand end of the upper wall. Fine splitter cracks up steep terrain. After 3 excellent pitches can continue scrambling up SW ridge to the summit, or descend as per SW ridge.",
+				"ascent": "S Fortune, J Grinsted, S Chand, February 2017"
 			},
 			{
 				"name": "The Whole Nine Yards, upper section",
@@ -21220,7 +21220,7 @@
 						"bolts": "",
 						"natural_pro": true,
 						"description": "\u2018Obvious sharp ar\u00eate left of substantial face heading to the South West Ridge, two fixed pegs.\u2019",
-						"ascent": "Steve Elder 1990"
+						"ascent": "Steve Elder, 1990"
 					}
 				],
 				"places": [],
@@ -27029,8 +27029,8 @@
 						"quality": 0,
 						"bolts": "",
 						"natural_pro": true,
-						"description": "Steep left angling crack left of Pull me a pilsner",
-						"ascent": "Mark Woodward, Tim O'Leary 1997"
+						"description": "Steep left angling crack left of Pull Me a Pilsner.",
+						"ascent": "Mark Woodward, Tim O'Leary, 1997"
 					},
 					{
 						"name": "Pull Me a Pilsner, direct start and extended finish, 5 pitches",
@@ -27578,7 +27578,21 @@
 			"-44.409313750000",
 			"168.879093310000"
 		],
-		"routes": [],
+		"routes": [
+			{
+				"name": "North Ridge",
+				"link": "https://climbnz.org.nz/nz/si/aspiring/west-wanaka-mountains/dragonfly-pk/north-ridge",
+				"image": null,
+				"grade": "I 1",
+				"length": "",
+				"pitches": [],
+				"quality": 0,
+				"bolts": "",
+				"natural_pro": false,
+				"description": "From Junction Flat cross the East Matukituki and follow the marked track up through the bush on the north side of Hester Pinney Creek. Above the bush easy tussock slopes lead around to the South Albert Burn Saddle. From the saddle follow the straightforward tussock and rock of the North Ridge to the summit. This would take about seven to eight hours from the river.",
+				"ascent": "Paul Powell, Bruce Moore, March 1962"
+			}
+		],
 		"places": [],
 		"image": null,
 		"images": []
@@ -32787,7 +32801,7 @@
 				"quality": 0,
 				"bolts": "",
 				"natural_pro": false,
-				"description": "So we just pick up a line and climb the slabs and had a great day on the \nrock, thanks to share this mountain with all of us. However we started \nclimbing 100m up the gut (no any snow left) and climb the pretty obvious \ndiagonal corner to what we think is Derek's escape ledge and from there up a \npitch with route 2 and traverse right (crux) to the arete. From here up \nanother 2 pitches to the top ridge. We thought we climbed a new line and \nwanted to let you know. We called \"vote for pedro\" and it's a pleasant grade \n13 with one pitch of 15 in the middle, we left a piton there too.",
+				"description": "So we just pick up a line and climb the slabs and had a great day on the rock, thanks to share this mountain with all of us. However we started climbing 100m up the gut (no any snow left) and climb the pretty obvious diagonal corner to what we think is Derek's escape ledge and from there up a pitch with route 2 and traverse right (crux) to the arete. From here up another 2 pitches to the top ridge. We thought we climbed a new line and wanted to let you know. We called \"vote for pedro\" and it's a pleasant grade 13 with one pitch of 15 in the middle, we left a piton there too.",
 				"ascent": "Carl Schiller - Fox Glacier, Matteo Scoz \u2013 Wanaka, February 2008"
 			},
 			{
@@ -33023,8 +33037,8 @@
 		"image": null,
 		"images": []
 	},
-	"https://climbnz.org.nz/nz/si/aspiring/matukituki-river-west-branch/glengyle-pk": {
-		"link": "https://climbnz.org.nz/nz/si/aspiring/matukituki-river-west-branch/glengyle-pk",
+	"https://climbnz.org.nz/nz/si/aspiring/west-wanaka-mountains/glengyle-pk": {
+		"link": "https://climbnz.org.nz/nz/si/aspiring/west-wanaka-mountains/glengyle-pk",
 		"name": "Glengyle Pk",
 		"altitude": "2283m",
 		"description": "Glengyle is an impressive sight from Aspiring Hut, although it is in fact little more than a bump on the South Ridge of Rob Roy. The crags and towers of Glengyle are sometimes mistakenly called the Cathedral Peaks, however that name was originally applied to all peaks between Bevan and Glengyle on the northeast side of the West Matukituki.",
@@ -33035,7 +33049,7 @@
 		"routes": [
 			{
 				"name": "The South Ridge.",
-				"link": "https://climbnz.org.nz/nz/si/aspiring/matukituki-river-west-branch/glengyle-pk/south-ridge",
+				"link": "https://climbnz.org.nz/nz/si/aspiring/west-wanaka-mountains/glengyle-pk/south-ridge",
 				"image": null,
 				"grade": "II  2",
 				"length": "",
@@ -33048,7 +33062,7 @@
 			},
 			{
 				"name": "The West Face.",
-				"link": "https://climbnz.org.nz/nz/si/aspiring/matukituki-river-west-branch/glengyle-pk/west-face",
+				"link": "https://climbnz.org.nz/nz/si/aspiring/west-wanaka-mountains/glengyle-pk/west-face",
 				"image": null,
 				"grade": "II  2",
 				"length": "",
@@ -33061,7 +33075,7 @@
 			},
 			{
 				"name": "West Face. Following Dave.",
-				"link": "https://climbnz.org.nz/nz/si/aspiring/matukituki-river-west-branch/glengyle-pk/west-face-following-dave",
+				"link": "https://climbnz.org.nz/nz/si/aspiring/west-wanaka-mountains/glengyle-pk/west-face-following-dave",
 				"image": null,
 				"grade": "II  3",
 				"length": "",
@@ -33074,7 +33088,7 @@
 			},
 			{
 				"name": "South Face Central Gully",
-				"link": "https://climbnz.org.nz/nz/si/aspiring/matukituki-river-west-branch/glengyle-pk/south-face-central-gully",
+				"link": "https://climbnz.org.nz/nz/si/aspiring/west-wanaka-mountains/glengyle-pk/south-face-central-gully",
 				"image": null,
 				"grade": "4-",
 				"length": "",
@@ -39816,8 +39830,8 @@
 		"image": null,
 		"images": []
 	},
-	"https://climbnz.org.nz/nz/si/aspiring/wilkin-river/mt-juno": {
-		"link": "https://climbnz.org.nz/nz/si/aspiring/wilkin-river/mt-juno",
+	"https://climbnz.org.nz/nz/si/aspiring/west-wanaka-mountains/mt-juno": {
+		"link": "https://climbnz.org.nz/nz/si/aspiring/west-wanaka-mountains/mt-juno",
 		"name": "Mt Juno",
 		"altitude": "2012m",
 		"description": null,
@@ -39828,7 +39842,7 @@
 		"routes": [
 			{
 				"name": "North Ridge",
-				"link": "https://climbnz.org.nz/nz/si/aspiring/wilkin-river/mt-juno/north-ridge",
+				"link": "https://climbnz.org.nz/nz/si/aspiring/west-wanaka-mountains/mt-juno/north-ridge",
 				"image": null,
 				"grade": "II  2",
 				"length": "",
@@ -39841,7 +39855,7 @@
 			},
 			{
 				"name": "From Iphegenia",
-				"link": "https://climbnz.org.nz/nz/si/aspiring/wilkin-river/mt-juno/iphegenia",
+				"link": "https://climbnz.org.nz/nz/si/aspiring/west-wanaka-mountains/mt-juno/iphegenia",
 				"image": null,
 				"grade": "",
 				"length": "",
@@ -42007,8 +42021,8 @@
 		"image": null,
 		"images": []
 	},
-	"https://climbnz.org.nz/nz/si/aspiring/wilkin-river/mt-kuri": {
-		"link": "https://climbnz.org.nz/nz/si/aspiring/wilkin-river/mt-kuri",
+	"https://climbnz.org.nz/nz/si/aspiring/west-wanaka-mountains/mt-kuri": {
+		"link": "https://climbnz.org.nz/nz/si/aspiring/west-wanaka-mountains/mt-kuri",
 		"name": "Mt Kuri",
 		"altitude": "2141m",
 		"description": null,
@@ -42019,7 +42033,7 @@
 		"routes": [
 			{
 				"name": "North Ridge",
-				"link": "https://climbnz.org.nz/nz/si/aspiring/wilkin-river/mt-kuri/north-ridge",
+				"link": "https://climbnz.org.nz/nz/si/aspiring/west-wanaka-mountains/mt-kuri/north-ridge",
 				"image": null,
 				"grade": "",
 				"length": "",
@@ -49275,8 +49289,8 @@
 						"quality": 0,
 						"bolts": "",
 						"natural_pro": true,
-						"description": "About 5 pitches (200m) up good rock. Crux was about grade 14 on about the 4th \npitch. Remaining 300m was easy scrambling.",
-						"ascent": "Mike Berry, Brian Renwick. About 1977"
+						"description": "About 5 pitches (200m) up good rock. Crux was about grade 14 on about the 4th pitch. Remaining 300m was easy scrambling.",
+						"ascent": "Mike Berry, Brian Renwick, about 1977"
 					}
 				],
 				"places": [],
@@ -54494,7 +54508,7 @@
 				"name": "Sky-Lab",
 				"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/mt-onslow/sky-lab",
 				"image": null,
-				"grade": "15 ,16 ,20 ,24 ,10",
+				"grade": "15,16,20,24,10",
 				"length": "165m",
 				"pitches": [
 					{
@@ -54571,7 +54585,7 @@
 				"quality": 1,
 				"bolts": "16",
 				"natural_pro": true,
-				"description": "Three moderate pitches to reach a stunning full rope-length on the smooth \ndiamond-shaped\nslab, with just one jug at about two-thirds height. Then a short final pitch \nto reach abseil bolts.\nTake plenty of quickdraws.",
+				"description": "Three moderate pitches to reach a stunning full rope-length on the smooth diamond-shaped slab, with just one jug at about two-thirds height. Then a short final pitch to reach abseil bolts. Take plenty of quickdraws.",
 				"ascent": "Bill McLeod, David Newstead, 1992"
 			},
 			{
@@ -56193,11 +56207,11 @@
 		"image": null,
 		"images": []
 	},
-	"https://climbnz.org.nz/nz/si/aspiring/pegasus-pk": {
-		"link": "https://climbnz.org.nz/nz/si/aspiring/pegasus-pk",
+	"https://climbnz.org.nz/nz/si/aspiring/main-divide/pegasus-pk": {
+		"link": "https://climbnz.org.nz/nz/si/aspiring/main-divide/pegasus-pk",
 		"name": "Pegasus Pk",
 		"altitude": "2160m",
-		"description": "Located at the end of the ridge that runs north-west from the summit of \nCastor.",
+		"description": "Located at the end of the ridge that runs north-west from the summit of Castor (slightly west of the Divide).",
 		"latlng": [
 			"-44.207169990000",
 			"168.869112500000"
@@ -56205,7 +56219,7 @@
 		"routes": [
 			{
 				"name": "West Ridge",
-				"link": "https://climbnz.org.nz/nz/si/aspiring/pegasus-pk/west-ridge",
+				"link": "https://climbnz.org.nz/nz/si/aspiring/main-divide/pegasus-pk/west-ridge",
 				"image": null,
 				"grade": "",
 				"length": "",
@@ -57424,8 +57438,8 @@
 		"image": null,
 		"images": []
 	},
-	"https://climbnz.org.nz/nz/si/aspiring/matukituki-river-west-branch/plunket-dome": {
-		"link": "https://climbnz.org.nz/nz/si/aspiring/matukituki-river-west-branch/plunket-dome",
+	"https://climbnz.org.nz/nz/si/aspiring/harris-mountains/plunket-dome": {
+		"link": "https://climbnz.org.nz/nz/si/aspiring/harris-mountains/plunket-dome",
 		"name": "Plunket Dome",
 		"altitude": "2191m",
 		"description": "Governor\u2019s Ridge connects Plunket Dome, Islington and Liverpool and forms the edge of the upper Dart N\u00e9v\u00e9. A fantastic alpine wander can be had by traveling up to Cascade Saddle, along Governors\u2019 Ridge and down one of the ridges above Rough Creek.",
@@ -57436,7 +57450,7 @@
 		"routes": [
 			{
 				"name": "Via the Cascade Saddle track.",
-				"link": "https://climbnz.org.nz/nz/si/aspiring/matukituki-river-west-branch/plunket-dome/cascade-saddle-track",
+				"link": "https://climbnz.org.nz/nz/si/aspiring/harris-mountains/plunket-dome/cascade-saddle-track",
 				"image": null,
 				"grade": "II  1",
 				"length": "",
@@ -57449,7 +57463,7 @@
 			},
 			{
 				"name": "Via the ridge north of Rough Creek.",
-				"link": "https://climbnz.org.nz/nz/si/aspiring/matukituki-river-west-branch/plunket-dome/ridge-north-rough-creek",
+				"link": "https://climbnz.org.nz/nz/si/aspiring/harris-mountains/plunket-dome/ridge-north-rough-creek",
 				"image": null,
 				"grade": "II  2",
 				"length": "",
@@ -57462,7 +57476,7 @@
 			},
 			{
 				"name": "Via the ridge south of Rough Creek",
-				"link": "https://climbnz.org.nz/nz/si/aspiring/matukituki-river-west-branch/plunket-dome/ridge-south-rough-creek",
+				"link": "https://climbnz.org.nz/nz/si/aspiring/harris-mountains/plunket-dome/ridge-south-rough-creek",
 				"image": null,
 				"grade": "II  2",
 				"length": "",
@@ -59347,8 +59361,8 @@
 		"image": null,
 		"images": []
 	},
-	"https://climbnz.org.nz/nz/si/aspiring/rob-roy-pk": {
-		"link": "https://climbnz.org.nz/nz/si/aspiring/rob-roy-pk",
+	"https://climbnz.org.nz/nz/si/aspiring/west-wanaka-mountains/rob-roy-pk": {
+		"link": "https://climbnz.org.nz/nz/si/aspiring/west-wanaka-mountains/rob-roy-pk",
 		"name": "Rob Roy Pk",
 		"altitude": "2644m",
 		"description": "Rob Roy is a mountain pushed up by the tectonic plates and in the process given multiple birth defects. Ridges and faces don\u2019t come together with the symmetry of Aspiring and climbers shy away from the hunch-backed summit. Despite appearances however, the mountain has a magnetism and a wonderful array of varied and interesting routes. The first ascent, from the West Matukituki and the Rob Roy Glacier, was on March 2, 1935, when the mountain was overwhelmed by the sheer weight of numbers of a party consisting of Ernie Smith, Monty McClymont, Cedric Benzoni, Bob Fullerton, George Palmer, Don Divers, Russell Edwards, George Edwards, and Gordon Edwards.",
@@ -59359,7 +59373,7 @@
 		"routes": [
 			{
 				"name": "The East Ridge",
-				"link": "https://climbnz.org.nz/nz/si/aspiring/rob-roy-pk/east-ridge",
+				"link": "https://climbnz.org.nz/nz/si/aspiring/west-wanaka-mountains/rob-roy-pk/east-ridge",
 				"image": null,
 				"grade": "IV  3",
 				"length": "",
@@ -59372,7 +59386,7 @@
 			},
 			{
 				"name": "The South Ridge and Rob Roy Glacier.",
-				"link": "https://climbnz.org.nz/nz/si/aspiring/rob-roy-pk/south-ridge-and-rob-roy-glacier",
+				"link": "https://climbnz.org.nz/nz/si/aspiring/west-wanaka-mountains/rob-roy-pk/south-ridge-and-rob-roy-glacier",
 				"image": null,
 				"grade": "III  1",
 				"length": "",
@@ -59385,7 +59399,7 @@
 			},
 			{
 				"name": "The North West Ridge.",
-				"link": "https://climbnz.org.nz/nz/si/aspiring/rob-roy-pk/north-west-ridge",
+				"link": "https://climbnz.org.nz/nz/si/aspiring/west-wanaka-mountains/rob-roy-pk/north-west-ridge",
 				"image": null,
 				"grade": "III  2",
 				"length": "",
@@ -59398,7 +59412,7 @@
 			},
 			{
 				"name": "The North Face.",
-				"link": "https://climbnz.org.nz/nz/si/aspiring/rob-roy-pk/north-face",
+				"link": "https://climbnz.org.nz/nz/si/aspiring/west-wanaka-mountains/rob-roy-pk/north-face",
 				"image": null,
 				"grade": "III  2+",
 				"length": "",
@@ -59411,7 +59425,7 @@
 			},
 			{
 				"name": "The North Ridge.",
-				"link": "https://climbnz.org.nz/nz/si/aspiring/rob-roy-pk/north-ridge",
+				"link": "https://climbnz.org.nz/nz/si/aspiring/west-wanaka-mountains/rob-roy-pk/north-ridge",
 				"image": null,
 				"grade": "IV  3",
 				"length": "",
@@ -59424,7 +59438,7 @@
 			},
 			{
 				"name": "The North East Face.",
-				"link": "https://climbnz.org.nz/nz/si/aspiring/rob-roy-pk/north-east-face",
+				"link": "https://climbnz.org.nz/nz/si/aspiring/west-wanaka-mountains/rob-roy-pk/north-east-face",
 				"image": null,
 				"grade": "",
 				"length": "",
@@ -59437,7 +59451,7 @@
 			},
 			{
 				"name": "Bonar Glacier-Rob Roy Stream traverse.",
-				"link": "https://climbnz.org.nz/nz/si/aspiring/rob-roy-pk/bonar-glacier-rob-roy-stream-traverse",
+				"link": "https://climbnz.org.nz/nz/si/aspiring/west-wanaka-mountains/rob-roy-pk/bonar-glacier-rob-roy-stream-traverse",
 				"image": null,
 				"grade": "III  1",
 				"length": "",
@@ -59450,7 +59464,7 @@
 			},
 			{
 				"name": "The South West Ridge.",
-				"link": "https://climbnz.org.nz/nz/si/aspiring/rob-roy-pk/south-west-ridge",
+				"link": "https://climbnz.org.nz/nz/si/aspiring/west-wanaka-mountains/rob-roy-pk/south-west-ridge",
 				"image": null,
 				"grade": "III  3 14",
 				"length": "",
@@ -68317,7 +68331,7 @@
 				"quality": 0,
 				"bolts": "",
 				"natural_pro": false,
-				"description": "From the head of Burnett Stream climb scree and rock to a small glacier that leads to the North\r\nRidge of Mt Speight. Scramble along loose rock to the summit.",
+				"description": "From the head of Burnett Stream climb scree and rock to a small glacier that leads to the North Ridge of Mt Speight. Scramble along loose rock to the summit.",
 				"ascent": ""
 			},
 			{
@@ -70235,7 +70249,7 @@
 				"latlng": null,
 				"routes": [
 					{
-						"name": "outside crack",
+						"name": "Outside Crack",
 						"link": "https://climbnz.org.nz/nz/si/fiordland/darran-mountains/mt-syme/madelines-skirt/outside-crack",
 						"image": "https://climbnz.org.nz/sites/default/files/routes/P1010086%202_0.jpeg",
 						"grade": "20,18,21",
@@ -70273,8 +70287,8 @@
 						"quality": 2,
 						"bolts": "",
 						"natural_pro": true,
-						"description": "From camp Derek you need to access the front face of the floating buttress. We did this via two pitches starting from the upper right hand side of camp Derek. A rough corner and awkward offwidth finishes with a traverse left and scramble across grassy ledge to reach the bottom of pitch 2.\r\nQuest upwards through a series of slabby bulges and ledges following whatever gear you can find to a large ledge at the foot of the floating buttress.\r\nA large horn in the middle makes a good belay for the final pitch.\r\nThe crack system straight up is loaded with loose blocks, so traversing up and left towards a half vegetated crack going straight up is the more appealing option here. Once at the bottom of this crack system a fiddley handjam traverse takes you into an offwidth system which will provide you a way to attain to the top of the buttress. The angle kicks back at the top so watch your rope drag! \r\nSolid gear and lots of options, long and steep, rack up double nuts and cams 0.1 to 3, a nut tool racked front of harness for leading, also options for larger gear if you\u2019ve hauled it up with you.  You'll need some tat for descending and 60m double ropes.  \r\n \r\nDescent back to camp Derek is 3 abseils on tat slung horns. Please assess the safety of any old rappel anchors and remove old tat, replacing it, and taking the old tat down with you. \r\n\r\n*(initial line unsuccessfully attempted, should go to the top if you fancy a fight)",
-						"ascent": "Derek Cheng & Ben Grindle Feb 2021"
+						"description": "From Camp Derek you need to access the front face of the floating buttress. We did this via two pitches starting from the upper right hand side of camp Derek. A rough corner and awkward offwidth finishes with a traverse left and scramble across grassy ledge to reach the bottom of pitch 2.\r\nQuest upwards through a series of slabby bulges and ledges following whatever gear you can find to a large ledge at the foot of the floating buttress.\r\nA large horn in the middle makes a good belay for the final pitch.\r\nThe crack system straight up is loaded with loose blocks, so traversing up and left towards a half vegetated crack going straight up is the more appealing option here. Once at the bottom of this crack system a fiddley handjam traverse takes you into an offwidth system which will provide you a way to attain to the top of the buttress. The angle kicks back at the top so watch your rope drag! \r\nSolid gear and lots of options, long and steep, rack up double nuts and cams 0.1 to 3, a nut tool racked front of harness for leading, also options for larger gear if you\u2019ve hauled it up with you.  You'll need some tat for descending and 60m double ropes.  \r\n \r\nDescent back to Camp Derek is 3 abseils on tat slung horns. Please assess the safety of any old rappel anchors and remove old tat, replacing it, and taking the old tat down with you. \r\n\r\n*(initial line unsuccessfully attempted, should go to the top if you fancy a fight)",
+						"ascent": "Derek Cheng, Ben Grindle, February 2021"
 					}
 				],
 				"places": [
@@ -76212,7 +76226,7 @@
 						"quality": 0,
 						"bolts": "",
 						"natural_pro": false,
-						"description": "Climb the edge of the gulley up to a ledge then step out rightwards onto the \nface and and move right to a belay in the middle of the face. Then three \nvariations exist going at 16, 19, and 22 with a mix of bolts and traditional \ngear.\n\nThe first pitch has been climbed in Winter at M6.",
+						"description": "Climb the edge of the gully up to a ledge then step out rightwards onto the face and and move right to a belay in the middle of the face. Then three variations exist going at 16, 19, and 22 with a mix of bolts and trad gear.\r\nThe first pitch has been climbed in winter at M6.",
 						"ascent": "Variation 1 (16): Dave Brash; Variation 2 (19): Steve Carr; Variation 3 (22): Andy Macfarlane."
 					},
 					{
@@ -76401,9 +76415,9 @@
 						"pitches": [],
 						"quality": 0,
 						"bolts": "",
-						"natural_pro": false,
+						"natural_pro": true,
 						"description": "To right of Red Wall. Climb to comfy ledge beside left arete.",
-						"ascent": "Dave Brash, Steve Carr 2000."
+						"ascent": "Dave Brash, Steve Carr, 2000"
 					},
 					{
 						"name": "Burn, Baby, Burn",
@@ -77465,7 +77479,7 @@
 						"name": "Terrorfirma",
 						"link": "https://climbnz.org.nz/nz/si/fiordland/llawrenny-peaks/terror-pk/north-face/terrorfirma",
 						"image": null,
-						"grade": "19 ,21 ,21 ,15",
+						"grade": "19,21,21,15",
 						"length": "220m",
 						"pitches": [
 							{
@@ -77647,7 +77661,7 @@
 						"name": "Terribilita",
 						"link": "https://climbnz.org.nz/nz/si/fiordland/llawrenny-peaks/terror-pk/north-face/terribilita",
 						"image": "https://climbnz.org.nz/sites/default/files/route/Westlake%20Walls%20topo-01.jpg",
-						"grade": "21 ,21 ,23 ,20 ,19 ,18",
+						"grade": "21,21,23,20,19,18",
 						"length": "250m",
 						"pitches": [
 							{
@@ -77738,7 +77752,7 @@
 						"quality": 0,
 						"bolts": "15",
 						"natural_pro": true,
-						"description": "this route has a single ring bolt access anchor on the top of the most \nprominent lump on the top out ledge. rappel or scramble down to the top of \nthe route and descend to the water.\nAlternatively paddle a boat to the bottom of the route marked with 'TE' at \nthe water line. climb the route and rappel back to the boat at the end of the \nday.",
+						"description": "this route has a single ring bolt access anchor on the top of the most \r\nprominent lump on the top out ledge. rappel or scramble down to the top of \r\nthe route and descend to the water.\r\nAlternatively paddle a boat to the bottom of the route marked with 'TE' at \r\nthe water line. climb the route and rappel back to the boat at the end of the \r\nday.",
 						"ascent": "Tony Burnell, Nick Flyverg 2010"
 					}
 				],
@@ -81815,8 +81829,8 @@
 		"image": null,
 		"images": []
 	},
-	"https://climbnz.org.nz/nz/si/aspiring/wilkin-river/mt-turner": {
-		"link": "https://climbnz.org.nz/nz/si/aspiring/wilkin-river/mt-turner",
+	"https://climbnz.org.nz/nz/si/aspiring/west-wanaka-mountains/mt-turner": {
+		"link": "https://climbnz.org.nz/nz/si/aspiring/west-wanaka-mountains/mt-turner",
 		"name": "Mt Turner",
 		"altitude": "2150m",
 		"description": null,
@@ -81827,7 +81841,7 @@
 		"routes": [
 			{
 				"name": "Direct from the Wilkin Valley floor.",
-				"link": "https://climbnz.org.nz/nz/si/aspiring/wilkin-river/mt-turner/direct-wilkin-valley-floor",
+				"link": "https://climbnz.org.nz/nz/si/aspiring/west-wanaka-mountains/mt-turner/direct-wilkin-valley-floor",
 				"image": null,
 				"grade": "",
 				"length": "",
@@ -83582,8 +83596,8 @@
 		"image": null,
 		"images": []
 	},
-	"https://climbnz.org.nz/nz/si/aspiring/wilkin-river/mt-vesta": {
-		"link": "https://climbnz.org.nz/nz/si/aspiring/wilkin-river/mt-vesta",
+	"https://climbnz.org.nz/nz/si/aspiring/west-wanaka-mountains/mt-vesta": {
+		"link": "https://climbnz.org.nz/nz/si/aspiring/west-wanaka-mountains/mt-vesta",
 		"name": "Mt Vesta",
 		"altitude": "2027m",
 		"description": null,
@@ -83594,7 +83608,7 @@
 		"routes": [
 			{
 				"name": "Original Route",
-				"link": "https://climbnz.org.nz/nz/si/aspiring/wilkin-river/mt-vesta/original-route",
+				"link": "https://climbnz.org.nz/nz/si/aspiring/west-wanaka-mountains/mt-vesta/original-route",
 				"image": null,
 				"grade": "",
 				"length": "",
@@ -85374,7 +85388,7 @@
 				"bolts": "",
 				"natural_pro": true,
 				"description": "Approach by walking up Jollie valley, or via the Cass (it is essential to phone Glenmore station first to ask permission, on 03 680 6752) and Tin Hut Stream. The Cass option is preferable, as one can 4WD / mountainbike to Tin Hut if river level are normal. There is water in the basin, somewhat downhill of the face (the basin contains a remnant rock glacier).  The face is both easier and better than it looks, and makes a moderate but forgettable route on blocky red sandstone. What are unforgettable, however, are the views. The outlook to the Eastern aspects of Aoraki, Tasman and the Malte Brun Range are superlative.  Descend via the gully systems immediately W of the summit. Gain these by: i) possibly taking a ledge down and right across a very steep face, from the top of the pitching but shortly below the summit (scramble back down to here);  or (ii) descend slabs 10m to SE and small notch in East ridge, then traverse broken ground 10m across S face under the summit block to the notch in the West ridge at the top of the gully. Descend the gully NW, then halfway down cut out left on a ledge system, until a notch behind a big tower allows access into another NW facing gully, and finally the main gut draining back  NE towards the main basin. This avoids abseiling.",
-				"ascent": "Troy Forsyth, Ruari Macfarlane, April 4 2023"
+				"ascent": "Troy Forsyth, Ruari Macfarlane, 4 April 2023"
 			}
 		],
 		"places": [],
@@ -85520,7 +85534,7 @@
 				"quality": 0,
 				"bolts": "",
 				"natural_pro": false,
-				"description": "Access to the face is via the true left side of Thompson Stream starting from \njust below the terminal lake. Climb the face on reasonable quality rock to \ngain the ridge about 100m south of the summit. Descent is via the south ridge \nback to the glacier visible on the right of the photo. There is adequate \nprotection for pitching. Soloed in around an hour by the first accensionist.",
+				"description": "Access to the face is via the true left side of Thompson Stream starting from just below the terminal lake. Climb the face on reasonable quality rock to gain the ridge about 100m south of the summit. Descent is via the south ridge back to the glacier visible on the right of the photo. There is adequate protection for pitching. Soloed in around an hour by the first ascensionist.",
 				"ascent": "Jamie Vinton-Boot, February 2011"
 			},
 			{
