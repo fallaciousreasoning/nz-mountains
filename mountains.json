@@ -21944,48 +21944,6 @@
 								"natural_pro": true,
 								"description": "A two-pitch line up the centre of the crag. First pitch is loose and poorly protected in places. Second pitch has good rock and good protection, great climbing.",
 								"ascent": "Owain Scullion and Tom Garden, March 2021."
-							},
-							{
-								"name": "Consolation Corner",
-								"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/cloudy-pk/lower-valley-crags/consolation-crag/consolation-corner",
-								"image": "https://climbnz.org.nz/sites/default/files/routes/IMG_8637.jpeg",
-								"grade": "17,18",
-								"length": "60m",
-								"pitches": [
-									{
-										"ewbank": "17",
-										"alpine": "",
-										"commitment": "",
-										"mtcook": "",
-										"aid": "",
-										"ice": "",
-										"mixed": "",
-										"boulder": "",
-										"length": "30m",
-										"bolts": "",
-										"trad": true,
-										"description": "Start below centre of crag, move up and right into a broad corner and follow the broad weakness up to a large ledge. Climb pillars out of the ledge to a large boulder then up right (crux) to large ledges in the centre of the cliff. Belay at a large boulder to the left of a prominent chimney/corner. This pitch has poor protection in the lower half, though the crux is decently protected."
-									},
-									{
-										"ewbank": "18",
-										"alpine": "",
-										"commitment": "",
-										"mtcook": "",
-										"aid": "",
-										"ice": "",
-										"mixed": "",
-										"boulder": "",
-										"length": "30m",
-										"bolts": "",
-										"trad": true,
-										"description": "Move right along a weakness from the prominent chimney/corner towards the face into a narrow and steep v-corner (good protection). Move up then left where it peters out into another steep v-corner. Move up this past a bulge to the top of the cliff. Good protection and good climbing."
-									}
-								],
-								"quality": 0,
-								"bolts": "",
-								"natural_pro": true,
-								"description": "A two-pitch line up the centre of the crag. First pitch is loose and poorly protected in places. Second pitch has good rock and good protection, great climbing.",
-								"ascent": "Owain Scullion and Tom Garden, March 2021."
 							}
 						],
 						"places": [],
@@ -34079,6 +34037,19 @@
 				"natural_pro": false,
 				"description": "Access is via an excellent gully from the upper Stevenson Glacier.   From the upper Edwards Neve climb through rock band on the left of the face to the steep snowfield.  Then tend right on the snowfield to the base of the rock of the South West ridge.   \r\nClimb into the odvious break and leads right ar first and will eventually bring you to the upper section of the South West ridge ant onto the summit.",
 				"ascent": "Greg Duley, Emil Hansen & Don French  31/1/2021"
+			},
+			{
+				"name": "Chocolate Cake",
+				"link": "https://climbnz.org.nz/nz/si/aoraki/main-divide/mt-green/chocolate-cake",
+				"image": "https://climbnz.org.nz/sites/default/files/routes/PXL_20230823_212023633.jpg",
+				"grade": "IV 6",
+				"length": "350m",
+				"pitches": [],
+				"quality": 0,
+				"bolts": "",
+				"natural_pro": false,
+				"description": "Climbed during a lean snow season on mainly snice with a little bit of rock/water ice.\r\nAn engaging climb from start to finish. 250m of technical climbing + 100m of steep snow.\r\nThe crux second pitch (WI4+) goes directly up a smear of steep ice - an amazing pitch of alpine climbing.\r\nApproached via Divers Col route. Descent down this via Greens east face.",
+				"ascent": "Adam Sanders, Justin Wimmer - Aug 2023"
 			}
 		],
 		"places": [],
@@ -62419,10 +62390,10 @@
 						]
 					},
 					{
-						"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/nga-tohu-pinnacle-ridge/pink-floyd-buttress",
-						"name": "Pink Floyd Buttress",
+						"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/nga-tohu-pinnacle-ridge/numb-buttress",
+						"name": "Numb Buttress",
 						"altitude": "2150m",
-						"description": "Also known as Numb Buttress, this west-facing outlier of First Pinnacle has a good selection of mostly mixed routes of varying length and difficulty. The rock is generally good quality. The descent is off the back of the gendarme to a small col, and down its south side. The \ufb01rst four routes start at the toe of the buttress, meeting about halfway up the ridge and continuing to the top of the buttress.",
+						"description": "Also known as Pink Floyd Buttress, this west-facing outlier of First Pinnacle has mostly mixed routes of varying length and difficulty on generally good rock. Descend off the back of the gendarme to a small col, and down its south side. The \ufb01rst four routes start at the toe of the buttress, meeting about halfway up the ridge.",
 						"latlng": [
 							"-39.252527670000",
 							"175.569462780000"
@@ -62430,7 +62401,7 @@
 						"routes": [
 							{
 								"name": "Wish You Were Here",
-								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/nga-tohu-pinnacle-ridge/pink-floyd-buttress/wish-you-were-here",
+								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/nga-tohu-pinnacle-ridge/numb-buttress/wish-you-were-here",
 								"image": null,
 								"grade": "",
 								"length": "150m",
@@ -62443,7 +62414,7 @@
 							},
 							{
 								"name": "Easy Street",
-								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/nga-tohu-pinnacle-ridge/pink-floyd-buttress/easy-street",
+								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/nga-tohu-pinnacle-ridge/numb-buttress/easy-street",
 								"image": null,
 								"grade": "I 1    WI2",
 								"length": "150m",
@@ -62456,7 +62427,7 @@
 							},
 							{
 								"name": "Quirke of Fate",
-								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/nga-tohu-pinnacle-ridge/pink-floyd-buttress/quirke-fate",
+								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/nga-tohu-pinnacle-ridge/numb-buttress/quirke-fate",
 								"image": null,
 								"grade": "",
 								"length": "150m",
@@ -62469,7 +62440,7 @@
 							},
 							{
 								"name": "Hoare Frost",
-								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/nga-tohu-pinnacle-ridge/pink-floyd-buttress/hoare-frost",
+								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/nga-tohu-pinnacle-ridge/numb-buttress/hoare-frost",
 								"image": null,
 								"grade": "",
 								"length": "150m",
@@ -62482,7 +62453,7 @@
 							},
 							{
 								"name": "Crazy Diamond Couloir",
-								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/nga-tohu-pinnacle-ridge/pink-floyd-buttress/crazy-diamond-couloir",
+								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/nga-tohu-pinnacle-ridge/numb-buttress/crazy-diamond-couloir",
 								"image": null,
 								"grade": "",
 								"length": "140m",
@@ -62495,7 +62466,7 @@
 							},
 							{
 								"name": "Comfortably Numb",
-								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/nga-tohu-pinnacle-ridge/pink-floyd-buttress/comfortably-numb",
+								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/nga-tohu-pinnacle-ridge/numb-buttress/comfortably-numb",
 								"image": null,
 								"grade": "",
 								"length": "120m",
@@ -62508,7 +62479,7 @@
 							},
 							{
 								"name": "Hokey Pokey",
-								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/nga-tohu-pinnacle-ridge/pink-floyd-buttress/hokey-pokey",
+								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/nga-tohu-pinnacle-ridge/numb-buttress/hokey-pokey",
 								"image": "https://climbnz.org.nz/sites/default/files/route/Hokey%20Pokey.jpg",
 								"grade": "I 3",
 								"length": "120m",
@@ -62521,7 +62492,7 @@
 							},
 							{
 								"name": "Learning to Fly",
-								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/nga-tohu-pinnacle-ridge/pink-floyd-buttress/learning-fly",
+								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/nga-tohu-pinnacle-ridge/numb-buttress/learning-fly",
 								"image": null,
 								"grade": "",
 								"length": "100m",
@@ -62563,7 +62534,7 @@
 							},
 							{
 								"name": "Delicate Sound of Thunder",
-								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/nga-tohu-pinnacle-ridge/pink-floyd-buttress/delicate-sound-thunder",
+								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/nga-tohu-pinnacle-ridge/numb-buttress/delicate-sound-thunder",
 								"image": null,
 								"grade": "",
 								"length": "120m",
@@ -62576,15 +62547,15 @@
 							},
 							{
 								"name": "A Momentary Lapse of Reason",
-								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/nga-tohu-pinnacle-ridge/pink-floyd-buttress/momentary-lapse-reason",
+								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/nga-tohu-pinnacle-ridge/numb-buttress/momentary-lapse-reason",
 								"image": null,
-								"grade": "",
+								"grade": ",II 4  14,",
 								"length": "120m",
 								"pitches": [
 									{
 										"ewbank": "",
-										"alpine": "2",
-										"commitment": "I",
+										"alpine": "",
+										"commitment": "",
 										"mtcook": "",
 										"aid": "",
 										"ice": "",
@@ -62598,7 +62569,7 @@
 									{
 										"ewbank": "14",
 										"alpine": "4",
-										"commitment": "I",
+										"commitment": "II",
 										"mtcook": "",
 										"aid": "",
 										"ice": "",
@@ -62607,12 +62578,12 @@
 										"length": "40m",
 										"bolts": "",
 										"trad": false,
-										"description": "The next moves, heading up and right onto very compact rock,are the crux."
+										"description": "The next moves, heading up and right onto very compact rock, are the crux."
 									},
 									{
 										"ewbank": "",
-										"alpine": "2",
-										"commitment": "I",
+										"alpine": "",
+										"commitment": "",
 										"mtcook": "",
 										"aid": "",
 										"ice": "",
@@ -62627,7 +62598,7 @@
 								"quality": 1,
 								"bolts": "",
 								"natural_pro": false,
-								"description": "Good climbing on the ar\u00eate, with a tricky crux. Can be climbed in summer as \na rock route.",
+								"description": "Good climbing on the ar\u00eate, with a tricky crux. Can be climbed in summer as a rock route.",
 								"ascent": "Mike Peat, Darryl Steel, Peter Barnes, July 1991"
 							}
 						],
@@ -67072,8 +67043,8 @@
 				"latlng": null,
 				"routes": [
 					{
-						"name": "$100 Whore",
-						"link": "https://climbnz.org.nz/nz/si/otago/the-remarkables/single-cone/south-face/100-whore",
+						"name": "Hundred Dollar Whore",
+						"link": "https://climbnz.org.nz/nz/si/otago/the-remarkables/single-cone/south-face/hundred-dollar-whore",
 						"image": null,
 						"grade": "M5",
 						"length": "",
@@ -67345,17 +67316,60 @@
 						"ascent": "Steve Fortune, Ari Kingan and Pete Harris, Oct 2013"
 					},
 					{
-						"name": "$50 F#ck",
-						"link": "https://climbnz.org.nz/nz/si/otago/the-remarkables/single-cone/south-face/50-fck",
+						"name": "Fifty Dollar F#ck",
+						"link": "https://climbnz.org.nz/nz/si/otago/the-remarkables/single-cone/south-face/fifty-dollar-fck",
 						"image": null,
-						"grade": "M5",
+						"grade": "M5,M5,M4",
 						"length": "",
-						"pitches": [],
+						"pitches": [
+							{
+								"ewbank": "",
+								"alpine": "",
+								"commitment": "",
+								"mtcook": "",
+								"aid": "",
+								"ice": "",
+								"mixed": "M5",
+								"boulder": "",
+								"length": "0m",
+								"bolts": "",
+								"trad": false,
+								"description": "Blocky bits lead to the base of an obvious corner."
+							},
+							{
+								"ewbank": "",
+								"alpine": "",
+								"commitment": "",
+								"mtcook": "",
+								"aid": "",
+								"ice": "",
+								"mixed": "M5",
+								"boulder": "",
+								"length": "0m",
+								"bolts": "",
+								"trad": false,
+								"description": "Stem and hook your way through the corner (crux) topping our on a sweeping right tending snow ramp."
+							},
+							{
+								"ewbank": "",
+								"alpine": "",
+								"commitment": "",
+								"mtcook": "",
+								"aid": "",
+								"ice": "",
+								"mixed": "M4",
+								"boulder": "",
+								"length": "0m",
+								"bolts": "",
+								"trad": false,
+								"description": "Continue up pitches 3\u20137, keeping left to gain a subtle ridge passing several steps of  M4 between moderate ground. Simul-climbing will speed things up. Keeps it coming until the top!"
+							}
+						],
 						"quality": 2,
 						"bolts": "",
 						"natural_pro": false,
-						"description": "Fun, engaging climbing. Much like the other routes around here, the meat is \nin the first two pitches and the potatoes take you to the top. Climbs the \nleft side of the buttress that juts out before the ridge that separates the \nsouth and west face. Alejandro etc. etc. climbs the right side of this \nbuttress.\nP1 Blocky bits lead to the base of an obvious corner.\nP2 Stem and hook your way through the corner (crux) topping our on a sweeping \nright tending snow ramp.\nP3 - P7 Continue up, keeping left to gain a subtle ridge passing several \nsteps of  M4 between moderate ground. Simul-climbing will speed things up. \nKeeps it coming until the top!",
-						"ascent": "Steve Skelton, Vaughan Snowden Sept 2013"
+						"description": "Fun, engaging climbing. Much like the other routes around here, the meat is in the first two pitches and the potatoes take you to the top. Climbs the left side of the buttress that juts out before the ridge that separates the south and west face. Alejandro etc. etc. climbs the right side of this buttress.",
+						"ascent": "Steve Skelton, Vaughan Snowden, September 2013"
 					}
 				],
 				"places": [],
