@@ -8816,6 +8816,19 @@
 						"natural_pro": false,
 						"description": "Follow the lower ridge from Empress Hut. This starts with a couple of steep pitches then relents, although near Earle\u2019s Gap it narrows. This would be a time consuming option but, in some cases, may be the only feasible route.",
 						"ascent": ""
+					},
+					{
+						"name": "Don\u2019t Call Me Dude",
+						"link": "https://climbnz.org.nz/nz/si/aoraki/kirikirikatata-mt-cook-range/aoraki-mt-cook/earle%E2%80%99s-gap/don%E2%80%99t-call-me-dude",
+						"image": null,
+						"grade": "4 17",
+						"length": "350m",
+						"pitches": [],
+						"quality": 0,
+						"bolts": "",
+						"natural_pro": false,
+						"description": "Crest of the buttress between the upper and lower Empress Shelves. Excellent rock with no objective danger. 350m, crux 17. Descend via Earle\u2019s Gap or glacier.",
+						"ascent": "Peter Dickson, February 1992"
 					}
 				],
 				"places": [],
@@ -21883,82 +21896,67 @@
 				]
 			},
 			{
-				"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/cloudy-pk/lower-valley-crags",
-				"name": "Lower valley crags",
-				"altitude": null,
-				"description": "There are various smaller crags in the lower Cloudy Stream valley that have potential for shorter (1 - 3 pitch) routes, useful for when weather or time limitations prevent climbing the longer routes in the area, or as a half day option before walking out.",
+				"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/cloudy-pk/consolation-crag",
+				"name": "Consolation Crag",
+				"altitude": "1500m",
+				"description": "One two-pitch route was climbed on the walk out when high winds prevented a climb on Cloudy Peak proper. Potential for more routes. Other crags in the lower valley have potential for similar routes, useful for when weather or time limitations prevent climbing the longer routes in the area, or as a half day option before walking out. \nCan walk off top and around north side of crag to get back to the base.",
 				"latlng": [
 					"-43.480702000000",
 					"170.778995000000"
 				],
-				"routes": [],
-				"places": [
+				"routes": [
 					{
-						"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/cloudy-pk/lower-valley-crags/consolation-crag",
-						"name": "Consolation Crag",
-						"altitude": "1500m",
-						"description": "A ~60 m high wall on the true left of the valley, high above the 'oasis', at the 1500 m contour. One two-pitch route was climbed on the walk out when high winds prevented a climb on Cloudy Peak proper. Potential for more routes. \nCan walk off top and around north side of crag to get back to the base.",
-						"latlng": [
-							"-43.480702000000",
-							"170.778995000000"
-						],
-						"routes": [
+						"name": "Consolation Corner",
+						"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/cloudy-pk/consolation-crag/consolation-corner",
+						"image": "https://climbnz.org.nz/sites/default/files/routes/IMG_8637.jpeg",
+						"grade": "17,18",
+						"length": "60m",
+						"pitches": [
 							{
-								"name": "Consolation Corner",
-								"link": "https://climbnz.org.nz/nz/si/canterbury/cloudy-peak-range/cloudy-pk/lower-valley-crags/consolation-crag/consolation-0",
-								"image": "https://climbnz.org.nz/sites/default/files/routes/IMG_8637.jpeg",
-								"grade": "17,18",
-								"length": "60m",
-								"pitches": [
-									{
-										"ewbank": "17",
-										"alpine": "",
-										"commitment": "",
-										"mtcook": "",
-										"aid": "",
-										"ice": "",
-										"mixed": "",
-										"boulder": "",
-										"length": "30m",
-										"bolts": "",
-										"trad": true,
-										"description": "Start below centre of crag, move up and right into a broad corner and follow the broad weakness up to a large ledge. Climb pillars out of the ledge to a large boulder then up right (crux) to large ledges in the centre of the cliff. Belay at a large boulder to the left of a prominent chimney/corner. This pitch has poor protection in the lower half, though the crux is decently protected."
-									},
-									{
-										"ewbank": "18",
-										"alpine": "",
-										"commitment": "",
-										"mtcook": "",
-										"aid": "",
-										"ice": "",
-										"mixed": "",
-										"boulder": "",
-										"length": "30m",
-										"bolts": "",
-										"trad": true,
-										"description": "Move right along a weakness from the prominent chimney/corner towards the face into a narrow and steep v-corner (good protection). Move up then left where it peters out into another steep v-corner. Move up this past a bulge to the top of the cliff. Good protection and good climbing."
-									}
-								],
-								"quality": 0,
+								"ewbank": "17",
+								"alpine": "",
+								"commitment": "",
+								"mtcook": "",
+								"aid": "",
+								"ice": "",
+								"mixed": "",
+								"boulder": "",
+								"length": "30m",
 								"bolts": "",
-								"natural_pro": true,
-								"description": "A two-pitch line up the centre of the crag. First pitch is loose and poorly protected in places. Second pitch has good rock and good protection, great climbing.",
-								"ascent": "Owain Scullion and Tom Garden, March 2021."
+								"trad": true,
+								"description": "Start below centre of crag, move up and right into a broad corner and follow the broad weakness up to a large ledge. Climb pillars out of the ledge to a large boulder then up right (crux) to large ledges in the centre of the cliff. Belay at a large boulder to the left of a prominent chimney/corner. This pitch has poor protection in the lower half, though the crux is decently protected."
+							},
+							{
+								"ewbank": "18",
+								"alpine": "",
+								"commitment": "",
+								"mtcook": "",
+								"aid": "",
+								"ice": "",
+								"mixed": "",
+								"boulder": "",
+								"length": "30m",
+								"bolts": "",
+								"trad": true,
+								"description": "Move right along a weakness from the prominent chimney/corner towards the face into a narrow and steep v-corner (good protection). Move up then left where it peters out into another steep v-corner. Move up this past a bulge to the top of the cliff. Good protection and good climbing."
 							}
 						],
-						"places": [],
-						"image": "https://climbnz.org.nz/sites/default/files/image/P1330384_0.jpeg",
-						"images": [
-							{
-								"src": "https://climbnz.org.nz/sites/default/files/image/P1330384_0.jpeg",
-								"height": "3448",
-								"width": "4592"
-							}
-						]
+						"quality": 0,
+						"bolts": "",
+						"natural_pro": true,
+						"description": "A two-pitch line up the centre of the crag. First pitch is loose and poorly protected in places. Second pitch has good rock and good protection, great climbing.",
+						"ascent": "Owain Scullion and Tom Garden, March 2021."
 					}
 				],
-				"image": null,
-				"images": []
+				"places": [],
+				"image": "https://climbnz.org.nz/sites/default/files/image/P1330384_0.jpeg",
+				"images": [
+					{
+						"src": "https://climbnz.org.nz/sites/default/files/image/P1330384_0.jpeg",
+						"height": "3448",
+						"width": "4592"
+					}
+				]
 			}
 		],
 		"image": "https://climbnz.org.nz/sites/default/files/image/Copy%20of%20Cloudy%20Pk.jpg",
@@ -22990,7 +22988,7 @@
 			{
 				"name": "The Couloir",
 				"link": "https://climbnz.org.nz/nz/si/canterbury/arrowsmith-range/couloir-pk/couloir",
-				"image": null,
+				"image": "https://climbnz.org.nz/sites/default/files/routes/Couloir%20both%20ways.jpg",
 				"grade": "3",
 				"length": "",
 				"pitches": [],
@@ -23601,7 +23599,7 @@
 				]
 			},
 			{
-				"link": "https://climbnz.org.nz/nz/si/fiordland/darran-mountains/mt-crosscut/mt-crosscut-second-pk",
+				"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/mt-crosscut/mt-crosscut-second-pk",
 				"name": "Mt Crosscut Second Pk",
 				"altitude": "2252m",
 				"description": "Between the Middle and East Peaks",
@@ -23912,8 +23910,8 @@
 						"quality": 0,
 						"bolts": "",
 						"natural_pro": false,
-						"description": "Early Cirque Creek left of deep ravine left of Scratch/Tickle. Rarely forms. 300m of snowy vego Darrans approach including a few short steep steps with thin slab/turf top outs. 200m of comfortable and scenic 1-3m wide neve/ice gully with a short steep rarely forming ice crux at top of triangular rock face to right. Then moderately exposed neve/mixed ar\u00eate to shoulder plateau of Crosscut. Rap the route to decend",
-						"ascent": "Lincoln Quilliam"
+						"description": "Early Cirque Creek left of deep ravine left of Scratch/Tickle. Rarely forms. 300m of snowy vego Darrans approach including a few short steep steps with thin slab/turf top outs. 200m of comfortable and scenic 1-3m wide neve/ice gully with a short steep rarely forming ice crux at top of triangular rock face to the right. Then moderately exposed neve/mixed ar\u00eate to shoulder plateau of Crosscut. Rappel the route to descend.",
+						"ascent": "Lincoln Quilliam, Alastair McDowell"
 					},
 					{
 						"name": "Scratch",
@@ -40099,7 +40097,7 @@
 		],
 		"places": [
 			{
-				"link": "https://climbnz.org.nz/nz/si/fiordland/darran-mountains/karetai-pk/east-face",
+				"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/karetai-pk/east-face",
 				"name": "East Face",
 				"altitude": null,
 				"description": "This steep face rises directly from the Te Puoho Glacier and is known for its coarse clean diorite.\nDescent is usually via the West Ridge to Turner\u2019s Eyrie. The North Ridge can also be descended to Karetai Col.",
@@ -41045,7 +41043,7 @@
 				]
 			},
 			{
-				"link": "https://climbnz.org.nz/nz/si/fiordland/darran-mountains/karetai-pk/donne-face-south-west-face",
+				"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/karetai-pk/donne-face-south-west-face",
 				"name": "Donne Face (South West Face)",
 				"altitude": null,
 				"description": "This dark face does not see many visitors. Long sustained climbing on rock that can be difficult to protect: pitons are still the protection of choice on this wall.",
@@ -59088,7 +59086,7 @@
 		],
 		"places": [
 			{
-				"link": "https://climbnz.org.nz/nz/si/fiordland/darran-mountains/revelation/donne-face",
+				"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/mt-revelation/donne-face",
 				"name": "Donne Face",
 				"altitude": null,
 				"description": "The head of the Donne Valley is a massive wall stretching between the peaks of Karetai and Revelation. All the routes are long and committing. Descents from the face are lengthy. Turners Eyrie is a good initial destination. Parties have opted to traverse Underwood, descending the South Ridge, but this is difficult and time consuming. Dropping down the Taoka Ice-fall may be possible when in condition, otherwise exit using one of the routes out of the Central Darrans. Traversing Revelation into the Korako Glacier and thence to Moraine Creek is another possibility.",
@@ -59139,7 +59137,7 @@
 				"images": []
 			},
 			{
-				"link": "https://climbnz.org.nz/nz/si/fiordland/darran-mountains/revelation/cirque-of-the-climbables",
+				"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/mt-revelation/cirque-climbables",
 				"name": "Cirque of the Climbables",
 				"altitude": null,
 				"description": "This is the cirque of beautiful red rock mid-way between Crampon Pass and the summit of Mt Revelation.",
@@ -74213,7 +74211,7 @@
 		],
 		"places": [
 			{
-				"link": "https://climbnz.org.nz/nz/si/fiordland/darran-mountains/mt-te-wera/south-east-face",
+				"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/mt-te-wera/south-east-face",
 				"name": "South East Face",
 				"altitude": null,
 				"description": "South East Face of Te Wera",
@@ -74257,7 +74255,7 @@
 				]
 			},
 			{
-				"link": "https://climbnz.org.nz/nz/si/fiordland/darran-mountains/mt-te-wera/south-west-face",
+				"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/mt-te-wera/south-west-face",
 				"name": "South West Face",
 				"altitude": null,
 				"description": "A relatively small face, with good rock. Descent via the South or North Ridge.",
@@ -82343,8 +82341,8 @@
 			}
 		]
 	},
-	"https://climbnz.org.nz/nz/si/fiordland/darran-mountains/tutoko-knob": {
-		"link": "https://climbnz.org.nz/nz/si/fiordland/darran-mountains/tutoko-knob",
+	"https://climbnz.org.nz/nz/si/darrans/darran-mountains/tutoko-knob": {
+		"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/tutoko-knob",
 		"name": "Tutoko Knob",
 		"altitude": "1905m",
 		"description": "Tutoko Knob is the buttress at the western end of Alice Peak\u2019s south west ridge. The 300m high South Face of Tutoko Knob is a long curtain of immaculate stone, rising straight from the Donne Glacier.",
