@@ -2526,6 +2526,34 @@
 		"image": null,
 		"images": []
 	},
+	"https://climbnz.org.nz/nz/si/nelson-lakes/st-arnaud-range/pt-1915": {
+		"link": "https://climbnz.org.nz/nz/si/nelson-lakes/st-arnaud-range/pt-1915",
+		"name": "Pt 1915",
+		"altitude": null,
+		"description": null,
+		"latlng": [
+			"-41.892087000000",
+			"172.852149000000"
+		],
+		"routes": [
+			{
+				"name": "Rainbow-Ronan Traverse",
+				"link": "https://climbnz.org.nz/nz/si/nelson-lakes/st-arnaud-range/pt-1915/rainbow-ronan-traverse",
+				"image": null,
+				"grade": "I 1",
+				"length": "",
+				"pitches": [],
+				"quality": 0,
+				"bolts": "",
+				"natural_pro": false,
+				"description": "From the skifield head south-east up easy slopes to Mt McRae. Continue south to a saddle overlooking the Arnst basin and east towards Pt 1915m. Beyond here, the range is rugged and it is necessary to descend and sidle below bluffs, then regain the ridge in the vicinity of Pt 1880m.  The range south of here is easy ridge travel, and can also be reached easily via a track up the true left of St Ronans Stream (no longer maintained but easily followed, through open forest into delightful tussock basins). Some superb campsites near tarns.",
+				"ascent": ""
+			}
+		],
+		"places": [],
+		"image": null,
+		"images": []
+	},
 	"https://climbnz.org.nz/1916": {
 		"link": "https://climbnz.org.nz/1916",
 		"name": "Pt 1916",
@@ -9844,19 +9872,6 @@
 				"ascent": "Evan Wilson, Jim Wilson, Andy Anderson, January 1931"
 			},
 			{
-				"name": "Ashburton Face",
-				"link": "https://climbnz.org.nz/nz/si/canterbury/arrowsmith-range/mt-arrowsmith/ashburton-face",
-				"image": null,
-				"grade": "3+",
-				"length": "",
-				"pitches": [],
-				"quality": 0,
-				"bolts": "",
-				"natural_pro": false,
-				"description": "This is a snow and ice climb up a broad snow face followed by one of a number of gullies to the\r\nsummit of Mt Arrowsmith. From the moraines at the head of the Hakatere River climb to the\r\nschrund at the bottom of the Ashburton Face. Climb a short, steep section alongside a steep\r\nrock rib to gain the slope above. Climb until a small ar\u00eate is reached, and from here either go left\r\nto snow slopes and gullies that join the South West Ridge, or head up steeper rock directly to\r\nthe summit. Usually in condition only from late winter to early summer, and subject to rock fall.",
-				"ascent": "Don Cowie, Jim Clark, November 1958"
-			},
-			{
 				"name": "Thompsons Track",
 				"link": "https://climbnz.org.nz/nz/si/canterbury/arrowsmith-range/mt-arrowsmith/thompsons-track",
 				"image": "https://climbnz.org.nz/sites/default/files/route/Thompsons%20Track.jpg",
@@ -9868,6 +9883,19 @@
 				"natural_pro": false,
 				"description": "Right-hand side of Ashburton Face. Snow and ice climb with several short \nmixed sections. FA: unknown. Kyle Walters, Michael Eatson October 2018.",
 				"ascent": ""
+			},
+			{
+				"name": "Ashburton Face",
+				"link": "https://climbnz.org.nz/nz/si/canterbury/arrowsmith-range/mt-arrowsmith/ashburton-face",
+				"image": null,
+				"grade": "3+",
+				"length": "",
+				"pitches": [],
+				"quality": 0,
+				"bolts": "",
+				"natural_pro": false,
+				"description": "This is a snow and ice climb up a broad snow face followed by one of a number of gullies to the\r\nsummit of Mt Arrowsmith. From the moraines at the head of the Hakatere River climb to the\r\nschrund at the bottom of the Ashburton Face. Climb a short, steep section alongside a steep\r\nrock rib to gain the slope above. Climb until a small ar\u00eate is reached, and from here either go left\r\nto snow slopes and gullies that join the South West Ridge, or head up steeper rock directly to\r\nthe summit. Usually in condition only from late winter to early summer, and subject to rock fall.",
+				"ascent": "Don Cowie, Jim Clark, November 1958"
 			},
 			{
 				"name": "East Ridge",
@@ -20545,7 +20573,7 @@
 				"quality": 0,
 				"bolts": "",
 				"natural_pro": false,
-				"description": "This ridge cannot be soloed without a rope, there's a serious notch in the \nridge that cannot be downclimbed safely.",
+				"description": "This ridge cannot be soloed without a rope, there's a serious notch in the \r\nridge that cannot be downclimbed safely.\r\n\r\nThe first ascensionists had to avoid that section of the ridge by traversing well underneath it.",
 				"ascent": "Bryan Barrer, Frank Askin, Dec 1931"
 			},
 			{
@@ -23363,7 +23391,7 @@
 						"quality": 0,
 						"bolts": "",
 						"natural_pro": false,
-						"description": "Just across from Homer Hut climb tussock slopes to the left-hand gully, moving up right to the second gully and the snowfields above. The ridge itself is a pleasant scramble over loose blocks to the summit.\r\nDescending the lower bluffs can be difficult in snow or at night.",
+						"description": "Just across from Homer Hut climb tussock slopes to the left-hand gully, moving up right to the second gully and the snowfields above. The ridge itself is a pleasant scramble over loose blocks to the summit.\nDescending the lower bluffs can be difficult in snow or at night.",
 						"ascent": "George Moir, Ken Roberts, Bob Sinclair, January 1923"
 					},
 					{
@@ -23376,7 +23404,7 @@
 						"quality": 0,
 						"bolts": "",
 						"natural_pro": false,
-						"description": "This is the gully on the left of the Lindsay Stewart Buttress, 1500m to the summit. The first section to the shoulder of the Lindsay Stewart Buttress is around 65 to 80 degrees and conditions dictate whether it is climbable as this is where unconsolidated snow can lie, and without protection becomes a voyage of the damned. From the shoulder up to the Cul de sac is lower angled, around 50-60 degrees and requires a \u2018grind it down\u2019 attitude. These pitches could be simul-climbed by a confident party. In the cul de sac there are two to three more technical pitches before the final gully to the summit.\r\nIt is one of the great classic climbs in New Zealand and rivals a lot of similar routes in the Aoraki/Mt Cook area for comparable steepness and length. Most parties pitching all the route could expect to bivvy somewhere. Stories of climbers ending up near the top without bivvy gear and shivering away a winters\u2019 night are common, and in the style of the first ascent. There are no easy descent routes that could be attempted in the dark. However if the Crosscut Bluff descent is in good condition, avalanche wise and there is a full moon it could almost be pleasant.\r\nThe first section was climbed by Doug Warren and Ken Calder in 1973. Merv English solo to the shoulder, Bill McLeod soloed the full route in a day from Homer hut.",
+						"description": "This is the gully on the left of the Lindsay Stewart Buttress, 1500m to the summit. The first section to the shoulder of the Lindsay Stewart Buttress is around 65 to 80 degrees and conditions dictate whether it is climbable as this is where unconsolidated snow can lie, and without protection becomes a voyage of the damned. From the shoulder up to the Cul de sac is lower angled, around 50-60 degrees and requires a \u2018grind it down\u2019 attitude. These pitches could be simul-climbed by a confident party. In the cul de sac there are two to three more technical pitches before the final gully to the summit.\nIt is one of the great classic climbs in New Zealand and rivals a lot of similar routes in the Aoraki/Mt Cook area for comparable steepness and length. Most parties pitching all the route could expect to bivvy somewhere. Stories of climbers ending up near the top without bivvy gear and shivering away a winters\u2019 night are common, and in the style of the first ascent. There are no easy descent routes that could be attempted in the dark. However if the Crosscut Bluff descent is in good condition, avalanche wise and there is a full moon it could almost be pleasant.\nThe first section was climbed by Doug Warren and Ken Calder in 1973. Merv English solo to the shoulder, Bill McLeod soloed the full route in a day from Homer hut.",
 						"ascent": "Geoff Gabites, Nigel Perry, Duncan Ritchie, Calum Hudson, June 1982"
 					},
 					{
@@ -34924,7 +34952,7 @@
 						"quality": 0,
 						"bolts": "",
 						"natural_pro": true,
-						"description": "Amongst the ramparts of Mt Haast, a stellar 60m pinnacle.\r\nGood pro small to med wires & cams.",
+						"description": "Amongst the ramparts of Mt Haast, a stellar 60m pinnacle.\nGood pro small to med wires & cams.",
 						"ascent": "Stefan Sporli & Jude Spancken, Dec 2011"
 					},
 					{
@@ -48333,29 +48361,19 @@
 		"image": null,
 		"images": []
 	},
-	"https://climbnz.org.nz/nz/si/nelson-lakes/st-arnaud-range/mt-mcrae-and-pk-1915m": {
-		"link": "https://climbnz.org.nz/nz/si/nelson-lakes/st-arnaud-range/mt-mcrae-and-pk-1915m",
-		"name": "Mt McRae  and Pk 1915m",
+	"https://climbnz.org.nz/nz/si/nelson-lakes/st-arnaud-range/mt-mcrae": {
+		"link": "https://climbnz.org.nz/nz/si/nelson-lakes/st-arnaud-range/mt-mcrae",
+		"name": "Mt McRae",
 		"altitude": "1878m",
-		"description": "Above Rainbow Skifield",
-		"latlng": null,
+		"description": "Easily reached from either Lake Rotoiti and Rainbow Ski Field.",
+		"latlng": [
+			"-41.881980000000",
+			"172.845800000000"
+		],
 		"routes": [
 			{
-				"name": "St Arnaud Range",
-				"link": "https://climbnz.org.nz/nz/si/nelson-lakes/st-arnaud-range/mt-mcrae-and-pk-1915m/st-arnaud-range",
-				"image": null,
-				"grade": "1",
-				"length": "",
-				"pitches": [],
-				"quality": 0,
-				"bolts": "",
-				"natural_pro": false,
-				"description": "From the skifield head south-east up easy slopes to Mt McRae. Continue south to a saddle overlooking the Arnst basin and east towards Pk 1915m. Beyond here, the range is rugged and it is necessary to descend and sidle below bluffs, then regain the ridge in the vicinity of Pk 1880m.  The range south of here is easy ridge travel, and can also be reached easily via a track up the true left of St Ronans Stream (no longer maintained but easily followed, through open forest into delightful tussock basins). Some superb campsites near tarns.",
-				"ascent": ""
-			},
-			{
 				"name": "Lake Rotoiti Route",
-				"link": "https://climbnz.org.nz/nz/si/nelson-lakes/st-arnaud-range/mt-mcrae-and-pk-1915m/lake-rotoiti-route",
+				"link": "https://climbnz.org.nz/nz/si/nelson-lakes/st-arnaud-range/mt-mcrae/lake-rotoiti-route",
 				"image": null,
 				"grade": "1",
 				"length": "",
@@ -51869,11 +51887,11 @@
 			}
 		]
 	},
-	"https://climbnz.org.nz/nz/si/nelson-lakes/spenser-mountains/moki": {
-		"link": "https://climbnz.org.nz/nz/si/nelson-lakes/spenser-mountains/moki",
-		"name": "Moki",
+	"https://climbnz.org.nz/nz/si/nelson-lakes/spenser-mountains/mt-moki": {
+		"link": "https://climbnz.org.nz/nz/si/nelson-lakes/spenser-mountains/mt-moki",
+		"name": "Mt Moki",
 		"altitude": "1883m",
-		"description": "Southern end of Spenser Mts",
+		"description": "South of Duessa Pk.",
 		"latlng": [
 			"-42.238113440000",
 			"172.593841550000"
@@ -51881,7 +51899,7 @@
 		"routes": [
 			{
 				"name": "North Face",
-				"link": "https://climbnz.org.nz/nz/si/nelson-lakes/spenser-mountains/moki/north-face",
+				"link": "https://climbnz.org.nz/nz/si/nelson-lakes/spenser-mountains/mt-moki/north-face",
 				"image": null,
 				"grade": "1",
 				"length": "",
@@ -61069,7 +61087,7 @@
 								"quality": 3,
 								"bolts": "17",
 								"natural_pro": false,
-								"description": "The first multi-pitch mixed route at Margaret's! Something for everyone, the first 1.5 pitches are relatively beginner-friendly. Note bolts are painted black to reduce visual impact. \nDescent: You can climb the first 1.5 pitches ground up and lower off a maillon before the crux (M5+ to here). If you climb through the roof you will need to second the route or down-aid and clean. 30m rap from the second anchor to ground. The third pitch can easily be accessed from the top.",
+								"description": "The first multi-pitch mixed route at Margaret's! Something for everyone, the first 1.5 pitches are relatively beginner-friendly. Note bolts are painted black to reduce visual impact. \r\nDescent: You can climb the first 1.5 pitches ground up and lower off a maillon before the crux (M5+ to here). If you climb through the roof you will need to second the route or down-aid and clean. 30m rap from the second anchor to ground. The third pitch can easily be accessed from the top.",
 								"ascent": "P1-2 Edwin Sheppard 2018-2019. P3 Edwin Sheppard and Romain Albert 2021."
 							},
 							{
@@ -61125,7 +61143,7 @@
 								"quality": 2,
 								"bolts": "12",
 								"natural_pro": true,
-								"description": "Up the groove left of Comedy of Errors then p2 heads up steep rock to the hanging icicle. Safety note: don't climb pitch 2 if the rock isn't well frozen together. \nGear: P1-2 couple ice screws and a rack of draws. P3: Wires, cams and a couple of pitons. \nDescent: 30m rap to ground from the top of P2.",
+								"description": "Up the groove left of Comedy of Errors then p2 heads up steep rock to the hanging icicle. Safety note: don't climb pitch 2 if the rock isn't well frozen together. \r\nGear: P1-2 couple ice screws and a rack of draws. P3: Wires, cams and a couple of pitons. \r\nDescent: 30m rap to ground from the top of P2.",
 								"ascent": "P1-2 Edwin Sheppard and Prajot Sabnis 2021. P3 Edwin Sheppard and Romain Albert 2021 (on pre-placed gear)."
 							},
 							{
@@ -61138,7 +61156,7 @@
 								"quality": 1,
 								"bolts": "",
 								"natural_pro": true,
-								"description": "Trad mixed climbing up the buttress right of the shroud. Build a trad anchor below the final headwall then escape to the gully on the right. \nGear: Wires, small-med cams, couple of pitons.",
+								"description": "Trad mixed climbing up the buttress right of the shroud. Build a trad anchor below the final headwall then escape to the gully on the right. \r\nGear: Wires, small-med cams, couple of pitons.",
 								"ascent": "Edwin Sheppard and Shaun Brown 2021"
 							},
 							{
