@@ -4948,6 +4948,47 @@
 		"image": null,
 		"images": []
 	},
+	"https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/barrier-range/pt-2246": {
+		"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/barrier-range/pt-2246",
+		"name": "Pt 2246",
+		"altitude": "2246m",
+		"description": "This peak is adjacent to but slightly lower than Belfry Peak. (It is referred to as Belfry Peak in the 2021 \u014chau\u2013Landsborough Alps guidebook.)",
+		"latlng": [
+			"-44.080830142550",
+			"169.754315246750"
+		],
+		"routes": [
+			{
+				"name": "East Face",
+				"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/barrier-range/pt-2246/east-face",
+				"image": null,
+				"grade": "II 2",
+				"length": "",
+				"pitches": [],
+				"quality": 0,
+				"bolts": "",
+				"natural_pro": false,
+				"description": "An intriguing problem from the North Temple valley, but appears to be climbable by approaching from the north-east. An alternative approach from Gunsight Pass leads on to low quality rock 400m distant from the summit.",
+				"ascent": "First ascent unknown"
+			},
+			{
+				"name": "West Ramp",
+				"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/barrier-range/pt-2246/west-ramp",
+				"image": null,
+				"grade": "II 2",
+				"length": "",
+				"pitches": [],
+				"quality": 0,
+				"bolts": "",
+				"natural_pro": false,
+				"description": "Begin near the head of the South Temple valley, where scree slopes lead to a basin west of the peak and culminate in a steep rock needle. First ascended by an Easter trip of North Otago climbers. Lack of snow cover may make accessing the summit difficult.",
+				"ascent": "Carol Ayers, Ruth Berry, Tom Guthrie, Ray Slater, Rod Williams, Roy Winsley, March 1948"
+			}
+		],
+		"places": [],
+		"image": null,
+		"images": []
+	},
 	"https://climbnz.org.nz/nz/si/canterbury/froude-range/pt-2246": {
 		"link": "https://climbnz.org.nz/nz/si/canterbury/froude-range/pt-2246",
 		"name": "Pt 2246",
@@ -5054,34 +5095,6 @@
 				"natural_pro": false,
 				"description": "Straightforward rock scramble and short step snow gut.",
 				"ascent": "Paul Hersey May 2006"
-			}
-		],
-		"places": [],
-		"image": null,
-		"images": []
-	},
-	"https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/barrier-range/pt-2266": {
-		"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/barrier-range/pt-2266",
-		"name": "Pt 2266",
-		"altitude": "2266m",
-		"description": null,
-		"latlng": [
-			"-44.079264640000",
-			"169.752857480000"
-		],
-		"routes": [
-			{
-				"name": "North Face",
-				"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/barrier-range/pt-2266/north-face",
-				"image": null,
-				"grade": "1",
-				"length": "",
-				"pitches": [],
-				"quality": 0,
-				"bolts": "",
-				"natural_pro": false,
-				"description": "Easy approach from the South Huxley, but steep and shattered rock near the \nsummit.",
-				"ascent": "First ascent unknown"
 			}
 		],
 		"places": [],
@@ -11244,11 +11257,11 @@
 		"image": null,
 		"images": []
 	},
-	"https://climbnz.org.nz/nz/si/westland/hooker-range/awatea-pk": {
-		"link": "https://climbnz.org.nz/nz/si/westland/hooker-range/awatea-pk",
+	"https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/hooker-range/awatea-pk": {
+		"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/hooker-range/awatea-pk",
 		"name": "Awatea Pk",
 		"altitude": "2440m",
-		"description": "TBA",
+		"description": null,
 		"latlng": [
 			"-43.727095624090",
 			"170.004844538540"
@@ -15059,38 +15072,25 @@
 	"https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/barrier-range/belfry-pk": {
 		"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/barrier-range/belfry-pk",
 		"name": "Belfry Pk",
-		"altitude": "2246m",
+		"altitude": "2266m",
 		"description": null,
 		"latlng": [
-			"-44.080830142550",
-			"169.754315246750"
+			"-44.079264640000",
+			"169.752857480000"
 		],
 		"routes": [
 			{
-				"name": "East Face",
-				"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/barrier-range/belfry-pk/east-face",
+				"name": "North Face",
+				"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/barrier-range/belfry-pk/north-face",
 				"image": null,
-				"grade": "II 2",
+				"grade": "1",
 				"length": "",
 				"pitches": [],
 				"quality": 0,
 				"bolts": "",
 				"natural_pro": false,
-				"description": "An intriguing problem from the North Temple valley, but appears to be climbable by approaching from the north-east. An alternative approach from Gunsight Pass leads on to low quality rock 400m distant from the summit.",
+				"description": "Easy approach from the South Huxley, but steep and shattered rock near the \nsummit.",
 				"ascent": "First ascent unknown"
-			},
-			{
-				"name": "West Ramp",
-				"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/barrier-range/belfry-pk/west-ramp",
-				"image": null,
-				"grade": "II 2",
-				"length": "",
-				"pitches": [],
-				"quality": 0,
-				"bolts": "",
-				"natural_pro": false,
-				"description": "Begin near the head of the South Temple valley, where scree slopes lead to a basin west of the peak and culminate in a steep rock needle. First ascended by an Easter trip of North Otago climbers. Lack of snow cover may make accessing the summit difficult.",
-				"ascent": "Carol Ayers, Ruth Berry, Tom Guthrie, Ray Slater, Rod Williams, Roy Winsley, March 1948"
 			}
 		],
 		"places": [],
@@ -25391,11 +25391,11 @@
 		"image": null,
 		"images": []
 	},
-	"https://climbnz.org.nz/nz/si/westland/hooker-range/mt-dechen": {
-		"link": "https://climbnz.org.nz/nz/si/westland/hooker-range/mt-dechen",
+	"https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/hooker-range/mt-dechen": {
+		"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/hooker-range/mt-dechen",
 		"name": "Mt Dechen",
 		"altitude": "2643m",
-		"description": "TBA",
+		"description": null,
 		"latlng": [
 			"-43.796922120000",
 			"169.755875560000"
@@ -55320,7 +55320,7 @@
 					{
 						"name": "Range Rover Route",
 						"link": "https://climbnz.org.nz/nz/si/fiordland/darran-mountains/mt-parariki/kaipo-wall/range-rover-route",
-						"image": null,
+						"image": "https://climbnz.org.nz/sites/default/files/routes/IMG_1785.jpeg",
 						"grade": "17",
 						"length": "",
 						"pitches": [],
@@ -69166,7 +69166,7 @@
 		"routes": [
 			{
 				"name": "North Face",
-				"link": "https://climbnz.org.nz/nz/si/otago/barrier-range/steeple-pk/north-face",
+				"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/barrier-range/steeple-pk/north-face",
 				"image": null,
 				"grade": "2+",
 				"length": "",
@@ -69179,7 +69179,7 @@
 			},
 			{
 				"name": "Love me love my Zimmerframe",
-				"link": "https://climbnz.org.nz/nz/si/otago/barrier-range/steeple-pk/love-me-love-my-zimmerframe",
+				"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/barrier-range/steeple-pk/love-me-love-my-zimmerframe",
 				"image": "https://climbnz.org.nz/sites/default/files/route/zimmer_0.jpg",
 				"grade": "3+",
 				"length": "",
@@ -69192,7 +69192,7 @@
 			},
 			{
 				"name": "Wandering Flob",
-				"link": "https://climbnz.org.nz/nz/si/otago/barrier-range/steeple-pk/wandering-flob",
+				"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/barrier-range/steeple-pk/wandering-flob",
 				"image": null,
 				"grade": "",
 				"length": "",
@@ -69205,7 +69205,7 @@
 			},
 			{
 				"name": "Zoe Alpine",
-				"link": "https://climbnz.org.nz/nz/si/otago/barrier-range/steeple-pk/zoe-alpine",
+				"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/barrier-range/steeple-pk/zoe-alpine",
 				"image": "https://climbnz.org.nz/sites/default/files/route/zoe.jpg",
 				"grade": "3+",
 				"length": "",
@@ -69218,7 +69218,7 @@
 			},
 			{
 				"name": "Weta Prowl",
-				"link": "https://climbnz.org.nz/nz/si/otago/barrier-range/steeple-pk/weta-prowl",
+				"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/barrier-range/steeple-pk/weta-prowl",
 				"image": null,
 				"grade": "3+ 14",
 				"length": "",
@@ -69231,7 +69231,7 @@
 			},
 			{
 				"name": "Dry As A Bone",
-				"link": "https://climbnz.org.nz/nz/si/otago/barrier-range/steeple-pk/dry-bone",
+				"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/barrier-range/steeple-pk/dry-bone",
 				"image": null,
 				"grade": "15",
 				"length": "",
@@ -69244,7 +69244,7 @@
 			},
 			{
 				"name": "South Ridge",
-				"link": "https://climbnz.org.nz/nz/si/otago/barrier-range/steeple-pk/south-ridge",
+				"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/barrier-range/steeple-pk/south-ridge",
 				"image": null,
 				"grade": "1+",
 				"length": "",
@@ -69257,7 +69257,7 @@
 			},
 			{
 				"name": "Weta Hotel",
-				"link": "https://climbnz.org.nz/nz/si/otago/barrier-range/steeple-pk/weta-hotel",
+				"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/barrier-range/steeple-pk/weta-hotel",
 				"image": null,
 				"grade": "14,15,14",
 				"length": "145m",
@@ -70055,8 +70055,8 @@
 		"image": null,
 		"images": []
 	},
-	"https://climbnz.org.nz/mt-sutton": {
-		"link": "https://climbnz.org.nz/mt-sutton",
+	"https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/ohau-range/mt-sutton": {
+		"link": "https://climbnz.org.nz/nz/si/%C5%8Dhau-landsborough/ohau-range/mt-sutton",
 		"name": "Mt Sutton",
 		"altitude": "2007m",
 		"description": null,
