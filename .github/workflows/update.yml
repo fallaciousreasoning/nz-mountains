@@ -1,8 +1,9 @@
 name: Rescrape
 
 on:
-  schedule:
-    - cron: '0 8 * * MON'
+  # disabled, as the scraper is broken
+  # schedule:
+  #   - cron: '0 8 * * MON'
   workflow_dispatch:
 
 jobs:
