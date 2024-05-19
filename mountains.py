@@ -15,6 +15,12 @@ def get_index():
         link = row.select_one('td.views-field-title a')
         yield (link.text, f"{BASE_URL}{link.attrs['href']}")
 
+def resolve_url(url):
+    if url.startswith('http'): return url
+    if url.startswith('/'): return BASE_URL + url
+
+    raise "Oh no! Can't resolve " + url
+
 def download_mountain(url):
     soup = get_soup(url)
 
@@ -25,18 +31,18 @@ def download_mountain(url):
         return el.text.strip()
 
     def get_lat_lng():
-        el = soup.select_one('.field-name-field-geo-lat-lon .field-items')
+        el = soup.select_one('.field--name-field-climbnz-geo-lat-lon .field__item')
         if not el:
             return None
 
-        return [c.strip() for c in el.text.split(',')]
+        return [c.strip() for c in el.text.strip('POINT ()').split(' ')]
 
     def get_imgs():
         return [{
-                'src': el.attrs['src'],
+                'src': resolve_url(el.attrs['src']),
                 'height': el.attrs['height'],
                 'width': el.attrs['width']
-            } for el in soup.select('.field-name-field-image img')]
+            } for el in soup.select('.field__items img')]
 
     def parse_routes():
         def maybe_get_image_url(el: BeautifulSoup, route_link: str):
@@ -106,9 +112,10 @@ def download_mountain(url):
     images = get_imgs()
     return {
         'link': url,
-        'name': maybe_text(soup, '.page-header'),
-        'altitude': maybe_text(soup, '.field-name-field-altitude .field-items'),
-        'description': maybe_text(soup, '.field-name-field-description'),
+        'name': maybe_text(soup, '.block-page-title-block'),
+        'altitude': maybe_text(soup, '.field--name-field-climbnz-altitude .field__item'),
+        'access': maybe_text(soup, '.field--name-field-climbnz-access .field__item'),
+        'description': maybe_text(soup, '.field--name-field-climbnz-description'),
         'latlng': get_lat_lng(),
         'routes': list(parse_routes()),
         'places': list(get_places(soup)),
@@ -132,21 +139,22 @@ def get_sub_place_links(places):
     return subplaces
 
 if __name__ == "__main__":
-    mountains = {}
+    print(json.dumps(download_mountain('https://climbnz.org.nz/nz/si/aspiring/main-divide/mt-aspiring-tititea'), indent='\t'))
+    # mountains = {}
 
-    from multiprocessing import Pool
+    # from multiprocessing import Pool
 
-    mountains = None
-    with Pool(processes=100) as p:
-        mountains = list(p.map(download_mountain, [url for (title, url) in get_index()]))
+    # mountains = None
+    # with Pool(processes=100) as p:
+    #     mountains = list(p.map(download_mountain, [url for (title, url) in get_index()]))
 
-    # Some subplaces are listed at the top level, so we remove them.
-    subplace_links = get_sub_place_links(mountains)
-    mountains = [mountain for mountain in mountains if mountain['link'] not in subplace_links]
+    # # Some subplaces are listed at the top level, so we remove them.
+    # subplace_links = get_sub_place_links(mountains)
+    # mountains = [mountain for mountain in mountains if mountain['link'] not in subplace_links]
 
-    result = {}
-    for mountain in mountains:
-        result[mountain['link']] = mountain
+    # result = {}
+    # for mountain in mountains:
+    #     result[mountain['link']] = mountain
 
-    with open('mountains.json', 'w') as f:
-        f.write(json.dumps(result, indent='\t'))
+    # with open('mountains.json', 'w') as f:
+    #     f.write(json.dumps(result, indent='\t'))
