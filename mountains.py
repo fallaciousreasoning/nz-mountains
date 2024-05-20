@@ -124,7 +124,7 @@ def download_route(url):
     images = get_imgs(soup)
     return {
         'link': url,
-        'title': maybe_text(soup, '.field--name-title'),
+        'name': maybe_text(soup, '.field--name-title'),
         'grade': maybe_text(soup, '.field--name-field-climbnz-grade .field__item'),
         'topo_ref': maybe_text(soup, '.field--name-field-climbnz-reference .field__item'),
         'image': None if len(images) == 0 else images[0]['src'],
@@ -180,7 +180,7 @@ def download_mountain(url):
     images = get_imgs(soup)
     return {
         'link': url,
-        'name': maybe_text(soup, '.block-page-title-block'),
+        'name': maybe_text(soup, '.block-page-title-block') or '',
         'altitude': maybe_text(soup, '.field--name-field-climbnz-altitude .field__item'),
         'access': maybe_text(soup, '.field--name-field-climbnz-access .field__item'),
         'description': maybe_text(soup, '.field--name-field-climbnz-description'),
