@@ -24,11 +24,14 @@ def resolve_url(url):
 
     raise "Oh no! Can't resolve " + url
 
-def maybe_text(el: BeautifulSoup, selector: str):
+def maybe_text(el: BeautifulSoup, selector: str, additional_none: str=''):
     el = el.select_one(selector)
     if not el: return None
 
-    return el.text.strip()
+    text = el.text.strip()
+    if additional_none == text:
+        return None
+    return text
 
 def get_imgs(soup: BeautifulSoup):
     return [{
@@ -91,7 +94,8 @@ def download_route(url):
         el = extract_match(info, lambda x: x.select_one('.icon-bolt') is not None)
         if el is not None:
             text = el.text.strip()
-            if text != '0': return text
+            if text != '0':
+                return text
         return None
 
     def parse_pitches(el: BeautifulSoup):
@@ -132,10 +136,10 @@ def download_route(url):
         'topo_ref': maybe_text(soup, '.field--name-field-climbnz-reference .field__item'),
         'image': None if len(images) == 0 else images[0]['src'],
         'images': images,
-        'length': maybe_text(soup, '.field--name-field-climbnz-length .field__item'),
+        'length': maybe_text(soup, '.field--name-field-climbnz-length .field__item', additional_none='0m'),
         'pitches': pitches,
         'quality': len(soup.select('.fivestar-basic span.on')),
-        'bolts': maybe_text(soup, '.field--name-field-climbnz-bolts .field__item'),
+        'bolts': maybe_text(soup, '.field--name-field-climbnz-bolts .field__item', additional_none='0'),
         'natural_pro': soup.select_one('.field--name-field-climbnz-natural-pro .climbnz-wire') is not None,
         'description': maybe_text(soup, '.field--name-field-climbnz-description'),
         'ascent': maybe_text(soup, '.field--name-field-climbnz-first-ascent .field__item')
