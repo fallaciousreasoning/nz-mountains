@@ -41,6 +41,8 @@ def download_route(url):
     soup = get_soup(url)
 
     def extract_match(info: list[BeautifulSoup], predicate):
+        if not info: return None
+
         for i in range(len(info)):
             if predicate(info[i]):
                 return info.pop(i)
