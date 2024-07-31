@@ -88,7 +88,8 @@ def download_route(url):
     def maybe_bolts(info: list[BeautifulSoup]):
         el = extract_match(info, lambda x: x.select_one('.icon-bolt') is not None)
         if el is not None:
-            return el.text.strip()
+            text = el.text.strip()
+            if text != '0': return text
         return None
 
     def parse_pitches(el: BeautifulSoup):
