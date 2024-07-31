@@ -227,4 +227,4 @@ if __name__ == "__main__":
         result[mountain['link']] = mountain
 
     with open('mountains.json', 'w') as f:
-        f.write(json.dumps(result, indent='\t'))
+        f.write(json.dumps(result, indent='\t').replace('\r\n', '\n'))
