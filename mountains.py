@@ -149,11 +149,19 @@ def download_mountain(url):
     soup = get_soup(url)
 
     def get_lat_lng():
-        el = soup.select_one('.field--name-field-climbnz-geo-lat-lon .field__item')
+        el = soup.select_one('.field--name-field-climbnz-geo-lat-lon .field__item > span')
         if not el:
             return None
 
-        return list(reversed([c.strip() for c in el.text.strip('POINT ()').split(' ')]))
+        (lat, lng) = list([c.strip() for c in el.text.strip().split(',')])
+
+        # Check the values are in the expected range. This could break if the page structure changes.
+        lat_f = float(lat)
+        lon_f = float(lng)
+        assert lat_f >= -90 and lat_f <= 90, f"Latitude {lat_f} is out of range (-90, 90) for {url}"
+        assert lon_f >= -180 and lon_f <= 180, f"Longitude {lon_f} is out of range (-180, 180) for {url}"
+
+        return (lat, lng)
 
     def parse_routes():
         def maybe_get_image_url(el: BeautifulSoup, route_link: str):
