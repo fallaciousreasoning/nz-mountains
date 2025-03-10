@@ -235,7 +235,7 @@ if __name__ == "__main__":
     mountains = [mountain for mountain in mountains if mountain['link'] not in subplace_links]
 
     result = {}
-    for mountain in mountains:
+    for mountain in sorted(mountains, key=lambda m: m['link']):
         result[mountain['link']] = mountain
 
     with open('mountains.json', 'w') as f:
