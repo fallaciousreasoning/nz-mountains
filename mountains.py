@@ -149,11 +149,39 @@ def download_mountain(url):
     soup = get_soup(url)
 
     def get_lat_lng():
-        el = soup.select_one('.field--name-field-climbnz-geo-lat-lon .field__item > span')
-        if not el:
+        text = None
+
+        for field in soup.select('.field--name-field-climbnz-topo50.field--label-inline'):
+            label = field.select_one('.field__label')
+            if label and label.text.strip() == 'Lat/lon':
+                span = field.select_one('span')
+                if span:
+                    text = span.text.strip()
+                    break
+
+        if not text:
+            el = soup.select_one('.field--name-field-climbnz-geo-lat-lon .field__item > span')
+            if el:
+                text = el.text.strip()
+
+        if not text:
+            el = soup.select_one('.field--name-field-climbnz-geo-lat-lon .field__item')
+            if el:
+                raw = el.text.strip()
+                if raw.startswith('POINT'):
+                    parts = [c.strip() for c in raw.strip('POINT ()').split(' ')]
+                    if len(parts) == 2:
+                        lng, lat = parts
+                        text = f'{lat},{lng}'
+
+        if not text:
             return None
 
-        (lat, lng) = list([c.strip() for c in el.text.strip().split(',')])
+        parts = [c.strip() for c in text.split(',')]
+        if len(parts) != 2:
+            return None
+
+        lat, lng = parts
 
         # Check the values are in the expected range. This could break if the page structure changes.
         lat_f = float(lat)
