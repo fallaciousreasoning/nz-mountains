@@ -22,6 +22,9 @@ jobs:
         run: |
           python mountains.py
 
+      - name: Validate mountains.json
+        run: python -m unittest discover -s tests -p 'test_*.py' -v
+
       - name: Commit & Push Changes
         run: |
           git config user.name github-actions[bot]
