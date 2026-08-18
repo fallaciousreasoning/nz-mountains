@@ -250,13 +250,7 @@ def get_sub_place_links(places):
     return subplaces
 
 if __name__ == "__main__":
-    mountains = {}
-
-    from multiprocessing import Pool
-
-    mountains = None
-    with Pool(processes=100) as p:
-        mountains = list(p.map(download_mountain, [url for (title, url) in get_index()]))
+    mountains = [download_mountain(url) for (title, url) in get_index()]
 
     # Some subplaces are listed at the top level, so we remove them.
     subplace_links = get_sub_place_links(mountains)
