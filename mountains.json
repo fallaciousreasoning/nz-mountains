@@ -3343,21 +3343,6 @@
 		"image": null,
 		"images": []
 	},
-	"https://climbnz.org.nz/mt-shrimpton": {
-		"link": "https://climbnz.org.nz/mt-shrimpton",
-		"name": "Mt Shrimpton",
-		"altitude": "2002m",
-		"access": null,
-		"description": null,
-		"latlng": [
-			"-44.2374494",
-			"169.28205215"
-		],
-		"routes": [],
-		"places": [],
-		"image": null,
-		"images": []
-	},
 	"https://climbnz.org.nz/mt-sinclair": {
 		"link": "https://climbnz.org.nz/mt-sinclair",
 		"name": "Mt Sinclair",
@@ -3590,8 +3575,8 @@
 		"access": null,
 		"description": null,
 		"latlng": [
-			"-44.210195",
-			"-44.210195"
+			"-44.210017",
+			"168.912065"
 		],
 		"routes": [
 			{
@@ -6251,7 +6236,10 @@
 				"altitude": null,
 				"access": null,
 				"description": "Scouting around for short ice routes on the blu\ufb00s and crags that abound on the ski area can be a better bet than the Pinnacles if you are cooped up during mediocre weather at Ruapehu Hut. The ice routes described here are at relatively low altitudes, and conditions tend to be at their best during the early winter season from April to July when temperatures are low \u2013 and before heavy snowfalls.\nTake a \ufb02exible approach \u2013 climbing conditions can change rapidly and dramatically from day to day at any time of year.\nGo here for rock climbing information in this area, including Whakapapa Gorge and Meads Wall.",
-				"latlng": null,
+				"latlng": [
+					"-39.243687",
+					"175.56221"
+				],
 				"routes": [],
 				"places": [
 					{
@@ -6532,7 +6520,10 @@
 				"altitude": null,
 				"access": null,
 				"description": "On and near T\u016broa ski \ufb01eld some nice water ice can be encountered, including a couple of the most outstanding lines on the mountain. There is a good range of difficulty: the routes on the ski \ufb01eld are more straightforward and easily accessible from above and so readily top-roped. The routes outside the ski \ufb01eld boundaries are generally longer and harder.\nFor rock climbing see climbnz.org.nz/nz/ni/tongariro.",
-				"latlng": null,
+				"latlng": [
+					"-39.29791",
+					"175.53948"
+				],
 				"routes": [
 					{
 						"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/turoa-skifield/massey-flat-waterfall",
@@ -7514,7 +7505,10 @@
 						"altitude": "1800m",
 						"access": null,
 						"description": "These cliffs, unsurprisingly, are to the south of the car park, towards the Whangaehu valley.",
-						"latlng": null,
+						"latlng": [
+							"-39.280437",
+							"175.611134"
+						],
 						"routes": [
 							{
 								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/tukino-skifield/southern-bluffs/chandelier",
@@ -7816,7 +7810,10 @@
 						"altitude": "1800m",
 						"access": null,
 						"description": "A series of crags with a southeast aspect above and to the north of the Aorangi ski tow.",
-						"latlng": null,
+						"latlng": [
+							"-39.275371",
+							"175.603623"
+						],
 						"routes": [
 							{
 								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/tukino-skifield/shirt-front/icy-shirt-front",
@@ -8259,7 +8256,10 @@
 						"altitude": null,
 						"access": null,
 						"description": null,
-						"latlng": null,
+						"latlng": [
+							"-39.282895",
+							"175.588968"
+						],
 						"routes": [
 							{
 								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/tukino-skifield/whangaehu-bluff/last-great-exodus-decade",
@@ -10144,7 +10144,10 @@
 						"altitude": null,
 						"access": null,
 						"description": "On the upper north-eastern side of Pinnacle Ridge and visible peeking over from the NZAC hut are a number of steep, easily accessible routes that offer interesting and challenging climbing.",
-						"latlng": null,
+						"latlng": [
+							"-39.250883",
+							"175.573239"
+						],
 						"routes": [
 							{
 								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/nga-tohu-pinnacle-ridge/te-herenga/moonage-daydream",
@@ -10980,7 +10983,10 @@
 						"altitude": null,
 						"access": null,
 						"description": "Matihao can lay a solid claim to having the best ice routes on Ruapehu on its South Face. These climbs are long, steep and exposed \u2013 and being high on the mountain they can remain in condition late into spring.",
-						"latlng": null,
+						"latlng": [
+							"-39.274424",
+							"175.572896"
+						],
 						"routes": [
 							{
 								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/matihao/south-face/left-couloir",
@@ -11853,7 +11859,10 @@
 						"altitude": null,
 						"access": "From the head of the Whakapapa Glacier, walk underneath to find a line of your liking.",
 						"description": "Two prominent cliff bands on the NE face provide some pleasurable ice climbing and some questionable rock.\nPrevious ascents are unknown but no doubt plentiful.",
-						"latlng": null,
+						"latlng": [
+							"-39.274972",
+							"175.55824"
+						],
 						"routes": [
 							{
 								"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/paretetaitonga/whakapapa-bluffs/rime-and-shine",
@@ -12303,14 +12312,14 @@
 					{
 						"link": "https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/tahurangi/skyline-ridge",
 						"name": "Skyline Ridge",
-						"grade": "I,1",
+						"grade": "I,1+",
 						"topo_ref": null,
 						"image": null,
 						"images": [],
 						"length": null,
 						"pitches": [
 							{
-								"alpine": "1",
+								"alpine": "1+",
 								"commitment": "I",
 								"mtcook": null,
 								"aid": null,
@@ -12999,7 +13008,10 @@
 						"altitude": "2600m",
 						"access": null,
 						"description": "The \ufb01rst and largest obstacle on the Girdlestone\u2013Tahurangi Ridge. There are three short ice routes in gullies on the southwest face (Mike Peat, Conan Bolitho, December 1989). The chimney on the Wahianoa side has probably also been climbed.",
-						"latlng": null,
+						"latlng": [
+							"-39.295035",
+							"175.566373"
+						],
 						"routes": [],
 						"places": [],
 						"image": null,
@@ -14093,7 +14105,10 @@
 				"altitude": null,
 				"access": null,
 				"description": "The rock making up this 300m wall is nothing short of sensational, offering overlapping plates and finger cracks. Access to Red Scorpion, Astrolabe, and the West Wall is by scrambling on to the Satellite Buttress below the main face, then left into Black Dog Gully. Continue up scree and/or snow in the gully to the west wall. Use the Corsair abseil descent for getting off all routes on this wall. There is an abseil anchor on the Satellite Buttress to get you below the schrund.",
-				"latlng": null,
+				"latlng": [
+					"-43.568747",
+					"170.137603"
+				],
 				"routes": [
 					{
 						"link": "https://climbnz.org.nz/nz/si/aoraki/balfour-range/mt-drake/west-wall/physical-graffiti",
@@ -14555,7 +14570,10 @@
 				"altitude": null,
 				"access": null,
 				"description": "The routes start from the Magellan-Drake snow apron off the Balfour n\u00e9v\u00e9. The large schrund is usually best dealt with at the Magellan end.",
-				"latlng": null,
+				"latlng": [
+					"-43.569478",
+					"170.141144"
+				],
 				"routes": [
 					{
 						"link": "https://climbnz.org.nz/nz/si/aoraki/balfour-range/magellan/west-face/menage-trois",
@@ -15887,7 +15905,10 @@
 		"altitude": "2004m",
 		"access": null,
 		"description": null,
-		"latlng": null,
+		"latlng": [
+			"-43.51012",
+			"170.13582"
+		],
 		"routes": [],
 		"places": [],
 		"image": null,
@@ -16159,7 +16180,10 @@
 		"altitude": "2266m",
 		"access": null,
 		"description": null,
-		"latlng": null,
+		"latlng": [
+			"-43.54012",
+			"170.10888"
+		],
 		"routes": [
 			{
 				"link": "https://climbnz.org.nz/nz/si/aoraki-tai-poutini/fox-range/mt-du-fresne/west-ridge",
@@ -16201,7 +16225,10 @@
 		"altitude": null,
 		"access": null,
 		"description": null,
-		"latlng": null,
+		"latlng": [
+			"-43.5227",
+			"170.07371"
+		],
 		"routes": [
 			{
 				"link": "https://climbnz.org.nz/nz/si/aoraki-tai-poutini/fox-range/sam-peak/various-routes",
@@ -17455,7 +17482,10 @@
 		"altitude": "2360m",
 		"access": null,
 		"description": null,
-		"latlng": null,
+		"latlng": [
+			"-43.49172",
+			"170.17541"
+		],
 		"routes": [
 			{
 				"link": "https://climbnz.org.nz/nz/si/aoraki-tai-poutini/fritz-range/mt-anderegg/zurbriggen-col",
@@ -18563,7 +18593,10 @@
 		"altitude": "2600m",
 		"access": null,
 		"description": null,
-		"latlng": null,
+		"latlng": [
+			"-43.50712",
+			"170.18801"
+		],
 		"routes": [
 			{
 				"link": "https://climbnz.org.nz/nz/si/aoraki-tai-poutini/fritz-range/mt-von-bulow/south-east-flank",
@@ -20096,7 +20129,10 @@
 				"altitude": "2850m",
 				"access": null,
 				"description": "Earle\u2019s Gap is the level section at about 2850m Earle Ridge. You\u2019ll need to get to Earle Gap (or at least pretty close) in order to access the Empress Shelf.",
-				"latlng": null,
+				"latlng": [
+					"-43.595265",
+					"170.131295"
+				],
 				"routes": [
 					{
 						"link": "https://climbnz.org.nz/nz/si/aoraki-tai-poutini/kirikirikatata-mt-cook-range/aoraki-mt-cook/earles-gap/direct",
@@ -24509,7 +24545,10 @@
 				"altitude": null,
 				"access": null,
 				"description": "The Nuns Veil from the west, January 2013",
-				"latlng": null,
+				"latlng": [
+					"-43.693942",
+					"170.237703"
+				],
 				"routes": [
 					{
 						"link": "https://climbnz.org.nz/nz/si/aoraki-tai-poutini/liebig-range/nuns-veil/west-face/turners-couloir",
@@ -25110,7 +25149,10 @@
 				"altitude": null,
 				"access": null,
 				"description": null,
-				"latlng": null,
+				"latlng": [
+					"-43.497204",
+					"170.390997"
+				],
 				"routes": [
 					{
 						"link": "https://climbnz.org.nz/nz/si/main-divide-southern-alps/brodrick-peak/west-face-brodrick-pk/original-route",
@@ -27042,7 +27084,10 @@
 		"altitude": "2424m",
 		"access": null,
 		"description": null,
-		"latlng": null,
+		"latlng": [
+			"-43.57816",
+			"170.18763"
+		],
 		"routes": [
 			{
 				"link": "https://climbnz.org.nz/nz/si/aoraki-tai-poutini/main-divide/glacier-dome/standard-route",
@@ -31952,12 +31997,15 @@
 				"images": []
 			},
 			{
-				"link": "https://climbnz.org.nz/nz/si/aoraki-tai-poutini/fox-glacier-te-moeka-o-tuawe/mt-haast/mt-haast-middle-pk",
+				"link": "https://climbnz.org.nz/nz/si/aoraki-tai-poutini/main-divide/mt-haast-high-peak/mt-haast-middle-pk",
 				"name": "Mt Haast Middle Pk",
 				"altitude": "3099m",
 				"access": null,
 				"description": null,
-				"latlng": null,
+				"latlng": [
+					"-43.556946",
+					"170.176935"
+				],
 				"routes": [
 					{
 						"link": "https://climbnz.org.nz/nz/si/aoraki-tai-poutini/fox-glacier-te-moeka-o-tuawe/mt-haast/mt-haast-middle-pk/high-peak",
@@ -33544,8 +33592,8 @@
 				"access": null,
 				"description": "The south face of Mt Hicks is the stuff of legend. Due to the face\u2019s proximity to Empress Hut it is sometimes considered a large crag (\u2018large\u2019 being the key word there). The face has some of the best hard climbing in the region; for most routes the first two to three pitches provide the crux.\nThere is no easy descent route from the top of Mt Hicks. If you\u2019ve summited via one of the rock routes in summer, the best descent is probably Route 3.37. If you\u2019ve climbed an ice route it\u2019s probably easier to abseil on v-threads, either down the route you\u2019ve climbed or down the Right Icefields (Route 3.60).",
 				"latlng": [
-					"-44.589489",
-					"168.836946"
+					"-43.589856",
+					"170.126166"
 				],
 				"routes": [
 					{
@@ -38367,7 +38415,10 @@
 						"altitude": null,
 						"access": null,
 						"description": null,
-						"latlng": null,
+						"latlng": [
+							"-43.557506",
+							"170.159211"
+						],
 						"routes": [
 							{
 								"link": "https://climbnz.org.nz/nz/si/aoraki-tai-poutini/main-divide/mt-tasman-te-horokoau/buttress/south-face/son-witch",
@@ -39329,7 +39380,10 @@
 				"altitude": null,
 				"access": null,
 				"description": "Spencer faces of Mts Elie de Beaumont, Walter and Green, December 2010",
-				"latlng": null,
+				"latlng": [
+					"-43.489794",
+					"170.319157"
+				],
 				"routes": [
 					{
 						"link": "https://climbnz.org.nz/nz/si/aoraki-tai-poutini/main-divide/mt-walter/west-face/assessor",
@@ -48842,7 +48896,10 @@
 		"altitude": "2435m",
 		"access": null,
 		"description": null,
-		"latlng": null,
+		"latlng": [
+			"-43.67635",
+			"169.97041"
+		],
 		"routes": [
 			{
 				"link": "https://climbnz.org.nz/nz/si/aoraki/sierra-range/blizzard-pk/wicks-col",
@@ -51479,7 +51536,10 @@
 				"altitude": null,
 				"access": null,
 				"description": "Mt Speight is not often (if ever) visited by persons purely interested in climbing on rock. It hardly attracts day visitors, being a 6-hour tramp in from Klondyke Corner. But the 250m high Speight Buttress is blessed with some of the best quality rock in the national park (this all being relative, of course!).\nThree prominent rock buttresses protrude into the Speight snowfield. Many more routes could be contrived on the day. The gullies between them are climbable in winter. Descent is by the North Ridge to the col at the head of the snowfield.",
-				"latlng": null,
+				"latlng": [
+					"-43.002074",
+					"171.420965"
+				],
 				"routes": [
 					{
 						"link": "https://climbnz.org.nz/nz/si/arthurs-pass/black-range/mt-speight/speight-buttress/north-icefield-couloir",
@@ -52167,7 +52227,10 @@
 		"altitude": "2112m",
 		"access": null,
 		"description": "Waimakariri",
-		"latlng": null,
+		"latlng": [
+			"-42.92458",
+			"171.50224"
+		],
 		"routes": [
 			{
 				"link": "https://climbnz.org.nz/nz/si/arthurs-pass/jellicoe-ridge/mt-lancelot/south-east-ridge",
@@ -52278,7 +52341,10 @@
 		"altitude": "1934m",
 		"access": null,
 		"description": "Mt Stewart sits at the end of Jellicoe Ridge, above the lower Crow valley.",
-		"latlng": null,
+		"latlng": [
+			"-42.96669",
+			"171.4908"
+		],
 		"routes": [
 			{
 				"link": "https://climbnz.org.nz/nz/si/arthurs-pass/jellicoe-ridge/mt-stewart/west",
@@ -52413,7 +52479,10 @@
 		"altitude": "1394m",
 		"access": null,
 		"description": null,
-		"latlng": null,
+		"latlng": [
+			"-42.78245",
+			"171.56285"
+		],
 		"routes": [
 			{
 				"link": "https://climbnz.org.nz/nz/si/arthurs-pass/kelly-range/kellys-hill/kelly-saddle",
@@ -54218,7 +54287,10 @@
 		"altitude": "2200m",
 		"access": null,
 		"description": null,
-		"latlng": null,
+		"latlng": [
+			"-42.911649",
+			"171.514392"
+		],
 		"routes": [
 			{
 				"link": "https://climbnz.org.nz/nz/si/arthurs-pass/main-divide/mt-rolleston-middle-pk/crow-glacier",
@@ -54476,7 +54548,10 @@
 				"altitude": null,
 				"access": "Via Temple Basin",
 				"description": "The buttress at the head of temple Basin Ski-feild",
-				"latlng": null,
+				"latlng": [
+					"-42.902062",
+					"171.58958"
+				],
 				"routes": [],
 				"places": [],
 				"image": "https://climbnz.org.nz/sites/default/files/styles/wide/public/image/temple_buttress2_routes_1.JPG?itok=QOtPRs9q",
@@ -63604,7 +63679,10 @@
 				"altitude": null,
 				"access": null,
 				"description": "Accessed from the Bonar Glacier.",
-				"latlng": null,
+				"latlng": [
+					"-44.386078",
+					"168.721247"
+				],
 				"routes": [
 					{
 						"link": "https://climbnz.org.nz/nz/si/main-divide-southern-alps/mt-aspiring/west-face/west-couloir",
@@ -64541,101 +64619,6 @@
 		"image": null,
 		"images": []
 	},
-	"https://climbnz.org.nz/nz/si/aspiring/main-divide/mt-enderby": {
-		"link": "https://climbnz.org.nz/nz/si/aspiring/main-divide/mt-enderby",
-		"name": "Mt Enderby",
-		"altitude": "2338m",
-		"access": null,
-		"description": null,
-		"latlng": [
-			"-44.03477244",
-			"169.5719084"
-		],
-		"routes": [
-			{
-				"link": "https://climbnz.org.nz/nz/si/aspiring/main-divide/mt-enderby/west-middle-east-peaks",
-				"name": "West, Middle, East Peaks",
-				"grade": "2",
-				"topo_ref": null,
-				"image": null,
-				"images": [],
-				"length": null,
-				"pitches": [
-					{
-						"alpine": null,
-						"commitment": null,
-						"mtcook": "2",
-						"aid": null,
-						"ice": null,
-						"mixed": null,
-						"length": null,
-						"bolts": null,
-						"trad": false,
-						"ewbank": null,
-						"description": null
-					}
-				],
-				"quality": 0,
-				"bolts": null,
-				"natural_pro": false,
-				"description": "First ascended directly from Ferguson Creek over the snowslopes to the\nsummit.",
-				"ascent": "Graham Riley, P C S Unwin, J D Willis, December 1934"
-			},
-			{
-				"link": "https://climbnz.org.nz/nz/si/aspiring/main-divide/mt-enderby/near-cheap-creek",
-				"name": "Near Cheap Creek",
-				"grade": null,
-				"topo_ref": null,
-				"image": "https://climbnz.org.nz/sites/default/files/route/enderby.jpg",
-				"images": [
-					{
-						"src": "https://climbnz.org.nz/sites/default/files/route/enderby.jpg",
-						"height": "378",
-						"width": "629"
-					}
-				],
-				"length": null,
-				"pitches": [],
-				"quality": 0,
-				"bolts": null,
-				"natural_pro": false,
-				"description": "Access the upper slopes via slopes just west of Cheap Creek. When near the\nsummit pyramid, ascend snowfield then swing right to reach east ridge which\nis followed to the summit via steepish snow. Also found crampon in bush.",
-				"ascent": "Ross, Pip, James Barringer December 2007"
-			},
-			{
-				"link": "https://climbnz.org.nz/nz/si/aspiring/main-divide/mt-enderby/west-divide-ridge",
-				"name": "West (Divide) Ridge",
-				"grade": "3-",
-				"topo_ref": null,
-				"image": null,
-				"images": [],
-				"length": null,
-				"pitches": [
-					{
-						"alpine": null,
-						"commitment": null,
-						"mtcook": "3-",
-						"aid": null,
-						"ice": null,
-						"mixed": null,
-						"length": null,
-						"bolts": null,
-						"trad": false,
-						"ewbank": null,
-						"description": null
-					}
-				],
-				"quality": 0,
-				"bolts": null,
-				"natural_pro": false,
-				"description": "From the toe of the ridge, gain height on moderate ground then traverse out\nto the left. Climb through a steep step of well featured schist (grade 14),\nthen follow weaknesses to the summit.",
-				"ascent": "Nina Dickerhof, Neil Sloan and James Thornton, April 2015"
-			}
-		],
-		"places": [],
-		"image": null,
-		"images": []
-	},
 	"https://climbnz.org.nz/nz/si/aspiring/main-divide/mt-french": {
 		"link": "https://climbnz.org.nz/nz/si/aspiring/main-divide/mt-french",
 		"name": "Mt French",
@@ -64704,96 +64687,6 @@
 				"natural_pro": false,
 				"description": "From the top of the Quarterdeck traverse north-west along an easy snow ridge. Alternatively follow down the Bonar, striking up on to the ridge at any convenient point. Time, from French Ridge Hut to the summit, is about three hours.",
 				"ascent": "Frank Wright, December 1914"
-			}
-		],
-		"places": [],
-		"image": null,
-		"images": []
-	},
-	"https://climbnz.org.nz/nz/si/aspiring/main-divide/mt-giles": {
-		"link": "https://climbnz.org.nz/nz/si/aspiring/main-divide/mt-giles",
-		"name": "Mt Giles",
-		"altitude": "2209m",
-		"access": null,
-		"description": null,
-		"latlng": [
-			"-43.9643",
-			"169.6383"
-		],
-		"routes": [
-			{
-				"link": "https://climbnz.org.nz/nz/si/aspiring/main-divide/mt-giles/south-ridge",
-				"name": "South Ridge",
-				"grade": "2",
-				"topo_ref": null,
-				"image": null,
-				"images": [],
-				"length": null,
-				"pitches": [
-					{
-						"alpine": null,
-						"commitment": null,
-						"mtcook": "2",
-						"aid": null,
-						"ice": null,
-						"mixed": null,
-						"length": null,
-						"bolts": null,
-						"trad": false,
-						"ewbank": null,
-						"description": null
-					}
-				],
-				"quality": 0,
-				"bolts": null,
-				"natural_pro": false,
-				"description": "From the Hunter Valley East Branch climb the tussock, select a route through\nthe crevassed Smyth Glacier to reach the top.",
-				"ascent": "John Chivers, Caroline Cotton, Rob Mitchell, Euan Warburton, Laurie White, January 1962"
-			}
-		],
-		"places": [],
-		"image": null,
-		"images": []
-	},
-	"https://climbnz.org.nz/nz/si/aspiring/main-divide/mt-greenfield": {
-		"link": "https://climbnz.org.nz/nz/si/aspiring/main-divide/mt-greenfield",
-		"name": "Mt Greenfield",
-		"altitude": "2101m",
-		"access": null,
-		"description": null,
-		"latlng": [
-			"-44.0088",
-			"169.5915"
-		],
-		"routes": [
-			{
-				"link": "https://climbnz.org.nz/nz/si/aspiring/main-divide/mt-greenfield/wilson-pass",
-				"name": "From Wilson Pass",
-				"grade": "2-",
-				"topo_ref": null,
-				"image": null,
-				"images": [],
-				"length": null,
-				"pitches": [
-					{
-						"alpine": null,
-						"commitment": null,
-						"mtcook": "2-",
-						"aid": null,
-						"ice": null,
-						"mixed": null,
-						"length": null,
-						"bolts": null,
-						"trad": false,
-						"ewbank": null,
-						"description": null
-					}
-				],
-				"quality": 0,
-				"bolts": null,
-				"natural_pro": false,
-				"description": "From Wilsons Pass a traverse of the divide provides easy access to the peaks\nto the south.",
-				"ascent": "M.R.Fitchett, GrahamRiley, J.D.Willis, February 1934"
 			}
 		],
 		"places": [],
@@ -64914,96 +64807,6 @@
 				"width": "320"
 			}
 		]
-	},
-	"https://climbnz.org.nz/nz/si/aspiring/main-divide/mt-maitland": {
-		"link": "https://climbnz.org.nz/nz/si/aspiring/main-divide/mt-maitland",
-		"name": "Mt Maitland",
-		"altitude": "2280m",
-		"access": null,
-		"description": null,
-		"latlng": [
-			"-43.9604",
-			"169.6243"
-		],
-		"routes": [
-			{
-				"link": "https://climbnz.org.nz/nz/si/aspiring/main-divide/mt-maitland/west-face",
-				"name": "West Face",
-				"grade": "2",
-				"topo_ref": null,
-				"image": null,
-				"images": [],
-				"length": null,
-				"pitches": [
-					{
-						"alpine": null,
-						"commitment": null,
-						"mtcook": "2",
-						"aid": null,
-						"ice": null,
-						"mixed": null,
-						"length": null,
-						"bolts": null,
-						"trad": false,
-						"ewbank": null,
-						"description": null
-					}
-				],
-				"quality": 0,
-				"bolts": null,
-				"natural_pro": false,
-				"description": "From a camp in the Hunter Valley West Branch, underneath Upper Studholme\nPass, climb the tussock slopes and rock to gain the summit.",
-				"ascent": "John Chivers, Caroline Cotton, Rob Mitchell, Euan Warburton, Laurie White , January 1962"
-			}
-		],
-		"places": [],
-		"image": null,
-		"images": []
-	},
-	"https://climbnz.org.nz/nz/si/aspiring/main-divide/mt-pearson": {
-		"link": "https://climbnz.org.nz/nz/si/aspiring/main-divide/mt-pearson",
-		"name": "Mt Pearson",
-		"altitude": "2248m",
-		"access": null,
-		"description": null,
-		"latlng": [
-			"-43.9646",
-			"169.6317"
-		],
-		"routes": [
-			{
-				"link": "https://climbnz.org.nz/nz/si/aspiring/main-divide/mt-pearson/east-face",
-				"name": "East Face",
-				"grade": "2",
-				"topo_ref": null,
-				"image": null,
-				"images": [],
-				"length": null,
-				"pitches": [
-					{
-						"alpine": null,
-						"commitment": null,
-						"mtcook": "2",
-						"aid": null,
-						"ice": null,
-						"mixed": null,
-						"length": null,
-						"bolts": null,
-						"trad": false,
-						"ewbank": null,
-						"description": null
-					}
-				],
-				"quality": 0,
-				"bolts": null,
-				"natural_pro": false,
-				"description": "From the Hunter Valley East Branch climb the tussock slopes, select a route\nthrough the crevassed Smyth Glacier to reach the top.",
-				"ascent": "Peter Child, George Goodyear, 1959"
-			}
-		],
-		"places": [],
-		"image": null,
-		"images": []
 	},
 	"https://climbnz.org.nz/nz/si/aspiring/main-divide/mt-pollux": {
 		"link": "https://climbnz.org.nz/nz/si/aspiring/main-divide/mt-pollux",
@@ -65242,170 +65045,6 @@
 				"natural_pro": false,
 				"description": null,
 				"ascent": "B Paterson, R Webster, Jan 1946."
-			}
-		],
-		"places": [],
-		"image": null,
-		"images": []
-	},
-	"https://climbnz.org.nz/nz/si/aspiring/main-divide/mt-tole": {
-		"link": "https://climbnz.org.nz/nz/si/aspiring/main-divide/mt-tole",
-		"name": "Mt Tole",
-		"altitude": "2203m",
-		"access": null,
-		"description": null,
-		"latlng": [
-			"-44.05732263",
-			"169.51315333"
-		],
-		"routes": [
-			{
-				"link": "https://climbnz.org.nz/nz/si/aspiring/main-divide/mt-tole/upper-ferguson-creek",
-				"name": "From Upper Ferguson Creek",
-				"grade": "2-",
-				"topo_ref": null,
-				"image": null,
-				"images": [],
-				"length": null,
-				"pitches": [
-					{
-						"alpine": null,
-						"commitment": null,
-						"mtcook": "2-",
-						"aid": null,
-						"ice": null,
-						"mixed": null,
-						"length": null,
-						"bolts": null,
-						"trad": false,
-						"ewbank": null,
-						"description": null
-					}
-				],
-				"quality": 0,
-				"bolts": null,
-				"natural_pro": false,
-				"description": "Accessible from upper Ferguson Creek, or from near the head of Long Flat\nCreek. Strike through the bush to reach the western snowslopes and plod north\non the west ridge to the summit.",
-				"ascent": "First ascent unknown"
-			},
-			{
-				"link": "https://climbnz.org.nz/nz/si/aspiring/main-divide/mt-tole/north-face",
-				"name": "North Face",
-				"grade": "1+",
-				"topo_ref": null,
-				"image": null,
-				"images": [],
-				"length": null,
-				"pitches": [
-					{
-						"alpine": null,
-						"commitment": null,
-						"mtcook": "1+",
-						"aid": null,
-						"ice": null,
-						"mixed": null,
-						"length": null,
-						"bolts": null,
-						"trad": false,
-						"ewbank": null,
-						"description": null
-					}
-				],
-				"quality": 0,
-				"bolts": null,
-				"natural_pro": false,
-				"description": "From the head of the Wills Valley hard slogging up the northern slopes leads\nto the Divide and a climb of the north face.",
-				"ascent": "Bob Boyd, Kit Preston, Rupert Shaw, Colin Young, December 1955"
-			}
-		],
-		"places": [],
-		"image": null,
-		"images": []
-	},
-	"https://climbnz.org.nz/nz/si/aspiring/main-divide/mt-tylee": {
-		"link": "https://climbnz.org.nz/nz/si/aspiring/main-divide/mt-tylee",
-		"name": "Mt Tylee",
-		"altitude": "2204m",
-		"access": null,
-		"description": null,
-		"latlng": [
-			"-44.0124",
-			"169.5918"
-		],
-		"routes": [
-			{
-				"link": "https://climbnz.org.nz/nz/si/aspiring/main-divide/mt-tylee/mt-greenfield",
-				"name": "From Mt Greenfield",
-				"grade": "2-",
-				"topo_ref": null,
-				"image": null,
-				"images": [],
-				"length": null,
-				"pitches": [
-					{
-						"alpine": null,
-						"commitment": null,
-						"mtcook": "2-",
-						"aid": null,
-						"ice": null,
-						"mixed": null,
-						"length": null,
-						"bolts": null,
-						"trad": false,
-						"ewbank": null,
-						"description": null
-					}
-				],
-				"quality": 0,
-				"bolts": null,
-				"natural_pro": false,
-				"description": "Along the ridge from Mt Greenfield.",
-				"ascent": "M.R.Fitchett, GrahamRiley, J.D.Willis, February 1934"
-			}
-		],
-		"places": [],
-		"image": null,
-		"images": []
-	},
-	"https://climbnz.org.nz/nz/si/aspiring/main-divide/mt-wray": {
-		"link": "https://climbnz.org.nz/nz/si/aspiring/main-divide/mt-wray",
-		"name": "Mt Wray",
-		"altitude": "2080m",
-		"access": null,
-		"description": null,
-		"latlng": [
-			"-44.0608",
-			"169.5027"
-		],
-		"routes": [
-			{
-				"link": "https://climbnz.org.nz/nz/si/aspiring/main-divide/mt-wray/west-slopes",
-				"name": "West Slopes",
-				"grade": "2-",
-				"topo_ref": null,
-				"image": null,
-				"images": [],
-				"length": null,
-				"pitches": [
-					{
-						"alpine": null,
-						"commitment": null,
-						"mtcook": "2-",
-						"aid": null,
-						"ice": null,
-						"mixed": null,
-						"length": null,
-						"bolts": null,
-						"trad": false,
-						"ewbank": null,
-						"description": null
-					}
-				],
-				"quality": 0,
-				"bolts": null,
-				"natural_pro": false,
-				"description": "From near the head of Long Flat Creek, strike through the bush to reach the\nwestern snowslopes and plod on to the summit.",
-				"ascent": "Jack Aitken, Jack Gillespie, Alma Mitchell, M.A.Sutherland, January 1943"
 			}
 		],
 		"places": [],
@@ -65732,37 +65371,6 @@
 			}
 		]
 	},
-	"https://climbnz.org.nz/nz/si/aspiring/main-divide/pt-1971": {
-		"link": "https://climbnz.org.nz/nz/si/aspiring/main-divide/pt-1971",
-		"name": "Pt 1971",
-		"altitude": "1971m",
-		"access": null,
-		"description": "Above the Makarora River, southeast of Mt Kaye.",
-		"latlng": [
-			"-44.112342584",
-			"169.417145236"
-		],
-		"routes": [
-			{
-				"link": "https://climbnz.org.nz/nz/si/aspiring/main-divide/pt-1971/makarora-hut",
-				"name": "From Makarora Hut",
-				"grade": null,
-				"topo_ref": null,
-				"image": null,
-				"images": [],
-				"length": null,
-				"pitches": [],
-				"quality": 0,
-				"bolts": null,
-				"natural_pro": false,
-				"description": "Up the Makarora River to the hut then west to Pt 1971 and Pt 2010 on the Main Divide. Return via Boundary Spur.",
-				"ascent": "Paul Hersey, Shelley Graham, Lydia Bradey, April 2006"
-			}
-		],
-		"places": [],
-		"image": null,
-		"images": []
-	},
 	"https://climbnz.org.nz/nz/si/aspiring/main-divide/pt-1992": {
 		"link": "https://climbnz.org.nz/nz/si/aspiring/main-divide/pt-1992",
 		"name": "Pt 1992",
@@ -65802,97 +65410,6 @@
 				"natural_pro": false,
 				"description": "Head up saddle route until snow line. Navigate the steep gully until summit. Route is obvious.",
 				"ascent": "Oliver Dowling, Izzie Ravn, March 2022"
-			}
-		],
-		"places": [],
-		"image": null,
-		"images": []
-	},
-	"https://climbnz.org.nz/nz/si/aspiring/main-divide/pt-2010": {
-		"link": "https://climbnz.org.nz/nz/si/aspiring/main-divide/pt-2010",
-		"name": "Pt 2010",
-		"altitude": "2010m",
-		"access": null,
-		"description": "Above the Makarora River, southeast of Mt Kaye.",
-		"latlng": [
-			"-44.1097794743",
-			"169.411818712"
-		],
-		"routes": [
-			{
-				"link": "https://climbnz.org.nz/nz/si/aspiring/main-divide/pt-2010/makarora-hut",
-				"name": "From Makarora Hut",
-				"grade": null,
-				"topo_ref": null,
-				"image": null,
-				"images": [],
-				"length": null,
-				"pitches": [],
-				"quality": 0,
-				"bolts": null,
-				"natural_pro": false,
-				"description": "Up the Makarora River to the hut then west to Pts 1971 and 2010 on the Main Divide. Return via Boundary Spur.",
-				"ascent": "Paul Hersey, Shelley Graham, Lydia Bradey, April 2006"
-			}
-		],
-		"places": [],
-		"image": null,
-		"images": []
-	},
-	"https://climbnz.org.nz/nz/si/aspiring/main-divide/pt-2161": {
-		"link": "https://climbnz.org.nz/nz/si/aspiring/main-divide/pt-2161",
-		"name": "Pt 2161",
-		"altitude": "2161m",
-		"access": null,
-		"description": null,
-		"latlng": [
-			"-44.08936289",
-			"169.53002543"
-		],
-		"routes": [],
-		"places": [],
-		"image": null,
-		"images": []
-	},
-	"https://climbnz.org.nz/nz/si/aspiring/main-divide/pt-2316": {
-		"link": "https://climbnz.org.nz/nz/si/aspiring/main-divide/pt-2316",
-		"name": "Pt 2316",
-		"altitude": "2316m",
-		"access": null,
-		"description": null,
-		"latlng": [
-			"-44.0343506517",
-			"169.581458919"
-		],
-		"routes": [
-			{
-				"link": "https://climbnz.org.nz/nz/si/aspiring/main-divide/pt-2316/hunter-river",
-				"name": "From Hunter River",
-				"grade": "2-",
-				"topo_ref": null,
-				"image": null,
-				"images": [],
-				"length": null,
-				"pitches": [
-					{
-						"alpine": null,
-						"commitment": null,
-						"mtcook": "2-",
-						"aid": null,
-						"ice": null,
-						"mixed": null,
-						"length": null,
-						"bolts": null,
-						"trad": false,
-						"ewbank": null,
-						"description": null
-					}
-				],
-				"quality": 0,
-				"bolts": null,
-				"natural_pro": false,
-				"description": null,
-				"ascent": "M R Fitchett, Graham Riley, J D Willis, February 1934"
 			}
 		],
 		"places": [],
@@ -65983,51 +65500,6 @@
 				"natural_pro": false,
 				"description": null,
 				"ascent": null
-			}
-		],
-		"places": [],
-		"image": null,
-		"images": []
-	},
-	"https://climbnz.org.nz/nz/si/aspiring/main-divide/square-top": {
-		"link": "https://climbnz.org.nz/nz/si/aspiring/main-divide/square-top",
-		"name": "Square Top",
-		"altitude": "2120m",
-		"access": null,
-		"description": "Leaving Wyn Irwin with his maps, compasses and camera, we climbed further onto the next peak at the head of the valley (Square Top, about 7000 feet). Although the Divide ar\u00eate consists of vertically heaped slates, somewhat loose, we had to risk its traverse on account of a schrund on the Hunter side and a tedious detour on the other.\nAt this stage, two of us being absolute novices, we would willingly have thrown our ice-axes down the six thousand feet to the valley below. The progress of our leader also was not helped by fearsome spider-like insects which jumped down from the ledges on to his face as he climbed up. The return was made by a quicker route which involved descending on to the snow slopes on the Landsborough side and traversing along to the pass.\nGraham Riley, New Zealand Alpine Journal, 1934.",
-		"latlng": [
-			"-43.9591",
-			"169.6032"
-		],
-		"routes": [
-			{
-				"link": "https://climbnz.org.nz/nz/si/aspiring/main-divide/square-top/upper-studholme-pass",
-				"name": "From Upper Studholme Pass",
-				"grade": "2",
-				"topo_ref": null,
-				"image": null,
-				"images": [],
-				"length": null,
-				"pitches": [
-					{
-						"alpine": null,
-						"commitment": null,
-						"mtcook": "2",
-						"aid": null,
-						"ice": null,
-						"mixed": null,
-						"length": null,
-						"bolts": null,
-						"trad": false,
-						"ewbank": null,
-						"description": null
-					}
-				],
-				"quality": 0,
-				"bolts": null,
-				"natural_pro": false,
-				"description": "From Upper Studholme Pass, traverse over Mt Napoleon.",
-				"ascent": "M R Fitchett, Graham Riley, J D Willis, February 1934"
 			}
 		],
 		"places": [],
@@ -66139,96 +65611,6 @@
 		"image": null,
 		"images": []
 	},
-	"https://climbnz.org.nz/nz/si/aspiring/main-divide/watkins-dome": {
-		"link": "https://climbnz.org.nz/nz/si/aspiring/main-divide/watkins-dome",
-		"name": "Watkins Dome",
-		"altitude": "1946m",
-		"access": null,
-		"description": null,
-		"latlng": [
-			"-43.9665",
-			"169.5863"
-		],
-		"routes": [
-			{
-				"link": "https://climbnz.org.nz/nz/si/aspiring/main-divide/watkins-dome/upper-studholme-pass",
-				"name": "From Upper Studholme Pass",
-				"grade": "1",
-				"topo_ref": null,
-				"image": null,
-				"images": [],
-				"length": null,
-				"pitches": [
-					{
-						"alpine": null,
-						"commitment": null,
-						"mtcook": "1",
-						"aid": null,
-						"ice": null,
-						"mixed": null,
-						"length": null,
-						"bolts": null,
-						"trad": false,
-						"ewbank": null,
-						"description": null
-					}
-				],
-				"quality": 0,
-				"bolts": null,
-				"natural_pro": false,
-				"description": "From Upper Studholme Pass easy slopes lead to the summit.",
-				"ascent": "M.R.Fitchett, Graham Riley, J.D.Willis, Brian Wyn Irwin, February 1934"
-			}
-		],
-		"places": [],
-		"image": null,
-		"images": []
-	},
-	"https://climbnz.org.nz/nz/si/aspiring/main-divide/wills-pk": {
-		"link": "https://climbnz.org.nz/nz/si/aspiring/main-divide/wills-pk",
-		"name": "Wills Pk",
-		"altitude": "2140m",
-		"access": null,
-		"description": null,
-		"latlng": [
-			"-43.9587",
-			"169.6086"
-		],
-		"routes": [
-			{
-				"link": "https://climbnz.org.nz/nz/si/aspiring/main-divide/wills-pk/hunter-valley",
-				"name": "From Hunter Valley",
-				"grade": "2+",
-				"topo_ref": null,
-				"image": null,
-				"images": [],
-				"length": null,
-				"pitches": [
-					{
-						"alpine": null,
-						"commitment": null,
-						"mtcook": "2+",
-						"aid": null,
-						"ice": null,
-						"mixed": null,
-						"length": null,
-						"bolts": null,
-						"trad": false,
-						"ewbank": null,
-						"description": null
-					}
-				],
-				"quality": 0,
-				"bolts": null,
-				"natural_pro": false,
-				"description": "From a camp in the Hunter Valley West Branch, underneath Upper Studholme\nPass, climb the tussock slopes and rock to gain the summit.",
-				"ascent": "John Chivers, Caroline Cotton, Rob Mitchell, Euan Warburton, Laurie White, January 1962"
-			}
-		],
-		"places": [],
-		"image": null,
-		"images": []
-	},
 	"https://climbnz.org.nz/nz/si/aspiring/main-divide/young-pk": {
 		"link": "https://climbnz.org.nz/nz/si/aspiring/main-divide/young-pk",
 		"name": "Young Pk",
@@ -66298,36 +65680,6 @@
 		"latlng": [
 			"-44.01124652",
 			"169.19754662"
-		],
-		"routes": [],
-		"places": [],
-		"image": null,
-		"images": []
-	},
-	"https://climbnz.org.nz/nz/si/aspiring/mckerrow-range/four-pks": {
-		"link": "https://climbnz.org.nz/nz/si/aspiring/mckerrow-range/four-pks",
-		"name": "The Four Pks",
-		"altitude": "1305m",
-		"access": null,
-		"description": null,
-		"latlng": [
-			"-44.4068",
-			"169.3038"
-		],
-		"routes": [],
-		"places": [],
-		"image": null,
-		"images": []
-	},
-	"https://climbnz.org.nz/nz/si/aspiring/mckerrow-range/pt-1455": {
-		"link": "https://climbnz.org.nz/nz/si/aspiring/mckerrow-range/pt-1455",
-		"name": "Pt 1455",
-		"altitude": "1456m",
-		"access": null,
-		"description": null,
-		"latlng": [
-			"-44.54719675",
-			"169.16679943"
 		],
 		"routes": [],
 		"places": [],
@@ -66565,7 +65917,10 @@
 		"altitude": "1864m",
 		"access": null,
 		"description": "The top of Presto Spur.",
-		"latlng": null,
+		"latlng": [
+			"-44.064893",
+			"168.920374"
+		],
 		"routes": [],
 		"places": [],
 		"image": null,
@@ -70420,7 +69775,10 @@
 				"altitude": null,
 				"access": null,
 				"description": "The West Face was initially descended by Paul Powell and Frank Cooper in 1954, and again by Tony Bowden and Graham Bishop in 1963. The first ascent was not until 1964 when Don Morrison and Peter Child climbed it from Shovel Flat. Four variations are available on the face.",
-				"latlng": null,
+				"latlng": [
+					"-44.450203",
+					"168.708887"
+				],
 				"routes": [
 					{
 						"link": "https://climbnz.org.nz/nz/si/aspiring/west-wanaka-mountains/rob-roy-pk/west-face/west-face-variant-0",
@@ -73103,7 +72461,10 @@
 		"altitude": "2347m",
 		"access": null,
 		"description": "An outlier to Marquee.",
-		"latlng": null,
+		"latlng": [
+			"-43.340099",
+			"171.040735"
+		],
 		"routes": [],
 		"places": [],
 		"image": null,
@@ -73429,7 +72790,7 @@
 				"length": null,
 				"pitches": [
 					{
-						"alpine": null,
+						"alpine": "1-",
 						"commitment": "I",
 						"mtcook": null,
 						"aid": null,
@@ -76923,7 +76284,7 @@
 				"length": null,
 				"pitches": [
 					{
-						"alpine": null,
+						"alpine": "1-",
 						"commitment": "I",
 						"mtcook": null,
 						"aid": null,
@@ -77013,7 +76374,7 @@
 				"length": null,
 				"pitches": [
 					{
-						"alpine": null,
+						"alpine": "1-",
 						"commitment": "I",
 						"mtcook": null,
 						"aid": null,
@@ -83646,7 +83007,10 @@
 		"altitude": null,
 		"access": null,
 		"description": null,
-		"latlng": null,
+		"latlng": [
+			"-43.01414",
+			"171.17895"
+		],
 		"routes": [
 			{
 				"link": "https://climbnz.org.nz/nz/si/canterbury-westland-alps/toaroha-range/mt-bannatyne/zit-saddle-toaroha-saddle-traverse",
@@ -83703,7 +83067,7 @@
 				"length": null,
 				"pitches": [
 					{
-						"alpine": null,
+						"alpine": "1-",
 						"commitment": "I",
 						"mtcook": null,
 						"aid": null,
@@ -98638,7 +98002,10 @@
 		"altitude": "2263m",
 		"access": "All the peaks were first climbed via the bluffs opposite Homer Hut: climb tussock slopes to the left-hand gully, moving up right to the second gully and the snowfields above.\nDescent down the bluffs can be difficult in snow or poor visibility.",
 		"description": "Mt Crosscut\u2019s four peaks have a variety of climbing close to Homer Hut. In summer the peaks are good long moderate alpine routes; in winter, the southern aspects in Cirque Creek hold the test pieces of Darrans winter climbing. The East Pk can also be reached by long routes from the Marian valley.",
-		"latlng": null,
+		"latlng": [
+			"-44.76402",
+			"168.03086"
+		],
 		"routes": [
 			{
 				"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/mt-crosscut/crosscut-traverse",
@@ -99186,7 +98553,10 @@
 				"altitude": null,
 				"access": null,
 				"description": "Above the Gertrude Valley",
-				"latlng": null,
+				"latlng": [
+					"-44.765079",
+					"168.020267"
+				],
 				"routes": [
 					{
 						"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/mt-crosscut/west-face/orchasm",
@@ -99270,7 +98640,10 @@
 				"altitude": null,
 				"access": "In winter access is frighteningly simple. Walk down the road to Bakehouse Creek and cross the river. The crossing can be unpleasant in the dark; stripped to the waist and watch for slippery boulders. Good luck. Once on the other side, travel is straightforward (if your legs aren\u2019t too numb)on the true right of the valley. Travel times vary, depending on how much snow is around but allow more than what you\u2019d think, at least four hours if heading into the upper cirque.\nTo access the Upper Cirque, climb the gully at the true left-hand end of the Lower Cirque Wall. It is steepish but okay to solo. Beware; this is a major avalanche path. Only attempt it during times of low hazard. The small glacier in the Upper Cirque has been slowly wasting away. It has become quite broken and falling serac ice may be another hazard to negotiate.",
 				"description": "This area has a big wall feel to it, with the routes being long and sustained.",
-				"latlng": null,
+				"latlng": [
+					"-44.770076",
+					"168.03134"
+				],
 				"routes": [
 					{
 						"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/mt-crosscut/upper-cirque-wall/white-knight",
@@ -100494,7 +99867,10 @@
 						"altitude": null,
 						"access": "Via the McPherson Cirque path, to below the cliffs, then either up the access/descent route on the left hand side of the lower tier, or climb one of the routes on the lower tier.\nBest descent is down Talbot's Ladder.",
 						"description": "This is the East facing cliff on the left hand side of the Upper Cirque, with many prominent icy lines. Climbing on this cliff is very good, but it does catch the sun at times through the day.\nBe wary of snow conditions in the Upper Cirque.",
-						"latlng": null,
+						"latlng": [
+							"-44.753743",
+							"167.980099"
+						],
 						"routes": [
 							{
 								"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/mt-mcpherson/mcpherson-cirque/upper-cirque-left-wall/road",
@@ -100629,7 +100005,10 @@
 						"altitude": null,
 						"access": "Via the McPherson Cirque path, and then either up the access/descent route at the left hand end of the lower tier, or climb one of the routes on the lower tier.\nBest descent is either over the top to Talbot's Ladder, or abseil the route back into the floor of the Upper Cirque, dependent on the state of the snow above the cliff.",
 						"description": "The cliff directly above the lower tier of cliffs, in the centre of the Cirque. This cliff may largely bank out and become snow covered as the season progresses.\nBe very wary of snow conditions in the Upper Cirque.",
-						"latlng": null,
+						"latlng": [
+							"-44.752951",
+							"167.986279"
+						],
 						"routes": [
 							{
 								"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/mt-mcpherson/mcpherson-cirque/upper-cirque-central-wall/bombay",
@@ -104383,7 +103762,10 @@
 				"altitude": "1850m",
 				"access": null,
 				"description": "The stark, sharp pinnacle at the end of Tuhawaiki's north buttress. Excellent rock.",
-				"latlng": null,
+				"latlng": [
+					"-44.680433",
+					"168.078933"
+				],
 				"routes": [
 					{
 						"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/mt-tuhawaiki/rothorn/left-arete",
@@ -105290,7 +104672,10 @@
 		"altitude": "2224m",
 		"access": null,
 		"description": null,
-		"latlng": null,
+		"latlng": [
+			"-44.65858",
+			"168.05769"
+		],
 		"routes": [
 			{
 				"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/ngaitahu-pk/west-ridge",
@@ -105471,7 +104856,10 @@
 		"altitude": "1768m",
 		"access": null,
 		"description": null,
-		"latlng": null,
+		"latlng": [
+			"-44.72146",
+			"168.02023"
+		],
 		"routes": [
 			{
 				"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/sentinel-north-pk/north-east-buttress",
@@ -105779,8 +105167,11 @@
 				"name": "West Face",
 				"altitude": null,
 				"access": null,
-				"description": "The West Face offers good climbing on excellent rock just a short distance from Crampon Pass. Descend to the col between the High and South Peak, and then either back to the pass or down snow slopes to the northeast.",
-				"latlng": null,
+				"description": "The West Face offers good climbing on excellent rock just a short distance from Crampon Pass. Descend to the col between the High and South Peak, and then either back to the pass or down snow slopes to the north-east.",
+				"latlng": [
+					"-44.679273",
+					"168.060436"
+				],
 				"routes": [
 					{
 						"link": "https://climbnz.org.nz/nz/si/fiordland/darran-mountains/taiaroa-pk/west-face/russian-gas-pedal-start",
@@ -105967,7 +105358,10 @@
 				"altitude": "1828m",
 				"access": null,
 				"description": "The Mighty Dur is the knob of hard red rock at the base of Taiaroa\u2019s North Ridge.",
-				"latlng": null,
+				"latlng": [
+					"-44.676099",
+					"168.066187"
+				],
 				"routes": [
 					{
 						"link": "https://climbnz.org.nz/nz/si/fiordland/darran-mountains/taiaroa-pk/mighty-dur/yea-nah-dur",
@@ -106255,7 +105649,10 @@
 		"altitude": "2033m",
 		"access": null,
 		"description": "The South Peak overlooks the Korako Glacier.",
-		"latlng": null,
+		"latlng": [
+			"-44.681287",
+			"168.059664"
+		],
 		"routes": [],
 		"places": [
 			{
@@ -106564,7 +105961,10 @@
 				"altitude": "1861m",
 				"access": null,
 				"description": "tba",
-				"latlng": null,
+				"latlng": [
+					"-44.715087",
+					"168.01486"
+				],
 				"routes": [
 					{
 						"link": "https://climbnz.org.nz/nz/si/fiordland/darran-mountains/twins/east-twin/southeast-ridge",
@@ -106647,7 +106047,10 @@
 				"altitude": "1836m",
 				"access": null,
 				"description": "The most straightforward access to the snowfield at the base of the south face and West Ridge is probably by two abseils from the 1599m col between the Sentinel and the Twins. The snowfield reportedly has also been reached by abseiling from the col between the Twins or by traversing over West Twin to the West Ridge and descending a large gully.",
-				"latlng": null,
+				"latlng": [
+					"-44.714172",
+					"168.011599"
+				],
 				"routes": [
 					{
 						"link": "https://climbnz.org.nz/nz/si/darrans/darran-mountains/twins/west-twin/east-twin",
@@ -109337,7 +108740,10 @@
 				"altitude": null,
 				"access": null,
 				"description": "The following climbs lie in the central area of Moir\u2019s Mate and use either the initial pitches of the Bowen Allan Corner or corners further right to gain some broken ledges which signal the start of these routes.",
-				"latlng": null,
+				"latlng": [
+					"-44.76709",
+					"167.979498"
+				],
 				"routes": [
 					{
 						"link": "https://climbnz.org.nz/nz/si/fiordland/wick-mountains/moirs-mate/west-face/central-line",
@@ -111504,7 +110910,10 @@
 				"altitude": null,
 				"access": "There are two access routes to the North Face of Moir depending on the amount of snow in the upper basin. Be aware that the snow field breaks up early summer and has the potential to slide into the depths of the Cleddau Valley.\n\nClimb the ridge over Moir's Mate and descend into the upper cirque: the safest route early in the summer.\nSidle under Moir's Mate to the Cleddau Ledges (narrow rock ledges under the Mate\u2019s Little Brother) and across to the North Face of Moir and Cleddau Buttress.",
 				"description": "Compact, well-featured rock.",
-				"latlng": null,
+				"latlng": [
+					"-44.772117",
+					"167.977095"
+				],
 				"routes": [
 					{
 						"link": "https://climbnz.org.nz/nz/si/fiordland/wick-mountains/mt-moir/upper-north-face/big-pink",
@@ -113320,7 +112729,10 @@
 				"altitude": null,
 				"access": null,
 				"description": "700m upper face starting at 1400m accessed through steep slabs at 1000-1200m elevation",
-				"latlng": null,
+				"latlng": [
+					"-44.59389",
+					"167.944994"
+				],
 				"routes": [
 					{
 						"link": "https://climbnz.org.nz/nz/si/fiordland/darran-mountains/mt-grave/west-face/pregnant-porter",
@@ -117578,7 +116990,10 @@
 				"altitude": null,
 				"access": null,
 				"description": null,
-				"latlng": null,
+				"latlng": [
+					"-45.677821",
+					"167.209339"
+				],
 				"routes": [
 					{
 						"link": "https://climbnz.org.nz/nz/si/fiordland/merrie-range/pt-1646/sw-face/whenua-mamao",
@@ -118727,7 +118142,10 @@
 		"altitude": "1701m",
 		"access": "via Kiwi Saddle Hut",
 		"description": "Peak at Southern end of the Arthur Range",
-		"latlng": null,
+		"latlng": [
+			"-41.42159",
+			"172.50715"
+		],
 		"routes": [
 			{
 				"link": "https://climbnz.org.nz/nz/si/kahurangi/arthur-range/mt-patriarch/mt-patriarch",
@@ -119046,11 +118464,14 @@
 	},
 	"https://climbnz.org.nz/nz/si/kahurangi/douglas-range/dragons-teeth": {
 		"link": "https://climbnz.org.nz/nz/si/kahurangi/douglas-range/dragons-teeth",
-		"name": "Dragon's Teeth",
+		"name": "Dragons Teeth",
 		"altitude": "1663m",
 		"access": "via Adelaide Tarn Hut",
 		"description": "A striking series of very steep and rugged tooth-shaped peaks; one of the northern teeth can be climbed fairly easily, from the northern end of the Douglas Range.",
-		"latlng": null,
+		"latlng": [
+			"-40.95561",
+			"172.53574"
+		],
 		"routes": [
 			{
 				"link": "https://climbnz.org.nz/nz/si/kahurangi/douglas-range/dragons-teeth/dragons-teeth",
@@ -119203,7 +118624,10 @@
 		"altitude": "1648m",
 		"access": "via highest popint on track to Granity Pass Hut",
 		"description": "Peak near Granity Pass Hut",
-		"latlng": null,
+		"latlng": [
+			"-41.51503",
+			"172.57104"
+		],
 		"routes": [
 			{
 				"link": "https://climbnz.org.nz/nz/si/kahurangi/marino-mountains/billies-knob/billies-knob",
@@ -119244,8 +118668,11 @@
 		"name": "Culliford Hill",
 		"altitude": "1756m",
 		"access": "via Granity Pass Hut or Courthouse Flat",
-		"description": "situated at Northern end of Marino Mouintains",
-		"latlng": null,
+		"description": "Situated at northern end of the Marino Mountains",
+		"latlng": [
+			"-41.5087",
+			"172.54387"
+		],
 		"routes": [
 			{
 				"link": "https://climbnz.org.nz/nz/si/kahurangi/marino-mountains/culliford-hill/culliford-hill-traverse-grade-1",
@@ -119287,7 +118714,10 @@
 		"altitude": "1857m",
 		"access": "via Granity Pass Hut",
 		"description": "near neighbour of Mt Owen",
-		"latlng": null,
+		"latlng": [
+			"-41.54228",
+			"172.55671"
+		],
 		"routes": [
 			{
 				"link": "https://climbnz.org.nz/nz/si/kahurangi/marino-mountains/mt-bell/mt-bell",
@@ -119329,7 +118759,10 @@
 		"altitude": "1875m",
 		"access": "from the North via Granity Pass Hut\nfrom the South via Owen River Valley",
 		"description": "Highest summit on the marble massif",
-		"latlng": null,
+		"latlng": [
+			"-41.552",
+			"172.54131"
+		],
 		"routes": [
 			{
 				"link": "https://climbnz.org.nz/nz/si/kahurangi/marino-mountains/mt-owen/hay-paddock-route",
@@ -119916,7 +119349,10 @@
 		"altitude": "2371m",
 		"access": null,
 		"description": null,
-		"latlng": null,
+		"latlng": [
+			"-41.97807",
+			"173.60158"
+		],
 		"routes": [
 			{
 				"link": "https://climbnz.org.nz/nz/si/kaikoura/inland-kaikoura-range/mt-gladstone/south-east-couloir",
@@ -120201,7 +119637,10 @@
 		"altitude": null,
 		"access": null,
 		"description": null,
-		"latlng": null,
+		"latlng": [
+			"-42.67006",
+			"171.94487"
+		],
 		"routes": [
 			{
 				"link": "https://climbnz.org.nz/nz/si/lewis-pass-harper-pass/main-divide/mt-stapp/northwest-ridge",
@@ -123217,7 +122656,7 @@
 				"bolts": null,
 				"natural_pro": false,
 				"description": null,
-				"ascent": "Tom Beckett, G E (Bert) Mabin, O M Prebble, F K Akhurst, K B Batty, Darcy Pilbrow, Maurice"
+				"ascent": "Tom Beckett, G E (Bert) Mabin, O M Prebble, Fred Akhurst, K B Batty, Darcy Pilbrow, Maurice Pilbrow"
 			},
 			{
 				"link": "https://climbnz.org.nz/nz/si/main-divide-southern-alps/mt-tancred/ayran-ridge",
@@ -124809,11 +124248,14 @@
 	},
 	"https://climbnz.org.nz/nz/si/nelson-lakes-kaikoura/inland-kaikoura-range/crows-nest": {
 		"link": "https://climbnz.org.nz/nz/si/nelson-lakes-kaikoura/inland-kaikoura-range/crows-nest",
-		"name": "Crow\u2019s Nest",
+		"name": "Crows Nest",
 		"altitude": "2449m",
 		"access": null,
 		"description": null,
-		"latlng": null,
+		"latlng": [
+			"-41.97988",
+			"173.6744"
+		],
 		"routes": [
 			{
 				"link": "https://climbnz.org.nz/nz/si/nelson-lakes-kaikoura/inland-kaikoura-range/crows-nest/north-west-face",
@@ -126238,7 +125680,7 @@
 				"length": "2300m",
 				"pitches": [
 					{
-						"alpine": null,
+						"alpine": "1-",
 						"commitment": "II",
 						"mtcook": null,
 						"aid": null,
@@ -126267,7 +125709,7 @@
 				"length": "2200m",
 				"pitches": [
 					{
-						"alpine": null,
+						"alpine": "1-",
 						"commitment": "II",
 						"mtcook": null,
 						"aid": null,
@@ -130770,7 +130212,7 @@
 				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/bannock-brae-range/bannock-brae/west-ridge",
 				"name": "West Ridge",
 				"grade": "I,1",
-				"topo_ref": null,
+				"topo_ref": "10.13",
 				"image": null,
 				"images": [],
 				"length": null,
@@ -130815,7 +130257,7 @@
 				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/bannock-brae-range/mahitahi-pk/north-ridge",
 				"name": "North Ridge",
 				"grade": "III,2",
-				"topo_ref": null,
+				"topo_ref": "10.09",
 				"image": null,
 				"images": [],
 				"length": null,
@@ -130850,7 +130292,7 @@
 		"name": "Mt Butzbach",
 		"altitude": "2080m",
 		"access": null,
-		"description": null,
+		"description": "Peaks of the Mak\u0101whio valley from the north ridge of Mt McDonald, November 2017",
 		"latlng": [
 			"-43.722162",
 			"169.755152"
@@ -130860,9 +130302,15 @@
 				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/bannock-brae-range/mt-butzbach/north-ridge",
 				"name": "North Ridge",
 				"grade": "II,1+",
-				"topo_ref": null,
-				"image": null,
-				"images": [],
+				"topo_ref": "10.11",
+				"image": "https://climbnz.org.nz/sites/default/files/2026-08/Makawhio%20Pano%20Morse%E2%80%93Stratford.jpg",
+				"images": [
+					{
+						"src": "https://climbnz.org.nz/sites/default/files/2026-08/Makawhio%20Pano%20Morse%E2%80%93Stratford.jpg",
+						"height": "1057",
+						"width": "1783"
+					}
+				],
 				"length": null,
 				"pitches": [
 					{
@@ -130889,9 +130337,15 @@
 				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/bannock-brae-range/mt-butzbach/uaroa-creek",
 				"name": "From Uaroa Creek",
 				"grade": "II,1+",
-				"topo_ref": null,
-				"image": null,
-				"images": [],
+				"topo_ref": "10.15",
+				"image": "https://climbnz.org.nz/sites/default/files/2026-08/Mahitaho%20Pano%20Hawkins%E2%80%93Butzbach.jpg",
+				"images": [
+					{
+						"src": "https://climbnz.org.nz/sites/default/files/2026-08/Mahitaho%20Pano%20Hawkins%E2%80%93Butzbach.jpg",
+						"height": "1408",
+						"width": "3576"
+					}
+				],
 				"length": null,
 				"pitches": [
 					{
@@ -130911,20 +130365,31 @@
 				"quality": 0,
 				"bolts": null,
 				"natural_pro": false,
-				"description": "Ascend the large gully upstream of Uaroa Creek to the broad tussock spur and the col south-esat of the summit. Either climb the rock ar\u00eate of the south-east ridge or traverse snow slopes on the Mak\u0101whio side around to the north ridge.",
+				"description": "Ascend the large gully upstream of Uaroa Creek to the broad tussock spur and the col south-east of the summit. From there, either climb the rock ar\u00eate of the south-east ridge, or traverse snow slopes on the Mak\u0101whio side around to the north ridge.\nHas been traversed as part of a transalpine crossing from the Mahitahi to the Mak\u0101whio\u00a0Rivers.",
 				"ascent": "Marie Byles, Marjorie Edgar-Jones, Harry Ayres, Frank Alack, January 1935"
 			}
 		],
 		"places": [],
-		"image": null,
-		"images": []
+		"image": "https://climbnz.org.nz/sites/default/files/styles/wide/public/2026-08/Makawhio%20Pano%20Morse%E2%80%93Stratford.jpg?itok=fHjopzCw",
+		"images": [
+			{
+				"src": "https://climbnz.org.nz/sites/default/files/styles/wide/public/2026-08/Makawhio%20Pano%20Morse%E2%80%93Stratford.jpg?itok=fHjopzCw",
+				"height": "646",
+				"width": "1090"
+			},
+			{
+				"src": "https://climbnz.org.nz/sites/default/files/2026-08/Mahitaho%20Pano%20Hawkins%E2%80%93Butzbach.jpg",
+				"height": "1408",
+				"width": "3576"
+			}
+		]
 	},
 	"https://climbnz.org.nz/nz/si/ohau-landsborough/bannock-brae-range/mt-kinihi": {
 		"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/bannock-brae-range/mt-kinihi",
 		"name": "Mt Kinihi",
 		"altitude": "1721m",
 		"access": null,
-		"description": null,
+		"description": "Mahitahi panorama from Mt Strachan Puna-Ariki, December 2015",
 		"latlng": [
 			"-43.694783",
 			"169.687286"
@@ -130934,9 +130399,15 @@
 				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/bannock-brae-range/mt-kinihi/south-west-ridge",
 				"name": "South West Ridge",
 				"grade": "II,1",
-				"topo_ref": null,
-				"image": null,
-				"images": [],
+				"topo_ref": "10.14",
+				"image": "https://climbnz.org.nz/sites/default/files/2026-08/Mahitaho%20Pano%20Hawkins%E2%80%93Butzbach.jpg",
+				"images": [
+					{
+						"src": "https://climbnz.org.nz/sites/default/files/2026-08/Mahitaho%20Pano%20Hawkins%E2%80%93Butzbach.jpg",
+						"height": "1408",
+						"width": "3576"
+					}
+				],
 				"length": null,
 				"pitches": [
 					{
@@ -130961,15 +130432,21 @@
 			}
 		],
 		"places": [],
-		"image": null,
-		"images": []
+		"image": "https://climbnz.org.nz/sites/default/files/styles/wide/public/2026-08/Mahitaho%20Pano%20Hawkins%E2%80%93Butzbach.jpg?itok=QLxxEDeH",
+		"images": [
+			{
+				"src": "https://climbnz.org.nz/sites/default/files/styles/wide/public/2026-08/Mahitaho%20Pano%20Hawkins%E2%80%93Butzbach.jpg?itok=QLxxEDeH",
+				"height": "429",
+				"width": "1090"
+			}
+		]
 	},
 	"https://climbnz.org.nz/nz/si/ohau-landsborough/bannock-brae-range/mt-stratford": {
 		"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/bannock-brae-range/mt-stratford",
 		"name": "Mt Stratford",
 		"altitude": "1977m",
 		"access": null,
-		"description": null,
+		"description": "Peaks of the Mak\u0101whio valley from the north ridge of Mt McDonald, November 2017",
 		"latlng": [
 			"-43.69743771",
 			"169.71034779"
@@ -130979,7 +130456,7 @@
 				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/bannock-brae-range/mt-stratford/north-ridge",
 				"name": "North Ridge",
 				"grade": "II,1+",
-				"topo_ref": null,
+				"topo_ref": "10.12",
 				"image": null,
 				"images": [],
 				"length": null,
@@ -131006,8 +130483,24 @@
 			}
 		],
 		"places": [],
-		"image": null,
-		"images": []
+		"image": "https://climbnz.org.nz/sites/default/files/styles/wide/public/2026-08/Makawhio%20Pano%20Morse%E2%80%93Stratford.jpg?itok=fHjopzCw",
+		"images": [
+			{
+				"src": "https://climbnz.org.nz/sites/default/files/styles/wide/public/2026-08/Makawhio%20Pano%20Morse%E2%80%93Stratford.jpg?itok=fHjopzCw",
+				"height": "646",
+				"width": "1090"
+			},
+			{
+				"src": "https://climbnz.org.nz/sites/default/files/2026-08/Stratford%E2%80%93Hawkins.jpg",
+				"height": "834",
+				"width": "1783"
+			},
+			{
+				"src": "https://climbnz.org.nz/sites/default/files/2026-08/Mahitaho%20Pano%20Hawkins%E2%80%93Butzbach.jpg",
+				"height": "1408",
+				"width": "3576"
+			}
+		]
 	},
 	"https://climbnz.org.nz/nz/si/ohau-landsborough/bannock-brae-range/stirling-pk": {
 		"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/bannock-brae-range/stirling-pk",
@@ -131024,7 +130517,7 @@
 				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/bannock-brae-range/stirling-pk/south-ridge",
 				"name": "South Ridge",
 				"grade": "III,2",
-				"topo_ref": null,
+				"topo_ref": "10.10",
 				"image": null,
 				"images": [],
 				"length": null,
@@ -131151,13 +130644,13 @@
 		"access": null,
 		"description": "McGloin Pk and Mt McDonald from the Hooker Range",
 		"latlng": [
-			"-43.686446",
-			"169.79907291"
+			"-43.686056",
+			"169.798972"
 		],
 		"routes": [
 			{
-				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/bare-rocky-range/mcgloin-pk/west-ridge",
-				"name": "West Ridge",
+				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/bare-rocky-range/mcgloin-pk/north-west-ridge",
+				"name": "North West Ridge",
 				"grade": "IV,4",
 				"topo_ref": "15.42",
 				"image": null,
@@ -131195,6 +130688,51 @@
 			}
 		]
 	},
+	"https://climbnz.org.nz/nz/si/ohau-landsborough/bare-rocky-range/mt-jacob": {
+		"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/bare-rocky-range/mt-jacob",
+		"name": "Mt Jacob",
+		"altitude": "1324m",
+		"access": null,
+		"description": null,
+		"latlng": [
+			"-43.634722",
+			"169.725333"
+		],
+		"routes": [
+			{
+				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/bare-rocky-range/mt-jacob/pavo-creek",
+				"name": "From Pavo Creek",
+				"grade": "I,1",
+				"topo_ref": "10.01",
+				"image": null,
+				"images": [],
+				"length": null,
+				"pitches": [
+					{
+						"alpine": "1",
+						"commitment": "I",
+						"mtcook": null,
+						"aid": null,
+						"ice": null,
+						"mixed": null,
+						"length": null,
+						"bolts": null,
+						"trad": false,
+						"ewbank": null,
+						"description": null
+					}
+				],
+				"quality": 0,
+				"bolts": null,
+				"natural_pro": false,
+				"description": "The most straightforward route to Lake Roto Te Koeti and the fantastic surrounding tops appears to be via the bush spurs either side of Pavo Creek.",
+				"ascent": null
+			}
+		],
+		"places": [],
+		"image": null,
+		"images": []
+	},
 	"https://climbnz.org.nz/nz/si/ohau-landsborough/bare-rocky-range/mt-mcdonald": {
 		"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/bare-rocky-range/mt-mcdonald",
 		"name": "Mt McDonald",
@@ -131210,7 +130748,7 @@
 				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/bare-rocky-range/mt-mcdonald/north-west-ridge",
 				"name": "North West Ridge",
 				"grade": "II,1",
-				"topo_ref": null,
+				"topo_ref": "10.02",
 				"image": null,
 				"images": [],
 				"length": null,
@@ -131232,14 +130770,14 @@
 				"quality": 1,
 				"bolts": null,
 				"natural_pro": false,
-				"description": "A straightforward climb from the outlet of Lake Roto Te Koeti.",
+				"description": "A straightforward climb from the outlet of Lake Roto Te Koeti. Has been descended with full packs as part of a traverse of the peak from the\u00a0Karangarua.",
 				"ascent": "Nina Dickerhof, James Thornton (descended), November 2017"
 			},
 			{
 				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/bare-rocky-range/mt-mcdonald/south-east-ridge",
 				"name": "South East Ridge",
 				"grade": "II,1+",
-				"topo_ref": null,
+				"topo_ref": "10.03",
 				"image": null,
 				"images": [],
 				"length": null,
@@ -131261,7 +130799,7 @@
 				"quality": 0,
 				"bolts": null,
 				"natural_pro": false,
-				"description": "From the head of Jumbo Creek, gain the ridge up a gully at BX14 415 601. Climb to the 1500m contour and sidle left on easy ground before regaining the ridge.",
+				"description": "From the head of Jumbo Creek, gain the south-east ridge up a gully at BX14 415 601 and then climb to the 1500m contour, sidle out to the left on easy ground before regaining the ridge and continuing on to the summit.",
 				"ascent": "Trevor McCann, Maurie Bishop, March 1952"
 			}
 		],
@@ -131280,7 +130818,7 @@
 		"name": "Mt Morse",
 		"altitude": "2009m",
 		"access": null,
-		"description": null,
+		"description": "Peaks of the Mak\u0101whio valley from the north ridge of Mt McDonald, November 2017",
 		"latlng": [
 			"-43.682368",
 			"169.787592"
@@ -131290,9 +130828,15 @@
 				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/bare-rocky-range/mt-morse/north-west-ridge",
 				"name": "North West Ridge",
 				"grade": "II,1+",
-				"topo_ref": null,
-				"image": null,
-				"images": [],
+				"topo_ref": "10.06",
+				"image": "https://climbnz.org.nz/sites/default/files/2026-08/Makawhio%20Pano%20Morse%E2%80%93Stratford.jpg",
+				"images": [
+					{
+						"src": "https://climbnz.org.nz/sites/default/files/2026-08/Makawhio%20Pano%20Morse%E2%80%93Stratford.jpg",
+						"height": "1057",
+						"width": "1783"
+					}
+				],
 				"length": null,
 				"pitches": [
 					{
@@ -131312,13 +130856,19 @@
 				"quality": 0,
 				"bolts": null,
 				"natural_pro": false,
-				"description": "From the Jumbo Creek confluence, head up through bush to the tops. From the outlier peak west of the true summit, the first ascentionists dubbed snow slopes on the south side of the ridge \u2018the Pacemaker\u2019.",
+				"description": "From the Jumbo Creek confluence, make your way up through the heavily bush-clad slopes to the tops above. From the outlier peak west of the true summit, utilize snow slopes (dubbed \u2018the Pacemaker\u2019 by the first ascensionists) on the southern side of the ridge crest before gaining the\u00a0summit.",
 				"ascent": "Maurie Bishop, Trevor McCann, March 1952"
 			}
 		],
 		"places": [],
-		"image": null,
-		"images": []
+		"image": "https://climbnz.org.nz/sites/default/files/styles/wide/public/2026-08/Makawhio%20Pano%20Morse%E2%80%93Stratford.jpg?itok=fHjopzCw",
+		"images": [
+			{
+				"src": "https://climbnz.org.nz/sites/default/files/styles/wide/public/2026-08/Makawhio%20Pano%20Morse%E2%80%93Stratford.jpg?itok=fHjopzCw",
+				"height": "646",
+				"width": "1090"
+			}
+		]
 	},
 	"https://climbnz.org.nz/nz/si/ohau-landsborough/bare-rocky-range/mt-ritchie": {
 		"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/bare-rocky-range/mt-ritchie",
@@ -131335,7 +130885,7 @@
 				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/bare-rocky-range/mt-ritchie/pavo-creek",
 				"name": "From Pavo Creek",
 				"grade": "I,1",
-				"topo_ref": null,
+				"topo_ref": "10.01",
 				"image": null,
 				"images": [],
 				"length": null,
@@ -133226,6 +132776,141 @@
 				"natural_pro": false,
 				"description": "Just over the hill at the head of the accessible North Temple. The winter\npotential in this steep corner has been noticed for a while, and Kester\u2019s\ncomment \u201ca great climb with an exciting first pitch followed by a short\npillar then eighty metres of climbing of lower angle with some steeper\nbulges\u201d suggests it easily met their expectations.",
 				"ascent": "Kester Brown and Jono Clarke, Winter 2006"
+			}
+		],
+		"places": [],
+		"image": null,
+		"images": []
+	},
+	"https://climbnz.org.nz/nz/si/ohau-landsborough/bealey-range/hassing-pk": {
+		"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/bealey-range/hassing-pk",
+		"name": "Hassing Pk",
+		"altitude": "2110m",
+		"access": null,
+		"description": null,
+		"latlng": [
+			"-43.984802",
+			"169.577044"
+		],
+		"routes": [
+			{
+				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/bealey-range/hassing-pk/east-ridge",
+				"name": "East Ridge",
+				"grade": "II,2",
+				"topo_ref": "8.28",
+				"image": null,
+				"images": [],
+				"length": null,
+				"pitches": [
+					{
+						"alpine": "2",
+						"commitment": "II",
+						"mtcook": null,
+						"aid": null,
+						"ice": null,
+						"mixed": null,
+						"length": null,
+						"bolts": null,
+						"trad": false,
+						"ewbank": null,
+						"description": null
+					}
+				],
+				"quality": 0,
+				"bolts": null,
+				"natural_pro": false,
+				"description": "From Wilson Pass, traverse Docherty Peak and onto the east ridge. First climbed as part of a traverse to Mt Marshman.",
+				"ascent": "Peter Child, Stuart Ombler, January 1952"
+			}
+		],
+		"places": [],
+		"image": null,
+		"images": []
+	},
+	"https://climbnz.org.nz/nz/si/ohau-landsborough/bealey-range/mt-marshman": {
+		"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/bealey-range/mt-marshman",
+		"name": "Mt Marshman",
+		"altitude": "2177m",
+		"access": null,
+		"description": null,
+		"latlng": [
+			"-43.98516434",
+			"169.56976601"
+		],
+		"routes": [
+			{
+				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/bealey-range/mt-marshman/east-ridge",
+				"name": "East Ridge",
+				"grade": "III,2+",
+				"topo_ref": "8.29",
+				"image": null,
+				"images": [],
+				"length": null,
+				"pitches": [
+					{
+						"alpine": "2+",
+						"commitment": "III",
+						"mtcook": null,
+						"aid": null,
+						"ice": null,
+						"mixed": null,
+						"length": null,
+						"bolts": null,
+						"trad": false,
+						"ewbank": null,
+						"description": null
+					}
+				],
+				"quality": 0,
+				"bolts": null,
+				"natural_pro": false,
+				"description": "From Wilson Pass, traverse Docherty Pk and Hassing Pk and onto the narrow east ridge which is followed to the summit.",
+				"ascent": "Peter Child, Stuart Ombler, January 1952"
+			}
+		],
+		"places": [],
+		"image": null,
+		"images": []
+	},
+	"https://climbnz.org.nz/nz/si/ohau-landsborough/bealey-range/shingle-top": {
+		"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/bealey-range/shingle-top",
+		"name": "Shingle Top",
+		"altitude": "2117m",
+		"access": null,
+		"description": null,
+		"latlng": [
+			"-43.983832",
+			"169.543192"
+		],
+		"routes": [
+			{
+				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/bealey-range/shingle-top/south-east-ridge",
+				"name": "South East Ridge",
+				"grade": "II,1",
+				"topo_ref": "8.30",
+				"image": null,
+				"images": [],
+				"length": null,
+				"pitches": [
+					{
+						"alpine": "1",
+						"commitment": "II",
+						"mtcook": null,
+						"aid": null,
+						"ice": null,
+						"mixed": null,
+						"length": null,
+						"bolts": null,
+						"trad": false,
+						"ewbank": null,
+						"description": null
+					}
+				],
+				"quality": 0,
+				"bolts": null,
+				"natural_pro": false,
+				"description": "From the head of the Wills valley, ascend a spur at BY14 244 231, sidling on its western side, to gain the Mawson Glacier. Head for the summit block. For the last few metres, a narrow ledge cuts out to the right, which gives access to the top.",
+				"ascent": "Jo Allen, J Gillespie, Alma Mitchell, Betty Wragge, January 1940"
 			}
 		],
 		"places": [],
@@ -135249,7 +134934,10 @@
 				"altitude": null,
 				"access": null,
 				"description": "Two single pitch routes are on the north facing wall - Squirrel Face - right of the Pyramid face.\n(L to R) Squirrel, Seagull",
-				"latlng": null,
+				"latlng": [
+					"-43.813411",
+					"170.058768"
+				],
 				"routes": [
 					{
 						"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/ben-ohau-range/mt-lloyd/squirrel-face/squirrel",
@@ -136165,6 +135853,80 @@
 		"image": null,
 		"images": []
 	},
+	"https://climbnz.org.nz/nz/si/ohau-landsborough/elcho-huxley-mountains/mcnulty-pk": {
+		"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/elcho-huxley-mountains/mcnulty-pk",
+		"name": "McNulty Pk",
+		"altitude": "2241m",
+		"access": null,
+		"description": "The pivot of the North Huxley, South Elcho and Hopkins valleys.",
+		"latlng": [
+			"-43.946858",
+			"169.781901"
+		],
+		"routes": [
+			{
+				"link": "https://climbnz.org.nz/nz/si/otago/elchoe28093huxley-ridges/mcnulty-pk/north-face",
+				"name": "North Face",
+				"grade": "2+",
+				"topo_ref": null,
+				"image": null,
+				"images": [],
+				"length": null,
+				"pitches": [
+					{
+						"alpine": null,
+						"commitment": null,
+						"mtcook": "2+",
+						"aid": null,
+						"ice": null,
+						"mixed": null,
+						"length": null,
+						"bolts": null,
+						"trad": false,
+						"ewbank": null,
+						"description": null
+					}
+				],
+				"quality": 0,
+				"bolts": null,
+				"natural_pro": false,
+				"description": "From the head of the South Elcho climb across the face on good quality rock\nto reach the summit ridge.",
+				"ascent": "Dave McNulty, Ray Slater, April 1969"
+			},
+			{
+				"link": "https://climbnz.org.nz/nz/si/otago/elchoe28093huxley-ridges/mcnulty-pk/twoshoes",
+				"name": "Twoshoes",
+				"grade": "IV,5,14",
+				"topo_ref": null,
+				"image": null,
+				"images": [],
+				"length": "300m",
+				"pitches": [
+					{
+						"alpine": "5",
+						"commitment": "IV",
+						"mtcook": null,
+						"aid": null,
+						"ice": null,
+						"mixed": null,
+						"length": "300m",
+						"bolts": null,
+						"trad": false,
+						"ewbank": "14",
+						"description": null
+					}
+				],
+				"quality": 0,
+				"bolts": null,
+				"natural_pro": false,
+				"description": "A bluff and waterfall block access from the head of the North Huxley to the basin under the west face of McNulty Peak. This can be bypassed via a spur to the south. The route climbs an outlier 300m south-east of McNulty Peak, taking the west face of the main boot-shaped buttress of the outlier \u2013 300m of steady grade 13\u201314 climbing. Descent by abseiling route.",
+				"ascent": "Bill McLeod, March 1994"
+			}
+		],
+		"places": [],
+		"image": null,
+		"images": []
+	},
 	"https://climbnz.org.nz/nz/si/ohau-landsborough/elcho-huxley-mountains/pt-2030": {
 		"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/elcho-huxley-mountains/pt-2030",
 		"name": "Pt 2030",
@@ -136397,7 +136159,7 @@
 				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/hooker-range/crystal-pk/north-west-ridge",
 				"name": "North West Ridge",
 				"grade": "II,2",
-				"topo_ref": null,
+				"topo_ref": "10.18",
 				"image": null,
 				"images": [],
 				"length": null,
@@ -136499,9 +136261,14 @@
 				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/hooker-range/fettes-pk/north-west-flank",
 				"name": "North West Flank",
 				"grade": "III,2+",
-				"topo_ref": "15.41",
-				"image": "https://climbnz.org.nz/sites/default/files/2026-05/Red%20Deer%20Col.jpg",
+				"topo_ref": "10.08",
+				"image": "https://climbnz.org.nz/sites/default/files/2026-08/Fettes%20Peak.jpg",
 				"images": [
+					{
+						"src": "https://climbnz.org.nz/sites/default/files/2026-08/Fettes%20Peak.jpg",
+						"height": "1054",
+						"width": "1783"
+					},
 					{
 						"src": "https://climbnz.org.nz/sites/default/files/2026-05/Red%20Deer%20Col.jpg",
 						"height": "1120",
@@ -136524,10 +136291,10 @@
 						"description": null
 					}
 				],
-				"quality": 0,
+				"quality": 1,
 				"bolts": null,
 				"natural_pro": false,
-				"description": "From Highland Pass, climb up the ridge a bit, then traverse right (above the Mak\u0101whio valley) to connect with a narrow glacial lead up through some steep bluffs. Could be bare slabs late season, which would be more difficult.",
+				"description": "From Highland Pass, ascend the blunt ridge briefly before traversing west at about 1750m, or climb over a shoulder at 1950m, to connect with a narrow snow ramp leading up between steep bluffs to the Zircon n\u00e9v\u00e9. Could be bare slabs late season. The summit pyramid is best approached along the south ridge.",
 				"ascent": "Dave Chowdhury, Aat Vervoorn, January 2001"
 			},
 			{
@@ -136638,9 +136405,9 @@
 				"width": "1465"
 			},
 			{
-				"src": "https://climbnz.org.nz/sites/default/files/2026-05/Red%20Deer%20Col.jpg",
-				"height": "1120",
-				"width": "1295"
+				"src": "https://climbnz.org.nz/sites/default/files/2026-08/Fettes%20Peak.jpg",
+				"height": "1054",
+				"width": "1783"
 			},
 			{
 				"src": "https://climbnz.org.nz/sites/default/files/2026-06/Upper%20Karangarua.jpg",
@@ -136841,7 +136608,7 @@
 				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/hooker-range/mt-dechen/otoko-couloir",
 				"name": "\u014ctoko Couloir",
 				"grade": "III,2",
-				"topo_ref": null,
+				"topo_ref": "10.323",
 				"image": null,
 				"images": [],
 				"length": null,
@@ -136863,14 +136630,14 @@
 				"quality": 0,
 				"bolts": null,
 				"natural_pro": false,
-				"description": "The large snow couloir by the Eye Tooth Falls provides access to the McCardell Glacier. The couloir is best approached when there is plenty of snow about. An ice bulge near the top of the couloir can prove troublesome late in the season. Ice cliffs on the McCardell Glacier occasionally shed significant amounts of ice into the couloir. The first ascent commenced from near the former\nLake Otoko, which has subsequently filled in.",
+				"description": "The large snow couloir by the Eye Tooth Falls provides access to the McCardell Glacier and has been used by several parties as a packing route into the Edison River. An ice bulge near the top of the couloir can prove troublesome late in the season; best approached when there is plenty of snow about. Ice cliffs on the McCardell Glacier occasionally shed significant amounts of ice into the couloir. The first ascent commenced from near the former Lake \u014ctoko. The lake has subsequently filled in.",
 				"ascent": "Dick Tornquist, Vic McGregor, Alex Parton, John Luxton, Tim Barfoot, George Hunter, January 1961"
 			},
 			{
 				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/hooker-range/mt-dechen/north-east-ridge",
 				"name": "North East Ridge",
 				"grade": "II,1+",
-				"topo_ref": null,
+				"topo_ref": "10.23",
 				"image": null,
 				"images": [],
 				"length": null,
@@ -136903,6 +136670,11 @@
 				"src": "https://climbnz.org.nz/sites/default/files/styles/wide/public/2026-07/Dechen%20Eliott%20%26%20Strachan.jpg?itok=1GzERgfy",
 				"height": "562",
 				"width": "1090"
+			},
+			{
+				"src": "https://climbnz.org.nz/sites/default/files/2026-08/Mathers%20and%20Dechen%20from%20Hooker.jpg",
+				"height": "1188",
+				"width": "1783"
 			}
 		]
 	},
@@ -136921,7 +136693,7 @@
 				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/hooker-range/mt-doubtful/south-face",
 				"name": "South Face",
 				"grade": "II,2",
-				"topo_ref": null,
+				"topo_ref": "10.17",
 				"image": null,
 				"images": [],
 				"length": null,
@@ -136943,7 +136715,7 @@
 				"quality": 0,
 				"bolts": null,
 				"natural_pro": false,
-				"description": "From the head of the Mahitahi, gain the col west of Crystal Peak up the steep glacier. Sidle onto the Zora Glacier and up to the summit.",
+				"description": "From the head of the Mahitahi gain the col west of Crystal Peak up the steep glacier (\u201cNew Year Glacier\u201d). Sidle onto the Zora n\u00e9v\u00e9 and negotiate crevasses to the summit.\nWhen the New Year Glacier is too broken, Crystal Peak can be traversed from Mueller Pass to access the Zora n\u00e9v\u00e9.",
 				"ascent": "Marie Byles, Marjorie Edgar-Jones, Harry Ayres, Frank Alack, January 1935"
 			}
 		],
@@ -136968,35 +136740,6 @@
 			"169.781167"
 		],
 		"routes": [
-			{
-				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/hooker-range/mt-elliot/north-west-face",
-				"name": "North West Face",
-				"grade": "III,2+",
-				"topo_ref": null,
-				"image": null,
-				"images": [],
-				"length": null,
-				"pitches": [
-					{
-						"alpine": "2+",
-						"commitment": "III",
-						"mtcook": null,
-						"aid": null,
-						"ice": null,
-						"mixed": null,
-						"length": null,
-						"bolts": null,
-						"trad": false,
-						"ewbank": null,
-						"description": null
-					}
-				],
-				"quality": 0,
-				"bolts": null,
-				"natural_pro": false,
-				"description": "Easy ground leads to the Edison Glacier. Continue on to the peak on solid, steep rock.",
-				"ascent": "Trevor McCann, Maurie Bishop, April 1952"
-			},
 			{
 				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/hooker-range/mt-elliot/north-east-ridge",
 				"name": "North East Ridge",
@@ -137025,6 +136768,35 @@
 				"natural_pro": false,
 				"description": "From the Landsborough, climb the spur on the true right of Zora Creek through bush and negotiate bluffs to a tarn-studded shelf at 920m. From here, climb to Pt 1953m and negotiate crevassed slopes to gain the north ridge leading to Elliot. A difficult climb, the first ascent party took six hours on one 300m section.",
 				"ascent": "Bill Beaven, Norman Hardie, Jim McFarlane, February 1947"
+			},
+			{
+				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/hooker-range/mt-elliot/north-west-face",
+				"name": "North West Face",
+				"grade": "III,2+",
+				"topo_ref": "10.22",
+				"image": null,
+				"images": [],
+				"length": null,
+				"pitches": [
+					{
+						"alpine": "2+",
+						"commitment": "III",
+						"mtcook": null,
+						"aid": null,
+						"ice": null,
+						"mixed": null,
+						"length": null,
+						"bolts": null,
+						"trad": false,
+						"ewbank": null,
+						"description": null
+					}
+				],
+				"quality": 0,
+				"bolts": null,
+				"natural_pro": false,
+				"description": "Easy ground leads to the Edison Glacier. Continue on to the peak on solid, steep rock.",
+				"ascent": "Trevor McCann, Maurie Bishop, April 1952"
 			}
 		],
 		"places": [],
@@ -137258,9 +137030,15 @@
 				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/hooker-range/mt-hooker/hersey-vinton-boot",
 				"name": "Hersey Vinton-Boot",
 				"grade": "V,6,20",
-				"topo_ref": null,
-				"image": null,
-				"images": [],
+				"topo_ref": "10.35",
+				"image": "https://climbnz.org.nz/sites/default/files/2026-08/Hooker%20NE%20Face%20and%20Otoko%20Glacier.jpg",
+				"images": [
+					{
+						"src": "https://climbnz.org.nz/sites/default/files/2026-08/Hooker%20NE%20Face%20and%20Otoko%20Glacier.jpg",
+						"height": "1452",
+						"width": "1783"
+					}
+				],
 				"length": null,
 				"pitches": [
 					{
@@ -137287,7 +137065,7 @@
 				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/hooker-range/mt-hooker/jack-creek",
 				"name": "From Jack Creek",
 				"grade": "III,2",
-				"topo_ref": null,
+				"topo_ref": "10.36",
 				"image": null,
 				"images": [],
 				"length": null,
@@ -137309,7 +137087,7 @@
 				"quality": 0,
 				"bolts": null,
 				"natural_pro": false,
-				"description": "From the bushline in Jack Creek, ascend the spur on the true right and cross the Jack Glacier to connect with the Hooker Glacier and the North West Ridge route to the low peak of Mt Hooker. Ascent of the higher eastern peak is accomplished by traversing across the \u014ctoko slopes and up the summit pyramid.",
+				"description": "From the bushline in Jack Creek, ascend the spur on the true right and cross the Jack Glacier to connect with the Hooker Glacier and the low peak of Mt Hooker. Ascent of the higher eastern peak is accomplished by traversing across the \u014ctoko slopes and up the summit pyramid.",
 				"ascent": "Bruce Popplewell, Bill Stephenson, January 1965"
 			}
 		],
@@ -137320,6 +137098,16 @@
 				"src": "https://climbnz.org.nz/sites/default/files/styles/wide/public/2026-07/Mt%20Hooker%20and%20Marks%20Flat.jpg?itok=AW3yznpe",
 				"height": "470",
 				"width": "1090"
+			},
+			{
+				"src": "https://climbnz.org.nz/sites/default/files/2026-08/Hooker%20NE%20Face%20and%20Otoko%20Glacier.jpg",
+				"height": "1452",
+				"width": "1783"
+			},
+			{
+				"src": "https://climbnz.org.nz/sites/default/files/2026-08/Jack%20and%20Hooker%20from%20Lantern.jpg",
+				"height": "1010",
+				"width": "1784"
 			},
 			{
 				"src": "https://climbnz.org.nz/sites/default/files/image/Mt%20Hooker%202003.jpeg",
@@ -137419,17 +137207,17 @@
 		"name": "Mt Jack",
 		"altitude": "2343m",
 		"access": null,
-		"description": null,
+		"description": "Mts Jack and Hooker from Lantern Pk, October 2018",
 		"latlng": [
-			"-43.81420943918",
-			"169.65460576827"
+			"-43.815",
+			"169.655194"
 		],
 		"routes": [
 			{
 				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/hooker-range/mt-jack/north-west-ridge",
 				"name": "North West Ridge",
 				"grade": "III,2",
-				"topo_ref": null,
+				"topo_ref": "10.37",
 				"image": null,
 				"images": [],
 				"length": null,
@@ -137456,8 +137244,14 @@
 			}
 		],
 		"places": [],
-		"image": null,
-		"images": []
+		"image": "https://climbnz.org.nz/sites/default/files/styles/wide/public/2026-08/Jack%20and%20Hooker%20from%20Lantern.jpg?itok=N2rEHaDq",
+		"images": [
+			{
+				"src": "https://climbnz.org.nz/sites/default/files/styles/wide/public/2026-08/Jack%20and%20Hooker%20from%20Lantern.jpg?itok=N2rEHaDq",
+				"height": "617",
+				"width": "1090"
+			}
+		]
 	},
 	"https://climbnz.org.nz/nz/si/ohau-landsborough/hooker-range/mt-strachan-puna-ariki": {
 		"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/hooker-range/mt-strachan-puna-ariki",
@@ -137470,6 +137264,35 @@
 			"169.79133"
 		],
 		"routes": [
+			{
+				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/hooker-range/mt-strachan-puna-ariki/south-ridge",
+				"name": "South Ridge",
+				"grade": "III,2",
+				"topo_ref": "9.15",
+				"image": null,
+				"images": [],
+				"length": null,
+				"pitches": [
+					{
+						"alpine": "2",
+						"commitment": "III",
+						"mtcook": null,
+						"aid": null,
+						"ice": null,
+						"mixed": null,
+						"length": null,
+						"bolts": null,
+						"trad": false,
+						"ewbank": null,
+						"description": null
+					}
+				],
+				"quality": 0,
+				"bolts": null,
+				"natural_pro": false,
+				"description": "From the Landsborough, climb the spur on the true right of Zora Creek through bush and negotiate cliffs to a tarn-studded shelf at 920m. From here, climb to Pt 1953m and the Strachan Glacier. Climb the glacier to the south ridge, which is straightforward to the summit.",
+				"ascent": "Jim McFarlane, Bill Beaven, Norman Hardie, February 1947"
+			},
 			{
 				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/hooker-range/mt-strachan-puna-ariki/north-east-ridge",
 				"name": "North East Ridge",
@@ -137503,7 +137326,7 @@
 				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/hooker-range/mt-strachan-puna-ariki/north-west-face",
 				"name": "North West Face",
 				"grade": "III,2",
-				"topo_ref": null,
+				"topo_ref": "10.20",
 				"image": null,
 				"images": [],
 				"length": null,
@@ -137525,37 +137348,8 @@
 				"quality": 0,
 				"bolts": null,
 				"natural_pro": false,
-				"description": "From the upper Edison valley, traverse around Pt 1997m onto the northern slopes of Mt Strachan, then climb over glacier-smoothed rock, north facing snow slopes and a couloir to reach the summit ridge.",
+				"description": "From the upper Edison valley, traverse around Pt 1997m onto the northern slopes of Mt Strachan, then climb over glacier-smoothed rock, north-facing snow slopes and a couloir to reach the summit ridge.",
 				"ascent": "Dick Tornquist, Vic McGregor, Alex Parton, John Luxton, Tim Barfoot, George Hunter, January 1961"
-			},
-			{
-				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/hooker-range/mt-strachan-puna-ariki/south-ridge",
-				"name": "South Ridge",
-				"grade": "III,2",
-				"topo_ref": "9.15",
-				"image": null,
-				"images": [],
-				"length": null,
-				"pitches": [
-					{
-						"alpine": "2",
-						"commitment": "III",
-						"mtcook": null,
-						"aid": null,
-						"ice": null,
-						"mixed": null,
-						"length": null,
-						"bolts": null,
-						"trad": false,
-						"ewbank": null,
-						"description": null
-					}
-				],
-				"quality": 0,
-				"bolts": null,
-				"natural_pro": false,
-				"description": "From the Landsborough, climb the spur on the true right of Zora Creek through bush and negotiate cliffs to a tarn-studded shelf at 920m. From here, climb to Pt 1953m and the Strachan Glacier. Climb the glacier to the south ridge, which is straightforward to the summit.",
-				"ascent": "Jim McFarlane, Bill Beaven, Norman Hardie, February 1947"
 			}
 		],
 		"places": [],
@@ -137565,6 +137359,11 @@
 				"src": "https://climbnz.org.nz/sites/default/files/styles/wide/public/2026-07/Dechen%20Eliott%20%26%20Strachan.jpg?itok=1GzERgfy",
 				"height": "562",
 				"width": "1090"
+			},
+			{
+				"src": "https://climbnz.org.nz/sites/default/files/2026-08/Upper%20Mahitahi%20Query%2C%20Fettes%2C%20Strachan.jpg",
+				"height": "1099",
+				"width": "1783"
 			}
 		]
 	},
@@ -137709,7 +137508,7 @@
 				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/hooker-range/query-pk/south-east-face",
 				"name": "South East Face",
 				"grade": "II,2",
-				"topo_ref": null,
+				"topo_ref": "10.16",
 				"image": null,
 				"images": [],
 				"length": null,
@@ -137731,7 +137530,7 @@
 				"quality": 1,
 				"bolts": null,
 				"natural_pro": false,
-				"description": "From the head of the Mahitahi, gain the col west of Crystal Peak up the steep glacier. Sidle onto the Zora Glacier and up to the summit.",
+				"description": "From the head of the Mahitahi gain the col west of Crystal Peak up the steep glacier. Sidle onto the Zora Glacier and negotiate crevasses to the summit. The col was named \u2018Matariki Col\u2019 and the glacier to the south of it \u2018New Year Glacier\u2019 by the first ascensionists in light of reaching both on New Year\u2019s Day. Crystal Peak can be traversed from Mueller Pass to access the Zora n\u00e9v\u00e9 from Mueller Pass when the New Year Glacier is too broken.",
 				"ascent": "Marie Byles, Marjorie Edgar-Jones, Harry Ayres, Frank Alack, January 1935"
 			}
 		],
@@ -137950,7 +137749,10 @@
 		"altitude": null,
 		"access": "Head up Birchwood road up the Ahuriri river for an hour to the canyon creek trail (road has got a bit more dodgy recently, little bit of clearance needed - as of Jan 2025 an outback gets you 3km from trailhead but proper 4WD needed beyond this). You can see the face from the car park. From where the marked trail ends above the waterfalls, follow the cairns up the scree to the base of the route (50m left of foot of the buttress, low 1st bolt). About 4-5 hours walk in from car.",
 		"description": "A 160m high buttress overlooking Canyon Creek, a beautiful small valley off the Ahuriri River.  A mix of solid compact shist, and loose choss.  Currently has 2 multipitch mixed sport/trad lines, which follow the most solid rock on the buttress.  A lot of cleaning and trundling has cleared most of the loose rock off the routes but some loose rock may remain especially lower down until they have more traffic.  Bolts only where trad gear is not possible.  Mostly small to medium gear, microcams usefull.  Double ropes needed for both routes as they wander to follow the good rock.  All routes fully equipped with DBAs or chains, with trad anchors required at the top out.  Room for more development for anyone willing to carry a power drill up the valley.",
-		"latlng": null,
+		"latlng": [
+			"-44.18245",
+			"169.570885"
+		],
 		"routes": [
 			{
 				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/huxley-range/blue-moon-buttress-point-2082/iceberg-time-machine",
@@ -138314,16 +138116,16 @@
 		"name": "Leaning Mount",
 		"altitude": "2077m",
 		"access": "It can be accessed in 6-7 hours from the Ahuriri valley. From the carpark near the locked gate in the Ahuriri valley4 km beyond Birchwod Station, cross the eastern part of the Huxley range, and drop down into the Dingle Burn. Follow the Dingle Burn downstream for 2.5 km to a junction with a side stream and walk up that side valley to a campsite near the south face of Leaning Mount.",
-		"description": "Leaning Mount is on the Huxley Range 30km south of Mt Huxley.",
+		"description": null,
 		"latlng": [
-			"-44.2705343586",
-			"169.517618818"
+			"-44.27385",
+			"169.52116"
 		],
 		"routes": [
 			{
-				"link": "https://climbnz.org.nz/nz/si/otago/huxley-range/leaning-mount/waka-jumping",
+				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/huxley-range/leaning-mount/waka-jumping",
 				"name": "Waka Jumping",
-				"grade": "13",
+				"grade": "IV,4,13",
 				"topo_ref": null,
 				"image": "https://climbnz.org.nz/sites/default/files/route/leaningm2.jpg",
 				"images": [
@@ -138336,8 +138138,8 @@
 				"length": null,
 				"pitches": [
 					{
-						"alpine": null,
-						"commitment": null,
+						"alpine": "4",
+						"commitment": "IV",
 						"mtcook": null,
 						"aid": null,
 						"ice": null,
@@ -138392,12 +138194,12 @@
 	"https://climbnz.org.nz/nz/si/ohau-landsborough/huxley-range/mt-arnold": {
 		"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/huxley-range/mt-arnold",
 		"name": "Mt Arnold",
-		"altitude": "1970m",
+		"altitude": "1978m",
 		"access": null,
 		"description": null,
 		"latlng": [
-			"-44.3292326",
-			"169.491089"
+			"-44.32804",
+			"169.490497"
 		],
 		"routes": [
 			{
@@ -139731,30 +139533,81 @@
 			}
 		]
 	},
+	"https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/docherty-pk": {
+		"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/docherty-pk",
+		"name": "Docherty Pk",
+		"altitude": "1898m",
+		"access": null,
+		"description": null,
+		"latlng": [
+			"-43.98889",
+			"169.588137"
+		],
+		"routes": [
+			{
+				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/docherty-pk/south-ridge",
+				"name": "South Ridge",
+				"grade": "I,1+",
+				"topo_ref": "8.28",
+				"image": null,
+				"images": [],
+				"length": null,
+				"pitches": [
+					{
+						"alpine": "1+",
+						"commitment": "I",
+						"mtcook": null,
+						"aid": null,
+						"ice": null,
+						"mixed": null,
+						"length": null,
+						"bolts": null,
+						"trad": false,
+						"ewbank": null,
+						"description": null
+					}
+				],
+				"quality": 0,
+				"bolts": null,
+				"natural_pro": false,
+				"description": "From Wilson Pass, climb the south ridge to the\u00a0summit.",
+				"ascent": "Wyn Irwin, January 1943"
+			}
+		],
+		"places": [],
+		"image": null,
+		"images": []
+	},
 	"https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/haumaitiketike-mt-brewster": {
 		"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/haumaitiketike-mt-brewster",
 		"name": "Haumaitiketike Mt Brewster",
 		"altitude": "2516m",
 		"access": null,
-		"description": null,
+		"description": "Southern aspects of Mt Brewster, October 2018",
 		"latlng": [
-			"-44.065585",
-			"169.450581"
+			"-44.065528",
+			"169.450167"
 		],
 		"routes": [
 			{
-				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-brewster/north-east-ridge",
-				"name": "North East Ridge",
-				"grade": "2+",
-				"topo_ref": null,
-				"image": null,
-				"images": [],
+				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/haumaitiketike-mt-brewster/north-west-ridge",
+				"name": "North West Ridge",
+				"grade": "II,2",
+				"topo_ref": "8.10",
+				"image": "https://climbnz.org.nz/sites/default/files/2026-09/Brewster.jpg",
+				"images": [
+					{
+						"src": "https://climbnz.org.nz/sites/default/files/2026-09/Brewster.jpg",
+						"height": "1143",
+						"width": "1783"
+					}
+				],
 				"length": null,
 				"pitches": [
 					{
-						"alpine": null,
-						"commitment": null,
-						"mtcook": "2+",
+						"alpine": "2",
+						"commitment": "II",
+						"mtcook": null,
 						"aid": null,
 						"ice": null,
 						"mixed": null,
@@ -139768,158 +139621,290 @@
 				"quality": 0,
 				"bolts": null,
 				"natural_pro": false,
-				"description": "A long approach via Long Flat Creek leads up to the Main Divide. Sidle along\nthe ridge turning problems on both left and right to reach a summit tower.\nClimb a chimney and loose blocks to gain the crest and the summit.",
-				"ascent": "Bill Beaven, Ian Gibbs, Norman Hardie, John Harrison, Jock Montgomery, January 1966"
+				"description": "From the Haast River, bush bash up Warden Spur and traverse over Topheavy Peak.\nAlternatively, from Brewster Hut, climb to around the 1650m contour, then make a rising traverse under Mt Armstrong. Continue to sidle on slopes above the Brewster Glacier to reach the upper Brewster Glacier.\nFollow the broad ridge to the western low peak. From here, down climb, or abseil, into a notch and scramble up the last few metres to the summit. The top section can be tricky when plastered with sastrugi. This is the best route on the mountain to tackle when it\u2019s late summer, or when there is little snow cover.",
+				"ascent": "Mick Bowie, H G Courtney, 1934"
 			},
 			{
-				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-brewster/south-east-face",
-				"name": "South East Face",
-				"grade": "2+",
-				"topo_ref": null,
-				"image": null,
-				"images": [],
-				"length": null,
-				"pitches": [
-					{
-						"alpine": null,
-						"commitment": null,
-						"mtcook": "2+",
-						"aid": null,
-						"ice": null,
-						"mixed": null,
-						"length": null,
-						"bolts": null,
-						"trad": false,
-						"ewbank": null,
-						"description": null
-					}
-				],
-				"quality": 0,
-				"bolts": null,
-				"natural_pro": false,
-				"description": "The first ascent of this peak was completed from the upper reaches of the\nMakarora River. Modern climbers can cross the ridge from the Brewster Glacier\nand follow a gully onto the crest.",
-				"ascent": "C.Bentham, Cyril Turner, Samuel Turner January 1929"
-			},
-			{
-				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-brewster/south-west-face",
-				"name": "South West Face",
-				"grade": "2+",
-				"topo_ref": null,
-				"image": null,
-				"images": [],
-				"length": null,
-				"pitches": [
-					{
-						"alpine": null,
-						"commitment": null,
-						"mtcook": "2+",
-						"aid": null,
-						"ice": null,
-						"mixed": null,
-						"length": null,
-						"bolts": null,
-						"trad": false,
-						"ewbank": null,
-						"description": null
-					}
-				],
-				"quality": 0,
-				"bolts": null,
-				"natural_pro": false,
-				"description": "From Brewster Hut sidle past Armstrong and Peak 2257 to reach the upper\nBrewster Glacier. Alternatively, from a camp on the Stey Brae ridge, traverse\nto the bottom of the face. A number of gully routes of moderate difficulty\nlead up to the crest. Move along the narrow summit ridge to the top. Descent\nis typically via a ridge and gully onto the south face, followed by a\ntraverse back onto the Brewster Glacier.",
-				"ascent": "P.Berry, G.Crowley, Harry Dowall, V.Heine, R.G.Kulka, J.McKenzie, D.Scott and Colin Todd, October 1953"
-			},
-			{
-				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/haumaitiketike-mt-brewster/west-ridge",
-				"name": "West Ridge",
-				"grade": "2",
-				"topo_ref": null,
-				"image": null,
-				"images": [],
-				"length": null,
-				"pitches": [
-					{
-						"alpine": null,
-						"commitment": null,
-						"mtcook": "2",
-						"aid": null,
-						"ice": null,
-						"mixed": null,
-						"length": null,
-						"bolts": null,
-						"trad": false,
-						"ewbank": null,
-						"description": null
-					}
-				],
-				"quality": 0,
-				"bolts": null,
-				"natural_pro": false,
-				"description": "Bush bash up Warden Spur and over Topheavy Peak then follow the broad ridge\nto the summit. The top section can be tricky when plastered with sastrugi.\nAlternatively, walk in via Brewster hut and traverse to glacier across rough\nground. Traverse in between 1750-1800m alt to avoid dangerous gully. 5.5 hrs.\nRoute across glacier and over triple pointed summit ridge 6 hrs return.",
-				"ascent": "Mick Bowie, H.G.Courtney, 1934"
-			},
-			{
-				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-brewster/wills-valley",
-				"name": "From the Wills Valley",
-				"grade": "2",
-				"topo_ref": null,
-				"image": null,
-				"images": [],
-				"length": null,
-				"pitches": [
-					{
-						"alpine": null,
-						"commitment": null,
-						"mtcook": "2",
-						"aid": null,
-						"ice": null,
-						"mixed": null,
-						"length": null,
-						"bolts": null,
-						"trad": false,
-						"ewbank": null,
-						"description": null
-					}
-				],
-				"quality": 0,
-				"bolts": null,
-				"natural_pro": false,
-				"description": "Follow Fleming Creek and choose a route up either the east or west ridge.",
-				"ascent": "Descended by Bill Beaven, Ian Gibbs, Norman Hardie, John Harrison, Jock Montgomery, January 1966"
-			},
-			{
-				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-brewster/north-island-detox",
+				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/haumaitiketike-mt-brewster/north-island-detox",
 				"name": "North Island Detox",
-				"grade": "12,2+",
+				"grade": "II,3,12",
 				"topo_ref": null,
 				"image": null,
 				"images": [],
-				"length": "100m",
+				"length": null,
 				"pitches": [
 					{
-						"alpine": null,
-						"commitment": null,
-						"mtcook": "2+",
+						"alpine": "3",
+						"commitment": "II",
+						"mtcook": null,
 						"aid": null,
 						"ice": null,
 						"mixed": null,
-						"length": "100m",
+						"length": null,
 						"bolts": null,
-						"trad": true,
+						"trad": false,
 						"ewbank": "12",
 						"description": null
 					}
 				],
 				"quality": 0,
 				"bolts": null,
-				"natural_pro": true,
-				"description": "Walk west under the south west face until 50-100m from the south west ridge.\nA slab of compact rock exists on the right hand side of a buttress. Climb\nthis to the top of the ridge (grade 12, 2 pitches) and then scramble along\nthe ridge to the summit. A much better route  in mid summer than the choss\nfest on the south west face.",
-				"ascent": "Rob Addis, Chris Peacock 2010"
+				"natural_pro": false,
+				"description": "Walk west under the south west face until 50-100m from the south west ridge. A slab of compact rock exists on the right hand side of a buttress. Climb this to the top of the ridge (grade 12, 2 pitches) and then scramble along the ridge to the summit. A much better route  in mid summer than the choss fest on the south west face.",
+				"ascent": "Rob Addis, Chris Peacock, 2010"
+			},
+			{
+				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/haumaitiketike-mt-brewster/south-west-face",
+				"name": "South West Face",
+				"grade": "II,2",
+				"topo_ref": "8.11",
+				"image": "https://climbnz.org.nz/sites/default/files/2026-09/Brewster.jpg",
+				"images": [
+					{
+						"src": "https://climbnz.org.nz/sites/default/files/2026-09/Brewster.jpg",
+						"height": "1143",
+						"width": "1783"
+					}
+				],
+				"length": null,
+				"pitches": [
+					{
+						"alpine": "2",
+						"commitment": "II",
+						"mtcook": null,
+						"aid": null,
+						"ice": null,
+						"mixed": null,
+						"length": null,
+						"bolts": null,
+						"trad": false,
+						"ewbank": null,
+						"description": null
+					}
+				],
+				"quality": 1,
+				"bolts": null,
+				"natural_pro": false,
+				"description": "From Brewster Hut climb to around the 1650m contour, then make a rising traverse under Mt Armstrong. Continue to sidle on slopes above the Brewster Glacier to reach the upper Brewster Glacier. A number of snow gullies of moderate difficulty lead up to the crest. Move along the narrow east ridge to the top. Best climbed with good snow cover.",
+				"ascent": "P Berry, G Crowley, Harry Dowall, V Heine, R G Kulka, J McKenzie, D Scott, Colin Todd, October 1953"
+			},
+			{
+				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/haumaitiketike-mt-brewster/south-ridge/south-east-face",
+				"name": "South Ridge/South East Face",
+				"grade": "II,3",
+				"topo_ref": "8.12",
+				"image": "https://climbnz.org.nz/sites/default/files/2026-09/Brewster.jpg",
+				"images": [
+					{
+						"src": "https://climbnz.org.nz/sites/default/files/2026-09/Brewster.jpg",
+						"height": "1143",
+						"width": "1783"
+					}
+				],
+				"length": null,
+				"pitches": [
+					{
+						"alpine": "3",
+						"commitment": "II",
+						"mtcook": null,
+						"aid": null,
+						"ice": null,
+						"mixed": null,
+						"length": null,
+						"bolts": null,
+						"trad": false,
+						"ewbank": null,
+						"description": null
+					}
+				],
+				"quality": 0,
+				"bolts": null,
+				"natural_pro": false,
+				"description": "From Brewster Hut climb to around the 1650m contour, then make a rising traverse under Mt Armstrong. Continue to sidle on slopes above the Brewster Glacier to reach the upper Brewster Glacier. Head up the south ridge to 2380m where the ridge merges into the south-east face, traverse slightly right onto the south-east face, then ascend moderately steep snow slopes. Climb a steep pitch up a snow or ice gully to reach the summit. The summit trig can make a useful belay when well frozen in place.",
+				"ascent": null
+			},
+			{
+				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/haumaitiketike-mt-brewster/east-ridge",
+				"name": "East Ridge",
+				"grade": "II,2+",
+				"topo_ref": "8.13",
+				"image": "https://climbnz.org.nz/sites/default/files/2026-09/Brewster.jpg",
+				"images": [
+					{
+						"src": "https://climbnz.org.nz/sites/default/files/2026-09/Brewster.jpg",
+						"height": "1143",
+						"width": "1783"
+					}
+				],
+				"length": null,
+				"pitches": [
+					{
+						"alpine": "2+",
+						"commitment": "II",
+						"mtcook": null,
+						"aid": null,
+						"ice": null,
+						"mixed": null,
+						"length": null,
+						"bolts": null,
+						"trad": false,
+						"ewbank": null,
+						"description": null
+					}
+				],
+				"quality": 0,
+				"bolts": null,
+				"natural_pro": false,
+				"description": "From Brewster Hut climb to around the 1650m contour, then make a rising traverse under Mt Armstrong. Continue to sidle on slopes above the Brewster Glacier to reach the upper Brewster Glacier. Cross to the broad shoulder south of Mt Brewster and climb up steepening snow slopes to the col west of Pk 2414m. Surmount a short chimney on the east ridge, and scramble to the summit. Alternatively, this step can be turned by sidling out onto the north face, before regaining the ridge just before the summit (II, 2).\nThe col west of Pk 2414m can also be gained:\n\nfrom the Wills valley by following Fleming Creek initially, before striking out through the bush on the true right; or\nfrom the head of the Makarora River by climbing towards Pk 2099m.",
+				"ascent": "C Bentham, Cyril Turner, Samuel Turner (from the Makarora), January 1929"
+			},
+			{
+				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/haumaitiketike-mt-brewster/north-east-ridge",
+				"name": "North East Ridge",
+				"grade": "II,2+",
+				"topo_ref": "7.06",
+				"image": null,
+				"images": [],
+				"length": null,
+				"pitches": [
+					{
+						"alpine": "2+",
+						"commitment": "II",
+						"mtcook": null,
+						"aid": null,
+						"ice": null,
+						"mixed": null,
+						"length": null,
+						"bolts": null,
+						"trad": false,
+						"ewbank": null,
+						"description": null
+					}
+				],
+				"quality": 0,
+				"bolts": null,
+				"natural_pro": false,
+				"description": "A long approach via Long Flat Creek leads up to the Main Divide. Sidle along the ridge turning problems on both left and right to reach a summit tower. Climb a chimney and loose blocks to gain the crest and the summit.",
+				"ascent": "Bill Beaven, Ian Gibbs, Norman Hardie, John Harrison, Jock Montgomery, January 1966"
 			}
 		],
 		"places": [
 			{
-				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-brewster/north-face",
+				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/haumaitiketike-mt-brewster/brewery",
+				"name": "The Brewery",
+				"altitude": "2200m",
+				"access": "The Brewster Hut track offers the easiest access to the crag.",
+				"description": "The Brewery is a south facing headwall about halfway up the southwest ridge (neighboring the prominent serac visible from Brewster Hut). The wall offers single pitch ice/mixed routes consisting of thinly iced corners offering the occasional dubious ice screw with scattered rock pro. First impressions suggest the rock quality is best on the left side of the wall while the ice quality is best on the right side of the wall, with a good mix of both elements in the middle. Slung rocks from the tops of TFP and SG offer abseil anchors. There is much potential for new routes.",
+				"latlng": [
+					"-44.066733",
+					"169.445448"
+				],
+				"routes": [
+					{
+						"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-brewster/brewery/first-pint",
+						"name": "The First Pint",
+						"grade": "M3",
+						"topo_ref": "TFP",
+						"image": null,
+						"images": [],
+						"length": "40m",
+						"pitches": [
+							{
+								"alpine": null,
+								"commitment": null,
+								"mtcook": null,
+								"aid": null,
+								"ice": null,
+								"mixed": "M3",
+								"length": "40m",
+								"bolts": null,
+								"trad": false,
+								"ewbank": null,
+								"description": null
+							}
+						],
+						"quality": 0,
+						"bolts": null,
+						"natural_pro": false,
+						"description": "Leftward moves over rime covered grooves leads to a more moderate ice ramp. Exit left (on topo) to a good natural anchor or traverse under the roof to hook your way to the groove just to the right of the gendarme.",
+						"ascent": "Josh Laidlaw, Cameron Jardell, Aug 2020."
+					},
+					{
+						"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-brewster/brewery/specific-gravity",
+						"name": "Specific Gravity",
+						"grade": "WI4",
+						"topo_ref": "SG",
+						"image": null,
+						"images": [],
+						"length": "50m",
+						"pitches": [
+							{
+								"alpine": null,
+								"commitment": null,
+								"mtcook": null,
+								"aid": null,
+								"ice": "WI4",
+								"mixed": null,
+								"length": "50m",
+								"bolts": null,
+								"trad": false,
+								"ewbank": null,
+								"description": null
+							}
+						],
+						"quality": 0,
+						"bolts": null,
+						"natural_pro": false,
+						"description": "Climb directly up the iced corner. Some rock pro on the right. Sustained and thinnest before the top out.",
+						"ascent": "Cameron Jardell, Josh Laidlaw, Aug 2020."
+					},
+					{
+						"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-brewster/brewery/malty-brewin",
+						"name": "Malty Brewin",
+						"grade": "WI3",
+						"topo_ref": "MB",
+						"image": null,
+						"images": [],
+						"length": "60m",
+						"pitches": [
+							{
+								"alpine": null,
+								"commitment": null,
+								"mtcook": null,
+								"aid": null,
+								"ice": "WI3",
+								"mixed": null,
+								"length": "60m",
+								"bolts": null,
+								"trad": false,
+								"ewbank": null,
+								"description": null
+							}
+						],
+						"quality": 0,
+						"bolts": null,
+						"natural_pro": false,
+						"description": "A relatively wide ice line broken by moderate ramps. There is little rock pro so if the ice doesn't hold screws... climb faster.",
+						"ascent": "Cameron Jardell, Josh Laidlaw, Aug 2020."
+					}
+				],
+				"places": [],
+				"image": "https://climbnz.org.nz/sites/default/files/styles/wide/public/image/Screen%20Shot%202020-09-14%20at%209.29.48%20PM.png?itok=Zw4X6wxc",
+				"images": [
+					{
+						"src": "https://climbnz.org.nz/sites/default/files/styles/wide/public/image/Screen%20Shot%202020-09-14%20at%209.29.48%20PM.png?itok=Zw4X6wxc",
+						"height": "701",
+						"width": "1090"
+					},
+					{
+						"src": "https://climbnz.org.nz/sites/default/files/styles/wide/public/2025-08/PXL_20250802_003016358%20%281%29.jpg?itok=d7VisD1F",
+						"height": "821",
+						"width": "1090"
+					}
+				]
+			},
+			{
+				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/haumaitiketike-mt-brewster/north-face",
 				"name": "North Face",
 				"altitude": "1900m",
 				"access": "Approach up the Wills Valley up the track to the lower flats, the follow spurs in open bush on the true left of Fleming Creek (plentiful water in bush sidecreeks). Easy subalpine travel leads to the base of the North Face, where moderate angle snowfields/patches linger into summer.  5-8 hours from the car, or 3-4 hours from Wills Hut.\nDescent: The obvious descent is via the West Ridge, brewster Glacier and the Brewster Hut track, making a nice loop. Descending to the cols either side of .2038 before moving onto snow and the glacier keep snow travel to low angle, and may allow crampon-less descent in warm conditions, at least from midsummer when the ridge is dry rock. However, ice axes are wise in case of snowfields/patchs at the base of the north face, and on the upper face.",
@@ -140044,131 +140029,28 @@
 						"width": "1090"
 					}
 				]
-			},
-			{
-				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-brewster/brewery",
-				"name": "The Brewery",
-				"altitude": "2200m",
-				"access": "The Brewster Hut track offers the easiest access to the crag.",
-				"description": "The Brewery is a south facing headwall about halfway up the southwest ridge (neighboring the prominent serac visible from Brewster Hut). The wall offers single pitch ice/mixed routes consisting of thinly iced corners offering the occasional dubious ice screw with scattered rock pro. First impressions suggest the rock quality is best on the left side of the wall while the ice quality is best on the right side of the wall, with a good mix of both elements in the middle. Slung rocks from the tops of TFP and SG offer abseil anchors. There is much potential for new routes.",
-				"latlng": [
-					"-44.066733",
-					"169.445448"
-				],
-				"routes": [
-					{
-						"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-brewster/brewery/first-pint",
-						"name": "The First Pint",
-						"grade": "M3",
-						"topo_ref": "TFP",
-						"image": null,
-						"images": [],
-						"length": "40m",
-						"pitches": [
-							{
-								"alpine": null,
-								"commitment": null,
-								"mtcook": null,
-								"aid": null,
-								"ice": null,
-								"mixed": "M3",
-								"length": "40m",
-								"bolts": null,
-								"trad": false,
-								"ewbank": null,
-								"description": null
-							}
-						],
-						"quality": 0,
-						"bolts": null,
-						"natural_pro": false,
-						"description": "Leftward moves over rime covered grooves leads to a more moderate ice ramp. Exit left (on topo) to a good natural anchor or traverse under the roof to hook your way to the groove just to the right of the gendarme.",
-						"ascent": "Josh Laidlaw, Cameron Jardell, Aug 2020."
-					},
-					{
-						"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-brewster/brewery/specific-gravity",
-						"name": "Specific Gravity",
-						"grade": "WI4",
-						"topo_ref": "SG",
-						"image": null,
-						"images": [],
-						"length": "50m",
-						"pitches": [
-							{
-								"alpine": null,
-								"commitment": null,
-								"mtcook": null,
-								"aid": null,
-								"ice": "WI4",
-								"mixed": null,
-								"length": "50m",
-								"bolts": null,
-								"trad": false,
-								"ewbank": null,
-								"description": null
-							}
-						],
-						"quality": 0,
-						"bolts": null,
-						"natural_pro": false,
-						"description": "Climb directly up the iced corner. Some rock pro on the right. Sustained and thinnest before the top out.",
-						"ascent": "Cameron Jardell, Josh Laidlaw, Aug 2020."
-					},
-					{
-						"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-brewster/brewery/malty-brewin",
-						"name": "Malty Brewin",
-						"grade": "WI3",
-						"topo_ref": "MB",
-						"image": null,
-						"images": [],
-						"length": "60m",
-						"pitches": [
-							{
-								"alpine": null,
-								"commitment": null,
-								"mtcook": null,
-								"aid": null,
-								"ice": "WI3",
-								"mixed": null,
-								"length": "60m",
-								"bolts": null,
-								"trad": false,
-								"ewbank": null,
-								"description": null
-							}
-						],
-						"quality": 0,
-						"bolts": null,
-						"natural_pro": false,
-						"description": "A relatively wide ice line broken by moderate ramps. There is little rock pro so if the ice doesn't hold screws... climb faster.",
-						"ascent": "Cameron Jardell, Josh Laidlaw, Aug 2020."
-					}
-				],
-				"places": [],
-				"image": "https://climbnz.org.nz/sites/default/files/styles/wide/public/image/Screen%20Shot%202020-09-14%20at%209.29.48%20PM.png?itok=Zw4X6wxc",
-				"images": [
-					{
-						"src": "https://climbnz.org.nz/sites/default/files/styles/wide/public/image/Screen%20Shot%202020-09-14%20at%209.29.48%20PM.png?itok=Zw4X6wxc",
-						"height": "701",
-						"width": "1090"
-					},
-					{
-						"src": "https://climbnz.org.nz/sites/default/files/styles/wide/public/2025-08/PXL_20250802_003016358%20%281%29.jpg?itok=d7VisD1F",
-						"height": "821",
-						"width": "1090"
-					}
-				]
 			}
 		],
-		"image": null,
-		"images": []
+		"image": "https://climbnz.org.nz/sites/default/files/styles/wide/public/2026-09/Brewster.jpg?itok=qJnS28mG",
+		"images": [
+			{
+				"src": "https://climbnz.org.nz/sites/default/files/styles/wide/public/2026-09/Brewster.jpg?itok=qJnS28mG",
+				"height": "699",
+				"width": "1090"
+			},
+			{
+				"src": "https://climbnz.org.nz/sites/default/files/2026-09/Makarora%20Valley%20from%20Young%20Range.jpg",
+				"height": "925",
+				"width": "1783"
+			}
+		]
 	},
 	"https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-armstrong": {
 		"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-armstrong",
 		"name": "Mt Armstrong",
 		"altitude": "2174m",
 		"access": null,
-		"description": null,
+		"description": "Head of the Makarora valley from the Young Range, October 2011",
 		"latlng": [
 			"-44.09418123",
 			"169.42892075"
@@ -140177,22 +140059,7 @@
 			{
 				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-armstrong/south-east-ridge",
 				"name": "South East Ridge",
-				"grade": null,
-				"topo_ref": null,
-				"image": null,
-				"images": [],
-				"length": null,
-				"pitches": [],
-				"quality": 0,
-				"bolts": null,
-				"natural_pro": false,
-				"description": "Climbed circa 2010 according to an entry in the Makarora Hut Book. Can't\nrecall who did it. They climbed from the David Glacier and I imagine the rock\nwas unpleasant.",
-				"ascent": "~2010"
-			},
-			{
-				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-armstrong/north-west-ridge",
-				"name": "North West Ridge",
-				"grade": "1-",
+				"grade": "II",
 				"topo_ref": null,
 				"image": null,
 				"images": [],
@@ -140200,8 +140067,8 @@
 				"pitches": [
 					{
 						"alpine": null,
-						"commitment": null,
-						"mtcook": "1-",
+						"commitment": "II",
+						"mtcook": null,
 						"aid": null,
 						"ice": null,
 						"mixed": null,
@@ -140215,13 +140082,48 @@
 				"quality": 0,
 				"bolts": null,
 				"natural_pro": false,
-				"description": "From Brewster Hut. Has been skied, bum slid, tobogganed and all sorts. Makes\na great introductory peak when plastered with winter snow.",
+				"description": "Climbed circa 2010 according to an entry in the Makarora Hut Book. Can\u2019t recall who did it. They climbed from the David Glacier and I imagine the rock was unpleasant.",
+				"ascent": null
+			},
+			{
+				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-armstrong/west-face",
+				"name": "West Face",
+				"grade": "I,1",
+				"topo_ref": "8.08",
+				"image": null,
+				"images": [],
+				"length": null,
+				"pitches": [
+					{
+						"alpine": "1",
+						"commitment": "I",
+						"mtcook": null,
+						"aid": null,
+						"ice": null,
+						"mixed": null,
+						"length": null,
+						"bolts": null,
+						"trad": false,
+						"ewbank": null,
+						"description": null
+					}
+				],
+				"quality": 0,
+				"bolts": null,
+				"natural_pro": false,
+				"description": "From Brewster Hut ascend straightforward slopes to the summit. Has been skied, bum slid, tobogganed and all sorts. Makes a great introductory peak when plastered with winter snow.",
 				"ascent": null
 			}
 		],
 		"places": [],
-		"image": null,
-		"images": []
+		"image": "https://climbnz.org.nz/sites/default/files/styles/wide/public/2026-09/Makarora%20Valley%20from%20Young%20Range.jpg?itok=CAmcLo2l",
+		"images": [
+			{
+				"src": "https://climbnz.org.nz/sites/default/files/styles/wide/public/2026-09/Makarora%20Valley%20from%20Young%20Range.jpg?itok=CAmcLo2l",
+				"height": "565",
+				"width": "1090"
+			}
+		]
 	},
 	"https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-arthur": {
 		"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-arthur",
@@ -140564,6 +140466,158 @@
 		"image": null,
 		"images": []
 	},
+	"https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-enderby": {
+		"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-enderby",
+		"name": "Mt Enderby",
+		"altitude": "2338m",
+		"access": null,
+		"description": "Mt Enderby from the Bealey Range, December 2016",
+		"latlng": [
+			"-44.035158",
+			"169.571188"
+		],
+		"routes": [
+			{
+				"link": "https://climbnz.org.nz/nz/si/aspiring/main-divide/mt-enderby/west-middle-east-peaks",
+				"name": "West, Middle, East Peaks",
+				"grade": "2",
+				"topo_ref": null,
+				"image": null,
+				"images": [],
+				"length": null,
+				"pitches": [
+					{
+						"alpine": null,
+						"commitment": null,
+						"mtcook": "2",
+						"aid": null,
+						"ice": null,
+						"mixed": null,
+						"length": null,
+						"bolts": null,
+						"trad": false,
+						"ewbank": null,
+						"description": null
+					}
+				],
+				"quality": 0,
+				"bolts": null,
+				"natural_pro": false,
+				"description": "First ascended directly from Ferguson Creek over the snowslopes to the\nsummit.",
+				"ascent": "Graham Riley, P C S Unwin, J D Willis, December 1934"
+			},
+			{
+				"link": "https://climbnz.org.nz/nz/si/aspiring/main-divide/mt-enderby/near-cheap-creek",
+				"name": "Near Cheap Creek",
+				"grade": null,
+				"topo_ref": null,
+				"image": "https://climbnz.org.nz/sites/default/files/route/enderby.jpg",
+				"images": [
+					{
+						"src": "https://climbnz.org.nz/sites/default/files/route/enderby.jpg",
+						"height": "378",
+						"width": "629"
+					}
+				],
+				"length": null,
+				"pitches": [],
+				"quality": 0,
+				"bolts": null,
+				"natural_pro": false,
+				"description": "Access the upper slopes via slopes just west of Cheap Creek. When near the\nsummit pyramid, ascend snowfield then swing right to reach east ridge which\nis followed to the summit via steepish snow. Also found crampon in bush.",
+				"ascent": "Ross, Pip, James Barringer December 2007"
+			},
+			{
+				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-enderby/west-ridge",
+				"name": "West Ridge",
+				"grade": "III,3,14",
+				"topo_ref": "8.19",
+				"image": null,
+				"images": [],
+				"length": null,
+				"pitches": [
+					{
+						"alpine": "3",
+						"commitment": "III",
+						"mtcook": null,
+						"aid": null,
+						"ice": null,
+						"mixed": null,
+						"length": null,
+						"bolts": null,
+						"trad": false,
+						"ewbank": "14",
+						"description": null
+					}
+				],
+				"quality": 1,
+				"bolts": null,
+				"natural_pro": false,
+				"description": "From the Wills River, follow Cheap Creek to the tussock tops and sidle across to the toe of the ridge. From here, gain height on moderate ground, then traverse along a ledge to the left. Climb through a steep step of well featured schist (grade 14), then follow weaknesses to the\u00a0summit.",
+				"ascent": "Nina Dickerhof, Neil Sloan, James Thornton, April 2015"
+			}
+		],
+		"places": [],
+		"image": "https://climbnz.org.nz/sites/default/files/styles/wide/public/2026-09/Mt%20Enderby.jpg?itok=61agEWVq",
+		"images": [
+			{
+				"src": "https://climbnz.org.nz/sites/default/files/styles/wide/public/2026-09/Mt%20Enderby.jpg?itok=61agEWVq",
+				"height": "726",
+				"width": "1090"
+			}
+		]
+	},
+	"https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-enderby-low-peak": {
+		"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-enderby-low-peak",
+		"name": "Mt Enderby Low Peak",
+		"altitude": "2320m",
+		"access": null,
+		"description": "Mt Enderby from the Bealey Range, December 2016",
+		"latlng": [
+			"-44.034635",
+			"169.574296"
+		],
+		"routes": [
+			{
+				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-enderby-low-peak/north-west-slope",
+				"name": "North West Slope",
+				"grade": "II,1",
+				"topo_ref": "8.20",
+				"image": null,
+				"images": [],
+				"length": null,
+				"pitches": [
+					{
+						"alpine": "1",
+						"commitment": "II",
+						"mtcook": null,
+						"aid": null,
+						"ice": null,
+						"mixed": null,
+						"length": null,
+						"bolts": null,
+						"trad": false,
+						"ewbank": null,
+						"description": null
+					}
+				],
+				"quality": 0,
+				"bolts": null,
+				"natural_pro": false,
+				"description": "From the Wills River, make your way up the open Cheap Creek before striking out for the col between Mt Enderby and Pk 2316m. From the col, easy ground leads up to the summit.",
+				"ascent": "Peter Child, N Basher, 1952"
+			}
+		],
+		"places": [],
+		"image": "https://climbnz.org.nz/sites/default/files/styles/wide/public/2026-09/Mt%20Enderby.jpg?itok=61agEWVq",
+		"images": [
+			{
+				"src": "https://climbnz.org.nz/sites/default/files/styles/wide/public/2026-09/Mt%20Enderby.jpg?itok=61agEWVq",
+				"height": "726",
+				"width": "1090"
+			}
+		]
+	},
 	"https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-foster": {
 		"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-foster",
 		"name": "Mt Foster",
@@ -140747,6 +140801,125 @@
 		"image": null,
 		"images": []
 	},
+	"https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-giles": {
+		"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-giles",
+		"name": "Mt Giles",
+		"altitude": "2209m",
+		"access": null,
+		"description": null,
+		"latlng": [
+			"-43.962655",
+			"169.638191"
+		],
+		"routes": [
+			{
+				"link": "https://climbnz.org.nz/nz/si/aspiring/main-divide/mt-giles/south-ridge",
+				"name": "South Ridge",
+				"grade": "2",
+				"topo_ref": null,
+				"image": null,
+				"images": [],
+				"length": null,
+				"pitches": [
+					{
+						"alpine": null,
+						"commitment": null,
+						"mtcook": "2",
+						"aid": null,
+						"ice": null,
+						"mixed": null,
+						"length": null,
+						"bolts": null,
+						"trad": false,
+						"ewbank": null,
+						"description": null
+					}
+				],
+				"quality": 0,
+				"bolts": null,
+				"natural_pro": false,
+				"description": "From the Hunter Valley East Branch climb the tussock, select a route through\nthe crevassed Smyth Glacier to reach the top.",
+				"ascent": "John Chivers, Caroline Cotton, Rob Mitchell, Euan Warburton, Laurie White, January 1962"
+			}
+		],
+		"places": [],
+		"image": null,
+		"images": []
+	},
+	"https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-greenfield": {
+		"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-greenfield",
+		"name": "Mt Greenfield",
+		"altitude": "2101m",
+		"access": null,
+		"description": null,
+		"latlng": [
+			"-44.006687",
+			"169.591205"
+		],
+		"routes": [
+			{
+				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-greenfield/north-ridge",
+				"name": "North Ridge",
+				"grade": "II,1+",
+				"topo_ref": "8.25",
+				"image": null,
+				"images": [],
+				"length": null,
+				"pitches": [
+					{
+						"alpine": "1+",
+						"commitment": "II",
+						"mtcook": null,
+						"aid": null,
+						"ice": null,
+						"mixed": null,
+						"length": null,
+						"bolts": null,
+						"trad": false,
+						"ewbank": null,
+						"description": null
+					}
+				],
+				"quality": 0,
+				"bolts": null,
+				"natural_pro": false,
+				"description": "From Wilsons Pass, climb south, initially sidling on the Wills side of the ridge to avoid a narrow steep section. Above this, easier ground leads to the summit, where things tighten up a bit for the last few metres.",
+				"ascent": "M R Fitchett, Graham Riley, J D Willis, February 1934"
+			},
+			{
+				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-greenfield/south-ridge",
+				"name": "South Ridge",
+				"grade": "II,2",
+				"topo_ref": "8.26",
+				"image": null,
+				"images": [],
+				"length": null,
+				"pitches": [
+					{
+						"alpine": "2",
+						"commitment": "II",
+						"mtcook": null,
+						"aid": null,
+						"ice": null,
+						"mixed": null,
+						"length": null,
+						"bolts": null,
+						"trad": false,
+						"ewbank": null,
+						"description": null
+					}
+				],
+				"quality": 0,
+				"bolts": null,
+				"natural_pro": false,
+				"description": "Gain the Greenfield \u2013 Tylee col from Wilsons Pass by traversing south and sidling under Mt Greenfield on the Wills side. Very shattered and unstable rock leads to the summit.",
+				"ascent": "Peter Child, George Goodyear, January 1959"
+			}
+		],
+		"places": [],
+		"image": null,
+		"images": []
+	},
 	"https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-hickson": {
 		"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-hickson",
 		"name": "Mt Hickson",
@@ -140799,8 +140972,8 @@
 		"access": null,
 		"description": null,
 		"latlng": [
-			"-44.0146",
-			"169.5908"
+			"-44.012944",
+			"169.590861"
 		],
 		"routes": [
 			{
@@ -140835,17 +141008,31 @@
 			{
 				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-holdsworth/north-ridge",
 				"name": "North Ridge",
-				"grade": null,
-				"topo_ref": null,
+				"grade": "II,2",
+				"topo_ref": "8.22",
 				"image": null,
 				"images": [],
 				"length": null,
-				"pitches": [],
+				"pitches": [
+					{
+						"alpine": "2",
+						"commitment": "II",
+						"mtcook": null,
+						"aid": null,
+						"ice": null,
+						"mixed": null,
+						"length": null,
+						"bolts": null,
+						"trad": false,
+						"ewbank": null,
+						"description": null
+					}
+				],
 				"quality": 0,
 				"bolts": null,
 				"natural_pro": false,
-				"description": "From Wilson Pass, traversing Mt Greenfield.",
-				"ascent": "M R Fitchett, Graham Riley, J D Willis, 13 Februray 1934"
+				"description": "From Wilsons Pass, a traverse of the Divide, sidling under Mts Greenfield and Tylee on the Wills side, provides access to the north ridge of Mt Holdsworth. Climb to the col between Mts Tylee and Holdsworth, from where a short scramble leads to the summit.",
+				"ascent": "M R Fitchett, Graham Riley, J D Willis, 13 February 1934"
 			}
 		],
 		"places": [],
@@ -141363,6 +141550,63 @@
 			}
 		]
 	},
+	"https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-kaye": {
+		"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-kaye",
+		"name": "Mt Kaye",
+		"altitude": "1998m",
+		"access": null,
+		"description": "Head of the Makarora valley from the Young Range, October 2011",
+		"latlng": [
+			"-44.104716",
+			"169.407685"
+		],
+		"routes": [
+			{
+				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-kaye/east-face",
+				"name": "East Face",
+				"grade": "I,1",
+				"topo_ref": "8.07",
+				"image": "https://climbnz.org.nz/sites/default/files/2026-09/Makarora%20Valley%20from%20Young%20Range.jpg",
+				"images": [
+					{
+						"src": "https://climbnz.org.nz/sites/default/files/2026-09/Makarora%20Valley%20from%20Young%20Range.jpg",
+						"height": "925",
+						"width": "1783"
+					}
+				],
+				"length": null,
+				"pitches": [
+					{
+						"alpine": "1",
+						"commitment": "I",
+						"mtcook": null,
+						"aid": null,
+						"ice": null,
+						"mixed": null,
+						"length": null,
+						"bolts": null,
+						"trad": false,
+						"ewbank": null,
+						"description": null
+					}
+				],
+				"quality": 0,
+				"bolts": null,
+				"natural_pro": false,
+				"description": "From Makarora Hut, make your way into the tributary between Kaye and Armstrong. Easy slopes out of the head of the valley lead to the summit. A higher unnamed peak out to the east has been climbed, although this is a more difficult proposition (II, 1+).",
+				"ascent": null
+			}
+		],
+		"places": [],
+		"image": "https://climbnz.org.nz/sites/default/files/styles/wide/public/2026-09/Makarora%20Valley%20from%20Young%20Range.jpg?itok=CAmcLo2l",
+		"images": [
+			{
+				"src": "https://climbnz.org.nz/sites/default/files/styles/wide/public/2026-09/Makarora%20Valley%20from%20Young%20Range.jpg?itok=CAmcLo2l",
+				"height": "565",
+				"width": "1090"
+			}
+		]
+	},
 	"https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-kitson": {
 		"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-kitson",
 		"name": "Mt Kitson",
@@ -141476,6 +141720,51 @@
 				"natural_pro": false,
 				"description": "Mt McKenzie is a snow dome which is readily ascended from Brodrick Pass.\nMixed rock and ice climbing from the pass is followed by a broad snowslope\nand a short ar\u00eate to the summit.",
 				"ascent": "Eric Burns, Ernie Presland, Harry Stevenson, Dick Young January 1934"
+			}
+		],
+		"places": [],
+		"image": null,
+		"images": []
+	},
+	"https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-maitland": {
+		"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-maitland",
+		"name": "Mt Maitland",
+		"altitude": "2280m",
+		"access": null,
+		"description": null,
+		"latlng": [
+			"-43.958667",
+			"169.624361"
+		],
+		"routes": [
+			{
+				"link": "https://climbnz.org.nz/nz/si/aspiring/main-divide/mt-maitland/west-face",
+				"name": "West Face",
+				"grade": "2",
+				"topo_ref": null,
+				"image": null,
+				"images": [],
+				"length": null,
+				"pitches": [
+					{
+						"alpine": null,
+						"commitment": null,
+						"mtcook": "2",
+						"aid": null,
+						"ice": null,
+						"mixed": null,
+						"length": null,
+						"bolts": null,
+						"trad": false,
+						"ewbank": null,
+						"description": null
+					}
+				],
+				"quality": 0,
+				"bolts": null,
+				"natural_pro": false,
+				"description": "From a camp in the Hunter Valley West Branch, underneath Upper Studholme\nPass, climb the tussock slopes and rock to gain the summit.",
+				"ascent": "John Chivers, Caroline Cotton, Rob Mitchell, Euan Warburton, Laurie White , January 1962"
 			}
 		],
 		"places": [],
@@ -141771,6 +142060,51 @@
 				"natural_pro": false,
 				"description": "Angle up the Foster Glacier to the shapely peak.\nB.N.Challis, Scott Gilkison, J.E.Richmond, February 1935.\nA variation is to traverse from the northeast along the divide to ascend the\nfinal 60m high rock tower.",
 				"ascent": "B.Binning, J.Miller, Govan Wilson, December 1959"
+			}
+		],
+		"places": [],
+		"image": null,
+		"images": []
+	},
+	"https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-pearson": {
+		"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-pearson",
+		"name": "Mt Pearson",
+		"altitude": "2248m",
+		"access": null,
+		"description": null,
+		"latlng": [
+			"-43.962984",
+			"169.631804"
+		],
+		"routes": [
+			{
+				"link": "https://climbnz.org.nz/nz/si/aspiring/main-divide/mt-pearson/east-face",
+				"name": "East Face",
+				"grade": "2",
+				"topo_ref": null,
+				"image": null,
+				"images": [],
+				"length": null,
+				"pitches": [
+					{
+						"alpine": null,
+						"commitment": null,
+						"mtcook": "2",
+						"aid": null,
+						"ice": null,
+						"mixed": null,
+						"length": null,
+						"bolts": null,
+						"trad": false,
+						"ewbank": null,
+						"description": null
+					}
+				],
+				"quality": 0,
+				"bolts": null,
+				"natural_pro": false,
+				"description": "From the Hunter Valley East Branch climb the tussock slopes, select a route\nthrough the crevassed Smyth Glacier to reach the top.",
+				"ascent": "Peter Child, George Goodyear, 1959"
 			}
 		],
 		"places": [],
@@ -142411,6 +142745,80 @@
 			}
 		]
 	},
+	"https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-tole": {
+		"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-tole",
+		"name": "Mt Tole",
+		"altitude": "2203m",
+		"access": null,
+		"description": null,
+		"latlng": [
+			"-44.05732",
+			"169.512578"
+		],
+		"routes": [
+			{
+				"link": "https://climbnz.org.nz/nz/si/aspiring/main-divide/mt-tole/upper-ferguson-creek",
+				"name": "From Upper Ferguson Creek",
+				"grade": "2-",
+				"topo_ref": null,
+				"image": null,
+				"images": [],
+				"length": null,
+				"pitches": [
+					{
+						"alpine": null,
+						"commitment": null,
+						"mtcook": "2-",
+						"aid": null,
+						"ice": null,
+						"mixed": null,
+						"length": null,
+						"bolts": null,
+						"trad": false,
+						"ewbank": null,
+						"description": null
+					}
+				],
+				"quality": 0,
+				"bolts": null,
+				"natural_pro": false,
+				"description": "Accessible from upper Ferguson Creek, or from near the head of Long Flat\nCreek. Strike through the bush to reach the western snowslopes and plod north\non the west ridge to the summit.",
+				"ascent": "First ascent unknown"
+			},
+			{
+				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-tole/west-face",
+				"name": "West Face",
+				"grade": "II,2+",
+				"topo_ref": "8.16",
+				"image": null,
+				"images": [],
+				"length": null,
+				"pitches": [
+					{
+						"alpine": "2+",
+						"commitment": "II",
+						"mtcook": null,
+						"aid": null,
+						"ice": null,
+						"mixed": null,
+						"length": null,
+						"bolts": null,
+						"trad": false,
+						"ewbank": null,
+						"description": null
+					}
+				],
+				"quality": 0,
+				"bolts": null,
+				"natural_pro": false,
+				"description": "Ascend Tole Creek to gain the tops. Climb rotten and slaty rock on the west face, gaining the south ridge near the summit, where some more solid greywacke and quartz will be encountered.",
+				"ascent": "Peter Child, N Basher, 1952"
+			}
+		],
+		"places": [],
+		"image": null,
+		"images": []
+	},
 	"https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-trent": {
 		"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-trent",
 		"name": "Mt Trent",
@@ -142494,6 +142902,80 @@
 				"natural_pro": false,
 				"description": "Gain height initially on the western side of the ridge on easy ground, before getting onto the ridge proper around 2050m. Most difficulties are then turned on the east side, with the odd small step climbed direct. Things lay back higher up. A final short scramble then leads to the summit.",
 				"ascent": "Nina Dickerhof, James Thornton, April 2022"
+			}
+		],
+		"places": [],
+		"image": null,
+		"images": []
+	},
+	"https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-tylee": {
+		"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-tylee",
+		"name": "Mt Tylee",
+		"altitude": "2204m",
+		"access": null,
+		"description": null,
+		"latlng": [
+			"-44.010758",
+			"169.591692"
+		],
+		"routes": [
+			{
+				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-tylee/north-ridge",
+				"name": "North Ridge",
+				"grade": "II,2",
+				"topo_ref": "8.23",
+				"image": null,
+				"images": [],
+				"length": null,
+				"pitches": [
+					{
+						"alpine": "2",
+						"commitment": "II",
+						"mtcook": null,
+						"aid": null,
+						"ice": null,
+						"mixed": null,
+						"length": null,
+						"bolts": null,
+						"trad": false,
+						"ewbank": null,
+						"description": null
+					}
+				],
+				"quality": 0,
+				"bolts": null,
+				"natural_pro": false,
+				"description": "From Wilsons Pass, traverse south, sidling under Mt Greenfield on the Wills side, gain the col north of Mt Tylee, then ascend the ridge to the\u00a0summit.",
+				"ascent": "M R Fitchett, Graham Riley, J D Willis, February 1934"
+			},
+			{
+				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-tylee/south-ridge",
+				"name": "South Ridge",
+				"grade": "II,2",
+				"topo_ref": "8.24",
+				"image": null,
+				"images": [],
+				"length": null,
+				"pitches": [
+					{
+						"alpine": "2",
+						"commitment": "II",
+						"mtcook": null,
+						"aid": null,
+						"ice": null,
+						"mixed": null,
+						"length": null,
+						"bolts": null,
+						"trad": false,
+						"ewbank": null,
+						"description": null
+					}
+				],
+				"quality": 0,
+				"bolts": null,
+				"natural_pro": false,
+				"description": "From Wilson Pass traverse along the Divide on the Wills side before gaining the Tylee \u2013 Holdsworth col. A good rock ridge leads to the summit. First climbed beginning from the summit of Mt Holdworth by descending and sidling on the western slopes, before gaining the col and the ridge.",
+				"ascent": "Peter Child, George Goodyear, January 1959"
 			}
 		],
 		"places": [],
@@ -143034,6 +143516,407 @@
 		"image": null,
 		"images": []
 	},
+	"https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-wray": {
+		"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-wray",
+		"name": "Mt Wray",
+		"altitude": "2080m",
+		"access": null,
+		"description": null,
+		"latlng": [
+			"-44.059139",
+			"169.502806"
+		],
+		"routes": [
+			{
+				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/mt-wray/north-face",
+				"name": "North Face",
+				"grade": "II,2",
+				"topo_ref": "8.15",
+				"image": null,
+				"images": [],
+				"length": null,
+				"pitches": [
+					{
+						"alpine": "2",
+						"commitment": "II",
+						"mtcook": null,
+						"aid": null,
+						"ice": null,
+						"mixed": null,
+						"length": null,
+						"bolts": null,
+						"trad": false,
+						"ewbank": null,
+						"description": null
+					}
+				],
+				"quality": 0,
+				"bolts": null,
+				"natural_pro": false,
+				"description": "Ascend Tole Creek to gain the tops where easy ground leads to the peak. Climb the short north face to gain the narrow summit ridge.",
+				"ascent": "Bob Boyd, Kit Preston, Rupert Shaw, Colin Young, December 1955"
+			}
+		],
+		"places": [],
+		"image": null,
+		"images": []
+	},
+	"https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/pt-1971": {
+		"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/pt-1971",
+		"name": "Pt 1971",
+		"altitude": "1971m",
+		"access": null,
+		"description": null,
+		"latlng": [
+			"-44.112342584",
+			"169.417145236"
+		],
+		"routes": [
+			{
+				"link": "https://climbnz.org.nz/nz/si/aspiring/main-divide/pt-1971/east-ridge",
+				"name": "East Ridge",
+				"grade": "I,1+",
+				"topo_ref": null,
+				"image": null,
+				"images": [],
+				"length": null,
+				"pitches": [
+					{
+						"alpine": "1+",
+						"commitment": "I",
+						"mtcook": null,
+						"aid": null,
+						"ice": null,
+						"mixed": null,
+						"length": null,
+						"bolts": null,
+						"trad": false,
+						"ewbank": null,
+						"description": null
+					}
+				],
+				"quality": 0,
+				"bolts": null,
+				"natural_pro": false,
+				"description": "From Makarora Hut climb to the ridge and follow this to Pt 1971.",
+				"ascent": "Paul Hersey, Shelley Graham, Lydia Bradey, April 2006"
+			}
+		],
+		"places": [],
+		"image": null,
+		"images": []
+	},
+	"https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/pt-2010": {
+		"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/pt-2010",
+		"name": "Pt 2010",
+		"altitude": "2010m",
+		"access": null,
+		"description": null,
+		"latlng": [
+			"-44.1097794743",
+			"169.411818712"
+		],
+		"routes": [
+			{
+				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/pt-2010/east-ridge",
+				"name": "East Ridge",
+				"grade": "II,1+",
+				"topo_ref": null,
+				"image": null,
+				"images": [],
+				"length": null,
+				"pitches": [
+					{
+						"alpine": "1+",
+						"commitment": "II",
+						"mtcook": null,
+						"aid": null,
+						"ice": null,
+						"mixed": null,
+						"length": null,
+						"bolts": null,
+						"trad": false,
+						"ewbank": null,
+						"description": null
+					}
+				],
+				"quality": 0,
+				"bolts": null,
+				"natural_pro": false,
+				"description": "From Makarora Hut gain the ridge and traverse Pt 1971m.",
+				"ascent": "Paul Hersey, Shelley Graham, Lydia Bradey, April 2006"
+			}
+		],
+		"places": [],
+		"image": "https://climbnz.org.nz/sites/default/files/2026-09/Makarora%20Valley%20from%20Young%20Range.jpg",
+		"images": [
+			{
+				"src": "https://climbnz.org.nz/sites/default/files/2026-09/Makarora%20Valley%20from%20Young%20Range.jpg",
+				"height": "925",
+				"width": "1783"
+			}
+		]
+	},
+	"https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/pt-2161": {
+		"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/pt-2161",
+		"name": "Pt 2161",
+		"altitude": "2161m",
+		"access": null,
+		"description": null,
+		"latlng": [
+			"-44.08936289",
+			"169.53002543"
+		],
+		"routes": [
+			{
+				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/pt-2161/west-slopes",
+				"name": "West Slopes",
+				"grade": "2-",
+				"topo_ref": null,
+				"image": null,
+				"images": [],
+				"length": null,
+				"pitches": [
+					{
+						"alpine": null,
+						"commitment": null,
+						"mtcook": "2-",
+						"aid": null,
+						"ice": null,
+						"mixed": null,
+						"length": null,
+						"bolts": null,
+						"trad": false,
+						"ewbank": null,
+						"description": null
+					}
+				],
+				"quality": 0,
+				"bolts": null,
+				"natural_pro": false,
+				"description": "From near the head of Long Flat Creek, strike through the bush to reach the\nwestern snowslopes and plod on to the summit.",
+				"ascent": "Jack Aitken, Jack Gillespie, Alma Mitchell, M.A.Sutherland, January 1943"
+			}
+		],
+		"places": [],
+		"image": null,
+		"images": []
+	},
+	"https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/pt-2316": {
+		"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/pt-2316",
+		"name": "Pt 2316",
+		"altitude": "2316m",
+		"access": null,
+		"description": "Mt Enderby from the Bealey Range, December 2016",
+		"latlng": [
+			"-44.0343506517",
+			"169.581458919"
+		],
+		"routes": [
+			{
+				"link": "https://climbnz.org.nz/nz/si/aspiring/main-divide/pt-2316/hunter-river",
+				"name": "From Hunter River",
+				"grade": "2-",
+				"topo_ref": null,
+				"image": null,
+				"images": [],
+				"length": null,
+				"pitches": [
+					{
+						"alpine": null,
+						"commitment": null,
+						"mtcook": "2-",
+						"aid": null,
+						"ice": null,
+						"mixed": null,
+						"length": null,
+						"bolts": null,
+						"trad": false,
+						"ewbank": null,
+						"description": null
+					}
+				],
+				"quality": 0,
+				"bolts": null,
+				"natural_pro": false,
+				"description": null,
+				"ascent": "M R Fitchett, Graham Riley, J D Willis, February 1934"
+			},
+			{
+				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/pt-2316/north-west-slope",
+				"name": "North West Slope",
+				"grade": "II,1",
+				"topo_ref": "8.21",
+				"image": null,
+				"images": [],
+				"length": null,
+				"pitches": [
+					{
+						"alpine": "1",
+						"commitment": "II",
+						"mtcook": null,
+						"aid": null,
+						"ice": null,
+						"mixed": null,
+						"length": null,
+						"bolts": null,
+						"trad": false,
+						"ewbank": null,
+						"description": null
+					}
+				],
+				"quality": 0,
+				"bolts": null,
+				"natural_pro": false,
+				"description": "From the Wills River, make your way up the open Cheap Creek, followed by easy ground to the\u00a0summit.",
+				"ascent": "J Allen, J Gillespie, A Mitchell, B Wragge, January 1940"
+			}
+		],
+		"places": [],
+		"image": "https://climbnz.org.nz/sites/default/files/styles/wide/public/2026-09/Mt%20Enderby.jpg?itok=61agEWVq",
+		"images": [
+			{
+				"src": "https://climbnz.org.nz/sites/default/files/styles/wide/public/2026-09/Mt%20Enderby.jpg?itok=61agEWVq",
+				"height": "726",
+				"width": "1090"
+			}
+		]
+	},
+	"https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/square-top": {
+		"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/square-top",
+		"name": "Square Top",
+		"altitude": "2120m",
+		"access": null,
+		"description": "Leaving Wyn Irwin with his maps, compasses and camera, we climbed further onto the next peak at the head of the valley (Square Top, about 7000 feet). Although the Divide ar\u00eate consists of vertically heaped slates, somewhat loose, we had to risk its traverse on account of a schrund on the Hunter side and a tedious detour on the other.\nAt this stage, two of us being absolute novices, we would willingly have thrown our ice-axes down the six thousand feet to the valley below. The progress of our leader also was not helped by fearsome spider-like insects which jumped down from the ledges on to his face as he climbed up. The return was made by a quicker route which involved descending on to the snow slopes on the Landsborough side and traversing along to the pass.\nGraham Riley, New Zealand Alpine Journal, 1934.",
+		"latlng": [
+			"-43.957425",
+			"169.604496"
+		],
+		"routes": [
+			{
+				"link": "https://climbnz.org.nz/nz/si/aspiring/main-divide/square-top/upper-studholme-pass",
+				"name": "From Upper Studholme Pass",
+				"grade": "2",
+				"topo_ref": null,
+				"image": null,
+				"images": [],
+				"length": null,
+				"pitches": [
+					{
+						"alpine": null,
+						"commitment": null,
+						"mtcook": "2",
+						"aid": null,
+						"ice": null,
+						"mixed": null,
+						"length": null,
+						"bolts": null,
+						"trad": false,
+						"ewbank": null,
+						"description": null
+					}
+				],
+				"quality": 0,
+				"bolts": null,
+				"natural_pro": false,
+				"description": "From Upper Studholme Pass, traverse over Mt Napoleon.",
+				"ascent": "M R Fitchett, Graham Riley, J D Willis, February 1934"
+			}
+		],
+		"places": [],
+		"image": null,
+		"images": []
+	},
+	"https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/topheavy": {
+		"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/topheavy",
+		"name": "Topheavy",
+		"altitude": "2067m",
+		"access": null,
+		"description": null,
+		"latlng": [
+			"-44.06625",
+			"169.423694"
+		],
+		"routes": [
+			{
+				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/topheavy/south-west-face",
+				"name": "South West Face",
+				"grade": "I,1",
+				"topo_ref": "8.09",
+				"image": null,
+				"images": [],
+				"length": null,
+				"pitches": [
+					{
+						"alpine": "1",
+						"commitment": "I",
+						"mtcook": null,
+						"aid": null,
+						"ice": null,
+						"mixed": null,
+						"length": null,
+						"bolts": null,
+						"trad": false,
+						"ewbank": null,
+						"description": null
+					}
+				],
+				"quality": 0,
+				"bolts": null,
+				"natural_pro": false,
+				"description": "From the Fantail Falls carpark on SH6, ford the Haast River and ascend through open bush on Warden Spur to the tops. Easy going then leads to the summit. Also a straightforward ascent from the Brewster Glacier.",
+				"ascent": null
+			}
+		],
+		"places": [],
+		"image": null,
+		"images": []
+	},
+	"https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/watkins-dome": {
+		"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/watkins-dome",
+		"name": "Watkins Dome",
+		"altitude": "1946m",
+		"access": null,
+		"description": null,
+		"latlng": [
+			"-43.9665",
+			"169.5863"
+		],
+		"routes": [
+			{
+				"link": "https://climbnz.org.nz/nz/si/aspiring/main-divide/watkins-dome/upper-studholme-pass",
+				"name": "From Upper Studholme Pass",
+				"grade": "1",
+				"topo_ref": null,
+				"image": null,
+				"images": [],
+				"length": null,
+				"pitches": [
+					{
+						"alpine": null,
+						"commitment": null,
+						"mtcook": "1",
+						"aid": null,
+						"ice": null,
+						"mixed": null,
+						"length": null,
+						"bolts": null,
+						"trad": false,
+						"ewbank": null,
+						"description": null
+					}
+				],
+				"quality": 0,
+				"bolts": null,
+				"natural_pro": false,
+				"description": "From Upper Studholme Pass easy slopes lead to the summit.",
+				"ascent": "M.R.Fitchett, Graham Riley, J.D.Willis, Brian Wyn Irwin, February 1934"
+			}
+		],
+		"places": [],
+		"image": null,
+		"images": []
+	},
 	"https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/welch-pk": {
 		"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/welch-pk",
 		"name": "Welch Pk",
@@ -143073,6 +143956,291 @@
 				"natural_pro": false,
 				"description": "Once on the Divide, the ridge is an easy\u00a0scramble.",
 				"ascent": "Graham Burns, Brian Wyn Irwin, Christopher Johnson, Scott Russell, January 1933"
+			}
+		],
+		"places": [],
+		"image": null,
+		"images": []
+	},
+	"https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/wills-pk": {
+		"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/main-divide/wills-pk",
+		"name": "Wills Pk",
+		"altitude": "2140m",
+		"access": null,
+		"description": null,
+		"latlng": [
+			"-43.957056",
+			"169.608639"
+		],
+		"routes": [
+			{
+				"link": "https://climbnz.org.nz/nz/si/aspiring/main-divide/wills-pk/hunter-valley",
+				"name": "From Hunter Valley",
+				"grade": "2+",
+				"topo_ref": null,
+				"image": null,
+				"images": [],
+				"length": null,
+				"pitches": [
+					{
+						"alpine": null,
+						"commitment": null,
+						"mtcook": "2+",
+						"aid": null,
+						"ice": null,
+						"mixed": null,
+						"length": null,
+						"bolts": null,
+						"trad": false,
+						"ewbank": null,
+						"description": null
+					}
+				],
+				"quality": 0,
+				"bolts": null,
+				"natural_pro": false,
+				"description": "From a camp in the Hunter Valley West Branch, underneath Upper Studholme\nPass, climb the tussock slopes and rock to gain the summit.",
+				"ascent": "John Chivers, Caroline Cotton, Rob Mitchell, Euan Warburton, Laurie White, January 1962"
+			}
+		],
+		"places": [],
+		"image": null,
+		"images": []
+	},
+	"https://climbnz.org.nz/nz/si/ohau-landsborough/mckerrow-range/camp-pks": {
+		"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/mckerrow-range/camp-pks",
+		"name": "Camp Pks",
+		"altitude": null,
+		"access": null,
+		"description": null,
+		"latlng": [
+			"-44.375717",
+			"169.226076"
+		],
+		"routes": [
+			{
+				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/mckerrow-range/camp-pks/west-ridge",
+				"name": "West Ridge",
+				"grade": "I,1+",
+				"topo_ref": "8.01",
+				"image": null,
+				"images": [],
+				"length": null,
+				"pitches": [
+					{
+						"alpine": "1+",
+						"commitment": "I",
+						"mtcook": null,
+						"aid": null,
+						"ice": null,
+						"mixed": null,
+						"length": null,
+						"bolts": null,
+						"trad": false,
+						"ewbank": null,
+						"description": null
+					}
+				],
+				"quality": 0,
+				"bolts": null,
+				"natural_pro": false,
+				"description": "Leave SH6 and start up the track on the true right of Camp Creek, gain the west ridge above tussock slopes and traverse east on the southern side. A few tricky and exposed moves are needed to complete the climb.",
+				"ascent": null
+			}
+		],
+		"places": [],
+		"image": null,
+		"images": []
+	},
+	"https://climbnz.org.nz/nz/si/ohau-landsborough/mckerrow-range/four-pks": {
+		"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/mckerrow-range/four-pks",
+		"name": "The Four Pks",
+		"altitude": "1305m",
+		"access": null,
+		"description": null,
+		"latlng": [
+			"-44.4068",
+			"169.3038"
+		],
+		"routes": [],
+		"places": [],
+		"image": null,
+		"images": []
+	},
+	"https://climbnz.org.nz/nz/si/ohau-landsborough/mckerrow-range/mt-constitution": {
+		"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/mckerrow-range/mt-constitution",
+		"name": "Mt Constitution",
+		"altitude": "2031m",
+		"access": null,
+		"description": null,
+		"latlng": [
+			"-44.292667",
+			"169.260972"
+		],
+		"routes": [
+			{
+				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/mckerrow-range/mt-constitution/south-rib",
+				"name": "South Rib",
+				"grade": "II,2",
+				"topo_ref": "8.03",
+				"image": null,
+				"images": [],
+				"length": null,
+				"pitches": [
+					{
+						"alpine": "2",
+						"commitment": "II",
+						"mtcook": null,
+						"aid": null,
+						"ice": null,
+						"mixed": null,
+						"length": null,
+						"bolts": null,
+						"trad": false,
+						"ewbank": null,
+						"description": null
+					}
+				],
+				"quality": 0,
+				"bolts": null,
+				"natural_pro": false,
+				"description": "Climb onto a shelf above the head of the west branch of Boundary Creek and sidle across to the toe of the buttress below the summit. Steep climbing follows up the east side of the rib to gain the ridge near the summit.",
+				"ascent": "Shona McKee, Neil Sloan, November 2015"
+			}
+		],
+		"places": [],
+		"image": null,
+		"images": []
+	},
+	"https://climbnz.org.nz/nz/si/ohau-landsborough/mckerrow-range/mt-ernest": {
+		"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/mckerrow-range/mt-ernest",
+		"name": "Mt Ernest",
+		"altitude": "1878m",
+		"access": null,
+		"description": null,
+		"latlng": [
+			"-44.265306",
+			"169.254056"
+		],
+		"routes": [
+			{
+				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/mckerrow-range/mt-ernest/north-ridge",
+				"name": "North Ridge",
+				"grade": "II,1",
+				"topo_ref": "8.04",
+				"image": null,
+				"images": [],
+				"length": null,
+				"pitches": [
+					{
+						"alpine": "1",
+						"commitment": "II",
+						"mtcook": null,
+						"aid": null,
+						"ice": null,
+						"mixed": null,
+						"length": null,
+						"bolts": null,
+						"trad": false,
+						"ewbank": null,
+						"description": null
+					}
+				],
+				"quality": 0,
+				"bolts": null,
+				"natural_pro": false,
+				"description": "An easy climb as part of a traverse from Mt Shrimpton to Boundary Creek, or with permission from Makarora Station, directly from the Makarora Lake Hawea Road (SH6).",
+				"ascent": null
+			}
+		],
+		"places": [],
+		"image": null,
+		"images": []
+	},
+	"https://climbnz.org.nz/nz/si/ohau-landsborough/mckerrow-range/mt-shrimpton": {
+		"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/mckerrow-range/mt-shrimpton",
+		"name": "Mt Shrimpton",
+		"altitude": "2002m",
+		"access": null,
+		"description": null,
+		"latlng": [
+			"-44.237806",
+			"169.282777"
+		],
+		"routes": [
+			{
+				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/mckerrow-range/mt-shrimpton/west-face",
+				"name": "West Face",
+				"grade": "II,1+",
+				"topo_ref": "8.05",
+				"image": null,
+				"images": [],
+				"length": null,
+				"pitches": [
+					{
+						"alpine": "1+",
+						"commitment": "II",
+						"mtcook": null,
+						"aid": null,
+						"ice": null,
+						"mixed": null,
+						"length": null,
+						"bolts": null,
+						"trad": false,
+						"ewbank": null,
+						"description": null
+					}
+				],
+				"quality": 0,
+				"bolts": null,
+				"natural_pro": false,
+				"description": "From the Mt Shrimpton Track behind Makarora village, climb the spur above, before traversing left above a bluff at 1750m onto the west flank. Continue sidling and climb across to the summit.",
+				"ascent": null
+			}
+		],
+		"places": [],
+		"image": null,
+		"images": []
+	},
+	"https://climbnz.org.nz/nz/si/ohau-landsborough/mckerrow-range/mt-white": {
+		"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/mckerrow-range/mt-white",
+		"name": "Mt White",
+		"altitude": "1816m",
+		"access": null,
+		"description": null,
+		"latlng": [
+			"-44.306328",
+			"169.236734"
+		],
+		"routes": [
+			{
+				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/mckerrow-range/mt-white/east-face",
+				"name": "East Face",
+				"grade": "I,1",
+				"topo_ref": "8.02",
+				"image": null,
+				"images": [],
+				"length": null,
+				"pitches": [
+					{
+						"alpine": "1",
+						"commitment": "I",
+						"mtcook": null,
+						"aid": null,
+						"ice": null,
+						"mixed": null,
+						"length": null,
+						"bolts": null,
+						"trad": false,
+						"ewbank": null,
+						"description": null
+					}
+				],
+				"quality": 0,
+				"bolts": null,
+				"natural_pro": false,
+				"description": "From the head of Boundary Creek, easy ground leads to the summit.",
+				"ascent": null
 			}
 		],
 		"places": [],
@@ -144419,10 +145587,13 @@
 	"https://climbnz.org.nz/nz/si/ohau-landsborough/naumann-range/pk-2291": {
 		"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/naumann-range/pk-2291",
 		"name": "Pk 2291",
-		"altitude": null,
+		"altitude": "2291m",
 		"access": null,
 		"description": "\u201cMt Booth\u201d is a bulky peak when seen from Apricot Flat with a distinct permanent snow ramp leading to the summit.",
-		"latlng": null,
+		"latlng": [
+			"-43.843008",
+			"169.943218"
+		],
 		"routes": [
 			{
 				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/naumann-range/pk-2291/hopkins",
@@ -144894,17 +146065,17 @@
 		"name": "Lantern Pk",
 		"altitude": "2123m",
 		"access": null,
-		"description": null,
+		"description": "Mts Jack and Hooker from Lantern Pk, October 2018",
 		"latlng": [
-			"-43.81346498503",
-			"169.61774374695"
+			"-43.813509",
+			"169.615231"
 		],
 		"routes": [
 			{
 				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/paringa-moeraki-mountains/lantern-pk/east-ridge",
 				"name": "East Ridge",
 				"grade": "III,2",
-				"topo_ref": null,
+				"topo_ref": "10.38",
 				"image": null,
 				"images": [],
 				"length": null,
@@ -144933,7 +146104,7 @@
 				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/paringa-moeraki-mountains/lantern-pk/north-face",
 				"name": "North Face",
 				"grade": "III,2",
-				"topo_ref": null,
+				"topo_ref": "10.39",
 				"image": null,
 				"images": [],
 				"length": null,
@@ -144960,8 +146131,19 @@
 			}
 		],
 		"places": [],
-		"image": null,
-		"images": []
+		"image": "https://climbnz.org.nz/sites/default/files/styles/wide/public/2026-08/Jack%20and%20Hooker%20from%20Lantern.jpg?itok=N2rEHaDq",
+		"images": [
+			{
+				"src": "https://climbnz.org.nz/sites/default/files/styles/wide/public/2026-08/Jack%20and%20Hooker%20from%20Lantern.jpg?itok=N2rEHaDq",
+				"height": "617",
+				"width": "1090"
+			},
+			{
+				"src": "https://climbnz.org.nz/sites/default/files/2026-08/Lantern%2C%20Jack%2C%20McCullaugh.jpg",
+				"height": "1101",
+				"width": "1783"
+			}
+		]
 	},
 	"https://climbnz.org.nz/nz/si/ohau-landsborough/paringa-moeraki-mountains/mariners-pk": {
 		"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/paringa-moeraki-mountains/mariners-pk",
@@ -144983,17 +146165,17 @@
 		"name": "Mt McCullaugh",
 		"altitude": "2266m",
 		"access": null,
-		"description": null,
+		"description": "Lantern Pk and Mt McCullaugh above the head of the P\u0101ringa River, August 2020",
 		"latlng": [
-			"-43.82983758",
-			"169.61723381"
+			"-43.829522",
+			"169.617436"
 		],
 		"routes": [
 			{
 				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/paringa-moeraki-mountains/mt-mccullaugh/north-ridge",
 				"name": "North Ridge",
 				"grade": "III,2",
-				"topo_ref": null,
+				"topo_ref": "10.41",
 				"image": null,
 				"images": [],
 				"length": null,
@@ -145015,16 +146197,22 @@
 				"quality": 0,
 				"bolts": null,
 				"natural_pro": false,
-				"description": "Readily accessible from near the head of Jacks Creek. Sidle past Lantern Peak to reach the extensive snowfields north of the peak. From here is is an easy climb to the summit.",
+				"description": "Readily accessible from near the head of Jack Creek to the Jack Creek-Murdoch Creek saddle. Sidle past Lantern Peak to reach the extensive snowfields north of Mt McCullaugh. From here, it is an easy climb to the summit.",
 				"ascent": "Bruce Popplewell, Bill Stephenson, January 1965"
 			},
 			{
 				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/paringa-moeraki-mountains/mt-mccullaugh/west-ridge",
 				"name": "West Ridge",
 				"grade": "II,1+",
-				"topo_ref": null,
-				"image": null,
-				"images": [],
+				"topo_ref": "10.42",
+				"image": "https://climbnz.org.nz/sites/default/files/2026-08/Lantern%2C%20Jack%2C%20McCullaugh.jpg",
+				"images": [
+					{
+						"src": "https://climbnz.org.nz/sites/default/files/2026-08/Lantern%2C%20Jack%2C%20McCullaugh.jpg",
+						"height": "1101",
+						"width": "1783"
+					}
+				],
 				"length": null,
 				"pitches": [
 					{
@@ -145078,12 +146266,17 @@
 			}
 		],
 		"places": [],
-		"image": "https://climbnz.org.nz/sites/default/files/styles/wide/public/2026-07/Mt%20Hooker%20and%20Marks%20Flat.jpg?itok=AW3yznpe",
+		"image": "https://climbnz.org.nz/sites/default/files/styles/wide/public/2026-08/Lantern%2C%20Jack%2C%20McCullaugh.jpg?itok=g0Aw0odt",
 		"images": [
 			{
-				"src": "https://climbnz.org.nz/sites/default/files/styles/wide/public/2026-07/Mt%20Hooker%20and%20Marks%20Flat.jpg?itok=AW3yznpe",
-				"height": "470",
+				"src": "https://climbnz.org.nz/sites/default/files/styles/wide/public/2026-08/Lantern%2C%20Jack%2C%20McCullaugh.jpg?itok=g0Aw0odt",
+				"height": "673",
 				"width": "1090"
+			},
+			{
+				"src": "https://climbnz.org.nz/sites/default/files/2026-07/Mt%20Hooker%20and%20Marks%20Flat.jpg",
+				"height": "1537",
+				"width": "3567"
 			}
 		]
 	},
@@ -145102,7 +146295,7 @@
 				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/paringa-moeraki-mountains/mt-millington/jack-creek",
 				"name": "From Jack Creek",
 				"grade": "III,2",
-				"topo_ref": null,
+				"topo_ref": "10.40",
 				"image": null,
 				"images": [],
 				"length": null,
@@ -145263,7 +146456,7 @@
 		"name": "Mathers Pk",
 		"altitude": "2299m",
 		"access": null,
-		"description": null,
+		"description": "Mathers Pk and Mt Dechen from Mt Hooker, December 2018",
 		"latlng": [
 			"-43.78686607",
 			"169.71912169"
@@ -145273,7 +146466,7 @@
 				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/strachan-range/mathers-pk/south-ridge",
 				"name": "South Ridge",
 				"grade": "III,2",
-				"topo_ref": null,
+				"topo_ref": "10.30",
 				"image": null,
 				"images": [],
 				"length": null,
@@ -145296,13 +146489,13 @@
 				"bolts": null,
 				"natural_pro": false,
 				"description": "Climb the big snow couloir from the head of the \u014ctoko River to the broad saddle between Matherson and Dechen. Best approached when there is plenty of snow \u2013 an ice bulge near the top can prove troublesome late in the season. Easy snow slopes east of Mt Matheson lead onto the south ridge and the final rock needle.",
-				"ascent": "Marjorie Edgar-Jones, Gladys Acton-Adams, Frank Alack, Tom Christie, March 1935"
+				"ascent": "Gladys Acton-Adams, Frank Alack, Tom Christie, Marjorie Edgar-Jones, March 1935"
 			},
 			{
 				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/strachan-range/mathers-pk/north-ridge",
 				"name": "North Ridge",
 				"grade": "II,2",
-				"topo_ref": null,
+				"topo_ref": "10.24",
 				"image": null,
 				"images": [],
 				"length": null,
@@ -145329,25 +146522,31 @@
 			}
 		],
 		"places": [],
-		"image": null,
-		"images": []
+		"image": "https://climbnz.org.nz/sites/default/files/styles/wide/public/2026-08/Mathers%20and%20Dechen%20from%20Hooker.jpg?itok=TWca2aUX",
+		"images": [
+			{
+				"src": "https://climbnz.org.nz/sites/default/files/styles/wide/public/2026-08/Mathers%20and%20Dechen%20from%20Hooker.jpg?itok=TWca2aUX",
+				"height": "726",
+				"width": "1090"
+			}
+		]
 	},
 	"https://climbnz.org.nz/nz/si/ohau-landsborough/strachan-range/mt-hawkins-te-waireika": {
 		"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/strachan-range/mt-hawkins-te-waireika",
 		"name": "Mt Hawkins Te Waireika",
 		"altitude": "2205m",
 		"access": null,
-		"description": null,
+		"description": "Mahitahi panorama from Mt Strachan Puna-Ariki, December 2015",
 		"latlng": [
-			"-43.7636",
-			"169.7023"
+			"-43.76191",
+			"169.702507"
 		],
 		"routes": [
 			{
 				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/strachan-range/mt-hawkins-te-waireika/east-face",
 				"name": "East Face",
 				"grade": "II,1+",
-				"topo_ref": null,
+				"topo_ref": "10.26",
 				"image": null,
 				"images": [],
 				"length": null,
@@ -145369,14 +146568,14 @@
 				"quality": 0,
 				"bolts": null,
 				"natural_pro": false,
-				"description": "This climb was made from the head of the large, unnamed creek downstream of the Edison River. Straightforward slopes led onto the north-east ridge and the summit.",
+				"description": "This climb was made from the head of the large, unnamed creek downstream of the Edison River. Straightforward slopes lead onto the north-east ridge and the summit.",
 				"ascent": "Dick Tornquist, Vic McGregor, January 1961"
 			},
 			{
 				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/strachan-range/mt-hawkins-te-waireika/north-face",
 				"name": "North Face",
 				"grade": "II,1+",
-				"topo_ref": null,
+				"topo_ref": "10.25",
 				"image": null,
 				"images": [],
 				"length": null,
@@ -145403,25 +146602,31 @@
 			}
 		],
 		"places": [],
-		"image": null,
-		"images": []
+		"image": "https://climbnz.org.nz/sites/default/files/styles/wide/public/2026-08/Mahitaho%20Pano%20Hawkins%E2%80%93Butzbach.jpg?itok=QLxxEDeH",
+		"images": [
+			{
+				"src": "https://climbnz.org.nz/sites/default/files/styles/wide/public/2026-08/Mahitaho%20Pano%20Hawkins%E2%80%93Butzbach.jpg?itok=QLxxEDeH",
+				"height": "429",
+				"width": "1090"
+			}
+		]
 	},
 	"https://climbnz.org.nz/nz/si/ohau-landsborough/strachan-range/mt-matheson": {
 		"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/strachan-range/mt-matheson",
 		"name": "Mt Matheson",
 		"altitude": "2148m",
 		"access": null,
-		"description": null,
+		"description": "Mathers Pk and Mt Dechen from Mt Hooker, December 2018",
 		"latlng": [
-			"-43.7961",
-			"169.72"
+			"-43.794389",
+			"169.720056"
 		],
 		"routes": [
 			{
 				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/strachan-range/mt-matheson/east-face",
 				"name": "East Face",
 				"grade": "III,2",
-				"topo_ref": null,
+				"topo_ref": "10.31",
 				"image": null,
 				"images": [],
 				"length": null,
@@ -145443,13 +146648,19 @@
 				"quality": 0,
 				"bolts": null,
 				"natural_pro": false,
-				"description": "Climb the big snow couloir from the head of the \u014ctoko River to the broad saddle between Matherson and Dechen. Best approached when there is plenty of snow \u2013 an ice bulge near the top can prove troublesome late in the season. The eastern snowslopes then provide straightforward access to the peak.",
+				"description": "Climb the big snow couloir from the head of the \u014ctoko River to the broad saddle between Matherson and Dechen (route 10.32 on topo). Best approached when there is plenty of snow \u2013 an ice bulge near the top can prove troublesome late in the season. The eastern snowslopes then provide straightforward access to the peak.",
 				"ascent": "Marjorie Edgar-Jones, Gladys Acton-Adams, Frank Alack, Tom Christie, March 1935"
 			}
 		],
 		"places": [],
-		"image": null,
-		"images": []
+		"image": "https://climbnz.org.nz/sites/default/files/styles/wide/public/2026-08/Mathers%20and%20Dechen%20from%20Hooker.jpg?itok=TWca2aUX",
+		"images": [
+			{
+				"src": "https://climbnz.org.nz/sites/default/files/styles/wide/public/2026-08/Mathers%20and%20Dechen%20from%20Hooker.jpg?itok=TWca2aUX",
+				"height": "726",
+				"width": "1090"
+			}
+		]
 	},
 	"https://climbnz.org.nz/nz/si/ohau-landsborough/strachan-range/mt-reynolds": {
 		"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/strachan-range/mt-reynolds",
@@ -145466,7 +146677,7 @@
 				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/strachan-range/mt-reynolds/otoko-river",
 				"name": "From \u014ctoko River",
 				"grade": "I,1",
-				"topo_ref": null,
+				"topo_ref": "10.29",
 				"image": null,
 				"images": [],
 				"length": null,
@@ -145759,7 +146970,10 @@
 		"altitude": "1851m",
 		"access": null,
 		"description": null,
-		"latlng": null,
+		"latlng": [
+			"-44.47719",
+			"169.4574"
+		],
 		"routes": [
 			{
 				"link": "https://climbnz.org.nz/nz/si/ohau-landsborough/timaru-lindis-mountains/maungatika/moonlight-and-roses",
@@ -146463,96 +147677,6 @@
 		"image": null,
 		"images": []
 	},
-	"https://climbnz.org.nz/nz/si/otago/bealey-range/hassing-pk": {
-		"link": "https://climbnz.org.nz/nz/si/otago/bealey-range/hassing-pk",
-		"name": "Hassing Pk",
-		"altitude": "2110m",
-		"access": null,
-		"description": "TBA",
-		"latlng": [
-			"-43.9866",
-			"169.577"
-		],
-		"routes": [
-			{
-				"link": "https://climbnz.org.nz/nz/si/otago/bealey-range/hassing-pk/hunter-valley",
-				"name": "From the Hunter Valley",
-				"grade": "2-",
-				"topo_ref": null,
-				"image": null,
-				"images": [],
-				"length": null,
-				"pitches": [
-					{
-						"alpine": null,
-						"commitment": null,
-						"mtcook": "2-",
-						"aid": null,
-						"ice": null,
-						"mixed": null,
-						"length": null,
-						"bolts": null,
-						"trad": false,
-						"ewbank": null,
-						"description": null
-					}
-				],
-				"quality": 0,
-				"bolts": null,
-				"natural_pro": false,
-				"description": "TBA",
-				"ascent": "Peter Child and Stuart Ombler, January 1952"
-			}
-		],
-		"places": [],
-		"image": null,
-		"images": []
-	},
-	"https://climbnz.org.nz/nz/si/otago/bealey-range/mt-marshman": {
-		"link": "https://climbnz.org.nz/nz/si/otago/bealey-range/mt-marshman",
-		"name": "Mt Marshman",
-		"altitude": "2177m",
-		"access": null,
-		"description": "Bealey Range",
-		"latlng": [
-			"-43.98516434",
-			"169.56976601"
-		],
-		"routes": [
-			{
-				"link": "https://climbnz.org.nz/nz/si/otago/bealey-range/mt-marshman/hunter-valley",
-				"name": "From the Hunter Valley",
-				"grade": "2",
-				"topo_ref": null,
-				"image": null,
-				"images": [],
-				"length": null,
-				"pitches": [
-					{
-						"alpine": null,
-						"commitment": null,
-						"mtcook": "2",
-						"aid": null,
-						"ice": null,
-						"mixed": null,
-						"length": null,
-						"bolts": null,
-						"trad": false,
-						"ewbank": null,
-						"description": null
-					}
-				],
-				"quality": 0,
-				"bolts": null,
-				"natural_pro": false,
-				"description": "TBA",
-				"ascent": "Peter Child and Stuart Ombler, January 1952"
-			}
-		],
-		"places": [],
-		"image": null,
-		"images": []
-	},
 	"https://climbnz.org.nz/nz/si/otago/chain-hills/pt-1447": {
 		"link": "https://climbnz.org.nz/nz/si/otago/chain-hills/pt-1447",
 		"name": "Pt 1447",
@@ -146895,80 +148019,6 @@
 				"natural_pro": false,
 				"description": "Ascend via the stream 300m south of Elcho Hut. Near 1000m altitude angle\nright up a vegetated gully to reach the east ridge. Climb along the ridge to\nreach 1750m. Traverse left to gain southeast facing snowfield and angle\nupwards to reach the ridge 50m south of the summit.",
 				"ascent": "Bruce Gillies during the 1940's. Scramble"
-			}
-		],
-		"places": [],
-		"image": null,
-		"images": []
-	},
-	"https://climbnz.org.nz/nz/si/otago/elcho%E2%80%93huxley-ridges/mcnulty-pk": {
-		"link": "https://climbnz.org.nz/nz/si/otago/elcho%E2%80%93huxley-ridges/mcnulty-pk",
-		"name": "McNulty Pk",
-		"altitude": "2241m",
-		"access": null,
-		"description": "The pivot of the North Huxley, South Elcho and Hopkins valleys.",
-		"latlng": [
-			"-43.9563335",
-			"169.7871279"
-		],
-		"routes": [
-			{
-				"link": "https://climbnz.org.nz/nz/si/otago/elchoe28093huxley-ridges/mcnulty-pk/north-face",
-				"name": "North Face",
-				"grade": "2+",
-				"topo_ref": null,
-				"image": null,
-				"images": [],
-				"length": null,
-				"pitches": [
-					{
-						"alpine": null,
-						"commitment": null,
-						"mtcook": "2+",
-						"aid": null,
-						"ice": null,
-						"mixed": null,
-						"length": null,
-						"bolts": null,
-						"trad": false,
-						"ewbank": null,
-						"description": null
-					}
-				],
-				"quality": 0,
-				"bolts": null,
-				"natural_pro": false,
-				"description": "From the head of the South Elcho climb across the face on good quality rock\nto reach the summit ridge.",
-				"ascent": "Dave McNulty, Ray Slater, April 1969"
-			},
-			{
-				"link": "https://climbnz.org.nz/nz/si/otago/elchoe28093huxley-ridges/mcnulty-pk/twoshoes",
-				"name": "Twoshoes",
-				"grade": "IV,5,14",
-				"topo_ref": null,
-				"image": null,
-				"images": [],
-				"length": "300m",
-				"pitches": [
-					{
-						"alpine": "5",
-						"commitment": "IV",
-						"mtcook": null,
-						"aid": null,
-						"ice": null,
-						"mixed": null,
-						"length": "300m",
-						"bolts": null,
-						"trad": false,
-						"ewbank": "14",
-						"description": null
-					}
-				],
-				"quality": 0,
-				"bolts": null,
-				"natural_pro": false,
-				"description": "A bluff and waterfall block access from the head of the North Huxley to the basin under the west face of McNulty Peak. This can be bypassed via a spur to the south. The route climbs an outlier 300m south-east of McNulty Peak, taking the west face of the main boot-shaped buttress of the outlier \u2013 300m of steady grade 13\u201314 climbing. Descent by abseiling route.",
-				"ascent": "Bill McLeod, March 1994"
 			}
 		],
 		"places": [],
@@ -150426,7 +151476,10 @@
 				"altitude": null,
 				"access": null,
 				"description": "Mixed climbing on West to Southwest face of Single Cone",
-				"latlng": null,
+				"latlng": [
+					"-45.072339",
+					"168.805833"
+				],
 				"routes": [
 					{
 						"link": "https://climbnz.org.nz/nz/si/otago/remarkables/single-cone/west-face/fire-sky",
@@ -154638,13 +155691,66 @@
 						"natural_pro": false,
 						"description": "A novelty girdle traverse from 'Searching for Inspiration' to the top of 'State of the Nation'\nHighlights include scenic ledges, and a fun cave feature before an exposed sidle into the top of p3 of Fridays Fool.\nClimbed free largely simuling at max M3+ other than one 10 m rap from the prow left of 'Precariat.' The technical crux was climbing one of the steep gully sections of the Clearances placing no gear due to the already exquisite rope drag ('Jesusing').\nGood snow coverage is important otherwise some parts (especially traverse to Fridays Fool) would likely be harder\nBlue line in topo",
 						"ascent": "Pete Harris, Jaz Morris, 10 August 2022"
+					},
+					{
+						"link": "https://climbnz.org.nz/nz/si/otago/remarkables/telecom-tower/notch/mixed",
+						"name": "Mixed Up",
+						"grade": "M6",
+						"topo_ref": "MU",
+						"image": "https://climbnz.org.nz/sites/default/files/2026-08/Mixed%20Up.jpg",
+						"images": [
+							{
+								"src": "https://climbnz.org.nz/sites/default/files/2026-08/Mixed%20Up.jpg",
+								"height": "4000",
+								"width": "2252"
+							},
+							{
+								"src": "https://climbnz.org.nz/sites/default/files/2026-08/IMG_0654.HEIC_.jpeg",
+								"height": "5712",
+								"width": "4284"
+							}
+						],
+						"length": "90m",
+						"pitches": [
+							{
+								"alpine": null,
+								"commitment": null,
+								"mtcook": null,
+								"aid": null,
+								"ice": null,
+								"mixed": "M6",
+								"length": "30m",
+								"bolts": null,
+								"trad": true,
+								"ewbank": null,
+								"description": "P1. Scramble/snow climb to ledge and climb the steep corner to a rest in a pod. Exit the pod/overhand to the right via a lichen covered prow, followed by snow/ice or turf to an easing in angle. Climb easily up a few metres to belay at cracks in wall to climber's right. Pro is bomber up to the pod, where small wires and BD .1-.3 are useful."
+							},
+							{
+								"alpine": null,
+								"commitment": null,
+								"mtcook": null,
+								"aid": null,
+								"ice": null,
+								"mixed": "M2",
+								"length": "60m",
+								"bolts": null,
+								"trad": true,
+								"ewbank": null,
+								"description": "P2. Climb a bulge/short wall to a left-leading snow gully. Climb this for a few metres, and then break right up an easy corner to join a low angle arete. This eases off and merges with slow slopes on the edge of Notch Route gully. Cross gully to belay at base of rock wall."
+							}
+						],
+						"quality": 0,
+						"bolts": null,
+						"natural_pro": true,
+						"description": "20m right of the Notch Route snow gully (and before Yeah, Yeah, Nah, Yeah) is a steep open-book corner, accessed by a short scramble/snow climb to a ledge. The corner offers excellent M6 mixed climbing with thin stemming, followed by an easier pitch to join the Notch Route. There may still be some loose rock on the corner pitch",
+						"ascent": "FA Mark Watson, Pete Allison, August 14 2026"
 					}
 				],
 				"places": [],
-				"image": "https://climbnz.org.nz/sites/default/files/styles/wide/public/image/The%20Notch_Marked5.jpg?itok=gESielTt",
+				"image": "https://climbnz.org.nz/sites/default/files/styles/wide/public/2026-08/The%20Notch_Marked5.jpg?itok=mgMrW1R4",
 				"images": [
 					{
-						"src": "https://climbnz.org.nz/sites/default/files/styles/wide/public/image/The%20Notch_Marked5.jpg?itok=gESielTt",
+						"src": "https://climbnz.org.nz/sites/default/files/styles/wide/public/2026-08/The%20Notch_Marked5.jpg?itok=mgMrW1R4",
 						"height": "480",
 						"width": "573"
 					}
@@ -157436,8 +158542,11 @@
 		"name": "Mt Tri",
 		"altitude": "1908m",
 		"access": null,
-		"description": "Mt Tri is gazetted as at the junction of Speculation Ridge and the Wilberg Range, and according to the party who first ascended and named it, is actually pt 1908m, rather than the current metric map position shown at 1815m.",
-		"latlng": null,
+		"description": "Mt Tri is gazetted as at the junction of Speculation Ridge and the Willberg Range, and according to the party who first ascended and named it, is actually pt 1908m, rather than the current metric map position shown at 1815m.",
+		"latlng": [
+			"-43.266144",
+			"170.637932"
+		],
 		"routes": [
 			{
 				"link": "https://climbnz.org.nz/nz/si/westland/willberg-range/mt-tri/east-ridge",
